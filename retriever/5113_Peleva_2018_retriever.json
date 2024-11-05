@@ -1,0 +1,499 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "To investigate the risk of cancer in patients with psoriasis treated with biological therapy. The outcome of interest was incidence of any cancer in studies with follow-up of >= 6 months using the initiation of biological treatment or a reference starting time-point."
+        ],
+        "negative_ctxs": [
+            2,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The primary population included all patients with psoriasis treated with biologics.\n\nTo investigate the risk of cancer in patients with psoriasis treated with biological therapy."
+        ],
+        "negative_ctxs": [
+            1,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The primary population included all patients with psoriasis treated with biologics. Only studies with a comparator arm were included.\n\nThe outcome of interest was incidence of any cancer in studies with follow-up of >= 6 months using the initiation of biological treatment or a reference starting time-point. "
+        ],
+        "negative_ctxs": [
+            23,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "The outcome of interest was incidence of any cancer in studies with follow-up of >= 6 months using the initiation of biological treatment or a reference starting time-point. Only studies with a comparator arm were included."
+        ],
+        "negative_ctxs": [
+            27,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Studies reported in languages other than English were excluded."
+        ],
+        "negative_ctxs": [
+            6,
+            2
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The systematic literature search was performed in MEDLINE, Embase, and the Cochrane Library from inception until August 2016, with the results deduplicated, titles reviewed and irrelevant studies excluded by an information scientist (L.E.)."
+        ],
+        "negative_ctxs": [
+            2,
+            18
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Reference lists of systematic reviews and meta-analyses were screened for additional papers (L.E. and E.P.)."
+        ],
+        "negative_ctxs": [
+            13,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The search strategy and search terms are available in File S1, sections 2.1-2.3"
+        ],
+        "negative_ctxs": [
+            23,
+            18
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Studies reported in languages other than English were excluded."
+        ],
+        "negative_ctxs": [
+            21,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "The abstracts were screened by two assessors (L.E. and E.P.), and disagreements resolved by a third (C.S.). The full-text articles were obtained and checked against the protocol and those that did not meet the criteria were excluded (L.E., C.S. and E.P.)."
+        ],
+        "negative_ctxs": [
+            8,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data extraction and appraisal was performed using a standardized template (E.P.) and repeated by a second researcher (L.E.), and differences were resolved by a third independent assessor (C.S.)."
+        ],
+        "negative_ctxs": [
+            13,
+            7
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 3 Study characteristics"
+        ],
+        "negative_ctxs": [
+            24,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 3 Study characteristics\n\nTable 4 Summary of evidence"
+        ],
+        "negative_ctxs": [
+            19,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The methodological quality was assessed for individual studies using the Cochrane Collaboration's tool for assessing risk of bias.19 Adjustment for or consideration of potential confounders was also evaluated."
+        ],
+        "negative_ctxs": [
+            12,
+            26
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Fig 1. Flow chart of article selection using the 2009 PRISMA statement format.\n\nTable 3 Study characteristics"
+        ],
+        "negative_ctxs": [
+            16,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Incidence in protocol: \nIncidence of any cancer in studies with follow-up of >=6 months since onset of biologic treatment/reference time-point. If reported extract data from different cancers separately.\n\nSR outcome: The outcome of interest was incidence of any cancer in studies with follow-up of >= 6 months using the initiation of biological treatment or a reference starting time-point."
+        ],
+        "negative_ctxs": [
+            26,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The studies could not be pooled for meta-analysis due to differences in the biological therapies investigated, variable exposure lengths, variable outcome definitions, incomplete data and no adequate control for key confounding factors other than age and sex. The data were therefore summarized using descriptive statistics.\n\n"
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The studies could not be pooled for meta-analysis due to differences in the biological therapies investigated, variable exposure lengths, variable outcome definitions, incomplete data and no adequate control for key confounding factors other than age and sex. The data were therefore summarized using descriptive statistics.\n\n"
+        ],
+        "negative_ctxs": [
+            21,
+            11
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "The studies could not be pooled for meta-analysis due to differences in the biological therapies investigated, variable exposure lengths, variable outcome definitions, incomplete data and no adequate control for key confounding factors other than age and sex. The data were therefore summarized using descriptive statistics.\n\n"
+        ],
+        "negative_ctxs": [
+            3,
+            16
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Using the Cochrane Collaboration's tool for assessing risk of bias, the overall risk of bias for all of the studies was rated as very high (Table 1)\n\nHowever, there are important limitations to the design and reporting of the included studies that make it difficult to be certain that this signal is specifically attributable to biological therapy."
+        ],
+        "negative_ctxs": [
+            24,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "However, there are important limitations to the design and reporting of the included studies that make it difficult to be certain that this signal is specifically attributable to biological therapy."
+        ],
+        "negative_ctxs": [
+            18,
+            27
+        ],
+        "positive_ctxs": [
+            20
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Table 3 Study characteristics"
+        ],
+        "negative_ctxs": [
+            9,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            28,
+            2
+        ],
+        "positive_ctxs": [
+            0,
+            1,
+            7,
+            12,
+            16,
+            18,
+            21,
+            23
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "To investigate the risk of cancer in patients with psoriasis treated with biological therapy. The outcome of interest was incidence of any cancer in studies with follow-up of >= 6 months using the initiation of biological treatment or a reference starting time-point."
+        ],
+        "negative_ctxs": [
+            27,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The primary population included all patients with psoriasis treated with biologics. Only studies with a comparator arm were included.\n\nThe outcome of interest was incidence of any cancer in studies with follow-up of >= 6 months using the initiation of biological treatment or a reference starting time-point. "
+        ],
+        "negative_ctxs": [
+            19,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Systematic reviews, randomized controlled trials (RCTs), open-label extension (OLE) studies, and prospective cohort studies on any biologic were included."
+        ],
+        "negative_ctxs": [
+            26,
+            16
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The systematic literature search was performed in MEDLINE, Embase, and the Cochrane Library from inception until August 2016, with the results deduplicated, titles reviewed and irrelevant studies excluded by an information scientist (L.E.)."
+        ],
+        "negative_ctxs": [
+            6,
+            25
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "The abstracts were screened by two assessors (L.E. and E.P.), and disagreements resolved by a third (C.S.). The full-text articles were obtained and checked against the protocol and those that did not meet the criteria were excluded (L.E., C.S. and E.P.)."
+        ],
+        "negative_ctxs": [
+            29,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data extraction and appraisal was performed using a standardized template (E.P.) and repeated by a second researcher (L.E.), and differences were resolved by a third independent assessor (C.S.)."
+        ],
+        "negative_ctxs": [
+            3,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "The studies and reasons for exclusion are listed in File S1, section S3."
+        ],
+        "negative_ctxs": [
+            11,
+            27
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 3 Study characteristics"
+        ],
+        "negative_ctxs": [
+            8,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The methodological quality was assessed for individual studies using the Cochrane Collaboration's tool for assessing risk of bias.19 Adjustment for or consideration of potential confounders was also evaluated."
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The studies could not be pooled for meta-analysis due to differences in the biological therapies investigated, variable exposure lengths, variable outcome definitions, incomplete data and no adequate control for key confounding factors other than age and sex. The data were therefore summarized using descriptive statistics.\n\n"
+        ],
+        "negative_ctxs": [
+            18,
+            5
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The studies could not be pooled for meta-analysis due to differences in the biological therapies investigated, variable exposure lengths, variable outcome definitions, incomplete data and no adequate control for key confounding factors other than age and sex. The data were therefore summarized using descriptive statistics.\n\n"
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "The studies could not be pooled for meta-analysis due to differences in the biological therapies investigated, variable exposure lengths, variable outcome definitions, incomplete data and no adequate control for key confounding factors other than age and sex. The data were therefore summarized using descriptive statistics.\n\n"
+        ],
+        "negative_ctxs": [
+            11,
+            27
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Using the Cochrane Collaboration's tool for assessing risk of bias, the overall risk of bias for all of the studies was rated as very high (Table 1)\n\nHowever, there are important limitations to the design and reporting of the included studies that make it difficult to be certain that this signal is specifically attributable to biological therapy."
+        ],
+        "negative_ctxs": [
+            20,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Research was funded by pharmaceutical companies (n = 7) or it was not reported (n = 1). "
+        ],
+        "negative_ctxs": [
+            16,
+            20
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The research was funded/supported by the National Institute for Health Research (NIHR) Biomedical Research Centre based at Guy's and St Thomas' NHS Foundation Trust and King's College London. The views expressed are those of the author(s) and not necessarily those of the NHS, the NIHR or the Department of Health. The authors also acknowledge the funding made available by the British Association of Dermatologists for the consultancy work provided by the National Guideline Centre."
+        ],
+        "negative_ctxs": [
+            25,
+            26
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "However, there are important limitations to the design and reporting of the included studies that make it difficult to be certain that this signal is specifically attributable to biological therapy."
+        ],
+        "negative_ctxs": [
+            14,
+            10
+        ],
+        "positive_ctxs": [
+            20
+        ]
+    }
+]

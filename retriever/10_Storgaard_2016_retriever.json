@@ -1,0 +1,468 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "We conducted our review based on a published protocol (PROSPERO CRD42014008960\n \n \n From the protocol: OBJECTIVES\n The primary objective of this systematic review is to\n evaluate the effects of SGLT-2i that are approved (dapagliflozin and canagliflozin) or are in late clinical development (empagliflozin) in Europe and the USA. To increase external validity, we plan to evaluate doses that are currently recommended by FDA and/or EMA as a maximum daily dose and therefore only include trials with these daily doses (canagliflozin 300 mg, dapagliflozin 10 mg and empagliflozin 25 mg). Our primary objective will be to assess the impact on glycaemic control (HbA1c).\n \n \n From the paper: Objective\n Sodium-glucose co-transporter 2 inhibitors (SGLT2-i) are a novel drug class for the treatment of diabetes. We aimed at describing the maximal benefits and risks associated with SGLT2-i for patients with type 2 diabetes."
+        ],
+        "negative_ctxs": [
+            26,
+            39
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Objective \r\nSodium-glucose co-transporter 2 inhibitors (SGLT2-i) are a novel drug class for the treat\u0002ment of diabetes. We aimed at describing the maximal benefits and risks associated with SGLT2-i for patients with type 2 diabetes.\r\n\r\n\r\nWe included English-language, full paper, double-blind RCTs conducted in adult patients (at least 18 years of age) with type 2 diabetes. The interventions assessed were the recommended daily target doses of the SGLT2-i canagliflozin 300 mg; dapagliflozin 10 mg; empagliflozin 25 mg [4-6, 8]. Controls could receive placebo or OAD including metformin, SU or DPP-4-i. We only included RCTs with a treatment duration of at least 12 weeks. Co-interventions ('add-on' therapies) with other antidiabetic agents were allowed if administered to both the intervention and control groups. We excluded studies, which involved participants with impaired kidney function and SGLT-2i only approved in Japan (ipragliglozin, luseogliflozin, tofogliflozin) or in clinical development (ertugliflozin, remogliflozin, sotagliflozin)."
+        ],
+        "negative_ctxs": [
+            40,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We included English-language, full paper, double-blind RCTs conducted in adult patients (at least 18 years of age) with type 2 diabetes. The interventions assessed were the recommended daily target doses of the SGLT2-i canagliflozin 300 mg; dapagliflozin 10 mg; empagliflozin 25 mg [4-6, 8]. Controls could receive placebo or OAD including metformin, SU or DPP-4-i. We only included RCTs with a treatment duration of at least 12 weeks. Co-interventions ('add-on' therapies) with other antidiabetic agents were allowed if administered to both the intervention and control groups. We excluded studies, which involved participants with impaired kidney function and SGLT-2i only approved in Japan (ipragliglozin, luseogliflozin, tofogliflozin) or in clinical development (ertugliflozin, remogliflozin, sotagliflozin).\n \n \n Our primary outcomes were HbA1c (change from baseline) and serious adverse events defined as the number of participants experiencing cancer (all cancers, bladder cancer, breast cancer), death, severe hypoglycaemia, ketoacidosis and CVD."
+        ],
+        "negative_ctxs": [
+            21,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We only included RCTs with a treatment duration of at least 12 weeks.\n \n \n From the protocol: Duration\n Since red blood cells survive for 8-12 weeks, the trials should last for at least 12 weeks to evaluate the effect of SGLT-2i on HbA1c."
+        ],
+        "negative_ctxs": [
+            40,
+            41
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We included English-language, full paper, double-blind RCTs conducted in adult patients (at least 18 years of age) with type 2 diabetes."
+        ],
+        "negative_ctxs": [
+            24,
+            21
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Electronic searches were performed in the Cochrane Library, MEDLINE, EMBASE, the Science Citation Index and the WHO Trial Search Database,"
+        ],
+        "negative_ctxs": [
+            26,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Additional manual searches were performed in reference lists of relevant papers."
+        ],
+        "negative_ctxs": [
+            16,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Electronic searches were performed in the Cochrane Library, MEDLINE, EMBASE, the Science Citation Index and the WHO Trial Search Database, using the following search string: \"((Sodium glucose (All Fields) AND co-transporter (All Fields)) OR (2-(3-(4-ethoxybenzyl)- 4-chlorophenyl)-6-hydroxymethyltetrahydro-2H-pyran-3,4,5-triol (Supplementary Concept) OR 2-(3-(4-ethoxybenzyl)-4-chlorophenyl)-6-hydroxymethyltetrahydro-2H-pyran-3,4,5-triol (All Fields) OR dapagliflozin (All Fields)) OR (canagliflozin (Supplementary Concept) OR canagliflozin (All Fields)) OR (empagliflozin (Supplementary Concept) OR empagliflozin (All Fields))\"."
+        ],
+        "negative_ctxs": [
+            28,
+            25
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We included English-language, full paper, double-blind RCTs conducted in adult patients (at least 18 years of age) with type 2 diabetes."
+        ],
+        "negative_ctxs": [
+            21,
+            16
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Trial selection was carried out by two review authors (HS and CB) who independently reviewed the search results and selected trials for inclusion, with involvement of a third review author (CB or TV) if necessary to resolve disagreements"
+        ],
+        "negative_ctxs": [
+            22,
+            19
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Three authors (HS, MFG and MBC) independently identified outcomes from each included study and extracted outcome data into extraction forms (Excel spreadsheets). Consensus was reached through discussion"
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "S1 Table. Characteristics of included studies\n Methods, Participants, Interventions, Outcomes, Inclusion criteria, Exclusion criteria, Notes, Risk of bias"
+        ],
+        "negative_ctxs": [
+            1,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1. Characteristics of included randomised controlled trials comparing SGLT2-i versus placebo or other oral antidiabetic drugs (OAD).\n Study ID, Intervention, Control, Co-intervention, Number of patients, Duration (weeks), Age SGLT2i, Age control, BMI SGLT2i, BMI control, HbA1c SGLT2i, HbA1c control \n \n \n Table 2. Number of included patients, mean difference and heterogeneity in meta-analyses of double blind, randomised controlled trials comparing SGLT2-i versus placebo.\n \n \n Fig 2. Change in glycated haemoglobin: forest plot of randomized controlled trials comparing sodium-glucose co-transporter 2 inhibitors (SGLT2-i) versus placebo. \n \n \n Fig 3. Change in glycated haemoglobin: forest plot of randomized controlled trials comparing sodium-glucose so-transporter 2 inhibitors (SGLT2-i) versus oral antidiabetic drugs (OAD)."
+        ],
+        "negative_ctxs": [
+            23,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "We included English-language, full paper, double-blind RCTs conducted in adult patients (at least 18 years of age) with type 2 diabetes.\n \n \n The bias risk assessment followed the Cochrane Collaboration's risk of bias assessment tool. In each domain, studies were given a rating of low, unclear or high risk."
+        ],
+        "negative_ctxs": [
+            18,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "We identified 1,087 potentially eligible records through our searches and included 42 RCTs described in 59 published reports\n \n \n Table 1. Characteristics of included randomised controlled trials comparing SGLT2-i versus placebo or other oral antidiabetic drugs (OAD)."
+        ],
+        "negative_ctxs": [
+            6,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "From the protocol:\n Types of outcome measures The following outcome measures will be assessed Primary outcome measure > HbA1c Secondary outcome measures > Body weight and body mass index (BMI) > Fasting plasma glucose > Lipid profile (low-density lipoprotein (LDL) cholesterol, high-density lipoprotein (HDL) cholesterol and triglyceride) > Systolic and diastolic blood pressure > Liver and kidney blood tests (creatinine and uric acid) > Urinary albumin > Adverse events (any adverse events, urinary tract infections, genital tract infections, hypoglycaemia, hypotension, total withdrawals)\n \n \n Dealing with missing data\n Intention-to-treat analyses including all patients rando\u0002mised will be performed. For patients with missing data, we will perform sensitivity analyses with simple imput\u0002ation (counting patients as failures or successes)."
+        ],
+        "negative_ctxs": [
+            11,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We conducted the present systematic review with meta-analyses of RCTs\n \n \n We undertook meta-analyses in RevMan  using random-effects models, unless stated otherwise. We chose the random-effects model due to an expected heterogeneity.\n \n \n Fig 2. Change in glycated haemoglobin: forest plot of randomized controlled trials comparing sodium-glucose co-transporter 2 inhibitors (SGLT2-i) versus placebo. The plot shows subgroups of trials assessing the different SGLT2-i.\n Canagliflozin versus placebo, Dapagliflozin versus placebo, Empagliflozen versus placebo\n \n \n Fig 3. Change in glycated haemoglobin: forest plot of randomized controlled trials comparing sodium-glucose so-transporter 2 inhibitors (SGLT2-i) versus oral antidiabetic drugs (OAD). The plot shows subgroups of trials assessing the different OAD.\n SGLT2i versus metformin, SGLT2i versus sulfonylureas, SGLT2i versus DPP-4-i\n \n \n Table 2. Number of included patients, mean difference, and heterogeneity in meta-analyses of double blind, randomised controlled trials comparing SGLT2-i versus placebo \n SGLT2-i, canagliflozin, dapagliflozin, empagliflozin\n \n \n Table 3. Number of included patients, mean difference and heterogeneity in meta-analyses of double blind, randomised controlled trials comparing SGLT2-i versus oral antidiabetic drugs.\n SGLT2-i versus metformin, SGLT2-i versus SU, SGLT2-i versus DPP-4-i"
+        ],
+        "negative_ctxs": [
+            29,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "I2 values were used as a measure of heterogeneity and are reported if they exceeded 30%. For meta-analyses with at least 10 RCTs, publication bias and other small study effects were assessed in regression analyses and funnel plots. For continuous variables, linear regression of the intervention effect estimates on their standard errors, weighting by 1/(variance of the intervention effect estimate), was used (Egger test). For dichotomous outcomes Z/sqrt(V) was regressed against sqrt(V) (Harbord test), where Z is the efficient score and V is Fisher's information (the variance of Z under the null hypothesis).\n \n \n Between study heterogeneity was detected (I2 = 75%) and we found evidence of small study effects in regression analysis (P = 0.015) and visual inspection of a funnel plot."
+        ],
+        "negative_ctxs": [
+            27,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "I2 values were used as a measure of heterogeneity and are reported if they exceeded 30%. For meta-analyses with at least 10 RCTs, publication bias and other small study effects were assessed in regression analyses and funnel plots. For continuous variables, linear regression of the intervention effect estimates on their standard errors, weighting by 1/(variance of the intervention effect estimate), was used (Egger test). For dichotomous outcomes Z/sqrt(V) was regressed against sqrt(V) (Harbord test), where Z is the efficient score and V is Fisher's information (the variance of Z under the null hypothesis).\n \n \n Between study heterogeneity was detected (I2 = 75%) and we found evidence of small study effects in regression analysis (P = 0.015) and visual inspection of a funnel plot."
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The results of many meta-analyses had moderate to high levels of statistical heterogeneity (incon\u0002sistency). The heterogeneity between the trials resulted from differences between the three SGLT2-i and in the outcome measures reported, the duration of follow up and the trials inclu\u0002sion criteria. In the assessment of the primary outcomes, we downgraded the quality of the evi\u0002dence for glycated haemoglobin in the analyses comparing SGLT2-I by two levels to low quality, due to heterogeneity and evidence of publication bias or other small study effects. We also downgraded the outcome serious adverse events and analyses comparing SGLT2-i versus OAD to moderate quality evidence due to uncertainty (wide confidence intervals) and hetero\u0002geneity, respectively."
+        ],
+        "negative_ctxs": [
+            37,
+            45
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "We planned to include high-quality RCTs with clinically relevant doses and sufficient follow up to generate an estimate based on the best available evidence. However, our analyses showed evidence of bias and heterogeneity"
+        ],
+        "negative_ctxs": [
+            45,
+            42
+        ],
+        "positive_ctxs": [
+            21
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Objective \n Sodium-glucose co-transporter 2 inhibitors (SGLT2-i) are a novel drug class for the treat\u0002ment of diabetes. We aimed at describing the maximal benefits and risks associated with SGLT2-i for patients with type 2 diabetes.\n \n \n We included English-language, full paper, double-blind RCTs conducted in adult patients (at least 18 years of age) with type 2 diabetes. The interventions assessed were the recommended daily target doses of the SGLT2-i canagliflozin 300 mg; dapagliflozin 10 mg; empagliflozin 25 mg [4-6, 8]. Controls could receive placebo or OAD including metformin, SU or DPP-4-i. We only included RCTs with a treatment duration of at least 12 weeks. Co-interventions ('add-on' therapies) with other antidiabetic agents were allowed if administered to both the intervention and control groups. We excluded studies, which involved participants with impaired kidney function and SGLT-2i only approved in Japan (ipragliglozin, luseogliflozin, tofogliflozin) or in clinical development (ertugliflozin, remogliflozin, sotagliflozin)."
+        ],
+        "negative_ctxs": [
+            42,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            17,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "We conducted our review based on a published protocol (PROSPERO CRD42014008960\n \n \n From the protocol: OBJECTIVES\n The primary objective of this systematic review is to\n evaluate the effects of SGLT-2i that are approved (dapagliflozin and canagliflozin) or are in late clinical development (empagliflozin) in Europe and the USA. To increase external validity, we plan to evaluate doses that are currently recommended by FDA and/or EMA as a maximum daily dose and therefore only include trials with these daily doses (canagliflozin 300 mg, dapagliflozin 10 mg and empagliflozin 25 mg). Our primary objective will be to assess the impact on glycaemic control (HbA1c).\n \n \n From the paper: Objective\n Sodium-glucose co-transporter 2 inhibitors (SGLT2-i) are a novel drug class for the treatment of diabetes. We aimed at describing the maximal benefits and risks associated with SGLT2-i for patients with type 2 diabetes."
+        ],
+        "negative_ctxs": [
+            35,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We included English-language, full paper, double-blind RCTs conducted in adult patients (at least 18 years of age) with type 2 diabetes. The interventions assessed were the recommended daily target doses of the SGLT2-i canagliflozin 300 mg; dapagliflozin 10 mg; empagliflozin 25 mg [4-6, 8]. Controls could receive placebo or OAD including metformin, SU or DPP-4-i. We only included RCTs with a treatment duration of at least 12 weeks. Co-interventions ('add-on' therapies) with other antidiabetic agents were allowed if administered to both the intervention and control groups. We excluded studies, which involved participants with impaired kidney function and SGLT-2i only approved in Japan (ipragliglozin, luseogliflozin, tofogliflozin) or in clinical development (ertugliflozin, remogliflozin, sotagliflozin).\n \n \n Our primary outcomes were HbA1c (change from baseline) and serious adverse events defined as the number of participants experiencing cancer (all cancers, bladder cancer, breast cancer), death, severe hypoglycaemia, ketoacidosis and CVD."
+        ],
+        "negative_ctxs": [
+            6,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We included English-language, full paper, double-blind RCTs conducted in adult patients (at least 18 years of age) with type 2 diabetes."
+        ],
+        "negative_ctxs": [
+            33,
+            42
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Electronic searches were performed in the Cochrane Library, MEDLINE, EMBASE, the Science Citation Index and the WHO Trial Search Database,"
+        ],
+        "negative_ctxs": [
+            36,
+            41
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Trial selection was carried out by two review authors (HS and CB) who independently reviewed the search results and selected trials for inclusion, with involvement of a third review author (CB or TV) if necessary to resolve disagreements"
+        ],
+        "negative_ctxs": [
+            20,
+            0
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Three authors (HS, MFG and MBC) independently identified outcomes from each included study and extracted outcome data into extraction forms (Excel spreadsheets). Consensus was reached through discussion"
+        ],
+        "negative_ctxs": [
+            17,
+            12
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "S3 Table. Characteristics of excluded studies \n \n \n We identified 1,087 potentially eligible records through our searches and included 42 RCTsdescribed in 59 published reports (Fig 1). T"
+        ],
+        "negative_ctxs": [
+            4,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "S1 Table. Characteristics of included studies\n Methods, Participants, Interventions, Outcomes, Inclusion criteria, Exclusion criteria, Notes, Risk of bias"
+        ],
+        "negative_ctxs": [
+            7,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "We included English-language, full paper, double-blind RCTs conducted in adult patients (at least 18 years of age) with type 2 diabetes.\n \n \n The bias risk assessment followed the Cochrane Collaboration's risk of bias assessment tool. In each domain, studies were given a rating of low, unclear or high risk."
+        ],
+        "negative_ctxs": [
+            5,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We conducted the present systematic review with meta-analyses of RCTs\n \n \n We undertook meta-analyses in RevMan  using random-effects models, unless stated otherwise. We chose the random-effects model due to an expected heterogeneity.\n \n \n Fig 2. Change in glycated haemoglobin: forest plot of randomized controlled trials comparing sodium-glucose co-transporter 2 inhibitors (SGLT2-i) versus placebo. The plot shows subgroups of trials assessing the different SGLT2-i.\n Canagliflozin versus placebo, Dapagliflozin versus placebo, Empagliflozen versus placebo\n \n \n Fig 3. Change in glycated haemoglobin: forest plot of randomized controlled trials comparing sodium-glucose so-transporter 2 inhibitors (SGLT2-i) versus oral antidiabetic drugs (OAD). The plot shows subgroups of trials assessing the different OAD.\n SGLT2i versus metformin, SGLT2i versus sulfonylureas, SGLT2i versus DPP-4-i\n \n \n Table 2. Number of included patients, mean difference, and heterogeneity in meta-analyses of double blind, randomised controlled trials comparing SGLT2-i versus placebo \n SGLT2-i, canagliflozin, dapagliflozin, empagliflozin\n \n \n Table 3. Number of included patients, mean difference and heterogeneity in meta-analyses of double blind, randomised controlled trials comparing SGLT2-i versus oral antidiabetic drugs.\n SGLT2-i versus metformin, SGLT2-i versus SU, SGLT2-i versus DPP-4-i"
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "I2 values were used as a measure of heterogeneity and are reported if they exceeded 30%. For meta-analyses with at least 10 RCTs, publication bias and other small study effects were assessed in regression analyses and funnel plots. For continuous variables, linear regression of the intervention effect estimates on their standard errors, weighting by 1/(variance of the intervention effect estimate), was used (Egger test). For dichotomous outcomes Z/sqrt(V) was regressed against sqrt(V) (Harbord test), where Z is the efficient score and V is Fisher's information (the variance of Z under the null hypothesis).\n \n \n Between study heterogeneity was detected (I2 = 75%) and we found evidence of small study effects in regression analysis (P = 0.015) and visual inspection of a funnel plot."
+        ],
+        "negative_ctxs": [
+            16,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "I2 values were used as a measure of heterogeneity and are reported if they exceeded 30%. For meta-analyses with at least 10 RCTs, publication bias and other small study effects were assessed in regression analyses and funnel plots. For continuous variables, linear regression of the intervention effect estimates on their standard errors, weighting by 1/(variance of the intervention effect estimate), was used (Egger test). For dichotomous outcomes Z/sqrt(V) was regressed against sqrt(V) (Harbord test), where Z is the efficient score and V is Fisher's information (the variance of Z under the null hypothesis).\n \n \n Between study heterogeneity was detected (I2 = 75%) and we found evidence of small study effects in regression analysis (P = 0.015) and visual inspection of a funnel plot."
+        ],
+        "negative_ctxs": [
+            15,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The results of many meta-analyses had moderate to high levels of statistical heterogeneity (incon\u0002sistency). The heterogeneity between the trials resulted from differences between the three SGLT2-i and in the outcome measures reported, the duration of follow up and the trials inclu\u0002sion criteria. In the assessment of the primary outcomes, we downgraded the quality of the evi\u0002dence for glycated haemoglobin in the analyses comparing SGLT2-I by two levels to low quality, due to heterogeneity and evidence of publication bias or other small study effects. We also downgraded the outcome serious adverse events and analyses comparing SGLT2-i versus OAD to moderate quality evidence due to uncertainty (wide confidence intervals) and hetero\u0002geneity, respectively."
+        ],
+        "negative_ctxs": [
+            21,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Trial characteristics (methods, participants, interventions, study outcomes, potential risks of bias, and funding source) were recorded\n \n \n S1 Table. Characteristics of included studies\n Risk of bias tables\n Other bias"
+        ],
+        "negative_ctxs": [
+            38,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding: The authors received no specific funding for this work.\n \n Competing Interests: HS has received lecture fees from Advisory Boards of AstraZeneca, Boehringer Ingelheim Pharmaceuticals, and Bristol-Myers Squibb and has participated in Advisory Boards of AstraZeneca and Boehringer Ingelheim Pharmaceuticals. FKK has received lecture fees from, participated in Advisory Boards of and/or consulted for AstraZeneca, Boehringer Ingelheim Pharmaceuticals, Bristol-Myers Squibb, Eli Lilly and Company, Gilead Sciences, Merck Sharp & Dohme, Novartis, Novo Nordisk, Ono Pharmaceuticals, Sanofi and Zealand Pharma. TV has received lecture fees from, participated in Advisory Boards of and/or consulted for Amgen, AstraZeneca, Boehringer Ingelheim Pharmaceuticals, Bristol-Myers Squibb, Eli Lilly and Company, Merck Sharp & Dohme, Novo Nordisk and Sanofi. CB is the proprietor of Systematic Research Ltd, a company providing research services, and is an employee of that company, and thus she received consultancy fees for participation in the project. LLG, MG, MC and CB declare no relationships with any organisations that might have an interest in the submitted work within the last three years, or no other relationships or activities that could have influenced the submitted work. This does not alter our adherence to PLOS ONE policies on sharing data and materials."
+        ],
+        "negative_ctxs": [
+            14,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "We planned to include high-quality RCTs with clinically relevant doses and sufficient follow up to generate an estimate based on the best available evidence. However, our analyses showed evidence of bias and heterogeneity"
+        ],
+        "negative_ctxs": [
+            27,
+            45
+        ],
+        "positive_ctxs": [
+            21
+        ]
+    }
+]

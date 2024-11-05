@@ -1,0 +1,480 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Eligibility criteria and study selection\nWe included full length articles of observational studies, published in the English language, in peer reviewed medical journals. All observational studies, providing dichotomous data on the malignant potential of OLP or oral lichenoid lesions (OLL), were included.  "
+        ],
+        "negative_ctxs": [
+            11,
+            16
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Eligibility criteria and study selection\nWe included full length articles of observational studies, published in the English language, in peer reviewed medical journals. All observational studies, providing dichotomous data on the malignant potential of OLP or oral lichenoid lesions (OLL), were included. We excluded conference abstracts, articles published as a whole in a non-English language, case reports/series, and secondary analysis articles.  "
+        ],
+        "negative_ctxs": [
+            3,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Eligibility criteria and study selection\nWe included full length articles of observational studies, published in the English language, in peer reviewed medical journals. All observational studies, providing dichotomous data on the malignant potential of OLP or oral lichenoid lesions (OLL), were included. We excluded conference abstracts, articles published as a whole in a non-English language, case reports/series, and secondary analysis articles. "
+        ],
+        "negative_ctxs": [
+            12,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Eligibility criteria and study selection\nWe included full length articles of observational studies, published in the English language, in peer reviewed medical journals. All observational studies, providing dichotomous data on the malignant potential of OLP or oral lichenoid lesions (OLL), were included. We excluded conference abstracts, articles published as a whole in a non-English language, case reports/series, and secondary analysis articles. "
+        ],
+        "negative_ctxs": [
+            6,
+            13
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Literature search strategy\nWe searched Medline (through PubMed), Scopus, and Web of Knowledge, using the following search strategy [Oral lichen planus OLP OR Oral lichinoid lesion OR OLL AND Malignent OR Cancer OR Oral squamous cell carcinoma OR OSCC]. No restrictions by publication period were used. We also scanned the bibliography of included studies to identify any missed studies that are relevant  to our subject."
+        ],
+        "negative_ctxs": [
+            9,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Literature search strategy\nWe searched Medline (through PubMed), Scopus, and Web of\nKnowledge, using the following search strategy [Oral lichen planus\nOLP OR Oral lichinoid lesion OR OLL AND Malignent OR Cancer OR\nOral squamous cell carcinoma OR OSCC]. No restrictions by publication period were used. We also scanned the bibliography of\nincluded studies to identify any missed studies that are relevant\nto our subject."
+        ],
+        "negative_ctxs": [
+            14,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Literature search strategy\nWe searched Medline (through PubMed), Scopus, and Web of  Knowledge, using the following search strategy [Oral lichen planus OLP OR Oral lichinoid lesion OR OLL AND Malignent OR Cancer OR\nOral squamous cell carcinoma OR OSCC]."
+        ],
+        "negative_ctxs": [
+            14,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Literature search strategy\nWe searched Medline (through PubMed), Scopus, and Web of Knowledge, using the following search strategy [Oral lichen planus OLP OR Oral lichinoid lesion OR OLL AND Malignent OR Cancer OR\nOral squamous cell carcinoma OR OSCC]. No restrictions by publication period were used. We also scanned the bibliography of included studies to identify any missed studies that are relevant to our subject."
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two independent reviewers applied the selection criteria in two steps [Title and abstract screening, then full text screening] to determine the included studies and disagreements were solved upon the opinion of a third reviewer"
+        ],
+        "negative_ctxs": [
+            10,
+            3
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data extraction\nTwo independent reviewers extracted the following data from included studies: (I) Characters of study design and length of follow up period, (II) risk of bias assessment domains, (III) characteristics of OLP lesions including the  used diagnostic system criteria, site, and clinical type [Atrophic, erosive, reticular, or plaque], (IV) the incidence of malignant transformation in OLP or OLL cases, and (V) the incidence of malignant transformation in different subgroups of OLP patients. Disagreements were resolved upon the opinion of a third reviewer."
+        ],
+        "negative_ctxs": [
+            1,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The rate of malignant transformation of OLP in individual studies ranged from 0.3% to 14.3%. Baseline data of enrolled patients in included studies are illustrated in Tables 1. Table 2 displays a comparison between  demographic characteristics of OSCC patients in included studies and the reference profile for OSCC patients (from the Surveillance, Epidemiology, and End Results [SEER] database).\n\nTable 1\nshows baseline data of enrolled OLP patients in included studies.\n\nTable 2\nshows a comparison of baseline demographic data between squamous cell carcinoma (SCC) cases in our analysis and reference statistics for SCC in the oral cavity."
+        ],
+        "negative_ctxs": [
+            14,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The rate of malignant transformation of OLP in individual studies ranged from 0.3% to 14.3%. Baseline data of enrolled patients in included studies are illustrated in Tables 1. Table 2 displays a comparison between  demographic characteristics of OSCC patients in included studies and the reference profile for OSCC patients (from the Surveillance, Epidemiology, and End Results [SEER] database).\n\nTable 1\nshows baseline data of enrolled OLP patients in included studies.\n\nTable 2\nshows a comparison of baseline demographic data between squamous cell carcinoma (SCC) cases in our analysis and reference statistics for SCC in the oral cavity."
+        ],
+        "negative_ctxs": [
+            5,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Risk of bias assessment\nWe used the Newcastle-Ottawa scale  to assess the risk of\nbias within the included observational studies. Using this scale,\neach included study is evaluated based on reporting three essential\ndomains:\n(a) Selection of the study subjects i.e. included patients were\nderived from a representative population, and the exposure\n(OLP diagnosis) was ascertained based on predefined criteria\n(preferably including histological examination).\n(b) Comparability of groups on demographic characteristics and\nimportant potential confounders: which is achieved by adequate control of secondary risk factors, such as smoking and\nalcohol consumption, as well as adequate separation\nbetween OLP and OLL cases (by excluding history of medications or restorations).\n(c) Ascertainment of the prespecified outcome (exposure/treatment): based on histological assessment with a sufficient\nfollow up duration.\nDue to the design of included studies (lack of non-exposed\ngroup), we removed the question about the selection of the nonexposed group (Question No. 2) from the Newcastle-Ottawa Scale;\ntherefore, the total score is out of eight, not nine . Each article\nwas evaluated by two independent reviewers and any disagreements were resolved by consenesus among both reviewers. We\nassessed for the existence of publication bias, using the Egger's test\n."
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Each article was evaluated by two independent reviewers and any disagreements were resolved by consenesus among both reviewers. We assessed for the existence of publication bias, using the Egger's test\n\nTwo independent reviewers extracted the following data from included studies: (I) Characters of study design and length of follow up period, (II) risk of bias assessment domains, (III) characteristics of OLP lesions including the used diagnostic system criteria, site, and clinical type [Atrophic, erosive, reticular, or plaque], (IV) the incidence of malignant transformation in OLP or OLL cases, and (V) the incidence of malignant transformation in different subgroups of OLP patients. Disagreements were resolved upon the opinion of a third reviewer."
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Results\nLiterature search results\nLiterature search retrieved 1200 unique records. After title/ abstract screening, 197 full text articles were retrieved for further evaluation. Finally, 57 studies that provided data on 19,676 OLP and 419 OLL cases were eligible for inclusion in our analysis (Fig. 1). Of OLP cases, a total of 280 patients developed OSCC. The rate of malignant transformation of OLP in individual studies ranged from 0.3% to 14.3%. Baseline data of enrolled patients in included studies are illustrated in Tables 1. Table 2 displays a comparison between demographic characteristics of OSCC patients in included studies and the reference profile for OSCC patients (from\nthe Surveillance, Epidemiology, and End Results [SEER] database).\n\nFig. 2. Forest plots for (A) the pooled proportion of OLP malignant transformation under the random-effects model, using Der-Simonian Liard method, and (B) cumulative meta-analysis showing the trends of OLP malignant transformation from 1924 till 2016\n\nFig. 1. A flow diagram of literature search and study selection process"
+        ],
+        "negative_ctxs": [
+            6,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Data synthesis\nPooled proportion (PP) of the overall risk of malignant transformation in OLP and OLL was calculated under the random effects\nmodel, using Der-Simonian Liard method. We conducted a cumulative meta-analysis to display the trend of malignant transformation\nover time from 1924 to 2016. Subgroup analysis was conducted to\ncompare the risk of malignant transformation according to the diagnostic criteria, clinical type, and site of OLP. We calculated a pooled\nodds ratio (OR), along with its 95% confidence interval (CI), to compare the risk of transformation according to patients' gender, smoking, alcohol consumption, infection with hepatitis C virus (HCV), and\ndiabetes mellitus. Comprehensive Meta-Analysis and Open Meta\n[Analyst] software were used for quantitative data synthesis."
+        ],
+        "negative_ctxs": [
+            2,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Pooled proportion (PP) of the overall risk of malignant transfor- mation in OLP and OLL was calculated under the random effects model, using Der-Simonian Liard method"
+        ],
+        "negative_ctxs": [
+            0,
+            17
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Meta-analysis for risk of malignant transformation\nSingle-arm meta-analysis, under the random effects model and using Der-Simonian Liard method, resulted in an overall pooled proportion (PP) of 1.1% [95% CI: 0.9-1.4%]. There was a considerable heterogeneity among the results of individual studies, as indicated by an I2 value of 60.96% and Chi-Square p < 0.001 (Fig. 2A). A cumulative analysis indicated a decreasing trend that started by 5.9% transformation rate in 1924 and went down to 1.5% in\n1968. From 1972 to the present time, there was a relatively consistent rate that ranged between 0.5% and 1.1% (Fig. 2B). Considering the significant heterogeneity, we performed a sensitivity analysis to measure the influence of omitting single studies on the overall PP. The summary PP was consistent on removing any single study and ranged between 1.1% and 1.2 (Supplementary file 2).\nWe performed a subgroup analysis for the recent studies in which OLP was defined according to the 2003 modified WHO criteria . The PP was 0.9% with a 95% CI ranging from 0.5% to 1.3%. A moderate degree of heterogeneity was identified among these studies (I2 = 34.84%, p = 0.096) (Fig. 3A). Publication bias towards studies with transformation rate less than 1.1% was evident by Egger's regression test (p = 0.00038) and asymmetry of the funnel plot (Fig. 3B).\nplot (Fig. 3B).\nData on the overall malignant transformation of OLL into OSCC were provided by four studies [15,59,67,68] that included 419 OLL cases. Of them, 13 cases were complicated by malignancy with a rate of transformation in individual datasets, ranging between 1.2% and 4.9%. The PP of malignant transformation of OLL was 2.5% [95% CI: 1-4%], with no heterogeneity among pooled studies (I2 = 0%, p = 0.47).\n\nAlthough the majority of included studies were heterogenous in terms of design, inclusion criteria, and length of follow up [which was also expressed in our analysis: I2 = 60.96%], most of them reported a malignant transformation rate of nearly 1%, which is consistent with our findings."
+        ],
+        "negative_ctxs": [
+            17,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "The summary PP was consistent on removing any single study and ranged between 1.1% and 1.2% (Supplementary file 2).\n  \n Publication bias towards studies with transformation rate less than 1.1% was evident by Egger's regression test (p = 0.00038) and asymmetry of the funnel plot (Fig. 3B)."
+        ],
+        "negative_ctxs": [
+            7,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The majority of included studies reported adequately on the representativeness of their cohorts (55 of 57), exposure ascertainment (46 of 57), and outcome assessment methods (50 of 57). However, a lower number of studies reported on the length of (29 of 57) and loss during follow up (13 of 57). Control of sec- ondary risk factors and similar lesions were reported in 37 and 36 studies, respectively. Details for risk of bias assessment are illustrated in Supplementary file 1."
+        ],
+        "negative_ctxs": [
+            5,
+            15
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "We only included studies, published in the English language; however, there is an evidence that restricting a meta-analysis to English studies does not introduce bias to its results \n \n \n Although the majority of included stud- ies were heterogenous in terms of design, inclusion criteria, and length of follow up [which was also expressed in our analysis: I2 = 60.96%], most of them reported a malignant transformation rate of nearly 1%, which is consistent with our findings\n \n \n We tried to overcome the possible diagnostic confusion between OLP and other lichenoid lesions in our meta-analysis by (1) performing a subgroup analysis of the studies that exclusively used the modified WHO 2003 or matching criteria, (2) separating the cases of OLP and OLL in different analytic datasets to calculate the malignant transformation of each pathological condition inde- pendently, and (3) conducting a sensitivity analysis to ensure that none of the individual studies, in which diagnostic confusion could have occurred, significantly shifted the overall effect estimate in its direction."
+        ],
+        "negative_ctxs": [
+            5,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Moreover, the site of OSCC was not reliably reported in the majority of included studies, opening the possibility that some OSCC cases have arisen in previously-healthy oral areas.\n  \n Despite our efforts, it may not be fully possible to discriminate OLP from other lichenoid lesions in included studies"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            6,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Eligibility criteria and study selection\nWe included full length articles of observational studies, published in the English language, in peer reviewed medical journals. All observational studies, providing dichotomous data on the malignant potential of OLP or oral lichenoid lesions (OLL), were included. We excluded conference abstracts, articles published as a whole in a non-English language, case reports/series, and secondary analysis articles.  "
+        ],
+        "negative_ctxs": [
+            13,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Literature search strategy\nWe searched Medline (through PubMed), Scopus, and Web of Knowledge, using the following search strategy [Oral lichen planus OLP OR Oral lichinoid lesion OR OLL AND Malignent OR Cancer OR Oral squamous cell carcinoma OR OSCC]. No restrictions by publication period were used. We also scanned the bibliography of included studies to identify any missed studies that are relevant  to our subject."
+        ],
+        "negative_ctxs": [
+            12,
+            16
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two independent reviewers applied the selection criteria in two steps [Title and abstract screening, then full text screening] to determine the included studies and disagreements were solved upon the opinion of a third reviewer"
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data extraction\nTwo independent reviewers extracted the following data from included studies: (I) Characters of study design and length of follow up period, (II) risk of bias assessment domains, (III) characteristics of OLP lesions including the  used diagnostic system criteria, site, and clinical type [Atrophic, erosive, reticular, or plaque], (IV) the incidence of malignant transformation in OLP or OLL cases, and (V) the incidence of malignant transformation in different subgroups of OLP patients. Disagreements were resolved upon the opinion of a third reviewer."
+        ],
+        "negative_ctxs": [
+            5,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The rate of malignant transformation of OLP in individual studies ranged from 0.3% to 14.3%. Baseline data of enrolled patients in included studies are illustrated in Tables 1. Table 2 displays a comparison between  demographic characteristics of OSCC patients in included studies and the reference profile for OSCC patients (from the Surveillance, Epidemiology, and End Results [SEER] database).\n\nTable 1\nshows baseline data of enrolled OLP patients in included studies.\n\nTable 2\nshows a comparison of baseline demographic data between squamous cell carcinoma (SCC) cases in our analysis and reference statistics for SCC in the oral cavity."
+        ],
+        "negative_ctxs": [
+            7,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Risk of bias assessment\nWe used the Newcastle-Ottawa scale  to assess the risk of\nbias within the included observational studies. Using this scale,\neach included study is evaluated based on reporting three essential\ndomains:\n(a) Selection of the study subjects i.e. included patients were\nderived from a representative population, and the exposure\n(OLP diagnosis) was ascertained based on predefined criteria\n(preferably including histological examination).\n(b) Comparability of groups on demographic characteristics and\nimportant potential confounders: which is achieved by adequate control of secondary risk factors, such as smoking and\nalcohol consumption, as well as adequate separation\nbetween OLP and OLL cases (by excluding history of medications or restorations).\n(c) Ascertainment of the prespecified outcome (exposure/treatment): based on histological assessment with a sufficient\nfollow up duration.\nDue to the design of included studies (lack of non-exposed\ngroup), we removed the question about the selection of the nonexposed group (Question No. 2) from the Newcastle-Ottawa Scale;\ntherefore, the total score is out of eight, not nine . Each article\nwas evaluated by two independent reviewers and any disagreements were resolved by consenesus among both reviewers. We\nassessed for the existence of publication bias, using the Egger's test\n."
+        ],
+        "negative_ctxs": [
+            12,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Pooled proportion (PP) of the overall risk of malignant transfor- mation in OLP and OLL was calculated under the random effects model, using Der-Simonian Liard method"
+        ],
+        "negative_ctxs": [
+            14,
+            4
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Meta-analysis for risk of malignant transformation\nSingle-arm meta-analysis, under the random effects model and using Der-Simonian Liard method, resulted in an overall pooled proportion (PP) of 1.1% [95% CI: 0.9-1.4%]. There was a considerable heterogeneity among the results of individual studies, as indicated by an I2 value of 60.96% and Chi-Square p < 0.001 (Fig. 2A). A cumulative analysis indicated a decreasing trend that started by 5.9% transformation rate in 1924 and went down to 1.5% in\n1968. From 1972 to the present time, there was a relatively consistent rate that ranged between 0.5% and 1.1% (Fig. 2B). Considering the significant heterogeneity, we performed a sensitivity analysis to measure the influence of omitting single studies on the overall PP. The summary PP was consistent on removing any single study and ranged between 1.1% and 1.2 (Supplementary file 2).\nWe performed a subgroup analysis for the recent studies in which OLP was defined according to the 2003 modified WHO criteria . The PP was 0.9% with a 95% CI ranging from 0.5% to 1.3%. A moderate degree of heterogeneity was identified among these studies (I2 = 34.84%, p = 0.096) (Fig. 3A). Publication bias towards studies with transformation rate less than 1.1% was evident by Egger's regression test (p = 0.00038) and asymmetry of the funnel plot (Fig. 3B).\nplot (Fig. 3B).\nData on the overall malignant transformation of OLL into OSCC were provided by four studies [15,59,67,68] that included 419 OLL cases. Of them, 13 cases were complicated by malignancy with a rate of transformation in individual datasets, ranging between 1.2% and 4.9%. The PP of malignant transformation of OLL was 2.5% [95% CI: 1-4%], with no heterogeneity among pooled studies (I2 = 0%, p = 0.47).\n\nAlthough the majority of included studies were heterogenous in terms of design, inclusion criteria, and length of follow up [which was also expressed in our analysis: I2 = 60.96%], most of them reported a malignant transformation rate of nearly 1%, which is consistent with our findings."
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "The summary PP was consistent on removing any single study and ranged between 1.1% and 1.2% (Supplementary file 2).\n  \n Publication bias towards studies with transformation rate less than 1.1% was evident by Egger's regression test (p = 0.00038) and asymmetry of the funnel plot (Fig. 3B)."
+        ],
+        "negative_ctxs": [
+            7,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The majority of included studies reported adequately on the representativeness of their cohorts (55 of 57), exposure ascertainment (46 of 57), and outcome assessment methods (50 of 57). However, a lower number of studies reported on the length of (29 of 57) and loss during follow up (13 of 57). Control of sec- ondary risk factors and similar lesions were reported in 37 and 36 studies, respectively. Details for risk of bias assessment are illustrated in Supplementary file 1."
+        ],
+        "negative_ctxs": [
+            17,
+            5
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding sources\n None."
+        ],
+        "negative_ctxs": [
+            0,
+            13
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "We only included studies, published in the English language; however, there is an evidence that restricting a meta-analysis to English studies does not introduce bias to its results \n \n \n Although the majority of included stud- ies were heterogenous in terms of design, inclusion criteria, and length of follow up [which was also expressed in our analysis: I2 = 60.96%], most of them reported a malignant transformation rate of nearly 1%, which is consistent with our findings\n \n \n We tried to overcome the possible diagnostic confusion between OLP and other lichenoid lesions in our meta-analysis by (1) performing a subgroup analysis of the studies that exclusively used the modified WHO 2003 or matching criteria, (2) separating the cases of OLP and OLL in different analytic datasets to calculate the malignant transformation of each pathological condition inde- pendently, and (3) conducting a sensitivity analysis to ensure that none of the individual studies, in which diagnostic confusion could have occurred, significantly shifted the overall effect estimate in its direction."
+        ],
+        "negative_ctxs": [
+            8,
+            14
+        ],
+        "positive_ctxs": []
+    }
+]

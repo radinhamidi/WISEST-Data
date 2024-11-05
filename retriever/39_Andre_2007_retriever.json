@@ -1,0 +1,450 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The purpose of this study is to systematically review\nclinical studies of VTE prophylaxis in stroke\npatients. The emphasis is in acute CI but we also\nanalysed studies addressing the rehabilitation phase of\nthe disease and patients with acute cerebral haemorrhage\n(CH) or subarachnoid haemorrhage. An effort \nis made to distinguish the effects of the interventions\non different outcomes such as low-risk calf vein\nthrombosis and higher-risk events such as proximal\nDVT and PE\nMethods\nWe performed a systematic review of the literature on\nthromboprophylaxis in stroke. Articles were included\nonly if they evaluated one or more active treatments\nversus placebo, no intervention or other treatment\nmodalities in adult (minimum 18 years) stroke patients.\nClinical trials and systematic reviews were searched for"
+        ],
+        "negative_ctxs": [
+            7,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Methods\r\nWe performed a systematic review of the literature on\r\nthromboprophylaxis in stroke. Articles were included\r\nonly if they evaluated one or more active treatments\r\nversus placebo, no intervention or other treatment\r\nmodalities in adult (minimum 18 years) stroke patients"
+        ],
+        "negative_ctxs": [
+            21,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Methods\nWe performed a systematic review of the literature on\nthromboprophylaxis in stroke. Articles were included\nonly if they evaluated one or more active treatments\nversus placebo, no intervention or other treatment\nmodalities in adult (minimum 18 years) stroke patients\n\nArticles were rated according to perceived scientific\r\nvalue following Cochrane Criteria  as follows "
+        ],
+        "negative_ctxs": [
+            8,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            28,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Clinical trials and systematic reviews were searched for in\r\nMEDLINE, COCHRANE, LILACS and SciELO databases.\r\nThe search strategy was developed for MEDLINE\r\n(available from the authors upon request) and\r\nadapted for the other databases. Studies presented in\r\nNeurological and Cerebrovascular Diseases Congresses\r\nand only published in abstract form from 1998 to August\r\n2004 were also searched for in the following journals:\r\nStroke, Cerebrovascular Diseases, Circulation, Journal of\r\nNeurology, Neurology, Arquivos de Neuro-psiquiatria."
+        ],
+        "negative_ctxs": [
+            12,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The reference lists of all included articles and other pertinent\r\npublished articles and reviews were also scrutinized\r\nin search for additional clinical studies of interest."
+        ],
+        "negative_ctxs": [
+            28,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two authors (CA and GRF) independently reviewed\r\nall titles and abstracts of the initially found studies for\r\nfurther assessment. Abstracts selected by any one of the\r\nauthors were by necessity thoroughly analysed in the\r\ncomplete publication."
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two authors (CA and GRF) independently reviewed\r\nall titles and abstracts of the initially found studies for\r\nfurther assessment. Abstracts selected by any one of the\r\nauthors were by necessity thoroughly analysed in the\r\ncomplete publication."
+        ],
+        "negative_ctxs": [
+            6,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Twenty-five studies evaluated\nUFH or LMWH/heparinoids against each other, placebo\nor aspirin in the acute phase of CI. Twelve studies\nevaluated mechanical devices or other antithrombotics\n(aspirin, dextran or Warfarin) in the acute or rehabilitation\nphase of stroke or low-dose anticoagulation in\nCH.\n\nTable 1 Trials and reviews: prevention of venous thromboembolism prophylaxis after stroke"
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Rank 1 Clear: Has a clear quote that makes the jugment easy to make"
+        ],
+        "negative_ctxs": [
+            16,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Articles were rated according to perceived scientific\nvalue following Cochrane Criteria  as follows:\nA - Low risk of bias: Large (100 patients or more)\nrandomized controlled clinical trials including\nsystematic DVT evaluation in acute stroke patients\nand with all quality criteria met, i.e.\nappropriate randomization and blinding processes\nclearly described and <20% loss to follow-up;\nalso, systematic reviews that included at least one\ntrial with these characteristics.\nB - Moderate risk of bias: Clinical trials of lower scientific\nvalue including small number (<100) of\npatients or many losses for follow-up.\nC - High risk of bias: Studies with no systematic search\nfor DVT, using historical controls, non-randomized,\nnot presenting results by groups or with other\nmajor problems"
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Four studies - two large studies without\r\nprospective evaluation [4,5], one with insufficient data\r\nreported  and one observational  - suggest a\r\nmodest beneficial effect on DVT and PE rates, with very\r\nlarge numbers of patients needed to treat in order to\r\nprevent a single episode. The observational study suggested\r\nthat aspirin plus IPC is not effective . Aspirin\r\nalso seemed ineffective in a large retrospective study of\r\npatients undergoing rehabilitation for stroke .\r\nWe performed a pooled analysis of data from two\r\nlarge prospective trials evaluating the effects of aspirin\r\nin patients with acute CI"
+        ],
+        "negative_ctxs": [
+            8,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We performed a pooled analysis of data from two\nlarge prospective trials evaluating the effects of aspirin\nin patients with acute CI (Fig. 1) [4,5]. No prospective\nevaluation for VTE was made in these studies. PE\nevents were clinically diagnosed, with no formal predefinition\nof diagnostic criteria; and physicians were \naware of the allocation of patients either to aspirin or\nno treatment.\n\nThe incidence of\nclinically diagnosed pulmonary embolism was compared in patients\nreceiving aspirin (160 to 300 mg/day) early in the clinical\ncourse (up to 48 h) or not receiving it.\n\nHeterogeneity\r\nchi-squared  1/4 0.27 (d.f.  1/4 1) P  1/4 0.602"
+        ],
+        "negative_ctxs": [
+            14,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Heterogeneity\r\nchi-squared  1/4 0.27 (d.f.  1/4 1) P  1/4 0.602"
+        ],
+        "negative_ctxs": [
+            22,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Table 1 Trials and reviews: prevention of venous thromboembolism prophylaxis after stroke\n\nWe performed a pooled analysis of data from two\r\nlarge prospective trials evaluating the effects of aspirin\r\nin patients with acute CI (Fig. 1) [4,5]. No prospective\r\nevaluation for VTE was made in these studies. PE\r\nevents were clinically diagnosed, with no formal predefinition\r\nof diagnostic criteria; and physicians were\naware of the allocation of patients either to aspirin or\r\nno treatment. Despite these limitations and the relatively\r\nlow number of reported events, the results of the\r\npooled analysis strongly suggest a mild protective effect\r\nof aspirin against VTE or at least PE, its most severe\r\nmanifestation"
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Some particulars of the present study should be\nacknowledged. No unpublished study was included.\nPooled analysis of data was only made for the use of\naspirin. We believe meta-analyses should only be performed\nwhen there is adequate comparability of the\ntrials  and this was not the case with many questions\nhere addressed. We did not exclude studies with no\nprospective evaluation of VTE episodes and preferred\ninstead to classify the studies as to their general scientific\nvalidity. Lastly, we did not evaluate potential differences\nbetween diverse formulations of LMWH or\nbetween them and heparinoids."
+        ],
+        "negative_ctxs": [
+            6,
+            26
+        ],
+        "positive_ctxs": [
+            21
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "We performed a systematic review of the literature on\nthromboprophylaxis in stroke. Articles were included\nonly if they evaluated one or more active treatments\nversus placebo, no intervention or other treatment\nmodalities in adult (minimum 18 years) stroke patients\n\nTable 1 Trials and reviews: prevention of venous thromboembolism prophylaxis after stroke"
+        ],
+        "negative_ctxs": [
+            15,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            16,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Methods\r\nWe performed a systematic review of the literature on\r\nthromboprophylaxis in stroke. Articles were included\r\nonly if they evaluated one or more active treatments\r\nversus placebo, no intervention or other treatment\r\nmodalities in adult (minimum 18 years) stroke patients"
+        ],
+        "negative_ctxs": [
+            11,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Clinical trials and systematic reviews were searched for in\r\nMEDLINE, COCHRANE, LILACS and SciELO databases.\r\nThe search strategy was developed for MEDLINE\r\n(available from the authors upon request) and\r\nadapted for the other databases. Studies presented in\r\nNeurological and Cerebrovascular Diseases Congresses\r\nand only published in abstract form from 1998 to August\r\n2004 were also searched for in the following journals:\r\nStroke, Cerebrovascular Diseases, Circulation, Journal of\r\nNeurology, Neurology, Arquivos de Neuro-psiquiatria."
+        ],
+        "negative_ctxs": [
+            10,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two authors (CA and GRF) independently reviewed\r\nall titles and abstracts of the initially found studies for\r\nfurther assessment. Abstracts selected by any one of the\r\nauthors were by necessity thoroughly analysed in the\r\ncomplete publication."
+        ],
+        "negative_ctxs": [
+            17,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two authors (CA and GRF) independently reviewed\r\nall titles and abstracts of the initially found studies for\r\nfurther assessment. Abstracts selected by any one of the\r\nauthors were by necessity thoroughly analysed in the\r\ncomplete publication."
+        ],
+        "negative_ctxs": [
+            4,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Twenty-five studies evaluated\nUFH or LMWH/heparinoids against each other, placebo\nor aspirin in the acute phase of CI. Twelve studies\nevaluated mechanical devices or other antithrombotics\n(aspirin, dextran or Warfarin) in the acute or rehabilitation\nphase of stroke or low-dose anticoagulation in\nCH.\n\nTable 1 Trials and reviews: prevention of venous thromboembolism prophylaxis after stroke"
+        ],
+        "negative_ctxs": [
+            22,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Articles were rated according to perceived scientific\nvalue following Cochrane Criteria  as follows:\nA - Low risk of bias: Large (100 patients or more)\nrandomized controlled clinical trials including\nsystematic DVT evaluation in acute stroke patients\nand with all quality criteria met, i.e.\nappropriate randomization and blinding processes\nclearly described and <20% loss to follow-up;\nalso, systematic reviews that included at least one\ntrial with these characteristics.\nB - Moderate risk of bias: Clinical trials of lower scientific\nvalue including small number (<100) of\npatients or many losses for follow-up.\nC - High risk of bias: Studies with no systematic search\nfor DVT, using historical controls, non-randomized,\nnot presenting results by groups or with other\nmajor problems"
+        ],
+        "negative_ctxs": [
+            10,
+            25
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We performed a pooled analysis of data from two\nlarge prospective trials evaluating the effects of aspirin\nin patients with acute CI (Fig. 1) [4,5]. No prospective\nevaluation for VTE was made in these studies. PE\nevents were clinically diagnosed, with no formal predefinition\nof diagnostic criteria; and physicians were \naware of the allocation of patients either to aspirin or\nno treatment.\n\nThe incidence of\nclinically diagnosed pulmonary embolism was compared in patients\nreceiving aspirin (160 to 300 mg/day) early in the clinical\ncourse (up to 48 h) or not receiving it.\n\nHeterogeneity\r\nchi-squared  1/4 0.27 (d.f.  1/4 1) P  1/4 0.602"
+        ],
+        "negative_ctxs": [
+            1,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Heterogeneity\r\nchi-squared  1/4 0.27 (d.f.  1/4 1) P  1/4 0.602"
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Table 1 Trials and reviews: prevention of venous thromboembolism prophylaxis after stroke\n\nWe performed a pooled analysis of data from two\r\nlarge prospective trials evaluating the effects of aspirin\r\nin patients with acute CI (Fig. 1) [4,5]. No prospective\r\nevaluation for VTE was made in these studies. PE\r\nevents were clinically diagnosed, with no formal predefinition\r\nof diagnostic criteria; and physicians were\naware of the allocation of patients either to aspirin or\r\nno treatment. Despite these limitations and the relatively\r\nlow number of reported events, the results of the\r\npooled analysis strongly suggest a mild protective effect\r\nof aspirin against VTE or at least PE, its most severe\r\nmanifestation"
+        ],
+        "negative_ctxs": [
+            23,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Some particulars of the present study should be\nacknowledged. No unpublished study was included.\nPooled analysis of data was only made for the use of\naspirin. We believe meta-analyses should only be performed\nwhen there is adequate comparability of the\ntrials  and this was not the case with many questions\nhere addressed. We did not exclude studies with no\nprospective evaluation of VTE episodes and preferred\ninstead to classify the studies as to their general scientific\nvalidity. Lastly, we did not evaluate potential differences\nbetween diverse formulations of LMWH or\nbetween them and heparinoids."
+        ],
+        "negative_ctxs": [
+            23,
+            7
+        ],
+        "positive_ctxs": [
+            21
+        ]
+    }
+]

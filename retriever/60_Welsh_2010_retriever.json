@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "The 2009 update included regular caffeine-containing coffee versus decaffeinated coffee as a comparison type. The 2009 review also compared lung function at all doses at two hours. Serum caffeine levels was included as an outcome."
+        ],
+        "negative_ctxs": [
+            13,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Types of studies We included randomised trials (RCTs) only. Types of participants We included adults (older than 18 years) with previously documented asthma of any level of severity. Types of interventions We included the following\ncomparisons: 1. oral caffeine versus placebo; and 2. coffee versus decaffeinated coffee. "
+        ],
+        "negative_ctxs": [
+            28,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Selectioncriteria We included randomised trials (RCTs) of oral caeine compared to\nplacebo or coee compared to decaffeinated coffee in adults with asthma.\n\n\nTypes of participants We included adults (older than 18 years) with previously documented asthma of any level of severity. Types of interventions We included the following comparisons: 1. oral ca!ffeine versus placebo; and 2. co!ffee versus decaff!einated co!ffee. Types of outcome measures We did not use outcome measures to decide if a study was eligible for inclusion in the review. We did not include challenge test data in this review"
+        ],
+        "negative_ctxs": [
+            6,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Types of outcome measures We did not use outcome measures to decide if a study was eligible for inclusion in the review."
+        ],
+        "negative_ctxs": [
+            35,
+            39
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We did not exclude trials on the basis of language."
+        ],
+        "negative_ctxs": [
+            27,
+            41
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We identified trials using the Cochrane Airways Group Specialised Register of trials (CAGR), which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED and PsycINFO, and handsearching of respiratory journals and meeting abstracts (see Appendix 1). We searched all records in the Specialised Register coded as 'asthma' using the following terms: caffeine* or *caffeine or coffee or tea or chocolate or cola."
+        ],
+        "negative_ctxs": [
+            42,
+            46
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We identified trials using the Cochrane Airways Group Specialised Register of trials (CAGR), which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED and PsycINFO, and handsearching of respiratory journals and meeting abstracts (see Appendix 1). We searched all records in the Specialised Register coded as 'asthma' using the following terms: caffeine* or *caffeine or coffee or tea or chocolate or cola."
+        ],
+        "negative_ctxs": [
+            40,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            42,
+            40
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We did not exclude trials on the basis of language."
+        ],
+        "negative_ctxs": [
+            40,
+            20
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two of us (AB, EB) independently reviewed the title, abstract and key words of the references obtained from the literature search. For the 2009 and 2011 update this was done by EJW and CC. We excluded all studies that were not randomised trials or that clearly did not fit the inclusion criteria. Two of us reviewed the full text of the remaining articles. Complete agreement was achieved at all stages"
+        ],
+        "negative_ctxs": [
+            30,
+            5
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two of us (AB, EB) independently extracted means and standard deviations or standard errors"
+        ],
+        "negative_ctxs": [
+            34,
+            43
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Included studies Six studies were included in the original review and an update search conducted in August 2009 identified one additional study. which met the inclusion criteria (Taylor 2004). All studies are outlined in the Characteristics of included studies table. Six studies tested for the effects of caffeine on pulmonary function, although the main aim of these studies differed. Three studies of these six additionally tested the influence of caffeine on bronchial provocation challenge tests, one using histamine (Colacone 1990), one carbachol (Crivelli 1986) and one using eucapnic voluntary hyperventilation (EVH) (Duy 1991). We did not include challenge test data in this review. One study also tested the effect of caffeine on exercise-induced bronchoconstriction (Kivity 1990). One study also compared caffeine to aminophylline (Gong 1986), but these data were not analysed as it was considered to be beyond the scope of this review. One study (Taylor 2004) assessed the effects of coffee on exhaled nitric oxide (FeNO). Participants There were 55 (39 male) adult participants in the six included studies testing for pulmonary function in the original review. These patients were all described as having stable, mild to moderate asthma. Further details of baseline lung function are found in Table 1. There were 20 adult participants (gender not specified) in the study testing for exhaled nitric oxide included in the 2009 update. The severity of their asthma was not described, but there were 10 steroid-naive and 10 steroid-treated patients. Interventions Caffeine and matched placebos were administered orally (as a solution = three studies, capsule = two studies, decaffeinated coffee plus caffeine = one study, caffeine versus decaffeinated coffee = one study). Two studies contributed to the 'low' dose comparison: Bukowskyj 1987 (5 mg/kg) and Colacone 1990 (5 mg/kg). Four studies contributed to the 'high' dose comparison: Crivelli 1986 (6 mg/kg), Duy 1991 (10 mg/kg), Gong 1986 (7.2 mg/kg) and Kivity 1990 (7 mg/kg). One study, Taylor 2004, assessed drinking a cup of coffee (intervention group) versus decaffeinated coffee (placebo group) prepared using a standard quantity (15 g) of either caffeine-containing coffee or decaffeinated coffee. Outcomes Pulmonary function tests were the only outcomes suitable for entry into the meta-analysis. See Characteristics of included studies for details of secondary outcomes of trials."
+        ],
+        "negative_ctxs": [
+            29,
+            40
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            45
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Assessment of risk of bias in included studies Forthis 2009 update, two of us (EW and CC) updated the risk of bias according to four domains: 1. allocation generation and concealment; 2. blinding; 3. handling of missing data; and 4. selective reporting bias.\n\nComplete agreement was reached by the review authors for both assessments. See Characteristics of included studies for 'Risk of bias' tables for individual studies and Figure 1 for an overview."
+        ],
+        "negative_ctxs": [
+            14,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Forthis 2009 update, two of us (EW and CC) updated the risk of bias according to four domains"
+        ],
+        "negative_ctxs": [
+            40,
+            47
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Six studies were included in the original review and an update search conducted in August 2009 identified one additional study. \n\nTwo other studies (Crivelli 1986; Du!y 1991) tested the e!ffect of 'high' dose ca!ffeine at the 'short' time frame on FEV1, but no data were extracted for inclusion into the meta-analysis in the original review. However, in correspondence, both authors reported no significant di!fference in bronchodilation between caff!eine and placebo ingestion. For the 2009 update, data were extracted from Crivelli 1986 from the original patient data provided into FEV1 outcomes at two hours."
+        ],
+        "negative_ctxs": [
+            22,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "D I F F E R E N C E S B E T W E E N P R O T O C O L A N D R E V I E W The 2009 update included regular caffeine-containing coffee versus decaffeinated coffee as a comparison type. The 2009 review also compared lung function at all doses at two hours. Serum caffeine levels was included as an outcome."
+        ],
+        "negative_ctxs": [
+            36,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We analysed continuous data using the inverse-variance fixed\u0002 e\u001fffect method in RevMan 5.1.\n\n Forced expiratory volume in one second (FEV1): 'short' (standardised mean diff\u001ference (SMD) 0.72; 95% confidence interval (CI) 0.25 to 1.20; six studies on 78 participants), 'medium' (mean di\u001ffference (MD) 12.66; 95% CI -0.34 to 25.67; two studies on 34 participants), 'long' (MD 11.00; 95% CI -6.49 to 28.49; one study on 16 participants).\n\n\n\nWhen analysed as % change in FEV1 the pooled result of three trials on 26 participants showed a significant benefit with caffeine at higher dose (MD 5.47%; 95% CI 1.43 to 9.52, Analysis 1.9) (see Figure 2). There was significant heterogeneity in this result (I 2 = 61%), but this appears to come from Crivelli 1986; the participants in this trial were asymptomatic and not on treatment for asthma, so would have little potential to increase their FEV1 following caffeine "
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Subgroup analysis and investigation of heterogeneity For each outcome in each time frame, we performed subgroup analyses to test for dierences between 'high' and 'low' doses of caeine. Using the median value to divide the data, we defined\ndoses as: 'high' (greater than 5 mg/kg (mg per kg of body weight)); or 'low' (lower than 5 mg/kg). \n\n\nComparison of the findings across studies was complicated by the use of five di!fferent doses of caff!eine, di!fferent outcome measures recorded at di!fferent times, and di!fferent methods of reporting outcomes. To permit the aggregation of data we grouped the trials according to dose and time. Similarly, we made analyses using the SMD where the combined trials used di!fferent units of measurement for the same variable. Despite this, few data were available to be combined in the meta-analysis. The dose of caffeine tested varied greatly between studies, from 5 to 10 mg/kg. In an effort to make this more meaningful in dietary terms, most authors related doses to cups of coffee. However, the average amount of caffeine per cup is quoted as between 30 to 150 mg, although 150 mg was most commonly stated. Consequently, the number of cups of coff!ee required to produce bronchodilation is reported from one to five cups. One method of standardising the dose ingested between studies would be to examine the peak sermlevels. The reported peak serum levels vary greatly: from 5.4 mg/L (Colacone 1990) to 18.8 mg/L (Duffy 1991). Interestingly, the study reporting serum caff!eine level of 18.8 mg/L after a dose of caffeine (10 mg/kg) found no increase in FEV1, although a later protective effect against bronchoconstriction post broncho provocation challenge test was found (Duffy 1991). These data were not presented in a way that would enable extraction for entry into the meta-analysis. Peak serum levels of caffeine tended to occur at 45 or 60 minutes post ca!ffeine intake. However, a clear difference between caff!eine and placebo was seen even four hours post ingestion (Bukowskyj 1987). Few studies reported measurements beyond four hours post dosing. However, serum caffeine was detected in some patients at baseline. It is not known whether this would affect the potential for bronchodilation, especially wherlung function outcomes were reported in terms of change from baseline. Even consideration of the peak serum levels would not fully compensate for this. The findings of any review are only applicable to the characteristics of the participants taking part in the included studies. Although a standardised definition was not used across the studies, participants were described as having mild or moderate asthma, therefore results may not be generalisable to those with more severe asthma. Most subjects were described as having stable or asymptomatic asthma, but how this was assessed was not described. Similarly, patients' treatment regimens varied greatly across the trials and the effect of this was not studied."
+        ],
+        "negative_ctxs": [
+            37,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "The possibility of publication bias (non-publication of negative studies) should be considered given that only small di\u001ffferences in bronchodilator eff\u001fect were found between ca\u001fffeine and placebo. However, we used a comprehensive search strategy and searched for unpublished trials in an attempt to minimise this bias."
+        ],
+        "negative_ctxs": [
+            7,
+            49
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Allocation All the papers stated that the trials were randomised. One trial reported computerised sequence generation which was judged to have a low risk of bias (Gong 1986), while the remaining six trials were unclear. Two trials reported adequate allocation concealment (Bukowskyj 1987; Colacone 1990) while the remaining five were unclear. Blinding All the studies were described as double-blind. Blinding of the patient is important so that they put the same effort into lung function testing regardless of intervention, however they would presumably be able to detect if they had ingested any caffeine due to side effects. Five studies were judged to have a low risk of bias with respect to blinding (Bukowskyj 1987; Colacone 1990; Duy 1991; Gong 1986; Kivity 1990). None of the papers described blinding of the investigator administering the caffeine or placebo to the patient or the investigator taking the outcome readings. Incomplete outcome data Since the trials took place over relatively short time frames there were few dropouts and only one missing data point throughout all the studies. All trials were judged to be of low risk of bias with respect to dealing with incomplete data. Other potential sources of bias All the included studies used a cross-over design. In all cases the cross-over rule was time. The time period between study days was not always stated but, where details were provided, ranged from consecutive days to within two weeks. To control for the effects of circadian rhythms, tests took place at the same time on each day in all studies. Few studies comment on the existence or effect of outlying values.\n\nInterpretation of the results of this review must include consideration of methodological limitations. All of the studies employed a cross-over design. Although the method of allocation was in all cases reported to be randomised, none of the authors assessed order effects, and only two authors explicitly stated that the patients could not discern which treatment they had received (Bukowskyj 1987; Gong 1986). Sample sizes were small and the existence or effect of outlying values were rarely discussed. Outlying values are important in small studies using cross-over designs, as each subject provides a large proportion of the data."
+        ],
+        "negative_ctxs": [
+            45,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Allocation All the papers stated that the trials were randomised. One trial reported computerised sequence generation which was judged to have a low risk of bias (Gong 1986), while the remaining six trials were unclear. Two trials reported adequate allocation concealment (Bukowskyj 1987; Colacone 1990) while the remaining five were unclear. Blinding All the studies were described as double-blind. Blinding of the patient is important so that they put the same effort into lung function testing regardless of intervention, however they would presumably be able to detect if they had ingested any caffeine due to side effects. Five studies were judged to have a low risk of bias with respect to blinding (Bukowskyj 1987; Colacone 1990; Duy 1991; Gong 1986; Kivity 1990). None of the papers described blinding of the investigator administering the caffeine or placebo to the patient or the investigator taking the outcome readings. Incomplete outcome data Since the trials took place over relatively short time frames there were few dropouts and only one missing data point throughout all the studies. All trials were judged to be of low risk of bias with respect to dealing with incomplete data. Other potential sources of bias All the included studies used a cross-over design. In all cases the cross-over rule was time. The time period between study days was not always stated but, where details were provided, ranged from consecutive days to within two weeks. To control for the effects of circadian rhythms, tests took place at the same time on each day in all studies. Few studies comment on the existence or effect of outlying values.\n\nInterpretation of the results of this review must include consideration of methodological limitations. All of the studies employed a cross-over design. Although the method of allocation was in all cases reported to be randomised, none of the authors assessed order effects, and only two authors explicitly stated that the patients could not discern which treatment they had received (Bukowskyj 1987; Gong 1986). Sample sizes were small and the existence or effect of outlying values were rarely discussed. Outlying values are important in small studies using cross-over designs, as each subject provides a large proportion of the data."
+        ],
+        "negative_ctxs": [
+            46,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Six studies tested for the effects of caffeine on pulmonary function, although the main aim of these studies differed. Three studies of these six additionally tested the influence of caffeine on bronchial provocation challenge tests, one using histamine (Colacone 1990), one carbachol (Crivelli 1986) and one using eucapnic voluntary hyperventilation (EVH) (Duy 1991). We did not include challenge test\ndata in this review. One study also tested the effect of caffeine on exercise-induced bronchoconstriction (Kivity 1990). One study also compared caffeine to aminophylline (Gong 1986), but these data were not analysed as it was considered to be beyond the scope of this review. One study (Taylor 2004) assessed the effects of coffee on exhaled nitric oxide (FeNO). Participants There were 55 (39 male) adult participants in the six included studies testing for pulmonary function in the original review. These patients were all described as having stable, mild to moderate asthma. Further details of baseline lung function are found in Table 1. There were 20 adult participants (gender not specified) in the study testing for exhaled nitric oxide included in the 2009 update. The severity of their asthma was not described, but there were 10 steroid-naive and 10 steroid-treated patients. Interventions Caffeine and matched placebos were administered orally (as a solution = three studies, capsule = two studies, decaffeinated coffee plus caffeine = one study, caffeine versus decaffeinated coffee = one study). Two studies contributed to the 'low' dose comparison: Bukowskyj 1987 (5 mg/kg) and Colacone 1990 (5 mg/kg). Four\nstudies contributed to the 'high' dose comparison: Crivelli 1986 (6 mg/kg), Duy 1991 (10 mg/kg), Gong 1986 (7.2 mg/kg) and Kivity 1990 (7 mg/kg). One study, Taylor 2004, assessed drinking a cup of coffee (intervention group) versus decaffeinated coffee (placebo group) prepared using a standard quantity (15 g) of either caffeine containing coffee or decaffeinated coffee. Outcomes Pulmonary function tests were the only outcomes suitable for entry into the meta-analysis. "
+        ],
+        "negative_ctxs": [
+            9,
+            46
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            16,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "The 2009 update included regular caffeine-containing coffee versus decaffeinated coffee as a comparison type. The 2009 review also compared lung function at all doses at two hours. Serum caffeine levels was included as an outcome."
+        ],
+        "negative_ctxs": [
+            36,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Selectioncriteria We included randomised trials (RCTs) of oral caeine compared to\nplacebo or coee compared to decaffeinated coffee in adults with asthma.\n\n\nTypes of participants We included adults (older than 18 years) with previously documented asthma of any level of severity. Types of interventions We included the following comparisons: 1. oral ca!ffeine versus placebo; and 2. co!ffee versus decaff!einated co!ffee. Types of outcome measures We did not use outcome measures to decide if a study was eligible for inclusion in the review. We did not include challenge test data in this review"
+        ],
+        "negative_ctxs": [
+            32,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Types of studies We included randomised trials (RCTs) only."
+        ],
+        "negative_ctxs": [
+            45,
+            41
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We identified trials using the Cochrane Airways Group Specialised Register of trials (CAGR), which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED and PsycINFO, and handsearching of respiratory journals and meeting abstracts (see Appendix 1). We searched all records in the Specialised Register coded as 'asthma' using the following terms: caffeine* or *caffeine or coffee or tea or chocolate or cola."
+        ],
+        "negative_ctxs": [
+            48,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two of us (AB, EB) independently reviewed the title, abstract and key words of the references obtained from the literature search. For the 2009 and 2011 update this was done by EJW and CC. We excluded all studies that were not randomised trials or that clearly did not fit the inclusion criteria. Two of us reviewed the full text of the remaining articles. Complete agreement was achieved at all stages"
+        ],
+        "negative_ctxs": [
+            9,
+            1
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two of us (AB, EB) independently extracted means and standard deviations or standard errors"
+        ],
+        "negative_ctxs": [
+            13,
+            8
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Excluded studies From examination ofthe full papers ofthe ofthe potentially eligible references, we excluded two studies (Becker 1984; Henderson 1993). One potentially eligible reference was returned from the bibliographic search and this was excluded on retrieval of the full paper (Simmons 1983). See Characteristics of excluded studies"
+        ],
+        "negative_ctxs": [
+            45,
+            20
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Included studies Six studies were included in the original review and an update search conducted in August 2009 identified one additional study. which met the inclusion criteria (Taylor 2004). All studies are outlined in the Characteristics of included studies table. Six studies tested for the effects of caffeine on pulmonary function, although the main aim of these studies differed. Three studies of these six additionally tested the influence of caffeine on bronchial provocation challenge tests, one using histamine (Colacone 1990), one carbachol (Crivelli 1986) and one using eucapnic voluntary hyperventilation (EVH) (Duy 1991). We did not include challenge test data in this review. One study also tested the effect of caffeine on exercise-induced bronchoconstriction (Kivity 1990). One study also compared caffeine to aminophylline (Gong 1986), but these data were not analysed as it was considered to be beyond the scope of this review. One study (Taylor 2004) assessed the effects of coffee on exhaled nitric oxide (FeNO). Participants There were 55 (39 male) adult participants in the six included studies testing for pulmonary function in the original review. These patients were all described as having stable, mild to moderate asthma. Further details of baseline lung function are found in Table 1. There were 20 adult participants (gender not specified) in the study testing for exhaled nitric oxide included in the 2009 update. The severity of their asthma was not described, but there were 10 steroid-naive and 10 steroid-treated patients. Interventions Caffeine and matched placebos were administered orally (as a solution = three studies, capsule = two studies, decaffeinated coffee plus caffeine = one study, caffeine versus decaffeinated coffee = one study). Two studies contributed to the 'low' dose comparison: Bukowskyj 1987 (5 mg/kg) and Colacone 1990 (5 mg/kg). Four studies contributed to the 'high' dose comparison: Crivelli 1986 (6 mg/kg), Duy 1991 (10 mg/kg), Gong 1986 (7.2 mg/kg) and Kivity 1990 (7 mg/kg). One study, Taylor 2004, assessed drinking a cup of coffee (intervention group) versus decaffeinated coffee (placebo group) prepared using a standard quantity (15 g) of either caffeine-containing coffee or decaffeinated coffee. Outcomes Pulmonary function tests were the only outcomes suitable for entry into the meta-analysis. See Characteristics of included studies for details of secondary outcomes of trials."
+        ],
+        "negative_ctxs": [
+            28,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Assessment of risk of bias in included studies Forthis 2009 update, two of us (EW and CC) updated the risk of bias according to four domains: 1. allocation generation and concealment; 2. blinding; 3. handling of missing data; and 4. selective reporting bias.\n\nComplete agreement was reached by the review authors for both assessments. See Characteristics of included studies for 'Risk of bias' tables for individual studies and Figure 1 for an overview."
+        ],
+        "negative_ctxs": [
+            43,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We analysed continuous data using the inverse-variance fixed\u0002 e\u001fffect method in RevMan 5.1.\n\n Forced expiratory volume in one second (FEV1): 'short' (standardised mean diff\u001ference (SMD) 0.72; 95% confidence interval (CI) 0.25 to 1.20; six studies on 78 participants), 'medium' (mean di\u001ffference (MD) 12.66; 95% CI -0.34 to 25.67; two studies on 34 participants), 'long' (MD 11.00; 95% CI -6.49 to 28.49; one study on 16 participants).\n\n\n\nWhen analysed as % change in FEV1 the pooled result of three trials on 26 participants showed a significant benefit with caffeine at higher dose (MD 5.47%; 95% CI 1.43 to 9.52, Analysis 1.9) (see Figure 2). There was significant heterogeneity in this result (I 2 = 61%), but this appears to come from Crivelli 1986; the participants in this trial were asymptomatic and not on treatment for asthma, so would have little potential to increase their FEV1 following caffeine "
+        ],
+        "negative_ctxs": [
+            42,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Subgroup analysis and investigation of heterogeneity For each outcome in each time frame, we performed subgroup analyses to test for dierences between 'high' and 'low' doses of caeine. Using the median value to divide the data, we defined\ndoses as: 'high' (greater than 5 mg/kg (mg per kg of body weight)); or 'low' (lower than 5 mg/kg). \n\n\nComparison of the findings across studies was complicated by the use of five di!fferent doses of caff!eine, di!fferent outcome measures recorded at di!fferent times, and di!fferent methods of reporting outcomes. To permit the aggregation of data we grouped the trials according to dose and time. Similarly, we made analyses using the SMD where the combined trials used di!fferent units of measurement for the same variable. Despite this, few data were available to be combined in the meta-analysis. The dose of caffeine tested varied greatly between studies, from 5 to 10 mg/kg. In an effort to make this more meaningful in dietary terms, most authors related doses to cups of coffee. However, the average amount of caffeine per cup is quoted as between 30 to 150 mg, although 150 mg was most commonly stated. Consequently, the number of cups of coff!ee required to produce bronchodilation is reported from one to five cups. One method of standardising the dose ingested between studies would be to examine the peak sermlevels. The reported peak serum levels vary greatly: from 5.4 mg/L (Colacone 1990) to 18.8 mg/L (Duffy 1991). Interestingly, the study reporting serum caff!eine level of 18.8 mg/L after a dose of caffeine (10 mg/kg) found no increase in FEV1, although a later protective effect against bronchoconstriction post broncho provocation challenge test was found (Duffy 1991). These data were not presented in a way that would enable extraction for entry into the meta-analysis. Peak serum levels of caffeine tended to occur at 45 or 60 minutes post ca!ffeine intake. However, a clear difference between caff!eine and placebo was seen even four hours post ingestion (Bukowskyj 1987). Few studies reported measurements beyond four hours post dosing. However, serum caffeine was detected in some patients at baseline. It is not known whether this would affect the potential for bronchodilation, especially wherlung function outcomes were reported in terms of change from baseline. Even consideration of the peak serum levels would not fully compensate for this. The findings of any review are only applicable to the characteristics of the participants taking part in the included studies. Although a standardised definition was not used across the studies, participants were described as having mild or moderate asthma, therefore results may not be generalisable to those with more severe asthma. Most subjects were described as having stable or asymptomatic asthma, but how this was assessed was not described. Similarly, patients' treatment regimens varied greatly across the trials and the effect of this was not studied."
+        ],
+        "negative_ctxs": [
+            0,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "The possibility of publication bias (non-publication of negative studies) should be considered given that only small di\u001ffferences in bronchodilator eff\u001fect were found between ca\u001fffeine and placebo. However, we used a comprehensive search strategy and searched for unpublished trials in an attempt to minimise this bias."
+        ],
+        "negative_ctxs": [
+            23,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Allocation All the papers stated that the trials were randomised. One trial reported computerised sequence generation which was judged to have a low risk of bias (Gong 1986), while the remaining six trials were unclear. Two trials reported adequate allocation concealment (Bukowskyj 1987; Colacone 1990) while the remaining five were unclear. Blinding All the studies were described as double-blind. Blinding of the patient is important so that they put the same effort into lung function testing regardless of intervention, however they would presumably be able to detect if they had ingested any caffeine due to side effects. Five studies were judged to have a low risk of bias with respect to blinding (Bukowskyj 1987; Colacone 1990; Duy 1991; Gong 1986; Kivity 1990). None of the papers described blinding of the investigator administering the caffeine or placebo to the patient or the investigator taking the outcome readings. Incomplete outcome data Since the trials took place over relatively short time frames there were few dropouts and only one missing data point throughout all the studies. All trials were judged to be of low risk of bias with respect to dealing with incomplete data. Other potential sources of bias All the included studies used a cross-over design. In all cases the cross-over rule was time. The time period between study days was not always stated but, where details were provided, ranged from consecutive days to within two weeks. To control for the effects of circadian rhythms, tests took place at the same time on each day in all studies. Few studies comment on the existence or effect of outlying values.\n\nInterpretation of the results of this review must include consideration of methodological limitations. All of the studies employed a cross-over design. Although the method of allocation was in all cases reported to be randomised, none of the authors assessed order effects, and only two authors explicitly stated that the patients could not discern which treatment they had received (Bukowskyj 1987; Gong 1986). Sample sizes were small and the existence or effect of outlying values were rarely discussed. Outlying values are important in small studies using cross-over designs, as each subject provides a large proportion of the data."
+        ],
+        "negative_ctxs": [
+            10,
+            40
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            44,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "D E C L A R A T I O N S  O F  I N T E R E S T\nNone known.\n\nS O U R C E S  O F  S U P P O R T\nInternal sources\n* NHS Research and Development, UK."
+        ],
+        "negative_ctxs": [
+            10,
+            25
+        ],
+        "positive_ctxs": [
+            49
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Allocation All the papers stated that the trials were randomised. One trial reported computerised sequence generation which was judged to have a low risk of bias (Gong 1986), while the remaining six trials were unclear. Two trials reported adequate allocation concealment (Bukowskyj 1987; Colacone 1990) while the remaining five were unclear. Blinding All the studies were described as double-blind. Blinding of the patient is important so that they put the same effort into lung function testing regardless of intervention, however they would presumably be able to detect if they had ingested any caffeine due to side effects. Five studies were judged to have a low risk of bias with respect to blinding (Bukowskyj 1987; Colacone 1990; Duy 1991; Gong 1986; Kivity 1990). None of the papers described blinding of the investigator administering the caffeine or placebo to the patient or the investigator taking the outcome readings. Incomplete outcome data Since the trials took place over relatively short time frames there were few dropouts and only one missing data point throughout all the studies. All trials were judged to be of low risk of bias with respect to dealing with incomplete data. Other potential sources of bias All the included studies used a cross-over design. In all cases the cross-over rule was time. The time period between study days was not always stated but, where details were provided, ranged from consecutive days to within two weeks. To control for the effects of circadian rhythms, tests took place at the same time on each day in all studies. Few studies comment on the existence or effect of outlying values.\n\nInterpretation of the results of this review must include consideration of methodological limitations. All of the studies employed a cross-over design. Although the method of allocation was in all cases reported to be randomised, none of the authors assessed order effects, and only two authors explicitly stated that the patients could not discern which treatment they had received (Bukowskyj 1987; Gong 1986). Sample sizes were small and the existence or effect of outlying values were rarely discussed. Outlying values are important in small studies using cross-over designs, as each subject provides a large proportion of the data."
+        ],
+        "negative_ctxs": [
+            46,
+            33
+        ],
+        "positive_ctxs": []
+    }
+]

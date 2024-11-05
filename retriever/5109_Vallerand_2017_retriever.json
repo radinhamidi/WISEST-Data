@@ -1,0 +1,498 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "This systematic review was conducted in accordance with the PRISMA guidelines,19and has been registered with PROSPERO(CRD42015025080).\n\nThe primary objective of this systematic review is to compare the efficacy of treatment and the frequency of adverse events of oral isotretinoin vs placebo and other treatments for acne.\r\n\r\nTypes of study to be included Randomized controlled trials.\r\n\r\nParticipants/population Patients with acne vulgaris. Intervention(s), exposure(s) Oral isotretinoin therapy. Comparator(s)/control Standard therapy (e.g. oral antibiotic, topical retinoids etc.) or control.\r\n\r\nMain outcome(s) Treatment efficacy (i.e. reduced lesion count). Adverse events including musculoskeletal, dermatological, ophthalmological, gastrointestinal, head and neck, blood abnormalities and psychiatric adverse effects (e.g. depressive symptoms). Additional outcome(s) None.\r\n\r\nThis study reviewed evidence from randomized controlled trials to assess the efficacy and safety profile of isotretinoin for treatment of acne.\r\n\r\nThe objective of this systematic review was to summarize results from all available randomized clinical trials on oral isotretinoin to compare its clinical efficacy and adverse event profile with placebo or alternate therapies.\r\n\r\nThe primary outcome of interest was treatment efficacy of oral isotretinoin, classified as change in acne lesion counts where possible.\r\n\r\nSecondary outcomes in this review included adverse events from acne therapy."
+        ],
+        "negative_ctxs": [
+            17,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Appendix S1 Supplementary methods and search strategy: The inclusion criteria for eligibility were that studies must have had (1) patients diagnosed with acne, (2) randomized controlled design, with oral isotretinoin as an intervention and placebo or alternate therapy as a comparator condition, and (3) treatment efficacy as a primary outcome measure"
+        ],
+        "negative_ctxs": [
+            10,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Appendix S1 Supplementary methods and search strategy: The inclusion criteria for eligibility were that studies must have had (1) patients diagnosed with acne, (2) randomized controlled design, with oral isotretinoin as an intervention and placebo or alternate therapy as a comparator condition, and (3) treatment efficacy as a primary outcome measure"
+        ],
+        "negative_ctxs": [
+            8,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            ". We searched the MEDLINE, Embase and Cochrane Central databases using key words related to acne and isotretinoin without language restrictions, and manually searched study reference lists and clinical trial registries up to 18 October 2016"
+        ],
+        "negative_ctxs": [
+            1,
+            23
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            ". We searched the MEDLINE, Embase and Cochrane Central databases using key words related to acne and isotretinoin without language restrictions, and manually searched study reference lists and clinical trial registries up to 18 October 2016"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched the MEDLINE, Embase and Cochrane Central databases using key words related to acne and isotretinoin without language restrictions, and manually searched study reference lists and clinical trial registries up to 18 October 2016"
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "and manually searched study reference lists and clinical trial registries up to 18 October 2016."
+        ],
+        "negative_ctxs": [
+            21,
+            13
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix S1 Supplementary methods and search strategy."
+        ],
+        "negative_ctxs": [
+            20,
+            17
+        ],
+        "positive_ctxs": [
+            23
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            ". We searched the MEDLINE, Embase and Cochrane Central databases using key words related to acne and isotretinoin without language restrictions, and manually searched study reference lists and clinical trial registries up to 18 October 2016."
+        ],
+        "negative_ctxs": [
+            17,
+            19
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            " Following duplicate removal, two authors (I.A.V. and R.T.L) screened titles and abstracts to identify studies that reported randomized controlled trials of isotretinoin for acne. The kappa statistic was used to determine percentage agreement (with 95% confidence interval) between reviewers"
+        ],
+        "negative_ctxs": [
+            2,
+            22
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Appendix S1 Supplementary methods and search strategy: A data extraction form was used to consolidate baseline metrics, intervention protocols and outcomes data from each study. This was done separately by two authors (R.T.L and I.A.V.), and cross-checked for accuracy."
+        ],
+        "negative_ctxs": [
+            14,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Appendix S1 Supplementary methods and search strategy: The inclusion criteria for eligibility were that studies must have had (1) patients diagnosed with acne, (2) randomized controlled design, with oral isotretinoin as an intervention and placebo or alternate therapy as a comparator condition, and (3) treatment efficacy as a primary outcome measure."
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1 Study characteristics of the included intervention studies for acne examining the effects of isotretinoin vs. a control group. Treatment duration is listed as duration of active treatment where isotretinoin was directly compared with a control intervention"
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            ". Study quality was assessed by the same two authors using the Cochrane Collaboration's Risk of Bias Assessment Tool,21"
+        ],
+        "negative_ctxs": [
+            20,
+            19
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Secondary outcomes in this review included adverse events from acne therapy. Study quality was assessed by the same two authors using the Cochrane Collaboration's Risk of Bias Assessment Tool, 21 and any disagreements were resolved by consensus-based discussion."
+        ],
+        "negative_ctxs": [
+            19,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Table 1 Study characteristics of the included intervention studies for acne examining the effects of isotretinoin vs. a control group. Treatment duration is listed as duration of active treatment where isotretinoin was directly compared with a control intervention"
+        ],
+        "negative_ctxs": [
+            21,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Another important limitation is that the studies reviewed do not necessarily reproduce the manner in which isotretinoin is used in regular clinical practice. For instance, we were unable to assess the effects of different isotretinoin dosing strategies, sex, age or comorbidity on treatment efficacy or adverse events. Future research will need to focus on these factors to identify whether patient subgroups exist that are better suited or contraindicated for isotretinoin therapy, both from efficacy and adverse event perspectives."
+        ],
+        "negative_ctxs": [
+            15,
+            23
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "This review is limited primarily by a paucity of long-term follow-up data and significant heterogeneity in dosing, methodology, reporting and study samples across trials, making metaanalysis of data and assessment of acne recurrence unfeasible"
+        ],
+        "negative_ctxs": [
+            10,
+            23
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "This review is limited primarily by a paucity of long-term follow-up data and significant heterogeneity in dosing, methodology, reporting and study samples across trials, making metaanalysis of data and assessment of acne recurrence unfeasible"
+        ],
+        "negative_ctxs": [
+            11,
+            21
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Fig 2. Study quality assessment."
+        ],
+        "negative_ctxs": [
+            13,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Only one study was classified as having a low risk of bias across all nine criteria considered in study quality (Fig. 2).29 By focusing on only the criteria with the greatest influence on efficacy and adverse event outcomes, three studies were classified as having an overall low risk of bias, three had an\nunclear risk of bias and five had a high risk of bias."
+        ],
+        "negative_ctxs": [
+            20,
+            6
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "This review is limited primarily by a paucity of long-term fol-low-up data and significant heterogeneity in dosing, method-ology, reporting and study samples across trials, making meta-analysis of data and assessment of acne recurrence unfeasible.Furthermore, there may be additional adverse events from iso-tretinoin documented in studies that were missed in thisreview. Study sample sizes were generally quite low-weidentified only 760 participants involved in randomized con-trolled studies comparing isotretinoin with other therapies. Ofthese, fewer than 100 were in placebo-controlled studies andit is therefore possible that the sample sizes considered in thisreview were insufficient to observe all adverse events that maybe associated with isotretinoin. Importantly, across all trialsreported in this review, only 156 female participants wereinvolved, largely due to study exclusion requirements to pre-vent teratogenicity in pregnancy,40and thus treatment efficacyand adverse event data from this review may not be as appli-cable to the female population. This is of concern regardingpsychiatric adverse events; given that depression is moreprevalent among women in the general population,41theoverall incidence of this outcome is likely higher in clinicalpractice than in this review, given the low number of womenstudied.Another important limitation is that the studies reviewed donot necessarily reproduce the manner in which isotretinoin isused in regular clinical practice. For instance, we were unableto assess the effects of different isotretinoin dosing strategies,sex, age or comorbidity on treatment efficacy or adverseevents. Future research will need to focus on these factors toidentify whether patient subgroups exist that are better suitedor contraindicated for isotretinoin therapy, both from efficacyand adverse event perspectives."
+        ],
+        "negative_ctxs": [
+            18,
+            17
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "A summary of study characteristics for each trial included in thisreview is provided in Table 1. In total, 760 participants were randomized,  and  outcome  data  were  available  for  748 patients. Of the 760 randomized, only 156 were female.Across trials, the mean treatment age ranged from 18.0 to 47.9 years, and most studies classified participants as having moderate-to-severe acne, usually based on lesion counts (andcombinations of papules, pustules and nodules) or gradingscales. Nine of the 11 studies evaluated moderate-to-severe nodular or cystic acne (Table 1), which is consistent with the U.S. Food and Drug Administration approval for isotretinoin; however, there was no consistent approach to quantify thisdefinition of acne severity.\n\nble 1Study characteristics of the included intervention studies for acne examining the effects of isotretinoin vs. a control group. Treatment duration is listed as duration of active treatment whereisotretinoin was directly compared with a control intervention"
+        ],
+        "negative_ctxs": [
+            22,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            7,
+            21
+        ],
+        "positive_ctxs": [
+            0,
+            8,
+            9,
+            11,
+            12,
+            13,
+            15,
+            16,
+            22
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "This systematic review was conducted in accordance with the PRISMA guidelines,19and has been registered with PROSPERO(CRD42015025080).\n\nThe primary objective of this systematic review is to compare the efficacy of treatment and the frequency of adverse events of oral isotretinoin vs placebo and other treatments for acne.\r\n\r\nTypes of study to be included Randomized controlled trials.\r\n\r\nParticipants/population Patients with acne vulgaris. Intervention(s), exposure(s) Oral isotretinoin therapy. Comparator(s)/control Standard therapy (e.g. oral antibiotic, topical retinoids etc.) or control.\r\n\r\nMain outcome(s) Treatment efficacy (i.e. reduced lesion count). Adverse events including musculoskeletal, dermatological, ophthalmological, gastrointestinal, head and neck, blood abnormalities and psychiatric adverse effects (e.g. depressive symptoms). Additional outcome(s) None.\r\n\r\nThis study reviewed evidence from randomized controlled trials to assess the efficacy and safety profile of isotretinoin for treatment of acne.\r\n\r\nThe objective of this systematic review was to summarize results from all available randomized clinical trials on oral isotretinoin to compare its clinical efficacy and adverse event profile with placebo or alternate therapies.\r\n\r\nThe primary outcome of interest was treatment efficacy of oral isotretinoin, classified as change in acne lesion counts where possible.\r\n\r\nSecondary outcomes in this review included adverse events from acne therapy."
+        ],
+        "negative_ctxs": [
+            1,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Appendix S1 Supplementary methods and search strategy: The inclusion criteria for eligibility were that studies must have had (1) patients diagnosed with acne, (2) randomized controlled design, with oral isotretinoin as an intervention and placebo or alternate therapy as a comparator condition, and (3) treatment efficacy as a primary outcome measure"
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Various narrative reviews on acne have discussed the efficacy and adverse events of oral isotretinoin, but a comprehensive systematic review of outcomes and study quality has surprisingly not been performed.6,13,14 One meta-analysis was conducted in 1999 on isotretinoin effectiveness;15 however, this study considered single-arm studies without comparators, did not evaluate treatment based on lesion counts, did not consider study quality or risk of bias and did not report adverse events. Systematic reviews have been published on isotretinoin adverse events such as psychiatric outcomes,16 laboratory abnormalities17 and inflammatory bowel disease;18 however, these were either not focused on randomized controlled trial evidence and thus are prone to confounding by indication, or did not concurrently consider the effect of isotretinoin. Therefore, given the prevalence of acne and broad use of isotretinoin, a review focusing on the highest quality of evidence on treatment efficacy and adverse events is well justified"
+        ],
+        "negative_ctxs": [
+            21,
+            1
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched the MEDLINE, Embase and Cochrane Central databases using key words related to acne and isotretinoin without language restrictions, and manually searched study reference lists and clinical trial registries up to 18 October 2016"
+        ],
+        "negative_ctxs": [
+            7,
+            9
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            " Following duplicate removal, two authors (I.A.V. and R.T.L) screened titles and abstracts to identify studies that reported randomized controlled trials of isotretinoin for acne. The kappa statistic was used to determine percentage agreement (with 95% confidence interval) between reviewers"
+        ],
+        "negative_ctxs": [
+            16,
+            1
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Appendix S1 Supplementary methods and search strategy: A data extraction form was used to consolidate baseline metrics, intervention protocols and outcomes data from each study. This was done separately by two authors (R.T.L and I.A.V.), and cross-checked for accuracy."
+        ],
+        "negative_ctxs": [
+            21,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Appendix S1 Supplementary methods and search strategy: The inclusion criteria for eligibility were that studies must have had (1) patients diagnosed with acne, (2) randomized controlled design, with oral isotretinoin as an intervention and placebo or alternate therapy as a comparator condition, and (3) treatment efficacy as a primary outcome measure."
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            ". Study quality was assessed by the same two authors using the Cochrane Collaboration's Risk of Bias Assessment Tool,21"
+        ],
+        "negative_ctxs": [
+            1,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "This review is limited primarily by a paucity of long-term follow-up data and significant heterogeneity in dosing, methodology, reporting and study samples across trials, making metaanalysis of data and assessment of acne recurrence unfeasible"
+        ],
+        "negative_ctxs": [
+            6,
+            12
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "This review is limited primarily by a paucity of long-term follow-up data and significant heterogeneity in dosing, methodology, reporting and study samples across trials, making metaanalysis of data and assessment of acne recurrence unfeasible"
+        ],
+        "negative_ctxs": [
+            17,
+            8
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Fig 2. Study quality assessment."
+        ],
+        "negative_ctxs": [
+            16,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Only one study was classified as having a low risk of bias across all nine criteria considered in study quality (Fig. 2).29 By focusing on only the criteria with the greatest influence on efficacy and adverse event outcomes, three studies were classified as having an overall low risk of bias, three had an\nunclear risk of bias and five had a high risk of bias."
+        ],
+        "negative_ctxs": [
+            2,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding sources R.T.L. and I.A.V. were supported by Alberta Innovates (Canada). Conflicts of interest None declared."
+        ],
+        "negative_ctxs": [
+            8,
+            5
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "This review is limited primarily by a paucity of long-term fol-low-up data and significant heterogeneity in dosing, method-ology, reporting and study samples across trials, making meta-analysis of data and assessment of acne recurrence unfeasible.Furthermore, there may be additional adverse events from iso-tretinoin documented in studies that were missed in thisreview. Study sample sizes were generally quite low-weidentified only 760 participants involved in randomized con-trolled studies comparing isotretinoin with other therapies. Ofthese, fewer than 100 were in placebo-controlled studies andit is therefore possible that the sample sizes considered in thisreview were insufficient to observe all adverse events that maybe associated with isotretinoin. Importantly, across all trialsreported in this review, only 156 female participants wereinvolved, largely due to study exclusion requirements to pre-vent teratogenicity in pregnancy,40and thus treatment efficacyand adverse event data from this review may not be as appli-cable to the female population. This is of concern regardingpsychiatric adverse events; given that depression is moreprevalent among women in the general population,41theoverall incidence of this outcome is likely higher in clinicalpractice than in this review, given the low number of womenstudied.Another important limitation is that the studies reviewed donot necessarily reproduce the manner in which isotretinoin isused in regular clinical practice. For instance, we were unableto assess the effects of different isotretinoin dosing strategies,sex, age or comorbidity on treatment efficacy or adverseevents. Future research will need to focus on these factors toidentify whether patient subgroups exist that are better suitedor contraindicated for isotretinoin therapy, both from efficacyand adverse event perspectives."
+        ],
+        "negative_ctxs": [
+            15,
+            16
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    }
+]

@@ -1,0 +1,456 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "No information"
+        ],
+        "negative_ctxs": [
+            0,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "patients with melanoma or metastatic melanoma and those that studied the\ncombinatorial effect of the participants assigned to BRAF\nand MEK inhibitors"
+        ],
+        "negative_ctxs": [
+            18,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Enrolled patients had histologically confirmed metastatic melanoma with either BRAF V600E or BRAF V600K mutations and have received BRAF and MEK inhibition combination therapy or BRAF monotherapy; 3) efficiency measures included objective response rate (ORR), progression-free survival (PFS), overall survival (OS); and 4) adverse events were recorded."
+        ],
+        "negative_ctxs": [
+            9,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "studies that met the following criteria were included in the study: 1) studies of prospective Phase II and Phase III clinical trials and expanded-access (ie, outside clinical trials) programs, 2) studies that clinically investigated patients with melanoma or metastatic melanoma and those that studied the combinatorial effect of the participants assigned to BRAF and MEK inhibitors, and 3) studies that analyzed efficiency measures including overall response rate (ORR), PFS, and OS, as well as adverse events."
+        ],
+        "negative_ctxs": [
+            3,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The PubMed, EMBASE, and Cochrane Library electronic databases were searched for articles.\nadditionally, the abstracts presented at major meetings of the American Society of Clinical Oncology (ASCO), the European Society for Medical Oncology, and the World Lung Cancer Conference were manually searched.\nFinally, full publications (not abstracts) from the Web of Science database were also searched to ensure that there were no additional studies"
+        ],
+        "negative_ctxs": [
+            20,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Additionally, the abstracts presented at major meetings of the American Society of Clinical Oncology (ASCO), the European Society for Medical Oncology, and the World Lung Cancer Conference were manually searched.\r\nFinally, full publications (not abstracts) from the Web of Science database were also searched to ensure that there were no additional studies."
+        ],
+        "negative_ctxs": [
+            14,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "articles published from January 2000 to January 2017 using keywords \"BRAF\ninhibition\", \"MEK inhibition\", \"Dabrafenib\", \"Trametinib\", \"Vemurafenib\", \"Cobimetinib\", \"Melanoma\", \"Val600\", and \"BRAF-mutant\""
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data extraction was performed via standardized data-collection form, which included the following information: publication reference, treatment regimen, age, gender, ORR, PFS, OS and adverse events. Two investigators (M.D.L. and X.K.Y.) independently extracted the data and graded the methodological quality of each eligible study using the Cochrane Collaboration's risk-of-bias tool . Any discrepancies were resolved by discussion with a third investigator (H.D.H.), or referencing the original publication."
+        ],
+        "negative_ctxs": [
+            8,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Supplementary Materials and Figures"
+        ],
+        "negative_ctxs": [
+            11,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Supplementary Materials and Figures"
+        ],
+        "negative_ctxs": [
+            7,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two investigators (M.D.L. and X.K.Y.) independently extracted the data and graded the methodological quality of each eligible study using the Cochrane Collaboration's risk-of-bias tool . Any discrepancies were resolved by discussion with a third investigator (H.D.H.), or referencing the original publication."
+        ],
+        "negative_ctxs": [
+            10,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two investigators (M.D.L. and X.K.Y.) independently extracted the data and graded the methodological quality of each eligible study using the Cochrane Collaboration's risk-of-bias tool . Any discrepancies were resolved by discussion with a third investigator (H.D.H.), or referencing the original publication."
+        ],
+        "negative_ctxs": [
+            18,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Of the studies initially identified, we excluded reports that did not meet the inclusion criteria after first screening the study titles and abstracts. Finally, eight studies9-16 were ultimately included in the meta-analysis. Figure 1 illustrates how the eight studies were obtained from the literature search.Although data sources of patient information from 2 studies by Long et al. were same [14, 17], they were still included in our meta-analysis because they reported different kinds of adverse events. Moreover, when analyzed the same items from the 2 studies, we adopted the latest published data."
+        ],
+        "negative_ctxs": [
+            13,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Meta-analyses were carried out using software Review\nManager Version 5.3 and R 2.13.2 Meta package. The\npooled RR (risk ratio) and HR (hazard ratio) estimate and\n95% confidence intervals (CIs), stratified by study setting\nand gender, were conducted using a random- or fixed-effect\nmodel, with between-study heterogeneity assessed using\nI2 statistic. If I2 was $50%, then the random-effect model\nwas used, and if not, then the fixed-effect model was used.\nStatistical significance was defined as a P-value ,0.05. All\n95% CIs were two-sided. Finally, the publication bias were\nquantitatively tested by conducting Egger's test"
+        ],
+        "negative_ctxs": [
+            0,
+            6
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Overall response rate All the included studied reported that the ORR of combination therapy was significant higher than that of monotherapy. Similarly, our fixed-effect model analysis also revealed that combination therapy significantly improved the ORR in comparison to monotherapy (RR: 0.75 [95% CI: 0.69 to 0.81], P < 0.00001; Heterogeneity: Chi2 = 3.50, df = 3 [P = 0.32], I2 = 14%) as shown in Figure  Figure3A3A.\r\n"
+        ],
+        "negative_ctxs": [
+            20,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Publication bias was assessed using funnel plot produced by Review Manager 5.3 software. There was an obvious asymmetry of the funnel plot (Figure 5), which suggests that there was some level of publication bias. However, because the number of included studies was only eight, the funnel plots may not be significant. Egger's test revealed that publication bias was not significant for both the incidence and RR of adverse events"
+        ],
+        "negative_ctxs": [
+            16,
+            10
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Data extraction was performed via standardized data-collection form, which included the following information: publication reference, treatment regimen, age, gender, ORR, PFS, OS and adverse events. Two investigators (M.D.L. and X.K.Y.) independently extracted the data and graded the methodological quality of each eligible study using the Cochrane Collaboration's risk-of-bias tool . Any discrepancies were resolved by discussion with a third investigator (H.D.H.), or referencing the original publication."
+        ],
+        "negative_ctxs": [
+            19,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Our meta-analysis had several limitations. Firstly, only eight studies met our inclusion criteria, and hence the small number of trials and low quality of most of the work could make the conclusion less convincing; also publication bias could not be completely excluded based on funnel plot.29 Secondly, because most researchers applied their personal experience in diagnosing the toxicities in the clinical trials, there were different judgements based on the same signs. Thirdly, the treatment regimens and doses of drugs are different among the studies included in the meta-analysis, which led to significant heterogeneity of the data. Therefore, large-scale and well-designed studies are needed to summarize and analyze the data to draw a more convincing conclusion.30"
+        ],
+        "negative_ctxs": [
+            15,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "No information"
+        ],
+        "negative_ctxs": [
+            0,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            18,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "No information"
+        ],
+        "negative_ctxs": [
+            12,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Enrolled patients had histologically confirmed metastatic melanoma with either BRAF V600E or BRAF V600K mutations and have received BRAF and MEK inhibition combination therapy or BRAF monotherapy; 3) efficiency measures included objective response rate (ORR), progression-free survival (PFS), overall survival (OS); and 4) adverse events were recorded."
+        ],
+        "negative_ctxs": [
+            9,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The PubMed, EMBASE, and Cochrane Library electronic databases were searched for articles.\nadditionally, the abstracts presented at major meetings of the American Society of Clinical Oncology (ASCO), the European Society for Medical Oncology, and the World Lung Cancer Conference were manually searched.\nFinally, full publications (not abstracts) from the Web of Science database were also searched to ensure that there were no additional studies"
+        ],
+        "negative_ctxs": [
+            6,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data extraction was performed via standardized data-collection form, which included the following information: publication reference, treatment regimen, age, gender, ORR, PFS, OS and adverse events. Two investigators (M.D.L. and X.K.Y.) independently extracted the data and graded the methodological quality of each eligible study using the Cochrane Collaboration's risk-of-bias tool . Any discrepancies were resolved by discussion with a third investigator (H.D.H.), or referencing the original publication."
+        ],
+        "negative_ctxs": [
+            0,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Supplementary Materials and Figures"
+        ],
+        "negative_ctxs": [
+            16,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two investigators (M.D.L. and X.K.Y.) independently extracted the data and graded the methodological quality of each eligible study using the Cochrane Collaboration's risk-of-bias tool . Any discrepancies were resolved by discussion with a third investigator (H.D.H.), or referencing the original publication."
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Meta-analyses were carried out using software Review\nManager Version 5.3 and R 2.13.2 Meta package. The\npooled RR (risk ratio) and HR (hazard ratio) estimate and\n95% confidence intervals (CIs), stratified by study setting\nand gender, were conducted using a random- or fixed-effect\nmodel, with between-study heterogeneity assessed using\nI2 statistic. If I2 was $50%, then the random-effect model\nwas used, and if not, then the fixed-effect model was used.\nStatistical significance was defined as a P-value ,0.05. All\n95% CIs were two-sided. Finally, the publication bias were\nquantitatively tested by conducting Egger's test"
+        ],
+        "negative_ctxs": [
+            9,
+            2
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Overall response rate All the included studied reported that the ORR of combination therapy was significant higher than that of monotherapy. Similarly, our fixed-effect model analysis also revealed that combination therapy significantly improved the ORR in comparison to monotherapy (RR: 0.75 [95% CI: 0.69 to 0.81], P < 0.00001; Heterogeneity: Chi2 = 3.50, df = 3 [P = 0.32], I2 = 14%) as shown in Figure  Figure3A3A.\r\n"
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Publication bias was assessed using funnel plot produced by Review Manager 5.3 software. There was an obvious asymmetry of the funnel plot (Figure 5), which suggests that there was some level of publication bias. However, because the number of included studies was only eight, the funnel plots may not be significant. Egger's test revealed that publication bias was not significant for both the incidence and RR of adverse events"
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Data extraction was performed via standardized data-collection form, which included the following information: publication reference, treatment regimen, age, gender, ORR, PFS, OS and adverse events. Two investigators (M.D.L. and X.K.Y.) independently extracted the data and graded the methodological quality of each eligible study using the Cochrane Collaboration's risk-of-bias tool . Any discrepancies were resolved by discussion with a third investigator (H.D.H.), or referencing the original publication."
+        ],
+        "negative_ctxs": [
+            21,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The authors report no conflicts of interest in this work."
+        ],
+        "negative_ctxs": [
+            17,
+            16
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Our meta-analysis had several limitations. Firstly, only eight studies met our inclusion criteria, and hence the small number of trials and low quality of most of the work could make the conclusion less convincing; also publication bias could not be completely excluded based on funnel plot.29 Secondly, because most researchers applied their personal experience in diagnosing the toxicities in the clinical trials, there were different judgements based on the same signs. Thirdly, the treatment regimens and doses of drugs are different among the studies included in the meta-analysis, which led to significant heterogeneity of the data. Therefore, large-scale and well-designed studies are needed to summarize and analyze the data to draw a more convincing conclusion.30"
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": []
+    }
+]

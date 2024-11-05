@@ -1,0 +1,482 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "This study aimed to assess the efficacy of ceftriaxone and doxycycline/tetracycline in the treatment of early syphilis relative to that of penicillin by using NMA, and thereby to determine which antibiotic is a better replacement for penicillin.\n\nThe eligible articles included in this study must meet the following criteria: (1) They are published RCTs or observational researches in English; (2) involved primary, secondary, or early latent syphilis; (3) made comparisons between penicillin and the alternatives (ceftriaxone, doxycycline/tetracycline), or between ceftriaxone and doxycycline/tetracycline in efficacy; and (4) provided adequate data on outcomes of interest"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The eligible articles included in this study must meet the following criteria: (1) They are published RCTs or observational researches in English; (2) involved primary, secondary, or early latent syphilis; (3) made comparisons between penicillin and the alternatives (ceftriaxone, doxycycline/tetracycline), or between ceftriaxone and doxycycline/tetracycline in efficacy; and (4) provided adequate data on outcomes of interest.\n\nOutcomes of interest were serological response rates and treatment failure rates at both 6- and 12-month follow-up. Serological response was defined as the titer converting to negative or having a \u0015 4-fold (2 dilutions) decrease in Venereal Disease Research Laboratory Test/rapid plasma regain test/toluidine red unheated serum test (VDRL/RPR/TRUST) without increase during the follow-up period. Treatment failure was defined as clinical progression of the disease or having a \u0015 4-fold (2 dilutions) increase in VDRL/RPR/TRUST titer without an initial response during the follow-up period."
+        ],
+        "negative_ctxs": [
+            15,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "The eligible articles included in this study must meet the following criteria: (1) They are published RCTs or observational researches in English\n\n(4) provided adequate data on outcomes of interest\n\nFull-text articles excluded, with reasons (n=17) \nInappropriate intervention (n=1)\nNon early syphilis (n=9)\nTrials with missing data (n=1)\nNot controlled trials (n=6)"
+        ],
+        "negative_ctxs": [
+            16,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "The eligible articles included in this study must meet the following criteria: (1) They are published RCTs or observational researches in English"
+        ],
+        "negative_ctxs": [
+            13,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "PubMed, Cochrane Central Register of Controlled Trials, Embase, the Web of Science and ClinicalTrials.gov"
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": [
+            1,
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The references of the included articles and documented meta-analyses were also retrieved manually to widen the scope of literature search."
+        ],
+        "negative_ctxs": [
+            19,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "by combining Medical Subject Headings (MeSH) descriptors with free text terms to identify relevant studies; and appropriate adjustment was made as database varied (S2 Table)\n"
+        ],
+        "negative_ctxs": [
+            7,
+            19
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "The eligible articles included in this study must meet the following criteria: (1) They are published RCTs or observational researches in English"
+        ],
+        "negative_ctxs": [
+            10,
+            19
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "The course of study selection, data extraction, and quality assessment of included studies was completed by two investigators independently. Any disagreements were settled by discussion."
+        ],
+        "negative_ctxs": [
+            8,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "The course of study selection, data extraction, and quality assessment of included studies was completed by two investigators independently. Any disagreements were settled by discussion."
+        ],
+        "negative_ctxs": [
+            17,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Summary of the characteristics of the 10 trials included in this research."
+        ],
+        "negative_ctxs": [
+            18,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 3. Summary of data on serological response rates of interventions at 6-month follow-up.\n\nTable 4. Summary of data on serological response rates of interventions at 12-month follow-up."
+        ],
+        "negative_ctxs": [
+            7,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The Cochrane risk of bias assessment tool was used to assess the quality of identified RCTs . Review Manager 5.3 (Cochrane Collaboration, Oxford UK) was employed to generate the risk of bias figure. The Newcastle-Ottawa scale was adopted to evaluate observational studies ."
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "The course of study selection, data extraction, and quality assessment of included studies\nwas completed by two investigators independently. Any disagreements were settled by discussion."
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "five included studies referred to the records of serological tests at 6-month and nine studies at 12-month. Considering the inadequacy of the data of serological tests at 6-month follow-up, they were analyzed with a qualitatively descriptive study.\n"
+        ],
+        "negative_ctxs": [
+            11,
+            21
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Random effects model was used throughout the study . Heterogeneity was examined by Q test  and I2 test . P< 0.05 in Q test and I2 > 50% indicated statistically significant heterogeneity. If the results indicated heterogeneity existing, meta-regression was performed to identify its source "
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "no significant heterogeneity was found among individual studies based on the Q and I2 test (P = 1.000, I2 = 0)"
+        ],
+        "negative_ctxs": [
+            2,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Fig 5 showed a symmetric funnel plot, which visually illustrated the absence of publication bias. In line with this, there was no significant publication bias for included studies (Begg Mazumdar test P = 0.392; Egger's test bias = 0.11, P = 0761). Moreover, sensitivity analysis using exclusion of any single study did not show any substantial changes in the pooled RR. It confirmed the robustness of our findings."
+        ],
+        "negative_ctxs": [
+            18,
+            13
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "All three included RCTs mentioned randomization, but not allocation concealment and blind\nmethod; one of them had incomplete outcome data (Fig 2). On the other hand, the included\nobservational studies met most of the quality assessment criteria, and two of them were not\ncontrolled for potential confounding factors by matching (Table 2).\n\nTable 2. Results of quality assessment using Newcastle-Ottawa scale for cohort studies.\n\nMoreover, sensitivity analysis using exclusion of any single study did not show any substantial changes in the pooled RR"
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Because RCTs for assessing the efficacy of penicillin alternatives in treating syphilis are scant, we combined RCTs and observational studies in our study; such combination was proved to be valid because of no evidence of heterogeneity in included studies, the consistent results of direct and network meta-analysis and the robustness of pooled estimates.\n\nThe present study has some limitations. Firstly, because RCTs and observational studies\r\nwere combined in the analysis, the results should be interpreted with caution, although evidence\r\nof heterogeneity was not found. Secondly, due to a relatively low number of patients\r\nreceiving ceftriaxone or doxycycline/tetracycline in the included studies, we could not determine\r\nwhether the differences in the efficacy of different treatments were attributed to varied\r\ntreatment regimens, or to different syphilis stages such as primary, secondary or early latent.\r\nThirdly, the regimens of interventions varied in different trials, which made it impossible for\r\nus to determine the optimal dose and treatment course for each tested drug. Finally, we were\r\nunable to clearly distinguish between treatment failure and reinfection, which might affect the\r\nassessment of treatment failure."
+        ],
+        "negative_ctxs": [
+            13,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "A total of 2049 patients received treatments for early syphilis in the included studies, ranging in age from 15 to 80 years; 1281 were males (two studies [28, 36] did not report the information on the gender of the patients). Among all 2049 patients, 115 received ceftriaxone, 267 were treated with doxycycline/tetracycline and 1667 with penicillin. Single dose benzathine\npenicillin G (BenPen) was prescribed as the comparator in most of the included studies [28,\n30, 31, 33+-37]. Other comparators included two doses of BenPen , three doses of BenPe0n [28, 33], clemizole penicillin G [29, 34], penicillin G , procaine penicillin G with aluminum\nstearate, and aqueous procaine penicillin G\n\nTable 1. Summary of the characteristics of the 10 trials included in this research."
+        ],
+        "negative_ctxs": [
+            16,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The eligible articles included in this study must meet the following criteria: (1) They are published RCTs or observational researches in English; (2) involved primary, secondary, or early latent syphilis; (3) made comparisons between penicillin and the alternatives (ceftriaxone, doxycycline/tetracycline), or between ceftriaxone and doxycycline/tetracycline in efficacy; and (4) provided adequate data on outcomes of interest.\n\nOutcomes of interest were serological response rates and treatment failure rates at both 6- and 12-month follow-up. Serological response was defined as the titer converting to negative or having a \u0015 4-fold (2 dilutions) decrease in Venereal Disease Research Laboratory Test/rapid plasma regain test/toluidine red unheated serum test (VDRL/RPR/TRUST) without increase during the follow-up period. Treatment failure was defined as clinical progression of the disease or having a \u0015 4-fold (2 dilutions) increase in VDRL/RPR/TRUST titer without an initial response during the follow-up period."
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Because RCTs for assessing the efficacy of penicillin alternatives in treating syphilis are scant, we combined RCTs and observational studies in our study; such combination was proved to be valid because of no evidence of heterogeneity in included studies, the consistent results of direct and network meta-analysis and the robustness\nof pooled estimates"
+        ],
+        "negative_ctxs": [
+            3,
+            11
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "PubMed, Cochrane Central Register of Controlled Trials, Embase, the Web of Science and ClinicalTrials.gov"
+        ],
+        "negative_ctxs": [
+            17,
+            15
+        ],
+        "positive_ctxs": [
+            1,
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "The course of study selection, data extraction, and quality assessment of included studies was completed by two investigators independently. Any disagreements were settled by discussion."
+        ],
+        "negative_ctxs": [
+            16,
+            6
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "The course of study selection, data extraction, and quality assessment of included studies was completed by two investigators independently. Any disagreements were settled by discussion."
+        ],
+        "negative_ctxs": [
+            2,
+            20
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Summary of the characteristics of the 10 trials included in this research."
+        ],
+        "negative_ctxs": [
+            9,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The Cochrane risk of bias assessment tool was used to assess the quality of identified RCTs . Review Manager 5.3 (Cochrane Collaboration, Oxford UK) was employed to generate the risk of bias figure. The Newcastle-Ottawa scale was adopted to evaluate observational studies ."
+        ],
+        "negative_ctxs": [
+            6,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Random effects model was used throughout the study . Heterogeneity was examined by Q test  and I2 test . P< 0.05 in Q test and I2 > 50% indicated statistically significant heterogeneity. If the results indicated heterogeneity existing, meta-regression was performed to identify its source "
+        ],
+        "negative_ctxs": [
+            16,
+            20
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "no significant heterogeneity was found among individual studies based on the Q and I2 test (P = 1.000, I2 = 0)"
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Fig 5 showed a symmetric funnel plot, which visually illustrated the absence of publication bias. In line with this, there was no significant publication bias for included studies (Begg Mazumdar test P = 0.392; Egger's test bias = 0.11, P = 0761). Moreover, sensitivity analysis using exclusion of any single study did not show any substantial changes in the pooled RR. It confirmed the robustness of our findings."
+        ],
+        "negative_ctxs": [
+            1,
+            5
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "All three included RCTs mentioned randomization, but not allocation concealment and blind\nmethod; one of them had incomplete outcome data (Fig 2). On the other hand, the included\nobservational studies met most of the quality assessment criteria, and two of them were not\ncontrolled for potential confounding factors by matching (Table 2).\n\nTable 2. Results of quality assessment using Newcastle-Ottawa scale for cohort studies.\n\nMoreover, sensitivity analysis using exclusion of any single study did not show any substantial changes in the pooled RR"
+        ],
+        "negative_ctxs": [
+            3,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding: This work was supported by Scientific and technological innovation projects of medicine and health of Chinese Academy of Medical Sciences (2016-I2M-3-021). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.\n\nCompeting interests: The authors have declared that no competing interests exist."
+        ],
+        "negative_ctxs": [
+            20,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Because RCTs for assessing the efficacy of penicillin alternatives in treating syphilis are scant, we combined RCTs and observational studies in our study; such combination was proved to be valid because of no evidence of heterogeneity in included studies, the consistent results of direct and network meta-analysis and the robustness of pooled estimates.\n\nThe present study has some limitations. Firstly, because RCTs and observational studies\r\nwere combined in the analysis, the results should be interpreted with caution, although evidence\r\nof heterogeneity was not found. Secondly, due to a relatively low number of patients\r\nreceiving ceftriaxone or doxycycline/tetracycline in the included studies, we could not determine\r\nwhether the differences in the efficacy of different treatments were attributed to varied\r\ntreatment regimens, or to different syphilis stages such as primary, secondary or early latent.\r\nThirdly, the regimens of interventions varied in different trials, which made it impossible for\r\nus to determine the optimal dose and treatment course for each tested drug. Finally, we were\r\nunable to clearly distinguish between treatment failure and reinfection, which might affect the\r\nassessment of treatment failure."
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    }
+]

@@ -1,0 +1,472 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Studies meeting the following criteria were included: (a) participants ( 18 years) were diagnosed with hyperuricemia with or without gout; (b) intervention group taken one of the seven uricosuric agents (probenecid, benzbromarone,lesinurad, dotinurad, verinurad, arhalofenate, or SHR4640); (c) comparison group taken placebo or another uricosuric agent different from the treatment group; (d) outcomes of interest were reported; and (e) study design was randomized controlled trial (RCT), cohort study, or case-control study."
+        ],
+        "negative_ctxs": [
+            12,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Studies meeting the following criteria were included: (a) participants ( 18 years) were diagnosed with hyperuricemia with or without gout; (b) intervention group taken one of the seven uricosuric agents (probenecid, benzbromarone,lesinurad, dotinurad, verinurad, arhalofenate, or SHR4640); (c) comparison group taken placebo or another uricosuric agent different from the treatment group; (d) outcomes of interest were reported; and (e) study design was randomized controlled trial (RCT), cohort study, or case-control study.\n\nIn the present study, the primary efficacy outcome was defined as the percentage of patients achieving serum concentration of uric acid::; 6.0 mg/dL at the final visit. The primary safety outcome was defined as the incidence of any AEs during the period of the trial (including abnormal liver function, renal impairment, rash, gastrointestinal disorders, joint-related signs). Besides, the secondary outcomes were the incidence of gouty arthritis and gouty flares."
+        ],
+        "negative_ctxs": [
+            10,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "There was no restriction of language or year of publication."
+        ],
+        "negative_ctxs": [
+            27,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "There was no restriction of language or year of publication."
+        ],
+        "negative_ctxs": [
+            18,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The PubMed, Embase, Cochrane Library databases, and Clinical Trials.gov were searched from their inception to 2 July 2022."
+        ],
+        "negative_ctxs": [
+            21,
+            24
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We also checked reference lists of relevant reviews and eligible studies to ensure a comprehensive search."
+        ],
+        "negative_ctxs": [
+            23,
+            18
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "According to the search principle of PICOS (participants, interventions, comparisons, outcomes, and study design), we conducted a search strategy that combined the free text and medical subject heading terms of the following keywords: \"hyperuricemia,\" \"gout,\" \"uricosuric\" (Supplementary Table SI).\n\nSupplementary Table S1 The search strategy"
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "There was no restriction of language or year of publication."
+        ],
+        "negative_ctxs": [
+            20,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two investigators (L.R.C. and Y.J.L.) independently extracted all data according to a data extraction form."
+        ],
+        "negative_ctxs": [
+            18,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "...and the characteristics of included studies are presented in Table I. The publications were from 2008 to 2022, and 58.33% (n= 7) of studies were conducted in Asia. The study sample sizes ranged from 14 to 319 patients, while patient age ranged from 26 to 75 years, 96.87% were male."
+        ],
+        "negative_ctxs": [
+            0,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1 Characteristics of the included studies [contains] N, number of participants by treament/control group; mean; standard deviation; serum uric acid"
+        ],
+        "negative_ctxs": [
+            2,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "After extracting the data, the methodological quality was assessed by using the Cochrane bias risk assessment tool for included studies."
+        ],
+        "negative_ctxs": [
+            27,
+            25
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Nine studies [21-26, 29-31] comprising 1557 patients evaluated the primary efficacy outcome."
+        ],
+        "negative_ctxs": [
+            20,
+            17
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We performed random-effects pairwise meta-analyses and a network meta-analysis in a frequentist framework to obtain network estimates for the aforementioned outcomes."
+        ],
+        "negative_ctxs": [
+            14,
+            17
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Secondly, we evaluated the heterogeneity by conducting a pairwise meta-analysis to generate direct estimates for primary outcomes.\n\nThe heterogeneity of direct comparisons is displayed in Supplementary Table S5. Substantial heterogeneity was observed when comparing dotinurad 2 mg once daily with dotinurad 4 mg once daily for primary efficacy outcome (} = 52.40%) and when comparing dotinurad 2 mg once daily (}=50.6%) or dotinurad 4 mg once daily  (}=71.2%) with placebo for primary safety outcome.\n\nFurthermore, no local and global inconsistencies in all comparisons were observed (Supplementary Table S6 and Supplementary Table S7)."
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "To explore potential sources of publication bias, we assessed the presence of small-trial effects for primary outcomes with the comparison adjusted funnel plot.\n\nIn addition, the comparison adjusted funnel plot did not show evidence of publica6on bias for small study effects (Supplementary Figure S5)."
+        ],
+        "negative_ctxs": [
+            14,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The risks of bias assessments for included studies are presented in Supplementary Figure S2. Six studies had a low overall risk of bias [22, 24, 27-29, 31). Five studies had a moderate overall risk owing to other bias [21, 23, 26, 30, 32). One study had a high overall risk primarily because of failure to completely blind participants and personnel ."
+        ],
+        "negative_ctxs": [
+            23,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Our findings have the following limitations. Firstly, the available data for many comparisons are based on few studies (in some cases just one or two studies), leading to relatively thinly connected networks and low statistical power to detect possible differences. Secondly, although we applied stringent inclusion criteria and identified no clear transitivity problems, there was heterogeneity for some outcomes. Therefore, the results should be interpreted with caution. Thirdly, due to limited original data, we were unable to perform subgroup analysis according to hyperuricemia type. Furthermore, most of the studies were of short duration \n( < 12 weeks) and the assessment of only short-term effects might overemphasize the therapeutic effects of uricosuric agents without considering special interest and serious AEs such as uric acid stone. Thus, the effects of long-term treatment require further investigation. "
+        ],
+        "negative_ctxs": [
+            4,
+            24
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            16,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Studies meeting the following criteria were included: (a) participants ( 18 years) were diagnosed with hyperuricemia with or without gout; (b) intervention group taken one of the seven uricosuric agents (probenecid, benzbromarone,lesinurad, dotinurad, verinurad, arhalofenate, or SHR4640); (c) comparison group taken placebo or another uricosuric agent different from the treatment group; (d) outcomes of interest were reported; and (e) study design was randomized controlled trial (RCT), cohort study, or case-control study.\n\nIn the present study, the primary efficacy outcome was defined as the percentage of patients achieving serum concentration of uric acid::; 6.0 mg/dL at the final visit. The primary safety outcome was defined as the incidence of any AEs during the period of the trial (including abnormal liver function, renal impairment, rash, gastrointestinal disorders, joint-related signs). Besides, the secondary outcomes were the incidence of gouty arthritis and gouty flares."
+        ],
+        "negative_ctxs": [
+            17,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The PubMed, Embase, Cochrane Library databases, and Clinical Trials.gov were searched from their inception to 2 July 2022."
+        ],
+        "negative_ctxs": [
+            2,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two investigators (L.R.C. and Y.J.L.) independently extracted all data according to a data extraction form."
+        ],
+        "negative_ctxs": [
+            20,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "...and the characteristics of included studies are presented in Table I. The publications were from 2008 to 2022, and 58.33% (n= 7) of studies were conducted in Asia. The study sample sizes ranged from 14 to 319 patients, while patient age ranged from 26 to 75 years, 96.87% were male."
+        ],
+        "negative_ctxs": [
+            27,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "After extracting the data, the methodological quality was assessed by using the Cochrane bias risk assessment tool for included studies."
+        ],
+        "negative_ctxs": [
+            27,
+            8
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We performed random-effects pairwise meta-analyses and a network meta-analysis in a frequentist framework to obtain network estimates for the aforementioned outcomes."
+        ],
+        "negative_ctxs": [
+            23,
+            22
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Secondly, we evaluated the heterogeneity by conducting a pairwise meta-analysis to generate direct estimates for primary outcomes.\n\nThe heterogeneity of direct comparisons is displayed in Supplementary Table S5. Substantial heterogeneity was observed when comparing dotinurad 2 mg once daily with dotinurad 4 mg once daily for primary efficacy outcome (} = 52.40%) and when comparing dotinurad 2 mg once daily (}=50.6%) or dotinurad 4 mg once daily  (}=71.2%) with placebo for primary safety outcome.\n\nFurthermore, no local and global inconsistencies in all comparisons were observed (Supplementary Table S6 and Supplementary Table S7)."
+        ],
+        "negative_ctxs": [
+            9,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "To explore potential sources of publication bias, we assessed the presence of small-trial effects for primary outcomes with the comparison adjusted funnel plot.\n\nIn addition, the comparison adjusted funnel plot did not show evidence of publica6on bias for small study effects (Supplementary Figure S5)."
+        ],
+        "negative_ctxs": [
+            15,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The risks of bias assessments for included studies are presented in Supplementary Figure S2. Six studies had a low overall risk of bias [22, 24, 27-29, 31). Five studies had a moderate overall risk owing to other bias [21, 23, 26, 30, 32). One study had a high overall risk primarily because of failure to completely blind participants and personnel ."
+        ],
+        "negative_ctxs": [
+            2,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Disclosures None. \n\nFunding This study was funded by the National Science Foundation of China (grant No. 81960664), the Applied Basic Research Program Yunnan Province of China (Joint Special Project of Kunming Medical University (grant No. 202IOIAY070001-300), and the Science and Technology Planning Project of 920th Hospital of Joint Logistics Support Force of People's Liberation Army (grant No. 2020YGB 11). "
+        ],
+        "negative_ctxs": [
+            19,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Our findings have the following limitations. Firstly, the available data for many comparisons are based on few studies (in some cases just one or two studies), leading to relatively thinly connected networks and low statistical power to detect possible differences. Secondly, although we applied stringent inclusion criteria and identified no clear transitivity problems, there was heterogeneity for some outcomes. Therefore, the results should be interpreted with caution. Thirdly, due to limited original data, we were unable to perform subgroup analysis according to hyperuricemia type. Furthermore, most of the studies were of short duration \n( < 12 weeks) and the assessment of only short-term effects might overemphasize the therapeutic effects of uricosuric agents without considering special interest and serious AEs such as uric acid stone. Thus, the effects of long-term treatment require further investigation. "
+        ],
+        "negative_ctxs": [
+            25,
+            4
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    }
+]

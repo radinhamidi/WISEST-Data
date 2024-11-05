@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We performed ameta-analysis of\nrandomized controlled trials to compare\nthe efficacy and safety of the various agents\navailable for thromboprophylaxis.\n\nOnly prospective randomized controlled trials were considered\nfor inclusion in this meta-analysis. Studies were eligible\nif they compared (1) UFH with the control, (2) LMWH with\nthe control, (3) LMWH with UFH, or (4) a selective factor Xa\ninhibitor with a placebo. Studies were considered appropriate\nfor inclusion only if they involved hospitalized medical patients\nand reported the occurrence of DVT, PE, and/or mortality\nafter the administration of therapy.\nStudies with fewer than 30 patients were excluded. Studies\nwere also excluded if they examined thromboembolism in surgical,\ntrauma, or critical care patients only or if the study authors\ndid not provide a subgroup analysis for medical patients\nregarding the occurrence of thromboembolism. In addition, trials\nthat studied thromboembolism associated with central venous\ncatheters in patients with cancer and trials that involved\npatients admitted to intensive care units were excluded."
+        ],
+        "negative_ctxs": [
+            22,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Only prospective randomized controlled trials were considered\nfor inclusion in this meta-analysis. Studies were eligible\nif they compared (1) UFH with the control, (2) LMWH with\nthe control, (3) LMWH with UFH, or (4) a selective factor Xa\ninhibitor with a placebo. Studies were considered appropriate\nfor inclusion only if they involved hospitalized medical patients\nand reported the occurrence of DVT, PE, and/or mortality\nafter the administration of therapy.\nStudies with fewer than 30 patients were excluded. Studies\nwere also excluded if they examined thromboembolism in surgical,\ntrauma, or critical care patients only or if the study authors\ndid not provide a subgroup analysis for medical patients\nregarding the occurrence of thromboembolism. In addition, trials\nthat studied thromboembolism associated with central venous\ncatheters in patients with cancer and trials that involved\npatients admitted to intensive care units were excluded.\n\nThe definitions of outcome measures were considered to be\r\nthose provided by the authors of the various studies with the\r\nexception of total bleeding and major bleeding. Intracerebral\r\nand intracranial hemorrhages and hemorrhagic transformations\r\nwere included in the definition of total bleeding and major\r\nbleeding episodes. The outcome of total bleeding includes\r\nmajor, minor, and fatal bleeding episodes but not subcutaneous\r\ninjection site hematomas."
+        ],
+        "negative_ctxs": [
+            9,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Studies with fewer than 30 patients were excluded. Studies\nwere also excluded if they examined thromboembolism in surgical,\ntrauma, or critical care patients only or if the study authors\ndid not provide a subgroup analysis for medical patients\nregarding the occurrence of thromboembolism. In addition, trials\nthat studied thromboembolism associated with central venous\ncatheters in patients with cancer and trials that involved\npatients admitted to intensive care units were excluded\n\nOur search for studies conducted in accordance with the\r\nQuality of Reporting of Meta-analyses statement18 is summarized\r\nin Figure 1.We identified 936 potentially suitable\r\narticles. Of these, 54 examined the relevant end points\r\nin appropriate patient groups. Nine of these trials21-29 were\r\nexcluded because they did not compare (1) UFH with the\r\ncontrol, (2)LMWHwith the control, (3)LMWHwith UFH,\r\nor (4) a selective factor Xa inhibitor with a comparator.\r\nFour studies30-33 were excluded because they were not randomized\r\ncontrolled trials, and 2 studies34,35 were excluded\r\nbecause of potential biases from the study randomization\r\nprocess. One article36 was excluded because it was\r\nan abstract that outlined research later published in another\r\njournal.37 One additional study38 was excluded because\r\nit was not possible to extract sufficient data from the\r\npublished article for statistical analysis to be performed\r\n(the number of patients in each group who experienced\r\nan event and the number of patients randomized to each\r\ngroupwere required)."
+        ],
+        "negative_ctxs": [
+            9,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Our search for studies conducted in accordance with the\nQuality of Reporting of Meta-analyses statement18 is summarized\nin Figure 1.We identified 936 potentially suitable\narticles. Of these, 54 examined the relevant end points\nin appropriate patient groups. Nine of these trials21-29 were\nexcluded because they did not compare (1) UFH with the\ncontrol, (2)LMWHwith the control, (3)LMWHwith UFH,\nor (4) a selective factor Xa inhibitor with a comparator.\nFour studies30-33 were excluded because they were not randomized\ncontrolled trials, and 2 studies34,35 were excluded\nbecause of potential biases from the study randomization\nprocess. One article36 was excluded because it was\nan abstract that outlined research later published in another\njournal.37 One additional study38 was excluded because\nit was not possible to extract sufficient data from the\npublished article for statistical analysis to be performed\n(the number of patients in each group who experienced\nan event and the number of patients randomized to each\ngroupwere required)."
+        ],
+        "negative_ctxs": [
+            23,
+            3
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "MEDLINE (via PubMed), EMBASE, and the\nCochrane Central Register of Controlled Trials\nwere searched from 1950, 1966, and 1800, respectively,\nthrough June 30, 2006\n\nAll searches were restricted to trials that involved\r\nhumans and were published in English"
+        ],
+        "negative_ctxs": [
+            14,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "In addition, the\r\nreference lists of all relevant trials were hand searched."
+        ],
+        "negative_ctxs": [
+            5,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "MEDLINE and the Cochrane Central Register of Controlled Trials were\r\nsearched using the medical subject heading terms heparin, venous\r\nthrombosis, and pulmonary embolism. EMBASE was searched\r\nusing the EMTREE keywords heparin and venous thromboembolism.\r\nThese databases were also searched using the term factor\r\nXa inhibitor"
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "All searches were restricted to trials that involved\nhumans and were published in English"
+        ],
+        "negative_ctxs": [
+            21,
+            22
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Study selection, validity assessment, and data abstraction were\nperformed by 2 independent reviewers (L.W. and S.W.) in an\nunblinded standardized manner. Two other investigators (H.K.\nand J.S.) were consulted whenever the need arose for further discussion\nabout the eligibility of a trial for inclusion in this metaanalysis\nor about results reported by individual studies. This process\nwas undertaken in accordance with the guidelines of the\nQuality of Reporting of Meta-analyses statement."
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Study selection, validity assessment, and data abstraction were\nperformed by 2 independent reviewers (L.W. and S.W.) in an\nunblinded standardized manner. Two other investigators (H.K.\nand J.S.) were consulted whenever the need arose for further discussion\nabout the eligibility of a trial for inclusion in this metaanalysis\nor about results reported by individual studies. This process\nwas undertaken in accordance with the guidelines of the\nQuality of Reporting of Meta-analyses statement."
+        ],
+        "negative_ctxs": [
+            15,
+            20
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Among the 36 trials included in this meta-analysis, 4 different\ncomparisons of therapy were studied. Fourteen\ntrials compared UFH with the control,50-63 11 trials comparedLMWHwith\nthe control,39-49 10 compared LMWH \nwith UFH,9,37,64-71 and 1 compared fondaparinux sodium\r\nwith placebo72 (Table 2).\n\nTable 1. Characteristics of Trials Included in the Meta-analysis"
+        ],
+        "negative_ctxs": [
+            11,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 2. Quantitative Findings of Meta-analyses for Efficacy and Safety Outcomes"
+        ],
+        "negative_ctxs": [
+            25,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Study selection, validity assessment, and data abstraction were performed by 2 independent reviewers (L.W. and S.W.) in an unblinded standardized manner. Two other investigators (H.K.\nand J.S.) were consulted whenever the need arose for further discussion\nabout the eligibility of a trial for inclusion in this metaanalysis\nor about results reported by individual studies. This process\nwas undertaken in accordance with the guidelines of the\nQuality of Reporting of Meta-analyses statement.\n\n2 studies34,35 were excluded because of potential biases from the study randomization\nprocess."
+        ],
+        "negative_ctxs": [
+            2,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Study selection, validity assessment, and data abstraction were\nperformed by 2 independent reviewers (L.W. and S.W.) in an\nunblinded standardized manner. Two other investigators (H.K.\nand J.S.) were consulted whenever the need arose for further discussion\nabout the eligibility of a trial for inclusion in this metaanalysis\nor about results reported by individual studies."
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Our search for studies conducted in accordance with the\r\nQuality of Reporting of Meta-analyses statement18 is summarized\r\nin Figure 1.We identified 936 potentially suitable\r\narticles. Of these, 54 examined the relevant end points\r\nin appropriate patient groups. Nine of these trials21-29 were\r\nexcluded because they did not compare (1) UFH with the\r\ncontrol, (2)LMWHwith the control, (3)LMWHwith UFH,\r\nor (4) a selective factor Xa inhibitor with a comparator.\r\nFour studies30-33 were excluded because they were not randomized\r\ncontrolled trials, and 2 studies34,35 were excluded\r\nbecause of potential biases from the study randomization\r\nprocess. One article36 was excluded because it was\r\nan abstract that outlined research later published in another\r\njournal.37 One additional study38 was excluded because\r\nit was not possible to extract sufficient data from the\r\npublished article for statistical analysis to be performed\r\n(the number of patients in each group who experienced\r\nan event and the number of patients randomized to each\r\ngroupwere required). The remaining 36 trials9,37,39-72 were\r\nincluded in this meta-analysis"
+        ],
+        "negative_ctxs": [
+            15,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            25,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "and the DerSimonian and Laird random-effects method19,20 of meta-analysis\nfor binary outcomes. The fixed-effects model calculates\nan average of the outcome statistic from each study, whereas\nthe random-effects model additionally considers the variability\namong the studies analyzed. Results were presented as estimates\nof relative risk (RR) for each outcome measure, with\n95% confidence intervals (CIs), in which relative weights were\nassigned to each study on the basis of treatment group size and\nnumber of observed events.19,20 Heterogeneity \u00012 tests were performed\nin each analysis, and statistical significance was assumed\nat the .05 level via the use of statistical 2-way z tests.\n\nWe were able to conduct a meta-analysis for a particular outcome\nif it was investigated in 3 or more trials. DVT, PE, mortality,\nand total bleeding were analyzed in studies that compared\nLMWH with the control,UFH with the control, and LMWH with\nUFH. Results of all studies that compared UFH, LMWH, or factor\nXa inhibitor with the control were combined to produce an\nanalysis of prophylaxis vs no prophylaxis for these outcomes.\n\nUnless otherwise stated, reported figures are discussed\nin the context of the fixed-effects mode because of no major\napparent difference with results obtained from the random-\neffects model."
+        ],
+        "negative_ctxs": [
+            0,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Unless otherwise stated, reported figures are discussed\nin the context of the fixed-effects mode because of no major\napparent difference with results obtained from the random-\neffects model\n\nSeveral different modes of investigation were used to\r\ndiagnose DVT among the trials. Venography,* iodine 125\r\nfibrinogen scanning,39-41,50-60,65-68 impedance plethysmography,\r\n40,64,66 and ultrasonography9,42,47,49,61,64,71 were all used.\r\nAlternatively, in some cases DVT was diagnosed either\r\nclinically46,57,64 or at autopsy.37,42,62,70 In 1 study,43 the method\r\nused to diagnose reported DVT was not specified.\r\nMethods used to diagnose PE were ventilation and perfusion\r\nlung scanning,+ pulmonary angiography,9,37,47,49,68-72\r\nspiral computed tomography,47,49,71,72 magnetic resonance\nimaging,49 and chest radiography.70 In some studies, PE was\r\ndiagnosed clinically41,50,51,54,56,57 or at autopsy.++ The method\r\nused was not specified in some studies,42,45,46,48,53,60,63,67\r\nwhereas in others descriptions such as \"radiographic evidence\"\r\nor \"radiological evidence\" were used.50,51,54"
+        ],
+        "negative_ctxs": [
+            11,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "SENSITIVITY ANALYSES\nWhen 2 trials59,63 were singly removed in turn from the\nanalysis ofUFHvs the control for the outcome of PE using\nthe random-effects method, the reduction in risk observed\nwith UFH became statistically nonsignificant\nAnalysis of the UFH dosage of 5000 U twice daily vs the\ncontrol for DVT was also influenced by the removal of 2\ntrials53,60 when singly removed, with the association no\nlonger significant in either the fixed-effects or randomeffects\nmethod. Furthermore, for LMWH vs the control,\nremoval of 1 study43 made the result for major bleeding\nsignificant using the random-effects method, and removal\nof a different study46 made the outcome for minor\nbleeding no longer significant when the randomeffects\nmethod was applied.\nPUBLICATION BIAS\nFunnel plots showed some asymmetry, indicating the potential\nfor publication bias"
+        ],
+        "negative_ctxs": [
+            4,
+            17
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "2 studies34,35 were excluded\r\nbecause of potential biases from the study randomization\r\nprocess"
+        ],
+        "negative_ctxs": [
+            12,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "A limitation of our analysis is that the patient population\nis not homogeneous. Participants in the trials had\na diverse range of medical conditions and risk factors for\nVTE. However, although not ideal, we believe it acceptable\nto pool results from the various trials given the natural\ndiversity of patients in a general medical ward. One\nmust nevertheless be wary of the heterogeneity of the patient\ngroup analyzed when applying the results of this\nanalysis to particular patient groups in the clinical setting.\nA further limitation of this study is that the type of\nLMWH used was not consistent among the trials. Any\npotential differences in efficacy or safety among these\nagents would not be reflected in the pooled analyses."
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Studies were eligible\nif they compared (1) UFH with the control, (2) LMWH with\nthe control, (3) LMWH with UFH, or (4) a selective factor Xa\ninhibitor with a placebo. Studies were considered appropriate\nfor inclusion only if they involved hospitalized medical patients\nand reported the occurrence of DVT, PE, and/or mortality\nafter the administration of therapy.\nStudies with fewer than 30 patients were excluded. Studies\nwere also excluded if they examined thromboembolism in surgical,\ntrauma, or critical care patients only or if the study authors\ndid not provide a subgroup analysis for medical patients\nregarding the occurrence of thromboembolism. In addition, trials\nthat studied thromboembolism associated with central venous\ncatheters in patients with cancer and trials that involved\npatients admitted to intensive care units were excluded.\n\nTable 1. Characteristics of Trials Included in the Meta-analysis"
+        ],
+        "negative_ctxs": [
+            19,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            23,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Only prospective randomized controlled trials were considered\nfor inclusion in this meta-analysis. Studies were eligible\nif they compared (1) UFH with the control, (2) LMWH with\nthe control, (3) LMWH with UFH, or (4) a selective factor Xa\ninhibitor with a placebo. Studies were considered appropriate\nfor inclusion only if they involved hospitalized medical patients\nand reported the occurrence of DVT, PE, and/or mortality\nafter the administration of therapy.\nStudies with fewer than 30 patients were excluded. Studies\nwere also excluded if they examined thromboembolism in surgical,\ntrauma, or critical care patients only or if the study authors\ndid not provide a subgroup analysis for medical patients\nregarding the occurrence of thromboembolism. In addition, trials\nthat studied thromboembolism associated with central venous\ncatheters in patients with cancer and trials that involved\npatients admitted to intensive care units were excluded.\n\nThe definitions of outcome measures were considered to be\r\nthose provided by the authors of the various studies with the\r\nexception of total bleeding and major bleeding. Intracerebral\r\nand intracranial hemorrhages and hemorrhagic transformations\r\nwere included in the definition of total bleeding and major\r\nbleeding episodes. The outcome of total bleeding includes\r\nmajor, minor, and fatal bleeding episodes but not subcutaneous\r\ninjection site hematomas."
+        ],
+        "negative_ctxs": [
+            1,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "MEDLINE (via PubMed), EMBASE, and the\nCochrane Central Register of Controlled Trials\nwere searched from 1950, 1966, and 1800, respectively,\nthrough June 30, 2006\n\nAll searches were restricted to trials that involved\r\nhumans and were published in English"
+        ],
+        "negative_ctxs": [
+            20,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Study selection, validity assessment, and data abstraction were\nperformed by 2 independent reviewers (L.W. and S.W.) in an\nunblinded standardized manner. Two other investigators (H.K.\nand J.S.) were consulted whenever the need arose for further discussion\nabout the eligibility of a trial for inclusion in this metaanalysis\nor about results reported by individual studies. This process\nwas undertaken in accordance with the guidelines of the\nQuality of Reporting of Meta-analyses statement."
+        ],
+        "negative_ctxs": [
+            8,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Study selection, validity assessment, and data abstraction were\nperformed by 2 independent reviewers (L.W. and S.W.) in an\nunblinded standardized manner. Two other investigators (H.K.\nand J.S.) were consulted whenever the need arose for further discussion\nabout the eligibility of a trial for inclusion in this metaanalysis\nor about results reported by individual studies. This process\nwas undertaken in accordance with the guidelines of the\nQuality of Reporting of Meta-analyses statement."
+        ],
+        "negative_ctxs": [
+            18,
+            16
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "We identified 936 potentially suitable\r\narticles. Of these, 54 examined the relevant end points\r\nin appropriate patient groups. Nine of these trials21-29 were\r\nexcluded because they did not compare (1) UFH with the\r\ncontrol, (2)LMWHwith the control, (3)LMWHwith UFH,\r\nor (4) a selective factor Xa inhibitor with a comparator.\r\nFour studies30-33 were excluded because they were not randomized\r\ncontrolled trials, and 2 studies34,35 were excluded\r\nbecause of potential biases from the study randomization\r\nprocess. One article36 was excluded because it was\r\nan abstract that outlined research later published in another\r\njournal.37 One additional study38 was excluded because\r\nit was not possible to extract sufficient data from the\r\npublished article for statistical analysis to be performed\r\n(the number of patients in each group who experienced\r\nan event and the number of patients randomized to each\r\ngroupwere required)."
+        ],
+        "negative_ctxs": [
+            16,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Among the 36 trials included in this meta-analysis, 4 different\ncomparisons of therapy were studied. Fourteen\ntrials compared UFH with the control,50-63 11 trials comparedLMWHwith\nthe control,39-49 10 compared LMWH \nwith UFH,9,37,64-71 and 1 compared fondaparinux sodium\r\nwith placebo72 (Table 2).\n\nTable 1. Characteristics of Trials Included in the Meta-analysis"
+        ],
+        "negative_ctxs": [
+            5,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Study selection, validity assessment, and data abstraction were performed by 2 independent reviewers (L.W. and S.W.) in an unblinded standardized manner. Two other investigators (H.K.\nand J.S.) were consulted whenever the need arose for further discussion\nabout the eligibility of a trial for inclusion in this metaanalysis\nor about results reported by individual studies. This process\nwas undertaken in accordance with the guidelines of the\nQuality of Reporting of Meta-analyses statement.\n\n2 studies34,35 were excluded because of potential biases from the study randomization\nprocess."
+        ],
+        "negative_ctxs": [
+            15,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "and the DerSimonian and Laird random-effects method19,20 of meta-analysis\nfor binary outcomes. The fixed-effects model calculates\nan average of the outcome statistic from each study, whereas\nthe random-effects model additionally considers the variability\namong the studies analyzed. Results were presented as estimates\nof relative risk (RR) for each outcome measure, with\n95% confidence intervals (CIs), in which relative weights were\nassigned to each study on the basis of treatment group size and\nnumber of observed events.19,20 Heterogeneity \u00012 tests were performed\nin each analysis, and statistical significance was assumed\nat the .05 level via the use of statistical 2-way z tests.\n\nWe were able to conduct a meta-analysis for a particular outcome\nif it was investigated in 3 or more trials. DVT, PE, mortality,\nand total bleeding were analyzed in studies that compared\nLMWH with the control,UFH with the control, and LMWH with\nUFH. Results of all studies that compared UFH, LMWH, or factor\nXa inhibitor with the control were combined to produce an\nanalysis of prophylaxis vs no prophylaxis for these outcomes.\n\nUnless otherwise stated, reported figures are discussed\nin the context of the fixed-effects mode because of no major\napparent difference with results obtained from the random-\neffects model."
+        ],
+        "negative_ctxs": [
+            9,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Unless otherwise stated, reported figures are discussed\nin the context of the fixed-effects mode because of no major\napparent difference with results obtained from the random-\neffects model\n\nSeveral different modes of investigation were used to\r\ndiagnose DVT among the trials. Venography,* iodine 125\r\nfibrinogen scanning,39-41,50-60,65-68 impedance plethysmography,\r\n40,64,66 and ultrasonography9,42,47,49,61,64,71 were all used.\r\nAlternatively, in some cases DVT was diagnosed either\r\nclinically46,57,64 or at autopsy.37,42,62,70 In 1 study,43 the method\r\nused to diagnose reported DVT was not specified.\r\nMethods used to diagnose PE were ventilation and perfusion\r\nlung scanning,+ pulmonary angiography,9,37,47,49,68-72\r\nspiral computed tomography,47,49,71,72 magnetic resonance\nimaging,49 and chest radiography.70 In some studies, PE was\r\ndiagnosed clinically41,50,51,54,56,57 or at autopsy.++ The method\r\nused was not specified in some studies,42,45,46,48,53,60,63,67\r\nwhereas in others descriptions such as \"radiographic evidence\"\r\nor \"radiological evidence\" were used.50,51,54"
+        ],
+        "negative_ctxs": [
+            7,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "SENSITIVITY ANALYSES\nWhen 2 trials59,63 were singly removed in turn from the\nanalysis ofUFHvs the control for the outcome of PE using\nthe random-effects method, the reduction in risk observed\nwith UFH became statistically nonsignificant\nAnalysis of the UFH dosage of 5000 U twice daily vs the\ncontrol for DVT was also influenced by the removal of 2\ntrials53,60 when singly removed, with the association no\nlonger significant in either the fixed-effects or randomeffects\nmethod. Furthermore, for LMWH vs the control,\nremoval of 1 study43 made the result for major bleeding\nsignificant using the random-effects method, and removal\nof a different study46 made the outcome for minor\nbleeding no longer significant when the randomeffects\nmethod was applied.\nPUBLICATION BIAS\nFunnel plots showed some asymmetry, indicating the potential\nfor publication bias"
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "2 studies34,35 were excluded\r\nbecause of potential biases from the study randomization\r\nprocess"
+        ],
+        "negative_ctxs": [
+            24,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Financial Disclosure: None reported.\r\nFunding/Support: This study was supported by a Centre\r\nof Clinical Research Excellence grant from the National\r\nHealth and Medical Council of Australia."
+        ],
+        "negative_ctxs": [
+            12,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "A limitation of our analysis is that the patient population\nis not homogeneous. Participants in the trials had\na diverse range of medical conditions and risk factors for\nVTE. However, although not ideal, we believe it acceptable\nto pool results from the various trials given the natural\ndiversity of patients in a general medical ward. One\nmust nevertheless be wary of the heterogeneity of the patient\ngroup analyzed when applying the results of this\nanalysis to particular patient groups in the clinical setting.\nA further limitation of this study is that the type of\nLMWH used was not consistent among the trials. Any\npotential differences in efficacy or safety among these\nagents would not be reflected in the pooled analyses."
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    }
+]

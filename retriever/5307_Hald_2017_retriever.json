@@ -1,0 +1,450 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "the purpose of this article is to summarize all\nthe current published data on the prevalence of HPV in LS in\norder to evaluate whether HPV could possibly play a role in the\ndevelopment of LS.\n\nEligible studies met the following criteria: (i) reports concerning\nthe prevalence of HPV in histologically verified LS, (ii) studies\non the prevalence of HPV in LS associated with invasive genital\ncancer, carcinoma in situ, or intraepithelial neoplasia of the\nmale or female genitalia. Preferably, the papers should provide\ninformation on the distribution of specific genotypes of HPV in\nLS, although this information was not always available. Articles\nnot providing information on specific HPV genotypes were also\nincluded because of the low number of articles on the subject.\nIncluded studies had to provide clear information on HPV\ndetection and genotyping methods. Meta-analyses and reviews\nwere not included."
+        ],
+        "negative_ctxs": [
+            22,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Eligible studies met the following criteria: (i) reports concerning\nthe prevalence of HPV in histologically verified LS, (ii) studies\non the prevalence of HPV in LS associated with invasive genital\ncancer, carcinoma in situ, or intraepithelial neoplasia of the\nmale or female genitalia. Preferably, the papers should provide\ninformation on the distribution of specific genotypes of HPV in\nLS, although this information was not always available. Articles\nnot providing information on specific HPV genotypes were also\nincluded because of the low number of articles on the subject.\nIncluded studies had to provide clear information on HPV\ndetection and genotyping methods. Meta-analyses and reviews\nwere not included."
+        ],
+        "negative_ctxs": [
+            10,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Included studies had to provide clear information on HPV\r\ndetection and genotyping methods. Meta-analyses and reviews\r\nwere not included."
+        ],
+        "negative_ctxs": [
+            11,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Only English-language literature was included in the search."
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The databases MEDLINE (PubMed) and Embase\r\nwere searched"
+        ],
+        "negative_ctxs": [
+            7,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Sources\r\nA systematic literature search up to September 23, 2016, was\r\nperformed. The databases MEDLINE (PubMed) and Embase\r\nwere searched using a combination of the following MESH\r\nterms or Emtree words: \"lichen sclerosus\", \"etiology\", \"HPV\",\r\n\"human papillomavirus\", \"vulvar cancer\", \"vulvar intraepithelial\r\nneoplasia\", \"VIN\", \"penile cancer\", \"penile intraepithelial\r\nneoplasia\", and \"PeIN\".\r\nOnly English-language literature was included in the search."
+        ],
+        "negative_ctxs": [
+            21,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "using a combination of the following MESH\nterms or Emtree words: \"lichen sclerosus\", \"etiology\", \"HPV\",\n\"human papillomavirus\", \"vulvar cancer\", \"vulvar intraepithelial\nneoplasia\", \"VIN\", \"penile cancer\", \"penile intraepithelial\nneoplasia\", and \"PeIN\"."
+        ],
+        "negative_ctxs": [
+            6,
+            20
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "using a combination of the following MESH\nterms or Emtree words: \"lichen sclerosus\", \"etiology\", \"HPV\",\n\"human papillomavirus\", \"vulvar cancer\", \"vulvar intraepithelial\nneoplasia\", \"VIN\", \"penile cancer\", \"penile intraepithelial\nneoplasia\", and \"PeIN\".\nOnly English-language literature was included in the search."
+        ],
+        "negative_ctxs": [
+            18,
+            5
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Detailed information on the 16 papers on female genital lichen sclerosus included for review\n\nTable 2 Detailed information on the 11 papers on male genital lichen sclerosus included in this review"
+        ],
+        "negative_ctxs": [
+            19,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1 Detailed information on the 16 papers on female genital lichen sclerosus included for review\n\nTable 2 Detailed information on the 11 papers on male genital lichen sclerosus included in this review"
+        ],
+        "negative_ctxs": [
+            9,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Each paper was critically reviewed and assessed for potential bias and confounding and for external validity"
+        ],
+        "negative_ctxs": [
+            6,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "A total of 27 papers published from 1991 to 2016 were\r\nincluded in this study\n\nIn only eight of 27 (30%) studies were patients with LS to be\r\ncompletely negative for HPV.8,28-34 In the 18 studies with HPVpositive\r\npatients, the prevalence of HPV ranged from 4 to\r\n80%\n\nOf the 19 papers that detected HPV DNA in LS lesions, 14 provided\r\ninformation on specific genotypes.10,12"
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "In the 18 studies with HPVpositive\npatients, the prevalence of HPV ranged from 4 to\n80%.10-27,35 A calculation of the median, which allowed elimination\nof outliers, showed that the overall prevalence of HPV in\nLS is 22%. By further dividing the studies into subgroups based\non gender and calculating the gender-specific median, the\nprevalence of HPV is 8% (range 0-52%) in female patients with\nLS and 29% (range 0-80%) in male patients with LS, suggesting\na stronger correlation in men than in women.\n\nLooking at the HPV prevalence in LS not associated with\nneoplasia, 6/17 (35%) study populations were completely negative\nfor HPV. On the other hand, only 2/12 (17%) study populations\nof LS associated with neoplasia were completely negative\nfor HPV DNA. However, the difference is less apparent when\nmedians are calculated, as the median of HPV in LS not associated\nwith neoplasia is 21% (range 0-70%) compared to 22%\n(range 0-80%) in LS associated with neoplasia"
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "In the 18 studies with HPVpositive\npatients, the prevalence of HPV ranged from 4 to\n80%.10-27,35 A calculation of the median, which allowed elimination\nof outliers, showed that the overall prevalence of HPV in\nLS is 22%. By further dividing the studies into subgroups based\non gender and calculating the gender-specific median, the\nprevalence of HPV is 8% (range 0-52%) in female patients with\nLS and 29% (range 0-80%) in male patients with LS, suggesting\na stronger correlation in men than in women.\n\nLooking at the HPV prevalence in LS not associated with\r\nneoplasia, 6/17 (35%) study populations were completely negative\r\nfor HPV. On the other hand, only 2/12 (17%) study populations\r\nof LS associated with neoplasia were completely negative\r\nfor HPV DNA. However, the difference is less apparent when\r\nmedians are calculated, as the median of HPV in LS not associated\r\nwith neoplasia is 21% (range 0-70%) compared to 22%\r\n(range 0-80%) in LS associated with neoplasia"
+        ],
+        "negative_ctxs": [
+            21,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "This review demonstrated a prevalence of HPV in LS patients\r\nranging from 0 to 80%. The diverging detection rates are probably\r\ndue to the small sample sizes in most of the reviewed\r\npapers and the use of different techniques for detection of HPV."
+        ],
+        "negative_ctxs": [
+            18,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Eligible studies met the following criteria: (i) reports concerning\nthe prevalence of HPV in histologically verified LS, (ii) studies\non the prevalence of HPV in LS associated with invasive genital\ncancer, carcinoma in situ, or intraepithelial neoplasia of the\nmale or female genitalia\n\nTable 1 Detailed information on the 16 papers on female genital lichen sclerosus included for review\n\nTable 2 Detailed information on the 11 papers on male genital lichen sclerosus included in this review"
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            14,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Eligible studies met the following criteria: (i) reports concerning\nthe prevalence of HPV in histologically verified LS, (ii) studies\non the prevalence of HPV in LS associated with invasive genital\ncancer, carcinoma in situ, or intraepithelial neoplasia of the\nmale or female genitalia. Preferably, the papers should provide\ninformation on the distribution of specific genotypes of HPV in\nLS, although this information was not always available. Articles\nnot providing information on specific HPV genotypes were also\nincluded because of the low number of articles on the subject.\nIncluded studies had to provide clear information on HPV\ndetection and genotyping methods. Meta-analyses and reviews\nwere not included."
+        ],
+        "negative_ctxs": [
+            3,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Meta-analyses and reviews\r\nwere not included"
+        ],
+        "negative_ctxs": [
+            8,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The databases MEDLINE (PubMed) and Embase\r\nwere searched"
+        ],
+        "negative_ctxs": [
+            11,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Detailed information on the 16 papers on female genital lichen sclerosus included for review\n\nTable 2 Detailed information on the 11 papers on male genital lichen sclerosus included in this review"
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Each paper was critically reviewed and assessed for potential bias and confounding and for external validity"
+        ],
+        "negative_ctxs": [
+            19,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "In the 18 studies with HPVpositive\npatients, the prevalence of HPV ranged from 4 to\n80%.10-27,35 A calculation of the median, which allowed elimination\nof outliers, showed that the overall prevalence of HPV in\nLS is 22%. By further dividing the studies into subgroups based\non gender and calculating the gender-specific median, the\nprevalence of HPV is 8% (range 0-52%) in female patients with\nLS and 29% (range 0-80%) in male patients with LS, suggesting\na stronger correlation in men than in women.\n\nLooking at the HPV prevalence in LS not associated with\nneoplasia, 6/17 (35%) study populations were completely negative\nfor HPV. On the other hand, only 2/12 (17%) study populations\nof LS associated with neoplasia were completely negative\nfor HPV DNA. However, the difference is less apparent when\nmedians are calculated, as the median of HPV in LS not associated\nwith neoplasia is 21% (range 0-70%) compared to 22%\n(range 0-80%) in LS associated with neoplasia"
+        ],
+        "negative_ctxs": [
+            19,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "In the 18 studies with HPVpositive\npatients, the prevalence of HPV ranged from 4 to\n80%.10-27,35 A calculation of the median, which allowed elimination\nof outliers, showed that the overall prevalence of HPV in\nLS is 22%. By further dividing the studies into subgroups based\non gender and calculating the gender-specific median, the\nprevalence of HPV is 8% (range 0-52%) in female patients with\nLS and 29% (range 0-80%) in male patients with LS, suggesting\na stronger correlation in men than in women.\n\nLooking at the HPV prevalence in LS not associated with\r\nneoplasia, 6/17 (35%) study populations were completely negative\r\nfor HPV. On the other hand, only 2/12 (17%) study populations\r\nof LS associated with neoplasia were completely negative\r\nfor HPV DNA. However, the difference is less apparent when\r\nmedians are calculated, as the median of HPV in LS not associated\r\nwith neoplasia is 21% (range 0-70%) compared to 22%\r\n(range 0-80%) in LS associated with neoplasia"
+        ],
+        "negative_ctxs": [
+            20,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflicts of interest: None."
+        ],
+        "negative_ctxs": [
+            12,
+            6
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "This review demonstrated a prevalence of HPV in LS patients\r\nranging from 0 to 80%. The diverging detection rates are probably\r\ndue to the small sample sizes in most of the reviewed\r\npapers and the use of different techniques for detection of HPV."
+        ],
+        "negative_ctxs": [
+            21,
+            9
+        ],
+        "positive_ctxs": []
+    }
+]

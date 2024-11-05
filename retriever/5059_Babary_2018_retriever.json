@@ -1,0 +1,477 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "In these seven databases, the following combinations of terms were used as follows in order to search the studies: (i) (lupus OR systemic lupus erythematosus) AND; (ii) (lipid OR LDL OR cholesterol) AND; (iii) (hydroxychloroquine OR chloroquine OR chloroquine sulfate). We restricted language to English and age of 18years or older."
+        ],
+        "negative_ctxs": [
+            12,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "In these seven databases, the following combinations of terms were used as follows in order to search the studies: (i) (lupus OR systemic lupus erythematosus) AND; (ii) (lipid OR LDL OR cholesterol) AND; (iii) (hydroxychloroquine OR chloroquine OR chloroquine sulfate). We restricted language to English and age of 18years or older."
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Figure 1 Study selection process of the systematic review."
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We restricted language to English and age of 18years or older.\n\nFigure 1 Study selection process of the systematic review."
+        ],
+        "negative_ctxs": [
+            14,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched relevant English articles in seven databases that included PubMed, EMBASE, ISI Web of Science, Medline/Ovid, Google Scholar, Cumulative Index to Nursing and Allied Health Literature (CINAHL), and Cochrane Database of Systematic Review, from their inception to 3 April, 2017."
+        ],
+        "negative_ctxs": [
+            2,
+            9
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We also searched through the articles from the bibliographies of the retrieved studies and review articles."
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "In these seven databases, the following combinations of terms were used as follows in order to search the studies: (i) (lupus OR systemic lupus erythematosus) AND; (ii) (lipid OR LDL OR cholesterol) AND; (iii) (hydroxychloroquine OR chloroquine OR chloroquine sulfate). We restricted language to English and age of 18years or older."
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We restricted language to English and age of 18years or older."
+        ],
+        "negative_ctxs": [
+            15,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two authors (XL and JY) independently screened titles and abstracts. After an independent review, data from each study were entered into a standard sheet. For all phases, researchers resolved any disagreements through discussions or second opinions from two additional authors (HB and AY). Kappa statistics were computed to assess the inter-rater reliability of the screening phases."
+        ],
+        "negative_ctxs": [
+            14,
+            8
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two authors (XL and JY) independently screened titles and abstracts. After an independent review, data from each study were entered into a standard sheet. For all phases, researchers resolved any disagreements through discussions or second opinions from two additional authors (HB and AY). Kappa statistics were computed to assess the inter-rater reliability of the screening phases."
+        ],
+        "negative_ctxs": [
+            13,
+            8
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Pooled study participants' characteristics were as follows: mean age 45.719 and standard deviation 11.893, female 95.262% and prednisone use 58.366%.\n\nTable 1 Summary of studies examining effects of HCQ on serum LDL and total cholesterol"
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Pooled study participants' characteristics were as follows: mean age 45.719 and standard deviation 11.893, female 95.262% and prednisone use 58.366%.\n\nTable 1 Summary of studies examining effects of HCQ on serum LDL and total cholesterol"
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Figure 1 Study selection process of the systematic review.\n\nPooled study participants were 559 patients from eight observation studies (two before-after studies;36,37 six case-control studies38-43) examining the effects of HCQ on LDL as shown in Table 1 \n\n\nA total of 823 patients were analyzed from nine observation studies (three before-after studies;19,36,37 six case-control studies38-43) examining the effects of HCQ on total cholesterol as shown in Table 1\n"
+        ],
+        "negative_ctxs": [
+            1,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Because a significant Q-static (Q = 133.057; P < 0.001) indicated significant heterogeneity across studies 31 the random- effect model with corresponding 95% confidence intervals (CI) was estimated.\n\nA total of 823 patients were analyzed from nine observation studies (three before-after studies;19,36,37 six case-control studies38-43) examining the effects of HCQ on total cholesterol as shown in Table 1\n\n"
+        ],
+        "negative_ctxs": [
+            1,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Heterogeneity was extensive (I2 = 94.739%).\n\nBecause Mendez et al. presented the most favorable effects of HCQ on serum LDL and total cholesterol, we performed analysis after excluding the Mendez et al. study.36 HCQ's favorable effects on LDL and total cholesterol were unchanged: mean reduction in LDL, 16.741 mg/dL (95% CI, 13.115-19.826 mg/dL, P < 0.001); mean reduction in total cholesterol, 17.638 mg/dL (95% CI, 8.663-26.612. P < 0.001)."
+        ],
+        "negative_ctxs": [
+            7,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Symmetrical funnel plot visualized no evidence of publication bias in Figure 3a."
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "However, it must be noted that given the heterogeneity of our findings, the small sample sizes in each study and the inability to adjust for confounding factors, such as statin usage, limit our conclusions."
+        ],
+        "negative_ctxs": [
+            1,
+            14
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "This review examined the effects of HCQ on serum low-density lipoprotein (LDL) level in patients with SLE.\n\nTable 1 Summary of studies examining the effects of HCQ on serum LDL and total cholesterol levels"
+        ],
+        "negative_ctxs": [
+            4,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            5,
+            12
+        ],
+        "positive_ctxs": [
+            2,
+            10
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "In these seven databases, the following combinations of terms were used as follows in order to search the studies: (i) (lupus OR systemic lupus erythematosus) AND; (ii) (lipid OR LDL OR cholesterol) AND; (iii) (hydroxychloroquine OR chloroquine OR chloroquine sulfate). We restricted language to English and age of 18years or older."
+        ],
+        "negative_ctxs": [
+            5,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched relevant English articles in seven databases that included PubMed, EMBASE, ISI Web of Science, Medline/Ovid, Google Scholar, Cumulative Index to Nursing and Allied Health Literature (CINAHL), and Cochrane Database of Systematic Review, from their inception to 3 April, 2017."
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two authors (XL and JY) independently screened titles and abstracts. After an independent review, data from each study were entered into a standard sheet. For all phases, researchers resolved any disagreements through discussions or second opinions from two additional authors (HB and AY). Kappa statistics were computed to assess the inter-rater reliability of the screening phases."
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two authors (XL and JY) independently screened titles and abstracts. After an independent review, data from each study were entered into a standard sheet. For all phases, researchers resolved any disagreements through discussions or second opinions from two additional authors (HB and AY). Kappa statistics were computed to assess the inter-rater reliability of the screening phases."
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Pooled study participants' characteristics were as follows: mean age 45.719 and standard deviation 11.893, female 95.262% and prednisone use 58.366%.\n\nTable 1 Summary of studies examining effects of HCQ on serum LDL and total cholesterol"
+        ],
+        "negative_ctxs": [
+            6,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Because a significant Q-static (Q = 133.057; P < 0.001) indicated significant heterogeneity across studies 31 the random- effect model with corresponding 95% confidence intervals (CI) was estimated.\n\nA total of 823 patients were analyzed from nine observation studies (three before-after studies;19,36,37 six case-control studies38-43) examining the effects of HCQ on total cholesterol as shown in Table 1\n\n"
+        ],
+        "negative_ctxs": [
+            7,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Heterogeneity was extensive (I2 = 94.739%).\n\nBecause Mendez et al. presented the most favorable effects of HCQ on serum LDL and total cholesterol, we performed analysis after excluding the Mendez et al. study.36 HCQ's favorable effects on LDL and total cholesterol were unchanged: mean reduction in LDL, 16.741 mg/dL (95% CI, 13.115-19.826 mg/dL, P < 0.001); mean reduction in total cholesterol, 17.638 mg/dL (95% CI, 8.663-26.612. P < 0.001)."
+        ],
+        "negative_ctxs": [
+            0,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Symmetrical funnel plot visualized no evidence of publication bias in Figure 3a."
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "However, it must be noted that given the heterogeneity of our findings, the small sample sizes in each study and the inability to adjust for confounding factors, such as statin usage, limit our conclusions."
+        ],
+        "negative_ctxs": [
+            7,
+            2
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    }
+]

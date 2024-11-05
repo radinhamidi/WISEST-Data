@@ -1,0 +1,460 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "All studies related to the treatment of DMC published in English or French until the search date were included in the systematic review. Only the studies about DMC treatment were selected."
+        ],
+        "negative_ctxs": [
+            17,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "All studies related to the treatment of DMC published in English or French until the search date were included in the systematic review. Only the studies about DMC treatment were selected. Cure was\ndefined as complete healing of the cyst with no recurrence\nduring the reported follow-up period. Patients lost to follow-up\nwere excluded from this study. All included articles clearly\ndescribe the treatment modality and the number of cured\nlesions. Exclusion criteria were (i) case-series with\nfive lesions or less and (ii) studies using concomitant\ntreatments."
+        ],
+        "negative_ctxs": [
+            14,
+            2
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Patients lost to follow-up were excluded from this study. All included articles clearly describe the treatment modality and the number of cured lesions. Exclusion criteria were (i) case-series with five lesions or less and (ii) studies using concomitant treatments."
+        ],
+        "negative_ctxs": [
+            13,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "published in English or French until the\r\nsearch date"
+        ],
+        "negative_ctxs": [
+            3,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "we conducted a systematic review of published articles in MEDLINE, EMBASE, and Cochrane databases"
+        ],
+        "negative_ctxs": [
+            16,
+            18
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The search was done with no restrictions using\r\nspecific terms for DMC (\"ganglionic cyst\" or \"ganglion cyst\" or\r\n\"myxoid cyst\" or \"mucous cyst\" or \"synovial cyst\") combined\r\nwith keywords to narrow the search to cysts located on\r\nfingers or toes (\"digit\" or \"digits\" or \"digital\" or \"thumb\" or\r\n\"index\" or \"finger\" or \"toe\" or \"toes\")."
+        ],
+        "negative_ctxs": [
+            13,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "The search was done with no restrictions"
+        ],
+        "negative_ctxs": [
+            17,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 4 Summary of results\nProcedure Number\nof lesions\nNumber of\nsuccessfully\ntreated\nlesionsa\nRecurrence\n(Lesion n)b\nCure\nrate (%) P value"
+        ],
+        "negative_ctxs": [
+            4,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 4 Summary of results\nProcedure Number\nof lesions\nNumber of\nsuccessfully\ntreated\nlesionsa\nRecurrence\n(Lesion n)b\nCure\nrate (%) P value"
+        ],
+        "negative_ctxs": [
+            11,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "included studies were then compiled according to treatment\r\nmodality\n\nStudies were further divided into nine subgroups\r\ndepending on the excised component (cyst, overlying skin, and\r\nosteophyte) and the wound coverage techniques (primary closure,\r\nskin graft, or local skin flap). All studies comprise 1364\r\nDMC lesions"
+        ],
+        "negative_ctxs": [
+            11,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Cure rates between the different treatment modalities were compared using a chi-square test. A significance level of 0.05 was chosen."
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Cure rates between the different treatment modalities were compared using a chi-square test. A significance level of 0.05 was chosen."
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Cure rates between the different treatment modalities were compared using a chi-square test. A significance level of 0.05 was chosen."
+        ],
+        "negative_ctxs": [
+            14,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Study type (GRADE)a\n\nOther limitations were inter-practitioner disparities and publication bias as only published articles were evaluated."
+        ],
+        "negative_ctxs": [
+            10,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "There are several limitations to this review. Thirty-four of the included studies were retrospective and six were prospective trials.\r\nWe did not find any randomized controlled trials comparing different treatment methods, which prevented us from performing a meta-analysis. Other limitations were inter-practitioner disparities and publication bias as only published articles were evaluated."
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Table 1 Characteristics of included surgical studies\n\nTable 2 Characteristics of included nonsurgical studies\n\nincluded studies were then compiled according to treatment modality.\n\nStudies were further divided into nine subgroups depending on the excised component (cyst, overlying skin, and osteophyte) and the wound coverage techniques (primary closure, skin graft, or local skin flap)."
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            16,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "All studies related to the treatment of DMC published in English or French until the search date were included in the systematic review. Only the studies about DMC treatment were selected. Cure was\ndefined as complete healing of the cyst with no recurrence\nduring the reported follow-up period. Patients lost to follow-up\nwere excluded from this study. All included articles clearly\ndescribe the treatment modality and the number of cured\nlesions. Exclusion criteria were (i) case-series with\nfive lesions or less and (ii) studies using concomitant\ntreatments."
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Exclusion criteria were (i) case-series with five lesions or less"
+        ],
+        "negative_ctxs": [
+            4,
+            8
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "we conducted a systematic review of published articles in MEDLINE, EMBASE, and Cochrane databases"
+        ],
+        "negative_ctxs": [
+            15,
+            4
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 4 Summary of results\nProcedure Number\nof lesions\nNumber of\nsuccessfully\ntreated\nlesionsa\nRecurrence\n(Lesion n)b\nCure\nrate (%) P value"
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Cure rates between the different treatment modalities were compared using a chi-square test. A significance level of 0.05 was chosen."
+        ],
+        "negative_ctxs": [
+            8,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Cure rates between the different treatment modalities were compared using a chi-square test. A significance level of 0.05 was chosen."
+        ],
+        "negative_ctxs": [
+            0,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Cure rates between the different treatment modalities were compared using a chi-square test. A significance level of 0.05 was chosen."
+        ],
+        "negative_ctxs": [
+            2,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Study type (GRADE)a\n\nOther limitations were inter-practitioner disparities and publication bias as only published articles were evaluated."
+        ],
+        "negative_ctxs": [
+            6,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding: None.\n\nConflicts of interest: None."
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "There are several limitations to this review. Thirty-four of the included studies were retrospective and six were prospective trials.\r\nWe did not find any randomized controlled trials comparing different treatment methods, which prevented us from performing a meta-analysis. Other limitations were inter-practitioner disparities and publication bias as only published articles were evaluated."
+        ],
+        "negative_ctxs": [
+            9,
+            18
+        ],
+        "positive_ctxs": []
+    }
+]

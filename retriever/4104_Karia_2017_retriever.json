@@ -1,0 +1,476 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Question - Is there a risk difference in disease-related outcomes between patients with cutaneous squamous cell carcinoma and clinical perineural invasion vs patients with cutaneous squamous cell carcinoma and incidental perineural invasion?\n\nIn this systematic review, we sought to examine current evidence regarding the risk of poor outcomes (local recurrence, nodal and distant metastasis, death from disease, and overall death) in patients with CSCC and CPNI or IPNI and investigate whether significant differences exist in the risk of these outcomes between patients with CPNI and patients with IPNI. Differences in 5-year recurrence-free survival (RFS), disease-specific survival (DSS), and overall survival (OS) were also examined.\n\nEligible studies included those that reported disease-related outcomes (local recurrence, nodal metastasis, distant metastasis, or death from disease) of patients with CSCC and CPNI  or IPNI."
+        ],
+        "negative_ctxs": [
+            3,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Is there a risk difference in disease-related outcomes between patients with cutaneous squamous cell carcinoma and clinical perineural invasion vs patients with cutaneous squamous cell carcinoma and incidental perineural invasion.\n\nEligible studies included those that reported disease-related outcomes (local recurrence, nodal metastasis, distant metastasis, or death from disease).\n\ntreated with surgery and postoperative radiotherapy (141 [68.4%]). A total of 34 cases (16.5%) were treated with radiotherapy alone. Less common treatment modalities included radiotherapy and chemotherapy (11 [5.3%]); other combination therapy (7 [3.4%]); surgery and preoperative radiotherapy(5 [2.4%]); surgery, postoperative radiotherapy, and chemotherapy (4 [1.9%]); and surgery alone (4 [1.9%])."
+        ],
+        "negative_ctxs": [
+            7,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Case reports were included only if they reported more than 5 patients. Studies were excluded if they did not report the type of PNI (clinical vs incidental),\n\nStudies were excluded if they did not report the type of PNI (clinical vs incidental), if they did not report any disease-related outcomes,"
+        ],
+        "negative_ctxs": [
+            17,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Search  results were restricted to English-language studies only."
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The MEDLINE and EMBASE databases were searched"
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Reference lists of all eligible articles were reviewed to locate additional studies that may have been missed during the preliminary search."
+        ],
+        "negative_ctxs": [
+            11,
+            4
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The MEDLINE and EMBASE databases were searched on November 11, 2016 using the search terms squamous cell carcinoma perineural nerve invasion, squamous cell carcinoma clinical perineural nerve invasion, and squamous cell carcinoma incidental perineural nerve invasion."
+        ],
+        "negative_ctxs": [
+            0,
+            20
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Search results were restricted to English-language studies only. No  publication date or study design restrictions were used.\n"
+        ],
+        "negative_ctxs": [
+            12,
+            24
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Study Selection and Data Extraction - Articles obtained from the search were independently screened for eligibility by 2 authors (P.S.K. and E.S.R.). Discrepancies were resolved by a third author (C.D.S.)."
+        ],
+        "negative_ctxs": [
+            25,
+            10
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Each reviewer also assessed the quality of reporting and the risk of bias for included articles. The following  data were extracted from each article: characteristics  of study design"
+        ],
+        "negative_ctxs": [
+            14,
+            17
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The studies included a total of 640 tumors with CPNI or IPNI in 622 patients. Most CSCC tumors were located primarily in the head and neck region (8 studies [67%]). A total of 133 cases of CSSC (20.8%) were recurrent at the time of data collection."
+        ],
+        "negative_ctxs": [
+            3,
+            2
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1. Summary of Studies Included in the Systematic Review\n\nTable 2. Summary of Cutaneous Squamous Cell Carcinoma Outcomes by Perineural Invasion Classification"
+        ],
+        "negative_ctxs": [
+            3,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Each reviewer also assessed the quality of reporting and the risk of bias for included articles."
+        ],
+        "negative_ctxs": [
+            22,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Table 2. Summary of Cutaneous Squamous Cell Carcinoma Outcomes by Perineural Invasion Classification"
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Statistical Analysis - Overall risks of disease-related outcomes were generated by pooling patients from eligible studies. Reported survival statistics from included studies were averaged to produce overall estimates. The kh2 and Fisher exact tests were used to evaluate differences in disease-related outcomes and survival between patients with CPNI and patients with IPNI. All statistical analyses were conducted using Stata, version 12.0\n\n12 Studies included in quantitative synthesis"
+        ],
+        "negative_ctxs": [
+            17,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Limitations This study is limited in that it included only retrospective studies and case series. To our knowledge, no prospective cohort studies exist that examine differences in disease related outcomes in patients with CSCC with PNI. The included studies therefore represent the best evidence available on the prognosis of patients with CSCC with IPNI or CPNI. Another potential limitation is that the data-collection period for included studies ranged from 1965 to 2013, during which time the definition of PNI and the detection and treatment modalities may have changed. Nevertheless, it is unlikely that the exclusion of older studies would have significantly altered the results of the analysis. Finally, multiple included studies were from the same institutions. However, duplicate reports of the same or overlapping patient cohorts were excluded."
+        ],
+        "negative_ctxs": [
+            23,
+            9
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "\"Question - Is there a risk difference in disease-related outcomes between patients with cutaneous squamous cell carcinoma and clinical perineural invasion vs patients with cutaneous squamous cell carcinoma and incidental perineural invasion?\n\nIn this systematic review, we sought to examine current evidence regarding the risk of poor outcomes (local recurrence, nodal and distant metastasis, death from disease, and overall death) in patients with CSCC and CPNI or IPNI and investigate whether significant differences exist in the risk of these outcomes between patients with CPNI and patients with IPNI. Differences in 5-year recurrence-free survival (RFS), disease-specific survival (DSS), and overall survival (OS) were also examined.\n\nEligible studies included those that reported disease-related outcomes (local recurrence, nodal metastasis, distant metastasis, or death from disease) of patients with CSCC and CPNI  or IPNI.\"To our knowledge, no prospective  cohort studies exist that examine differences in disease related outcomes in patients with CSCC with PNI. The included studies therefore represent the best evidence available on the prognosis of patients with CSCC with IPNI or CPNI."
+        ],
+        "negative_ctxs": [
+            5,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            14,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Is there a risk difference in disease-related outcomes between patients with cutaneous squamous cell carcinoma and clinical perineural invasion vs patients with cutaneous squamous cell carcinoma and incidental perineural invasion.\n\nEligible studies included those that reported disease-related outcomes (local recurrence, nodal metastasis, distant metastasis, or death from disease).\n\ntreated with surgery and postoperative radiotherapy (141 [68.4%]). A total of 34 cases (16.5%) were treated with radiotherapy alone. Less common treatment modalities included radiotherapy and chemotherapy (11 [5.3%]); other combination therapy (7 [3.4%]); surgery and preoperative radiotherapy(5 [2.4%]); surgery, postoperative radiotherapy, and chemotherapy (4 [1.9%]); and surgery alone (4 [1.9%])."
+        ],
+        "negative_ctxs": [
+            9,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The MEDLINE and EMBASE databases were searched"
+        ],
+        "negative_ctxs": [
+            4,
+            1
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Study Selection and Data Extraction - Articles obtained from the search were independently screened for eligibility by 2 authors (P.S.K. and E.S.R.). Discrepancies were resolved by a third author (C.D.S.)."
+        ],
+        "negative_ctxs": [
+            21,
+            4
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Each reviewer also assessed the quality of reporting and the risk of bias for included articles. The following  data were extracted from each article: characteristics  of study design"
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The studies included a total of 640 tumors with CPNI or IPNI in 622 patients. Most CSCC tumors were located primarily in the head and neck region (8 studies [67%]). A total of 133 cases of CSSC (20.8%) were recurrent at the time of data collection."
+        ],
+        "negative_ctxs": [
+            1,
+            24
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Each reviewer also assessed the quality of reporting and the risk of bias for included articles."
+        ],
+        "negative_ctxs": [
+            20,
+            16
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Statistical Analysis - Overall risks of disease-related outcomes were generated by pooling patients from eligible studies. Reported survival statistics from included studies were averaged to produce overall estimates. The kh2 and Fisher exact tests were used to evaluate differences in disease-related outcomes and survival between patients with CPNI and patients with IPNI. All statistical analyses were conducted using Stata, version 12.0\n\n12 Studies included in quantitative synthesis"
+        ],
+        "negative_ctxs": [
+            2,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflict of Interest Disclosures: None reported.\n\nFunding/Support: Mr Karia is supported by a  Cancer Epidemiology, Prevention, and Control Training grant (NCI T32 CA009314)."
+        ],
+        "negative_ctxs": [
+            17,
+            14
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Limitations This study is limited in that it included only retrospective studies and case series. To our knowledge, no prospective cohort studies exist that examine differences in disease related outcomes in patients with CSCC with PNI. The included studies therefore represent the best evidence available on the prognosis of patients with CSCC with IPNI or CPNI. Another potential limitation is that the data-collection period for included studies ranged from 1965 to 2013, during which time the definition of PNI and the detection and treatment modalities may have changed. Nevertheless, it is unlikely that the exclusion of older studies would have significantly altered the results of the analysis. Finally, multiple included studies were from the same institutions. However, duplicate reports of the same or overlapping patient cohorts were excluded."
+        ],
+        "negative_ctxs": [
+            25,
+            0
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    }
+]

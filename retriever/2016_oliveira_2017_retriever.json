@@ -1,0 +1,498 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The inclusion criteria were: all quantitative original\nresearch studies including both animal and human\nstudies. No limitations in terms of language or dates of\npublications were applied."
+        ],
+        "negative_ctxs": [
+            22,
+            37
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The inclusion criteria were: all quantitative original\nresearch studies including both animal and human\nstudies. No limitations in terms of language or dates of\npublications were applied."
+        ],
+        "negative_ctxs": [
+            23,
+            25
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "The inclusion criteria were: all quantitative original research studies including both animal and human studies. No limitations in terms of language or dates of publications were applied."
+        ],
+        "negative_ctxs": [
+            28,
+            38
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "The inclusion criteria were: all quantitative original research studies including both animal and human studies. No limitations in terms of language or dates of publications were applied."
+        ],
+        "negative_ctxs": [
+            10,
+            37
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The following databases, the Cochrane Wounds Group Specialised Register, The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library) (latest issue), Ovid MEDLINE (1946 to present), Ovid EMBASE, Elsevier version (1974 to present), EBSCO CINAHL (1982 to present) (see appendix 1), ClinicalTrials.gov, WHO International Clinical Trials Registry (ICTR), and The EU Clinical Trials Register ("
+        ],
+        "negative_ctxs": [
+            34,
+            5
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "PU* (s), decubitus ulcer (s), bed sore (s), pressure sore (s); bed ulcer (s), pressure area* (s) * Thermography, thermology, infrared imaging; * Ultrasound, ultrasonic imaging, image (s), sonography; ultrasonography * Photograph*, digital image (s)/ imaging; digital imaging (MH), photography MH * Sub-epidermal moisture, subepidermal moisture."
+        ],
+        "negative_ctxs": [
+            36,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "No limitations in terms of language or dates of publications were applied."
+        ],
+        "negative_ctxs": [
+            8,
+            5
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "The article titles were assessed by two authors independently, as were the abstracts (where available) of the studies identified by the search strategy, for their eligibility for inclusion. Full versions of potentially relevant studies were obtained and two authors independently screened these against the inclusion criteria. Consensus between the two authors in relation to the studies and the data to be included was obtained."
+        ],
+        "negative_ctxs": [
+            3,
+            31
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Of these, four were related to SEM, five to ultrasound, one to thermography. No studies related to photography met the inclusion criteria.In eight of the studies, the participants were adult men\nor women with an age >=18 years old, at risk of\ndeveloping PUs.31,36-38,49-52 One study did not present\nparticipants characteristics40 and one study included\nanimal subjects.53"
+        ],
+        "negative_ctxs": [
+            18,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Arising from the search strategy (Fig 2),46 3692 records\nwere identified in the databases. After removal of\nduplicates, the titles of the remaining articles, 2634,\nwere screened, yielding a total of 74 articles for further\nscreening. The abstracts of these records were read and\nthe full-text of 10 records were retrieved.31,36-38,40,49-53\nThese 10 articles (Table 1), met the inclusion criteria\nand formed the basis for this review."
+        ],
+        "negative_ctxs": [
+            37,
+            22
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Table 2. Analysis of EBL Appraisal Checklist Domains"
+        ],
+        "negative_ctxs": [
+            20,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            31,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "it was not possible to conduct meta-analysis, due to the heterogeneity of the studies included."
+        ],
+        "negative_ctxs": [
+            13,
+            18
+        ],
+        "positive_ctxs": [
+            30
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            " In the studies included, heterogeneity was present,\nmainly arising due to issues surrounding the study\npopulations and the methods under investigation. In\nrelation to the population, although demographically\nsimilar, participants presented with differences that did\nnot allow for comparability. These were mainly related\nto skin tone and mobility levels. In relation to the\nmethods under research, these were also not comparable\nas they employed and measured different skin and\ntissue characteristics. Considering that the studies are\nnot homogenous combining them would bring\nmeaningless results and thus rendering any conclusions\nand recommendations lacking the potential for\ncontribution to evidence based practice."
+        ],
+        "negative_ctxs": [
+            34,
+            16
+        ],
+        "positive_ctxs": [
+            23
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "These 10 articles (Table 1), met the inclusion criteria\r\nand formed the basis for this review. Of these, four were\r\nrelated to SEM, five to ultrasound, one to thermography.\r\nNo studies related to photography met the inclusion\r\ncriteria. Appendix"
+        ],
+        "negative_ctxs": [
+            27,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            1,
+            11
+        ],
+        "positive_ctxs": [
+            6,
+            7,
+            9,
+            10,
+            12,
+            13,
+            15,
+            16,
+            19,
+            20,
+            23,
+            25,
+            26,
+            27,
+            28,
+            29,
+            32,
+            35,
+            36,
+            37,
+            38
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The inclusion criteria were: all quantitative original\nresearch studies including both animal and human\nstudies. No limitations in terms of language or dates of\npublications were applied."
+        ],
+        "negative_ctxs": [
+            31,
+            34
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The following databases, the Cochrane Wounds Group Specialised Register, The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library) (latest issue), Ovid MEDLINE (1946 to present), Ovid EMBASE, Elsevier version (1974 to present), EBSCO CINAHL (1982 to present) (see appendix 1), ClinicalTrials.gov, WHO International Clinical Trials Registry (ICTR), and The EU Clinical Trials Register ("
+        ],
+        "negative_ctxs": [
+            26,
+            9
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "The article titles were assessed by two authors independently, as were the abstracts (where available) of the studies identified by the search strategy, for their eligibility for inclusion. Full versions of potentially relevant studies were obtained and two authors independently screened these against the inclusion criteria. Consensus between the two authors in relation to the studies and the data to be included was obtained."
+        ],
+        "negative_ctxs": [
+            18,
+            13
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            35,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Appendix 2 outlines the reasons for the exclusion of the 64 papers.54-106"
+        ],
+        "negative_ctxs": [
+            11,
+            3
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Of these, four were related to SEM, five to ultrasound, one to thermography. No studies related to photography met the inclusion criteria.In eight of the studies, the participants were adult men\nor women with an age >=18 years old, at risk of\ndeveloping PUs.31,36-38,49-52 One study did not present\nparticipants characteristics40 and one study included\nanimal subjects.53"
+        ],
+        "negative_ctxs": [
+            37,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "it was not possible to conduct meta-analysis, due to the heterogeneity of the studies included."
+        ],
+        "negative_ctxs": [
+            21,
+            18
+        ],
+        "positive_ctxs": [
+            30
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            " In the studies included, heterogeneity was present,\nmainly arising due to issues surrounding the study\npopulations and the methods under investigation. In\nrelation to the population, although demographically\nsimilar, participants presented with differences that did\nnot allow for comparability. These were mainly related\nto skin tone and mobility levels. In relation to the\nmethods under research, these were also not comparable\nas they employed and measured different skin and\ntissue characteristics. Considering that the studies are\nnot homogenous combining them would bring\nmeaningless results and thus rendering any conclusions\nand recommendations lacking the potential for\ncontribution to evidence based practice."
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": [
+            23
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The School of Nursing & Midwifery has a collaborative agreement with Bruin Biometrics, the manufacturers of the SEM scanner. Arising from this agreement, the School receives funding for independent research in the field of PU prevention."
+        ],
+        "negative_ctxs": [
+            8,
+            17
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            24
+        ],
+        "positive_ctxs": []
+    }
+]

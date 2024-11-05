@@ -1,0 +1,462 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "We made the following changes to the published protocol (Murphy 2012).\n1. Byline:NandiniKandamanyjoinedthereviewteam.\n2. Searchingotherresources:Wedidnotcontactpharmaceuticalcompanies.\n3. Inthepublishedprotocolforthisreview,weintendedtodocumentthefollowinginthe'Summaryoffindings'(SoF)table.\na. Painscorereduction(usingage-appropriatevalidatedpainscales)followingadministrationofINFatmultipletimepoints.\nb. OccurrenceofadverseeventspostINFadministration.\nc. AcceptabilityofINFadministrationamongparticipants.\nd. Useof'rescueanalgesia'postINFadministration.\ne. Participantandparentalsatisfactionasdefinedbystudyauthors.\nf. Cost as defined by study authors.\ng. Mortality\nHowever, the included studies did not document participant/parental satisfaction nor cost; therefore these were not included in the SOF table.\n\n We would like to thank Andy Smith (content editor), Cathal Walsh (statistical editor) and David Herd and Meredith Borland (peer reviewers) for help and editorial advice provided during preparation of the protocol for the systematic review and the full systematic review."
+        ],
+        "negative_ctxs": [
+            0,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "O B J E C TI V E S\n We identified and evaluated all randomized controlled trials (RCTs) and quasi-randomized trials to assess the effects of INF versus alternative analgesic interventions in children with acute pain, with respect to reduction in pain score, occurrence of adverse events, patient tolerability, use of \"rescue analgesia,\" patient/parental satisfaction and patient mortality.\n Types of studies\nWe included all RCTs and quasi-randomized trials, with an RCT defined as a study in which participants were allocated to treatment groups on the basis of a random method (e.g. using random number tables, hospital number, date of birth).\nTypes of participants\n We included children (< 18 years of age) with acute moderate to severe pain caused by injury (e.g. burns, wounds, suspected fractures) or medical illness.\n We excluded from the review patients who received INF for the preemptive treatment of pain (i.e. patients who received INF as part of procedural sedation in the emergency setting). We also excluded children younger than three months of age because of opiate sensitivity.\n Types of interventions\n The target intervention was INF administered (via droplet, atomizer or spray) for pain relief in children with painful clinical conditions. INF concentration was noted. This treatment was compared with the following interventions.\n 1. Administration of other pharmacological interventions for pain relief (e.g. intravenous morphine) as an active control (including 'double-dummy' study designs).\n 2. Non-pharmacological intervention for pain relief (e.g. limb splinting).\n 3. Placebo administration.\n  Types of outcome measures\n Primary outcomes\n 1. Reduction in pain score or intensity assessed by validated age-appropriate pain scores (e.g. 'Faces, Legs, Activity, Cry,\n Consolability' (FLACC); Wong Baker; numerical rating scale (NRS); visual analogue scale (VAS)).\n We sought outcome assessments at multiple time points post INF administration, if reported. We also sought to identify reductions in reported pain in terms of reductions across the spectrum of pain, that is, mild, moderate or severe pain, and no pain, such as reductions in pain from severe to moderate, or reductions in pain from pain to no pain (VAS < 2), as reported by study authors.\n Secondary outcomes\n 1. OccurrenceofalladverseeventsassociatedwithINF(e.g.opiate toxicity).\n 2. Participant tolerance of INF including the incidence of nausea, vomiting or reported discomfort.\n 3. Useof'rescue'analgesiabeforeandafterhospitalarrival.\n 4. Participantsatisfactionasdefinedbystudyauthors.\n 5. Parentalsatisfactionasdefinedbystudyauthors.\n 6. Costasdefinedbystudyauthors.\n 7. Mortality.\nSecondary outcomes\n1. OccurrenceofalladverseeventsassociatedwithINF(e.g.opiate toxicity).\n2. Participant tolerance of INF including the incidence of nausea, vomiting or reported discomfort.\n3. Useof'rescue'analgesiabeforeandafterhospitalarrival.\n4. Participantsatisfactionasdefinedbystudyauthors.\n5. Parentalsatisfactionasdefinedbystudyauthors.\n6. Costasdefinedbystudyauthors.\n7. Mortality."
+        ],
+        "negative_ctxs": [
+            27,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "O B J E C TI V E S\n We identified and evaluated all randomized controlled trials (RCTs) and quasi-randomized trials to assess the effects of INF versus alternative analgesic interventions in children with acute pain, with respect to reduction in pain score, occurrence of adverse events, patient tolerability, use of \"rescue analgesia,\" patient/parental satisfaction and patient mortality.\n Types of studies\nWe included all RCTs and quasi-randomized trials, with an RCT defined as a study in which participants were allocated to treatment groups on the basis of a random method (e.g. using random number tables, hospital number, date of birth).\nTypes of participants\n We included children (< 18 years of age) with acute moderate to severe pain caused by injury (e.g. burns, wounds, suspected fractures) or medical illness.\n We excluded from the review patients who received INF for the preemptive treatment of pain (i.e. patients who received INF as part of procedural sedation in the emergency setting). We also excluded children younger than three months of age because of opiate sensitivity.\n Types of interventions\n The target intervention was INF administered (via droplet, atomizer or spray) for pain relief in children with painful clinical conditions. INF concentration was noted. This treatment was compared with the following interventions.\n 1. Administration of other pharmacological interventions for pain relief (e.g. intravenous morphine) as an active control (including 'double-dummy' study designs).\n 2. Non-pharmacological intervention for pain relief (e.g. limb splinting).\n 3. Placebo administration.\n  Types of outcome measures\n Primary outcomes\n 1. Reduction in pain score or intensity assessed by validated age-appropriate pain scores (e.g. 'Faces, Legs, Activity, Cry,\n Consolability' (FLACC); Wong Baker; numerical rating scale (NRS); visual analogue scale (VAS)).\n We sought outcome assessments at multiple time points post INF administration, if reported. We also sought to identify reductions in reported pain in terms of reductions across the spectrum of pain, that is, mild, moderate or severe pain, and no pain, such as reductions in pain from severe to moderate, or reductions in pain from pain to no pain (VAS < 2), as reported by study authors.\n Secondary outcomes\n 1. OccurrenceofalladverseeventsassociatedwithINF(e.g.opiate toxicity).\n 2. Participant tolerance of INF including the incidence of nausea, vomiting or reported discomfort.\n 3. Useof'rescue'analgesiabeforeandafterhospitalarrival.\n 4. Participantsatisfactionasdefinedbystudyauthors.\n 5. Parentalsatisfactionasdefinedbystudyauthors.\n 6. Costasdefinedbystudyauthors.\n 7. Mortality.\nSecondary outcomes\n1. OccurrenceofalladverseeventsassociatedwithINF(e.g.opiate toxicity).\n2. Participant tolerance of INF including the incidence of nausea, vomiting or reported discomfort.\n3. Useof'rescue'analgesiabeforeandafterhospitalarrival.\n4. Participantsatisfactionasdefinedbystudyauthors.\n5. Parentalsatisfactionasdefinedbystudyauthors.\n6. Costasdefinedbystudyauthors.\n7. Mortality."
+        ],
+        "negative_ctxs": [
+            20,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We identified published, unpublished and ongoing studies by searching these databases from 1995, as we understand no studies were conducted on the use of INF in children before this date"
+        ],
+        "negative_ctxs": [
+            33,
+            13
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We imposed no language restrictions.\n \n \n We identified published, unpublished and ongoing studies by searching these databases from 1995"
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2014, Issue 1; see Appendix 1); MEDLINE (Ovid SP, from 1995 to January 2014; see Appendix 2); EMBASE (Ovid SP, from 1995 to January 2014; see Appendix 3); the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (EBSCO Host, from 1995 to January 2014; see Appendix 4); Commonwealth Agricultural Bureaux (CAB) Abstracts (from 1995 to January 2014); the Institute for Scientific Information (ISI) Web of Science (from 1995 to January 2014; see Appendix 5); the Latin American and Caribbean Health Science Information Database (LILACS) (BIREME, from 1995 to January 2014; see Appendix 6); BIOSIS Previews (from 1995 to January 2014); the China National Knowledge Infrastructure (CNKI) (from 1995 to January 2014); International Standard Randomized Controlled Trial Number (ISRCTN) (from 1995 to January 2014); ClinicalTrials.gov (from 1995 to January 2014); and the International Clinical Trials Registry Platform (ICTRP) (to January 2014)."
+        ],
+        "negative_ctxs": [
+            9,
+            53
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Searching other resources\n We searched the reference lists of review articles and relevant trials, textbooks and abstracts of scientific meetings to identify further RCTs. We reviewed the titles and abstracts to identify all potentially eligible RCTs. We obtained the full-text versions of these articles. We\n made additional efforts to identify RCTs potentially relevant to the\n topic by using the following data sources.\n 1. Foreign language literature.\n 2. Grey literature (theses, internal reports, non-peer-reviewed journals).\n 3. References (and references of references) cited in primary sources.\n 4. Otherunpublishedsourcesknowntoexpertsinthespeciality(to be sought by personal communication).\n 5. Raw data from published trials (sought by personal communication)."
+        ],
+        "negative_ctxs": [
+            7,
+            53
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2014, Issue 1; see Appendix 1); MEDLINE (Ovid SP, from 1995 to January 2014; see Appendix 2); EMBASE (Ovid SP, from 1995 to January 2014; see Appendix 3); the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (EBSCO Host, from 1995 to January 2014; see Appendix 4); Commonwealth Agricultural Bureaux (CAB) Abstracts (from 1995 to January 2014); the Institute for Scientific Information (ISI) Web of Science (from 1995 to January 2014; see Appendix 5); the Latin American and Caribbean Health Science Information Database (LILACS) (BIREME, from 1995 to January 2014; see Appendix 6)\n\n\nAppendix 1. CENTRAL search strategy\n#1 MeSH descriptor Fentanyl explode all trees #2 fentan?l*:ti,ab\n#3 (#1 OR #2)\n#4 MeSH descriptor Acute Pain explode all trees #5 MeSH descriptor Pain, this term only\n#6 MeSH descriptor Wounds and Injuries, this term only #7 MeSH descriptor Burns explode all trees\n#8 MeSH descriptor Pain Measurement, this term only #9 MeSH descriptor Emergencies explode all trees\n#10 pain*:ti or (pain near (acute or moderate or severe or relief or scor*)):ti,ab or (fracture* or burn* or injur* or emergency*):ti,ab #11 (#4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10)\n#12 (#3 AND #11)\n#13 adult*\n#14 (child* or pediat*)\n#15 (#13 AND NOT ( #14 AND #13 )) #16 (#12 AND NOT #15)\nAppendix 2. MEDLINE (Ovid SP) search strategy\n1. exp Fentanyl/ or fentan?l*.af.\n2. exp Acute Pain/ or exp Pain/co, pc or \"Wounds and Injuries\"/ or Burns/ or Pain Measurement/ or Emergencies/ or pain*.ti,ab. or (pain adj3 (acute or moderate or severe or relief or scor*)).af. or (fracture* or burn* or injur* or emergency*).ti,ab.\n3. 1 and 2\n4. adult*.af.\n5. (child* or pediat*).af.\n6.4not(4and5)\n7.3not6\n8. ((randomized controlled trial or controlled clinical trial).pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab. or trial.ti.) not (animals not (humans and animals)).sh.\n9. 7 and 8\nAppendix 3. EMBASE (Ovid SP) search strategy\n1 exp fentanyl/ or fentan?l*.ti.\n2 pain/co, pc or wound/ or injury/ or burn/ or pain assessment/ or emergency/ or pain*.ti. or (pain adj3 (acute or moderate or severe or relief or scor*)).ti,ab. or (fracture* or burn* or injur* or emergency*).ti.\n3 1 and 2\n4 adult*.af.\n5 (child* or p?ediat*).af.\n64not(5and4)\n73not6\n8 (placebo.sh. or controlled study.ab. or random*.ti,ab. or trial*.ti,ab. or ((singl* or doubl* or trebl* or tripl*) adj3 (blind* or mask*)).ti,ab.) not (animals not (humans and animals)).sh.\n9 7 and 8\nAppendix 4. CINAHL (EBSCO Host) search strategy\nS1 (MM \"Fentanyl\") OR \"Fentanyl\"\nS2 ( (MH \"Acute Pain (Saba CCC)\") OR (MH \"Pain\") OR (MH \"Wounds and Injuries\") OR (MH \"Burns\") OR (MH \"Pain Measurement\") OR (MH \"Emergencies\") ) OR TI pain OR AB ( pain and (acute or moderate or severe or relief or scor*) ) OR TI ( fracture* o.r burn* or injur* or emergency* )\nS3 S1 and S2\nS4 adult*\nS5 child* or p?ediat*\nS6 S4 not (S4 and S5)\nS7S3notS6\nS8 ( (MM \"Randomized Controlled Trials\") OR (MH \"Random Assignment\") OR (MH \"Clinical Trial Registry\") OR (MH \"Prospective Studies\") OR (MH \"Placebos\") OR (MH \"Double-Blind Studies\") OR (MH\n\"Single-Blind Studies\") OR (MH \"Triple-Blind Studies\") ) OR AB ( random* or ((controlled or clinical) and trial*) )\nS9 S7 and S8\nAppendix 5. ISI Web of Science and BIOSIS Citations Index SM search strategy\n#1 TI=fentan?l*\n#2 TI=pain* or TS=(pain SAME (acute or moderate or severe or relief or scor*)) or TI=(fracture* or burn* or injur* or emergency*)\n#3 #1 AND #2\n#4 TS=adult*\n#5 TS=(child* or p?ediat*)\n#6 #4 not (#4 and #5)\n#7#3not#6\n#8 TS=(random* or ((controlled or clinical) SAME trial*) or prospective or multicenter) or TS=((mask* or blind*) SAME (single or double or triple or treble))\n#9 #7 and #8\nAppendix 6. LILACS search strategy\n\"fentanyl$\" or \"fentanil$\" and (\"pain\" and (\"acute\" or \"moderate\" or \"severe\" or \"relief\" or \"scor$\")) or (\"fracture$\" or \"burn$\" or \"injur $\" or \"emergency$\")"
+        ],
+        "negative_ctxs": [
+            28,
+            47
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We identified published, unpublished and ongoing studies by searching these databases from 1995, as we understand no studies were conducted on the use of INF in children before this date.\n \n \n We imposed no language restrictions."
+        ],
+        "negative_ctxs": [
+            51,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two independent review authors (JC and MB) assessed each title and abstract for relevance. Disagreements on eligibility were resolved by discussion or by referral to a third party (ROS)"
+        ],
+        "negative_ctxs": [
+            15,
+            52
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two review authors (JH and SMC) independently extracted the data"
+        ],
+        "negative_ctxs": [
+            45,
+            36
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Description of studies\n See Characteristics of included studies\n\n\nWe included three trials (313 participants) comparing INF with alternative interventions for the treatment of children in acute pain (Borland 2007; Borland 2011; Younge 1999). All three studies included two comparison arms and were conducted at single sites in Australia. One study compared INF versus intramuscular morphine (IMM) (Younge 1999); another study compared INF versus intravenous morphine (IVM) (Borland 2007); and the final included study compared two different concentrations of INF for the treatment of children in acute pain (Borland 2011).\nEach of the three selected studies included children who had experienced pain as a result of suspected limb fracture. One study recruited participants three to 10 years of age (Younge 1999), another study recruited participants three to 15 years of age (Borland 2011) and the final study recruited participants seven to 15 years of age (Borland 2007). Participant sex was not considered among the inclusion criteria. However, the intervention arm of one study consisted of 62.5% male participants (Younge 1999) and 62.9% male participants in another study (Borland 2011). Borland 2007 indicated that baseline characteristics were similar in control and intervention arms. Exclusion criteria were similar for all three studies (head injury impairing judgement, known allergy to opiates, blocked/traumatized nose, participants requiring immediate IV access, inability to perform pain scoring).\nAll three studies described reduction in pain intensity as the primary outcome measure. Pain scores were documented at\nfive-minute intervals for 30 minutes (Borland 2007; Younge 1999) and at 10-minute intervals for 30 minutes (Borland 2011). Secondary outcome measures included participant tolerance to the medication administered (all studies); occurrence of opiate toxicity (respiratory depression, hypotension or decreased level of consciousness) was documented in two studies (Borland 2011; Younge 1999), and the use of \"rescue analgesia\" was identified in two studies (Borland 2007; Borland 2011).\nPooling of data was not possible, given that no studies employed the same comparator arms. Details of included studies are listed in Characteristics of included studies and Figure 1."
+        ],
+        "negative_ctxs": [
+            16,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "We included three trials (313 participants) comparing INF with alternative interventions for the treatment of children in acute pain (Borland 2007; Borland 2011; Younge 1999).\n\n\nPrimary outcome\nReduction in pain score\nAll three studies reported a reduction in pain score/intensity--the primary outcome measure of this review.\nBorland 2007 utilized a 100-mm unmarked VAS for pain assessment. This study reported no statistically significant differences in visual analogue scale scores between treatment arms (INF or intravenous morphine) before analgesia or at 5, 10, 20 and 30 minutes post analgesia (P value 0.333). Statistically significant reductions in the combined VAS score were noted in both treatment arms at 5 minutes post analgesia of 20 mm (P value 0.000), at 10 minutes of 4 mm (P value 0.012) and at 20 minutes of 8 mm (P value 0.000). No further significant reductions in VAS score were reported\nbeyond 20 minutes (P value 0.753) (Table 1). See also Summary of findings for the main comparison.\nBorland 2011 reported no statistically significant differences in median pain scores between treatment arms (high concentration INF vs standard concentration INF) at any of the study time points. Each agent demonstrated a statistically and clinically significant reduction in pain scores over the duration of the study (median decrease for both groups 40 mm, P value 0.000) (Table 2).\nYounge 1999 assessed pain on a six-point pain scale (0 = no pain, 5 = worst pain). No significant differences in presenting pain scores were noted between treatment arms (P value 0.46). This study reported a significant difference in pain scores at 10 minutes, with a lower pain score seen in the INF group (pain score of 1 vs pain score of 2 for INF vs intramuscular morphine, respectively; P value 0.014). The median pain score difference at 20 minutes did not reach statistical significance (P value 0.64), and no further difference in pain scores was noted at any other time (Table 3).\n\n\nTable1. Intranasal fentanyl (INF) versus intravenous morphine (IVM)"
+        ],
+        "negative_ctxs": [
+            35,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "We used the Cochrane risk of bias tool in RevMan 5.2, which involves describing each of the domains as reported in the trial and then assigning a judgement about the adequacy of each entry (low risk of bias, high risk of bias or unclear (or unknown) risk of bias).\n \n \n Two review authors (JC and MB) independently undertook assessment of risk of bias of the included trials. They took the following into consideration, guided by the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011)."
+        ],
+        "negative_ctxs": [
+            6,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two review authors (JC and MB) independently undertook assessment of risk of bias of the included trials."
+        ],
+        "negative_ctxs": [
+            21,
+            51
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "We included three trials (313 participants) comparing INF with alternative interventions for the treatment of children in acute pain (Borland 2007; Borland 2011; Younge 1999).\n\n\nAll three studies reported a reduction in pain score/intensity"
+        ],
+        "negative_ctxs": [
+            50,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Pooling of data was not possible, given that no studies employed the same comparator arms. \n \n \n We were unable to perform a valid sensitivity analysis as planned a priori because all RCTs included in this review were randomized (no quasi-randomized trials were eligible for inclusion).\n \n \n It was not possible to pool the results of these three trials because the comparator interventions were different, and timing of pain score assessment was inconsistent between two of the three studies\n\n\nWe made the following changes to the published protocol (Murphy 2012).\n1. Byline:NandiniKandamanyjoinedthereviewteam.\n2. Searchingotherresources:Wedidnotcontactpharmaceuticalcompanies.\n3. Inthepublishedprotocolforthisreview,weintendedtodocumentthefollowinginthe'Summaryoffindings'(SoF)table.\na. Painscorereduction(usingage-appropriatevalidatedpainscales)followingadministrationofINFatmultipletimepoints.\nb. OccurrenceofadverseeventspostINFadministration.\nc. AcceptabilityofINFadministrationamongparticipants.\nd. Useof'rescueanalgesia'postINFadministration.\ne. Participantandparentalsatisfactionasdefinedbystudyauthors.\nf. Cost as defined by study authors.\ng. Mortality\nHowever, the included studies did not document participant/parental satisfaction nor cost; therefore these were not included in the SOF table."
+        ],
+        "negative_ctxs": [
+            7,
+            46
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Pooling of data was not possible, given that no studies employed the same comparator arms.\n \n \n It was not possible to pool the results of these three trials because the comparator interventions were different, and timing of pain score assessment was inconsistent between two of the three studies"
+        ],
+        "negative_ctxs": [
+            46,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Pooling of data was not possible, given that no studies employed the same comparator arms.\n \n \n It was not possible to pool the results of these three trials because the comparator interventions were different, and timing of pain score assessment was inconsistent between two of the three studies"
+        ],
+        "negative_ctxs": [
+            32,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "We were unable to perform a valid sensitivity analysis as planned a priori because all RCTs included in this review were randomized (no quasi-randomized trials were eligible for inclusion).\n \n Detecting publication bias is difficult, and avoidance is a better strategy (Glasziou 2001). We avoided publication bias by comprehensively searching the literature and by using study registries (Glasziou 2001). Publication bias is associated with asymmetry (Light 1984). We looked for asymmetry and explored potential reasons other than publication bias, for example, high risk of bias of smaller studies, true heterogeneity, artefact or chance (Egger 1997)."
+        ],
+        "negative_ctxs": [
+            16,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Risk of bias in included studies\n Allocation\n Borland 2011 and Younge 1999 appeared to provide sufficient detail in terms of random sequence generation and allocation of concealment. However, Borland 2007 was considered to have unclear risk of selection bias (Figure 2; Figure 3).\n Blinding\n Blinding of participants and personnel was reported in two studies (Borland 2007; Borland 2011).\n Incomplete outcome data\n Two studies were limited by incomplete outcome data (Borland 2007; Borland 2011).\n Selective reporting\n Reporting bias was considered of low risk in all studies, given that each study's prespecified outcomes of interest in the review have been reported in the prespecified way.\n Other potential sources of bias\n No other potential sources of bias were identified in either study."
+        ],
+        "negative_ctxs": [
+            51,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Risk of bias in included studies\n Allocation\n Borland 2011 and Younge 1999 appeared to provide sufficient detail in terms of random sequence generation and allocation of concealment. However, Borland 2007 was considered to have unclear risk of selection bias (Figure 2; Figure 3).\n Blinding\n Blinding of participants and personnel was reported in two studies (Borland 2007; Borland 2011).\n Incomplete outcome data\n Two studies were limited by incomplete outcome data (Borland 2007; Borland 2011).\n Selective reporting\n Reporting bias was considered of low risk in all studies, given that each study's prespecified outcomes of interest in the review have been reported in the prespecified way.\n Other potential sources of bias\n No other potential sources of bias were identified in either study.\n\n\nQuality of the evidence\nSome limitations were noted in the design and implementation of all three studies. Borland 2007 used a convenience sample for enrolments that was dependent on identification of suitable participants at triage. No record was kept of potential participants who were not enrolled, so no conclusion can be drawn about potential selection bias. Enrolment in Borland 2011 was not compulsory but was actively encouraged by study investigators. The fact that not all potential participants were screened for inclusion in the study may influence external validity. However, patients meeting inclusion criteria through the \"Drugs of Dependence\" register in the study ED were recorded and reasons for failure to enrol in the study documented. Based on similarities\nbetween cohorts of included and non-included patients, this potential source of selection bias was minimized. Younge 1999 was limited in design by the open nature of the trial and did not meet the criteria for a good quality study (one that includes all of the following domains: adequate allocation concealment, blinding of outcome assessment and analysis performed according to intention-to-treat principles), suggesting a likely potential source of bias.\nWe identified neither indirectness of evidence (indirect population, intervention, control, outcomes) nor unexplained heterogeneity or inconsistency of results (including problems with subgroup analyses) in any included study. Similarly no evidence suggested imprecision of results (wide confidence intervals) in any included study. The overall risk of publication bias was thought to be low in all included studies.\nPotential biases in the review process\nWe encountered no potential bias in the review process."
+        ],
+        "negative_ctxs": [
+            43,
+            45
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "O B J E C TI V E S\nWe identified and evaluated all randomized controlled trials (RCTs) and quasi-randomized trials to assess the effects of INF versus alternative analgesic interventions in children with acute pain, with respect to reduction in pain score, occurrence of adverse events, patient tolerability, use of \"rescue analgesia,\" patient/parental satisfaction and patient mortality.\n\nWe included three trials (313 participants) comparing INF with alternative interventions for the treatment of children in acute pain (Borland 2007; Borland 2011; Younge 1999). All three studies included two comparison arms and were conducted at single sites in Australia. One study compared INF versus intramuscular morphine (IMM) (Younge 1999); another study compared INF versus intravenous morphine (IVM) (Borland 2007); and the final included study compared two different concentrations of INF for the treatment of children in acute pain (Borland 2011).\nEach of the three selected studies included children who had experienced pain as a result of suspected limb fracture. One study recruited participants three to 10 years of age (Younge 1999), another study recruited participants three to 15 years of age (Borland 2011) and the final study recruited participants seven to 15 years of age (Borland 2007). Participant sex was not considered among the inclusion criteria. However, the intervention arm of one study consisted of 62.5% male participants (Younge 1999) and 62.9% male participants in another study (Borland 2011). Borland 2007 indicated that baseline characteristics were similar in control and intervention arms. Exclusion criteria were similar for all three studies (head injury impairing judgement, known allergy to opiates, blocked/traumatized nose, participants requiring immediate IV access, inability to perform pain scoring).\nAll three studies described reduction in pain intensity as the primary outcome measure. Pain scores were documented at\nfive-minute intervals for 30 minutes (Borland 2007; Younge 1999) and at 10-minute intervals for 30 minutes (Borland 2011). Secondary outcome measures included participant tolerance to the medication administered (all studies); occurrence of opiate toxicity (respiratory depression, hypotension or decreased level of consciousness) was documented in two studies (Borland 2011; Younge 1999), and the use of \"rescue analgesia\" was identified in two studies (Borland 2007; Borland 2011)."
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            25,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "We made the following changes to the published protocol (Murphy 2012).\n1. Byline:NandiniKandamanyjoinedthereviewteam.\n2. Searchingotherresources:Wedidnotcontactpharmaceuticalcompanies.\n3. Inthepublishedprotocolforthisreview,weintendedtodocumentthefollowinginthe'Summaryoffindings'(SoF)table.\na. Painscorereduction(usingage-appropriatevalidatedpainscales)followingadministrationofINFatmultipletimepoints.\nb. OccurrenceofadverseeventspostINFadministration.\nc. AcceptabilityofINFadministrationamongparticipants.\nd. Useof'rescueanalgesia'postINFadministration.\ne. Participantandparentalsatisfactionasdefinedbystudyauthors.\nf. Cost as defined by study authors.\ng. Mortality\nHowever, the included studies did not document participant/parental satisfaction nor cost; therefore these were not included in the SOF table.\n\n We would like to thank Andy Smith (content editor), Cathal Walsh (statistical editor) and David Herd and Meredith Borland (peer reviewers) for help and editorial advice provided during preparation of the protocol for the systematic review and the full systematic review."
+        ],
+        "negative_ctxs": [
+            4,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "O B J E C TI V E S\n We identified and evaluated all randomized controlled trials (RCTs) and quasi-randomized trials to assess the effects of INF versus alternative analgesic interventions in children with acute pain, with respect to reduction in pain score, occurrence of adverse events, patient tolerability, use of \"rescue analgesia,\" patient/parental satisfaction and patient mortality.\n Types of studies\nWe included all RCTs and quasi-randomized trials, with an RCT defined as a study in which participants were allocated to treatment groups on the basis of a random method (e.g. using random number tables, hospital number, date of birth).\nTypes of participants\n We included children (< 18 years of age) with acute moderate to severe pain caused by injury (e.g. burns, wounds, suspected fractures) or medical illness.\n We excluded from the review patients who received INF for the preemptive treatment of pain (i.e. patients who received INF as part of procedural sedation in the emergency setting). We also excluded children younger than three months of age because of opiate sensitivity.\n Types of interventions\n The target intervention was INF administered (via droplet, atomizer or spray) for pain relief in children with painful clinical conditions. INF concentration was noted. This treatment was compared with the following interventions.\n 1. Administration of other pharmacological interventions for pain relief (e.g. intravenous morphine) as an active control (including 'double-dummy' study designs).\n 2. Non-pharmacological intervention for pain relief (e.g. limb splinting).\n 3. Placebo administration.\n  Types of outcome measures\n Primary outcomes\n 1. Reduction in pain score or intensity assessed by validated age-appropriate pain scores (e.g. 'Faces, Legs, Activity, Cry,\n Consolability' (FLACC); Wong Baker; numerical rating scale (NRS); visual analogue scale (VAS)).\n We sought outcome assessments at multiple time points post INF administration, if reported. We also sought to identify reductions in reported pain in terms of reductions across the spectrum of pain, that is, mild, moderate or severe pain, and no pain, such as reductions in pain from severe to moderate, or reductions in pain from pain to no pain (VAS < 2), as reported by study authors.\n Secondary outcomes\n 1. OccurrenceofalladverseeventsassociatedwithINF(e.g.opiate toxicity).\n 2. Participant tolerance of INF including the incidence of nausea, vomiting or reported discomfort.\n 3. Useof'rescue'analgesiabeforeandafterhospitalarrival.\n 4. Participantsatisfactionasdefinedbystudyauthors.\n 5. Parentalsatisfactionasdefinedbystudyauthors.\n 6. Costasdefinedbystudyauthors.\n 7. Mortality.\nSecondary outcomes\n1. OccurrenceofalladverseeventsassociatedwithINF(e.g.opiate toxicity).\n2. Participant tolerance of INF including the incidence of nausea, vomiting or reported discomfort.\n3. Useof'rescue'analgesiabeforeandafterhospitalarrival.\n4. Participantsatisfactionasdefinedbystudyauthors.\n5. Parentalsatisfactionasdefinedbystudyauthors.\n6. Costasdefinedbystudyauthors.\n7. Mortality."
+        ],
+        "negative_ctxs": [
+            48,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Types of studies\nWe included all RCTs and quasi-randomized trials, with an RCT defined as a study in which participants were allocated to treatment groups on the basis of a random method (e.g. using random number tables, hospital number, date of birth)."
+        ],
+        "negative_ctxs": [
+            45,
+            52
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2014, Issue 1; see Appendix 1); MEDLINE (Ovid SP, from 1995 to January 2014; see Appendix 2); EMBASE (Ovid SP, from 1995 to January 2014; see Appendix 3); the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (EBSCO Host, from 1995 to January 2014; see Appendix 4); Commonwealth Agricultural Bureaux (CAB) Abstracts (from 1995 to January 2014); the Institute for Scientific Information (ISI) Web of Science (from 1995 to January 2014; see Appendix 5); the Latin American and Caribbean Health Science Information Database (LILACS) (BIREME, from 1995 to January 2014; see Appendix 6); BIOSIS Previews (from 1995 to January 2014); the China National Knowledge Infrastructure (CNKI) (from 1995 to January 2014); International Standard Randomized Controlled Trial Number (ISRCTN) (from 1995 to January 2014); ClinicalTrials.gov (from 1995 to January 2014); and the International Clinical Trials Registry Platform (ICTRP) (to January 2014)."
+        ],
+        "negative_ctxs": [
+            44,
+            24
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two independent review authors (JC and MB) assessed each title and abstract for relevance. Disagreements on eligibility were resolved by discussion or by referral to a third party (ROS)"
+        ],
+        "negative_ctxs": [
+            21,
+            36
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two review authors (JH and SMC) independently extracted the data"
+        ],
+        "negative_ctxs": [
+            31,
+            52
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "See Characteristics of included studies and Characteristics of excluded studies.\n\n\nThree trials were excluded because each involved preemptive treatment of children in pain in advance of lumbar puncture/bone marrow aspiration (Sandler 1992), children requiring a dressing change for burn injury (Borland 2005) and children undergoing catheterization for voiding cystourethrography (Chung 2010)."
+        ],
+        "negative_ctxs": [
+            21,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Description of studies\n See Characteristics of included studies\n\n\nWe included three trials (313 participants) comparing INF with alternative interventions for the treatment of children in acute pain (Borland 2007; Borland 2011; Younge 1999). All three studies included two comparison arms and were conducted at single sites in Australia. One study compared INF versus intramuscular morphine (IMM) (Younge 1999); another study compared INF versus intravenous morphine (IVM) (Borland 2007); and the final included study compared two different concentrations of INF for the treatment of children in acute pain (Borland 2011).\nEach of the three selected studies included children who had experienced pain as a result of suspected limb fracture. One study recruited participants three to 10 years of age (Younge 1999), another study recruited participants three to 15 years of age (Borland 2011) and the final study recruited participants seven to 15 years of age (Borland 2007). Participant sex was not considered among the inclusion criteria. However, the intervention arm of one study consisted of 62.5% male participants (Younge 1999) and 62.9% male participants in another study (Borland 2011). Borland 2007 indicated that baseline characteristics were similar in control and intervention arms. Exclusion criteria were similar for all three studies (head injury impairing judgement, known allergy to opiates, blocked/traumatized nose, participants requiring immediate IV access, inability to perform pain scoring).\nAll three studies described reduction in pain intensity as the primary outcome measure. Pain scores were documented at\nfive-minute intervals for 30 minutes (Borland 2007; Younge 1999) and at 10-minute intervals for 30 minutes (Borland 2011). Secondary outcome measures included participant tolerance to the medication administered (all studies); occurrence of opiate toxicity (respiratory depression, hypotension or decreased level of consciousness) was documented in two studies (Borland 2011; Younge 1999), and the use of \"rescue analgesia\" was identified in two studies (Borland 2007; Borland 2011).\nPooling of data was not possible, given that no studies employed the same comparator arms. Details of included studies are listed in Characteristics of included studies and Figure 1."
+        ],
+        "negative_ctxs": [
+            0,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "We used the Cochrane risk of bias tool in RevMan 5.2, which involves describing each of the domains as reported in the trial and then assigning a judgement about the adequacy of each entry (low risk of bias, high risk of bias or unclear (or unknown) risk of bias).\n \n \n Two review authors (JC and MB) independently undertook assessment of risk of bias of the included trials. They took the following into consideration, guided by the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011)."
+        ],
+        "negative_ctxs": [
+            20,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Pooling of data was not possible, given that no studies employed the same comparator arms.\n \n \n It was not possible to pool the results of these three trials because the comparator interventions were different, and timing of pain score assessment was inconsistent between two of the three studies"
+        ],
+        "negative_ctxs": [
+            46,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Pooling of data was not possible, given that no studies employed the same comparator arms.\n \n \n It was not possible to pool the results of these three trials because the comparator interventions were different, and timing of pain score assessment was inconsistent between two of the three studies"
+        ],
+        "negative_ctxs": [
+            43,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "We were unable to perform a valid sensitivity analysis as planned a priori because all RCTs included in this review were randomized (no quasi-randomized trials were eligible for inclusion).\n \n Detecting publication bias is difficult, and avoidance is a better strategy (Glasziou 2001). We avoided publication bias by comprehensively searching the literature and by using study registries (Glasziou 2001). Publication bias is associated with asymmetry (Light 1984). We looked for asymmetry and explored potential reasons other than publication bias, for example, high risk of bias of smaller studies, true heterogeneity, artefact or chance (Egger 1997)."
+        ],
+        "negative_ctxs": [
+            22,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Risk of bias in included studies\n Allocation\n Borland 2011 and Younge 1999 appeared to provide sufficient detail in terms of random sequence generation and allocation of concealment. However, Borland 2007 was considered to have unclear risk of selection bias (Figure 2; Figure 3).\n Blinding\n Blinding of participants and personnel was reported in two studies (Borland 2007; Borland 2011).\n Incomplete outcome data\n Two studies were limited by incomplete outcome data (Borland 2007; Borland 2011).\n Selective reporting\n Reporting bias was considered of low risk in all studies, given that each study's prespecified outcomes of interest in the review have been reported in the prespecified way.\n Other potential sources of bias\n No other potential sources of bias were identified in either study."
+        ],
+        "negative_ctxs": [
+            22,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            43,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "D E C L A R A T I O N S O F I N T ER ES T\nAdrian Murphy: none known.\nRonan O'Sullivan: none known.\nAbel Wakai: none known.\nTimothy Grant: I began working at ICON Clinical Research on December 1, 2012. None of my work at ICON involves related areas, and all work is performed independently of the work I had previously completed in preparation of this review. My current work involves primarily oncology and vaccines, and no activities focus on anaesthesia or pain management. Neither I, Tim Grant, nor my employer, ICON Clinical Research, is in a position to benefit financially from this review; I have no conflicts of interest. This work was performed independently of my employment, and this work is related in no way to my employer.\nMichael J Barrett: none known. John Cronin: none known.\nSiobhan C McCoy: none known. Jeffrey Hom: none known.\nNandini Kandamany: none known.\n\n\nS O U R C E S O F S U PP O R T Internal sources\n* National Children's Research Centre, Ireland. External sources\n* No sources of support supplied"
+        ],
+        "negative_ctxs": [
+            13,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Risk of bias in included studies\n Allocation\n Borland 2011 and Younge 1999 appeared to provide sufficient detail in terms of random sequence generation and allocation of concealment. However, Borland 2007 was considered to have unclear risk of selection bias (Figure 2; Figure 3).\n Blinding\n Blinding of participants and personnel was reported in two studies (Borland 2007; Borland 2011).\n Incomplete outcome data\n Two studies were limited by incomplete outcome data (Borland 2007; Borland 2011).\n Selective reporting\n Reporting bias was considered of low risk in all studies, given that each study's prespecified outcomes of interest in the review have been reported in the prespecified way.\n Other potential sources of bias\n No other potential sources of bias were identified in either study.\n\n\nQuality of the evidence\nSome limitations were noted in the design and implementation of all three studies. Borland 2007 used a convenience sample for enrolments that was dependent on identification of suitable participants at triage. No record was kept of potential participants who were not enrolled, so no conclusion can be drawn about potential selection bias. Enrolment in Borland 2011 was not compulsory but was actively encouraged by study investigators. The fact that not all potential participants were screened for inclusion in the study may influence external validity. However, patients meeting inclusion criteria through the \"Drugs of Dependence\" register in the study ED were recorded and reasons for failure to enrol in the study documented. Based on similarities\nbetween cohorts of included and non-included patients, this potential source of selection bias was minimized. Younge 1999 was limited in design by the open nature of the trial and did not meet the criteria for a good quality study (one that includes all of the following domains: adequate allocation concealment, blinding of outcome assessment and analysis performed according to intention-to-treat principles), suggesting a likely potential source of bias.\nWe identified neither indirectness of evidence (indirect population, intervention, control, outcomes) nor unexplained heterogeneity or inconsistency of results (including problems with subgroup analyses) in any included study. Similarly no evidence suggested imprecision of results (wide confidence intervals) in any included study. The overall risk of publication bias was thought to be low in all included studies.\nPotential biases in the review process\nWe encountered no potential bias in the review process."
+        ],
+        "negative_ctxs": [
+            40,
+            2
+        ],
+        "positive_ctxs": []
+    }
+]

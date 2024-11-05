@@ -1,0 +1,460 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Studies eligible for inclusion in this systematic review met the following criteria: a) were cohort studies involving patients with a nonmelanoma skin cancer diagnosis, b) provided an estimate of a mortality ratio or relative risk of death for the association of nonmelanoma skin cancer and mortality; and c) were reported in English. \n\nExclusion criteria included: a) only reported associations with cause-specific fatal outcomes other than cancer such as suicide ; b) evaluation of nonmelanoma skin cancer-specific mortality; and c) assessment of rare skin cancers other than basal cell carcinoma or squamous cell carcinoma, such as Merkel cell carcinoma and adnexal cell carcinoma, or precursor skin conditions, such as actinic keratosis"
+        ],
+        "negative_ctxs": [
+            27,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Studies eligible for inclusion in this systematic review met the following criteria: a) were cohort studies involving patients with a nonmelanoma skin cancer diagnosis, b) provided an estimate of a mortality ratio or relative risk of death for the association of nonmelanoma skin cancer and mortality; and c) were reported in English. \n\nExclusion criteria included: a) only reported associations with cause-specific fatal outcomes other than cancer such as suicide ; b) evaluation of nonmelanoma skin cancer-specific mortality; and c) assessment of rare skin cancers other than basal cell carcinoma or squamous cell carcinoma, such as Merkel cell carcinoma and adnexal cell carcinoma, or precursor skin conditions, such as actinic keratosis"
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Exclusion criteria included: a) only reported associations with cause-specific fatal outcomes other than cancer such as suicide ; b) evaluation of nonmelanoma skin cancer-specific mortality; and c) assessment of rare skin cancers other than basal cell carcinoma or squamous cell carcinoma, such as Merkel cell carcinoma and adnexal cell carcinoma, or precursor skin conditions, such as actinic keratosis\n\nStudies eligible for inclusion in this systematic review met the following criteria: a) were cohort studies involving patients with a nonmelanoma skin cancer diagnosis,"
+        ],
+        "negative_ctxs": [
+            8,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Studies eligible for inclusion in this systematic review met the following criteria: c) were reported in English "
+        ],
+        "negative_ctxs": [
+            6,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "In February 2016, a literature review within the PubMed and SCOPUS databases was conducted. Other databases searched, including the Cumulative Index to Nursing and Allied Health Literature (CINAHL) Plus and Health Source, did not retrieve any additional relevant studies. The electronic searches were supplemented with hand-searches of references in related articles identified in PubMed citations."
+        ],
+        "negative_ctxs": [
+            10,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The electronic searches were supplemented with hand-searches of references in related articles identified in PubMed citations."
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The search strategy was a title search that used the following specific search terms and Boolean logic: ((cutaneous basal cell OR cutaneous squamous cell OR keratinocyte OR nonmelanoma OR skin) AND (cancer OR carcinoma)) AND (death OR mortality OR prognosis OR survival)."
+        ],
+        "negative_ctxs": [
+            24,
+            8
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Studies eligible for inclusion in this systematic review met the following criteria: c) were reported in English "
+        ],
+        "negative_ctxs": [
+            22,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1: A summary of studies with relevant data on the association between nonmelanoma skin cancer and 1) all-cause mortality; 2) cancer-specific mortality, and 3) survival after the diagnosis with another form of cancer."
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "An additional 6 studies that met the inclusion criteria were ascertained via hand-searches of related articles, for a total of 12 articles eligible for inclusion in the systematic review. However, the evidence was complicated by the fact that of the seven published reports that included evidence for the association between nonmelanoma skin cancer and all-cause mortality, five were from Denmark and had a considerable degree of overlapping data\n\nTherefore, to avoid redundancy the 2008 report data are used as the sole data source presented in the evidence tables, but for completeness the results from the other Danish reports are noted in the text. After this step, the number of studies summarized in the evidence tables was 3 for all-cause mortality, 2 for cancer-specific mortality, and five studies of survival after diagnosis with a type of cancer other than nonmelanoma skin cancer"
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "the number of studies summarized in the evidence tables was 3 for all-cause mortality, 2 for cancer-specific mortality, and five studies of survival after diagnosis with a type of cancer other than NMSC.\n\nthe sex-specific mortality ratios were combined to calculate an overall mortality ratio for the total study population. Calculations were performed algebraically on the log scale, resulting in combined averages and errors weighted by sample size . Standard errors of the sex-specific mortality ratios were calculated by dividing the width of the reported 95% confidence interval by 2x1.96. "
+        ],
+        "negative_ctxs": [
+            22,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Limitations of this study include the relatively small number of studies that have been conducted for each specific type of fatal outcome considered in this review, with further uncertainty introduced by the fact that the relevant data were generated using heterogeneous approaches to study design and control of potential confounding variables. Most of the studies were limited to pathology-confirmed nonmelanoma skin cancer cases but one study relied on self-reported nonmelanoma skin cancer"
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "[Table 1] A summary of studies with relevant data on the association between nonmelanoma skin cancer and 1) all-cause mortality; 2) cancer-specific mortality, and 3) survival after the diagnosis with another form of cancer"
+        ],
+        "negative_ctxs": [
+            10,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            4,
+            24
+        ],
+        "positive_ctxs": [
+            0,
+            2,
+            3,
+            5,
+            9,
+            20,
+            21,
+            22,
+            23,
+            25,
+            27
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Studies eligible for inclusion in this systematic review met the following criteria: a) were cohort studies involving patients with a nonmelanoma skin cancer diagnosis, b) provided an estimate of a mortality ratio or relative risk of death for the association of nonmelanoma skin cancer and mortality; and c) were reported in English. \n\nExclusion criteria included: a) only reported associations with cause-specific fatal outcomes other than cancer such as suicide ; b) evaluation of nonmelanoma skin cancer-specific mortality; and c) assessment of rare skin cancers other than basal cell carcinoma or squamous cell carcinoma, such as Merkel cell carcinoma and adnexal cell carcinoma, or precursor skin conditions, such as actinic keratosis"
+        ],
+        "negative_ctxs": [
+            0,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "In February 2016, a literature review within the PubMed and SCOPUS databases was conducted. Other databases searched, including the Cumulative Index to Nursing and Allied Health Literature (CINAHL) Plus and Health Source, did not retrieve any additional relevant studies. The electronic searches were supplemented with hand-searches of references in related articles identified in PubMed citations."
+        ],
+        "negative_ctxs": [
+            14,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1: A summary of studies with relevant data on the association between nonmelanoma skin cancer and 1) all-cause mortality; 2) cancer-specific mortality, and 3) survival after the diagnosis with another form of cancer."
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "the number of studies summarized in the evidence tables was 3 for all-cause mortality, 2 for cancer-specific mortality, and five studies of survival after diagnosis with a type of cancer other than NMSC.\n\nthe sex-specific mortality ratios were combined to calculate an overall mortality ratio for the total study population. Calculations were performed algebraically on the log scale, resulting in combined averages and errors weighted by sample size . Standard errors of the sex-specific mortality ratios were calculated by dividing the width of the reported 95% confidence interval by 2x1.96. "
+        ],
+        "negative_ctxs": [
+            24,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "This study was supported by funding from National Cancer Institute Cancer Center Support Grant (P30 CA38313) to the Hollings Cancer Center, Medical University of South Carolina."
+        ],
+        "negative_ctxs": [
+            7,
+            24
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Limitations of this study include the relatively small number of studies that have been conducted for each specific type of fatal outcome considered in this review, with further uncertainty introduced by the fact that the relevant data were generated using heterogeneous approaches to study design and control of potential confounding variables. Most of the studies were limited to pathology-confirmed nonmelanoma skin cancer cases but one study relied on self-reported nonmelanoma skin cancer"
+        ],
+        "negative_ctxs": [
+            20,
+            5
+        ],
+        "positive_ctxs": []
+    }
+]

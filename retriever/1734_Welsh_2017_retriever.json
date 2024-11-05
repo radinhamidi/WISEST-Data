@@ -1,0 +1,456 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            32,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Objective: To analyse current evidence on the efficacy of bandage systems containing both elastic and inelastic components (mixed-component systems).\n\n\nInclusion Criteria: Primary quantitative, qualitative and mixed-methods studies and case studies series exploring the efficacy of mixed-component compression systems; English language publications; published between 2005-2015; and ankle-brachial pressure index (ABPI) range between 0.8-1.3."
+        ],
+        "negative_ctxs": [
+            0,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Inclusion Criteria: Primary quantitative, qualitative and mixed-methods studies and case studies series exploring the efficacy of mixed-component compression systems; English language publications; published between 2005-2015; and ankle-brachial pressure index (ABPI) range between 0.8-1.3."
+        ],
+        "negative_ctxs": [
+            32,
+            22
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Exclusion Criteria: Secondary studies exploring the efficacy of mixed-component compression; studies exploring mixed-component compression in the treatment of nonvenous or mixed-aetiology ulcers (i.e. ABPI I <0.8 or above 1.3); studies published out with date limits; non-English language publications; and studies exploring MCSs in the treatment of lymphoedema."
+        ],
+        "negative_ctxs": [
+            21,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Exclusion Criteria: Secondary studies exploring the efficacy of mixed-component compression; studies exploring mixed-component compression in the treatment of nonvenous or mixed-aetiology ulcers (i.e. ABPI I <0.8 or above 1.3); studies published out with date limits; non-English language publications; and studies exploring MCSs in the treatment of lymphoedema."
+        ],
+        "negative_ctxs": [
+            13,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Cochrane, CINAHL and Medline\n\n\n Additional searches were carried out on Google Scholar which identified one further study suitable for inclusion"
+        ],
+        "negative_ctxs": [
+            22,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Subsequent electronic and hand searches were also carried out at library resource centres; however, no further studies were identified for inclusion. "
+        ],
+        "negative_ctxs": [
+            34,
+            25
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The following keywords and terms were applied both singularly and in various combinations with truncations to allow all possible noun and verb endings: venous leg ulcer*, varicose ulcer*, leg ulcer*, compression, bandag*, elastic, inelastic, short stretch, healing rate*, interface pressure, mixed component*, two-layer, four-layer and multi-layer"
+        ],
+        "negative_ctxs": [
+            29,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "limits were set between 2005-March 2015 to eliminate literature that would not be relevant.\n\n\nEnglish language publications "
+        ],
+        "negative_ctxs": [
+            33,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 3: summary of findings \nStudy Design and aims Compression system used Outcome measures Key results "
+        ],
+        "negative_ctxs": [
+            12,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 3: summary of findings \nStudy Design and aims Compression system used Outcome measures Key results "
+        ],
+        "negative_ctxs": [
+            23,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two critical appraisal tools were used as frameworks during the review process: the first, adapted by Woolliams et al. (2009), for appraisal of general literature such as case studies; and the second adapted from the Critical Appraisal Skills Programme for quantitative studies."
+        ],
+        "negative_ctxs": [
+            6,
+            23
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Figure 1: Search strategy algorithm\n\n\nTable 3: summary of findings "
+        ],
+        "negative_ctxs": [
+            22,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Inclusion  Criteria: Primary quantitative, qualitative andmixed-methods studies and case studies series\n\nA number of outcome subgroups emerged from the papers as follows:\nMCSs and ulcer healing,\nMCSs and ease of bandage application.\nMCSs and interface pressure.\nMCSs and QoL outcomes.\nMCSs and clinician bandage application skill"
+        ],
+        "negative_ctxs": [
+            17,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Table 3. Summary of findings"
+        ],
+        "negative_ctxs": [
+            7,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            34,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Two critical appraisal tools were used as frameworks during the review process: the first, adapted by Woolliams et al. (2009), for appraisal of general literature such as case studies; and the second adapted from the Critical Appraisal Skills Programme for quantitative studies."
+        ],
+        "negative_ctxs": [
+            37,
+            21
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Although the review revealed a sufficient amount of evi-dence relating to the efficacy of MCSs, three points shouldbe noted regarding potential limitations relating to the stud-ies included. First, all eight studies failed to address and ade-quately control clinical skill in bandage application as aconfounding variable that could affect the perceived efficacyof a bandage system and therefore final results\n\nSecond, all but one paper were sponsored by industryproducing either MCSA or MCSB which may have led topotential bias towards promotion of their efficacy. Andthird, none of the studies explored the combination of elas-tic and elastic components as an innovative 'best of both'technology and bandage category which may distinguish itfrom alternative systems using purely elastic or inelasticcomponents in terms of therapeutic efficacy\nStrengths and limitations of the review\nAs there is so little existing literature exploring the collec-tive evidence for MCSs as a compression bandage systemwithin its own distinct category, this review has synthesisedcurrent evidence to reveal an increased understanding oftheir efficacy for consideration of further research. Had theauthor been able to access a research team to support largerstudy, a more comprehensive picture of the efficacy ofMCSs might have been obtained. Following completion ofthe review, new evidence comparing MCSA to MCSB alsoemerged; a retrospective analysis of patients' records in theUK found both systems to be associated with positive out-comes including cost-effectiveness, ulcer healing and QoL(Guestet al.2015). The design of the study would havepotentially contributed towards answering the researchquestion as it would have strengthened the variation inmethodologies included in the review, whilst additionaldata on cost-effectiveness of MCSs would have been usefulas it was not an outcome in any of the studies included inthis review."
+        ],
+        "negative_ctxs": [
+            37,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The aim of this systematic literature review was to explore the currently available evidence for MCSs containing both elastic and inelastic materials (MCSA and MCSB; Table 2) commonly used in the treatment of venous leg ulcers\n\n\nInclusion Criteria: Primary quantitative, qualitative and mixed-methods studies and case studies series exploring the efficacy of mixed-component compression systems; English\u0002language publications; published between 2005-2015; and ankle-brachial pressure index (ABPI) range between 0.8-1.3.\n\n\nExclusion Criteria: Secondary studies exploring the efficacy of mixed-component compression; studies exploring mixed-component compression in the treatment of nonvenous or mixed-aetiology ulcers (i.e. ABPI I <0.8 or above 1.3); studies published out with date limits; non-English language publications; and studies exploring MCSs in the treatment of lymphoedema."
+        ],
+        "negative_ctxs": [
+            31,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            18,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Inclusion Criteria: Primary quantitative, qualitative and mixed-methods studies and case studies series exploring the efficacy of mixed-component compression systems; English language publications; published between 2005-2015; and ankle-brachial pressure index (ABPI) range between 0.8-1.3."
+        ],
+        "negative_ctxs": [
+            7,
+            15
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Although RCTs and quantitative literature should provide valuable sources of collated numerical, statistical data necessary to assist in determining the outcomes of the research question, qualitative studies, most notably those pertaining to evidence surrounding patient concordance, comfort and quality of life, may be the more appropriate paradigm from which to explore themes, descriptive data and the relationships between the researcher and participants in determining outcomes for compression (Topping 2006). As many studies relating to compression therapy seek evidence on outcomes relating to both quantitative and qualitative data, studies using mixed-methods design might also be of relevance (Pluye & Hong 2013). Much of the literature supporting wound care is in the shape of consensus documents and case studies, both of which focus upon the strength of expert opinions and experiential knowledge in the gathering of relevant evidence. A seminal work by Carper (1978) cited four fundamentals of nursing knowledge including empirics, ethics, aesthetics and personal knowledge which were proposed to carry equal weight in clinical decision-making. Therefore, the hierarchy of evidence applied for the purposes of this review will be as follows: 1 RCTs. 2 Cohort/Case controlled studies. 3 Qualitative or mixed-methods studies. 4 Case studies in series. Case studies were only considered for inclusion if they were presented in a series format to maximise the strength of quantitative data. The rationale for this was that single case studies would likely be too numerous and lacking in appropriate wider applicability. "
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Cochrane, CINAHL and Medline\n\n\n Additional searches were carried out on Google Scholar which identified one further study suitable for inclusion"
+        ],
+        "negative_ctxs": [
+            9,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 3: summary of findings \nStudy Design and aims Compression system used Outcome measures Key results "
+        ],
+        "negative_ctxs": [
+            5,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two critical appraisal tools were used as frameworks during the review process: the first, adapted by Woolliams et al. (2009), for appraisal of general literature such as case studies; and the second adapted from the Critical Appraisal Skills Programme for quantitative studies."
+        ],
+        "negative_ctxs": [
+            30,
+            19
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Inclusion  Criteria: Primary quantitative, qualitative andmixed-methods studies and case studies series\n\nA number of outcome subgroups emerged from the papers as follows:\nMCSs and ulcer healing,\nMCSs and ease of bandage application.\nMCSs and interface pressure.\nMCSs and QoL outcomes.\nMCSs and clinician bandage application skill"
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Table 3. Summary of findings"
+        ],
+        "negative_ctxs": [
+            31,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Two critical appraisal tools were used as frameworks during the review process: the first, adapted by Woolliams et al. (2009), for appraisal of general literature such as case studies; and the second adapted from the Critical Appraisal Skills Programme for quantitative studies."
+        ],
+        "negative_ctxs": [
+            16,
+            24
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The author has no conflict of interests to declare.\r\n\r\n\r\nNHS Greater Glasgow and Clyde for partial funding of the programm"
+        ],
+        "negative_ctxs": [
+            20,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Although the review revealed a sufficient amount of evi-dence relating to the efficacy of MCSs, three points shouldbe noted regarding potential limitations relating to the stud-ies included. First, all eight studies failed to address and ade-quately control clinical skill in bandage application as aconfounding variable that could affect the perceived efficacyof a bandage system and therefore final results\n\nSecond, all but one paper were sponsored by industryproducing either MCSA or MCSB which may have led topotential bias towards promotion of their efficacy. Andthird, none of the studies explored the combination of elas-tic and elastic components as an innovative 'best of both'technology and bandage category which may distinguish itfrom alternative systems using purely elastic or inelasticcomponents in terms of therapeutic efficacy\nStrengths and limitations of the review\nAs there is so little existing literature exploring the collec-tive evidence for MCSs as a compression bandage systemwithin its own distinct category, this review has synthesisedcurrent evidence to reveal an increased understanding oftheir efficacy for consideration of further research. Had theauthor been able to access a research team to support largerstudy, a more comprehensive picture of the efficacy ofMCSs might have been obtained. Following completion ofthe review, new evidence comparing MCSA to MCSB alsoemerged; a retrospective analysis of patients' records in theUK found both systems to be associated with positive out-comes including cost-effectiveness, ulcer healing and QoL(Guestet al.2015). The design of the study would havepotentially contributed towards answering the researchquestion as it would have strengthened the variation inmethodologies included in the review, whilst additionaldata on cost-effectiveness of MCSs would have been usefulas it was not an outcome in any of the studies included inthis review."
+        ],
+        "negative_ctxs": [
+            26,
+            12
+        ],
+        "positive_ctxs": []
+    }
+]

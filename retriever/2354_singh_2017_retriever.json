@@ -1,0 +1,476 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "To examine the association between metabolic syndrome and psoriasis,\n\nWe applied the following inclusion/exclusion criteria to the 1346 references: human subjects,English language, and observational study design (case-control,cohort,cross-sectional,ornestedcase-control). Additionally, the studies must have provided prevalence or incidence data on metabolic syndrome in conjunction with psoriasis. The studies must have compared prevalence of metabolic syndrome in healthy or non-psoriasis controls. The diagnosis of psoriasis and metabolic syndrome must be made by a physician and documented in the medical record. Studies evaluating pediatric patients were excluded, as were review articles, commentaries, case reports, case series,and letters to the editor"
+        ],
+        "negative_ctxs": [
+            18,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We applied the following inclusion/exclusion criteria to the 1346 references: human subjects,English language, and observational study design (case-control,cohort,cross-sectional,ornestedcase-control). Additionally, the studies must have provided prevalence or incidence data on metabolic syndrome in conjunction with psoriasis. The studies must have compared prevalence of metabolic syndrome in healthy or non-psoriasis controls. The diagnosis of psoriasis and metabolic syndrome must be made by a physician and documented in the medical record. Studies evaluating pediatric patients were excluded, as were review articles, commentaries, case reports, case series,and letters to the editor"
+        ],
+        "negative_ctxs": [
+            18,
+            15
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "full length articles unavailable (n = 12), non-English (n = 5), no non-psoriasis control group (n = 10), included pediatric psoriasis patients (n = 8), case report/commentary/letter (n = 7), did not provide metabolic syndrome prevalence (n = 2), reviews (n = 15), PsA patients only (n = 3), only assessed separate metabolic syndrome components (n = 2), did not measure association between psoriasis and metabolic syndrome (n = 14), did not include percentages or patient numbers (n = 1), and focused on non-human model (n = 1). While there were some case series/reports relevant to this topic,"
+        ],
+        "negative_ctxs": [
+            8,
+            5
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We applied the following inclusion/exclusion criteria to the 1346 references: human subjects, English language, and observational study design (case-control, cohort, crosssectional, or nested case-control). Additionally, the studies must have provided prevalence or incidence data on metabolic syndrome in conjunction with psoriasis. The studies must have compared prevalence of metabolic syndrome in healthy or non-psoriasis controls. The diagnosis of psoriasis and metabolic syndrome must be made by a physician and documented in the medical record. Studies evaluating pediatric patients were excluded, as were review articles, commentaries, case reports, case series, and letters to the editor"
+        ],
+        "negative_ctxs": [
+            14,
+            12
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "From this updated search of the Medline, Embase, Cochrane Central Register, and Scopus databases,"
+        ],
+        "negative_ctxs": [
+            1,
+            11
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "we used the search terms Psoriasis[MeSH] and Metabolic Syndrome X [MeSH] to search literature"
+        ],
+        "negative_ctxs": [
+            13,
+            20
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "we performed \ra full-length review of 115 references and excluded 80 for the following reasons: fulllength \rarticles unavailable (n = 12), non-English (n = 5),"
+        ],
+        "negative_ctxs": [
+            16,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Once duplicates were removed and initial screening performed by two authors"
+        ],
+        "negative_ctxs": [
+            20,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Out of the 35 articles, ten provided adjusted odds ratios after multivariate adjustment for factors such as age, sex, smoking, alcohol consumption, physical activity, and education [31, 34-42]. Among the remaining articles, 16 provided unadjusted odds ratios [30, 43-58], seven provided percent values for metabolic syndrome prevalence [59-65], and two provided specific numbers of patients affected without percent values or odds ratios. For the nine articles that did not provide any odds ratios, we calculated unadjusted odds that were then included in the meta-analysis (Table 1)."
+        ],
+        "negative_ctxs": [
+            22,
+            18
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "We extracted prevalence of metabolic syndrome in psoriasis patients versus controls as well as the reported effect size where available, such as odds ratios. Of the 35 studies included in the meta-analysis, 16 reported unadjusted odds ratios, 10 reported adjusted odds ratios, seven studies provided prevalence rates as percent values without calculated odds ratios, and two reported number of patients with metabolic syndrome without percent values or odds ratios. For studies without a published odds ratio value, we calculated unadjusted odds ratios using STATA 14.1 . In studies where investigators provided multiple odds ratios for subsets of psoriasis patients without an overall odds ratio, we used all reported odds ratios for the metaanalysis [30, 31]. Using odds ratio data obtained from the published results, we estimated the pooled odds ratio for the presence of metabolic syndrome. in psoriasis patients. To account for any study heterogeneity, we utilized the random-effects model of DerSimonian and Laird"
+        ],
+        "negative_ctxs": [
+            18,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "provided adjusted odds ratios after multivariate adjustment for factors such as age, sex, smoking, alcohol consumption, physical activity, and education [31, 34+-42]. Among the remaining articles, 16 provided unadjusted odds ratios [30, 43+-58], seven provided percent values for metabolic syndrome prevalence [59+-65], and two provided specific numbers of patients affected without percent values or odds ratios. For the nine articles that did not provide any odds ratios, we calculated unadjusted odds that were then included in the meta-analysis.   All of the studies included in this meta-analysis reported the prevalence of metabolic syndrome in psoriasis patients versus non-psoriasis controls. \n\nWe selected six new references to be systematically reviewed in this paper. For the meta-analysis, we drew upon 29 studies from our previous systematic reviews and added six additional studies from an updated search, for a total of 35 studies to be analyzed."
+        ],
+        "negative_ctxs": [
+            13,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "In studies where investigators provided multiple odds ratios for subsets of patients without an overall odds ratio, we used all reported odds ratios for the  metaanalysis [30, 31].\nUsing odds ratio data obtained from the published results, we estimated the pooled odds ratio for the presence of metabolic syndrome in psoriasis patients. To account for any study heterogeneity, we utilized the random-effects model of DerSimonian and Laird .\n\nTherefore, we used random effects analysis to account for these sources of heterogeneity, and the odds of metabolic syndrome in psoriasis patients remained more than twice that of the general population."
+        ],
+        "negative_ctxs": [
+            11,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "I2 value of 83.2% (p= 0.000) suggests presence of between-study heterogeneity"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "To assess publication bias,we examined a funnel plot and performed an Egger test to determine a  bias coefficient (Fig 3). The funnel plot revealed asymmetry,suggesting publication bias,and the Egger test confirmed bias (P= 0.001)"
+        ],
+        "negative_ctxs": [
+            20,
+            19
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The results of the meta-analysis need to be interpreted in the context of the primary articles. One factor to consider in examining any meta-analysis is sources of heterogeneity. Heterogeneity can increase generalizability of the study findings, but it can also impact interpretation of the association between exposure and outcome. Aside from differences in study location,setting, and design, some studies reported unadjusted odds ratios while others reported adjusted odds ratios. Furthermore, the assessment of metabolic syndrome varied as well,with some studies using NCEP-ATP III criteria, while others using the South Asian Modified version of the NCEP-ATP III criteria or the International Diabetes Foundation (IDF) definition . Therefore, we used random effects analysis to account for these sources of heterogeneity, and the odds of metabolic syndrome in psoriasis patients remained more than twice that of the general population"
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            17,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We applied the following inclusion/exclusion criteria to the 1346 references: human subjects,English language, and observational study design (case-control,cohort,cross-sectional,ornestedcase-control). Additionally, the studies must have provided prevalence or incidence data on metabolic syndrome in conjunction with psoriasis. The studies must have compared prevalence of metabolic syndrome in healthy or non-psoriasis controls. The diagnosis of psoriasis and metabolic syndrome must be made by a physician and documented in the medical record. Studies evaluating pediatric patients were excluded, as were review articles, commentaries, case reports, case series,and letters to the editor"
+        ],
+        "negative_ctxs": [
+            14,
+            13
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Several observational studies have suggested an epidemiological link between psoriasis and metabolic syndrome.There is a lack of comprehensive synthesis of observational data that explores the relationship between these two diseases. To examine whether patients with psoriasis are more likely to have metabolic syndrome, we analyzed data from all available observational studies examining the relationship between psoriasis and metabolic syndrome from 1946+-2016."
+        ],
+        "negative_ctxs": [
+            6,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "From this updated search of the Medline, Embase, Cochrane Central Register, and Scopus databases,"
+        ],
+        "negative_ctxs": [
+            12,
+            0
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Once duplicates were removed and initial screening performed by two authors"
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Out of the 35 articles, ten provided adjusted odds ratios after multivariate adjustment for factors such as age, sex, smoking, alcohol consumption, physical activity, and education [31, 34-42]. Among the remaining articles, 16 provided unadjusted odds ratios [30, 43-58], seven provided percent values for metabolic syndrome prevalence [59-65], and two provided specific numbers of patients affected without percent values or odds ratios. For the nine articles that did not provide any odds ratios, we calculated unadjusted odds that were then included in the meta-analysis (Table 1)."
+        ],
+        "negative_ctxs": [
+            9,
+            2
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "In studies where investigators provided multiple odds ratios for subsets of patients without an overall odds ratio, we used all reported odds ratios for the  metaanalysis [30, 31].\nUsing odds ratio data obtained from the published results, we estimated the pooled odds ratio for the presence of metabolic syndrome in psoriasis patients. To account for any study heterogeneity, we utilized the random-effects model of DerSimonian and Laird .\n\nTherefore, we used random effects analysis to account for these sources of heterogeneity, and the odds of metabolic syndrome in psoriasis patients remained more than twice that of the general population."
+        ],
+        "negative_ctxs": [
+            17,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "I2 value of 83.2% (p= 0.000) suggests presence of between-study heterogeneity"
+        ],
+        "negative_ctxs": [
+            21,
+            11
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "To assess publication bias,we examined a funnel plot and performed an Egger test to determine a  bias coefficient (Fig 3). The funnel plot revealed asymmetry,suggesting publication bias,and the Egger test confirmed bias (P= 0.001)"
+        ],
+        "negative_ctxs": [
+            23,
+            3
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "No relevant financial conflict of interest is present pertaining to this study. Dr. Armstrong's other disclosures include serving as an investigator and  onsultant/advisor to AbbVie, Amgen, Celgene, Janssen, Lilly, Novartis, Regeneron, Pfizer, and Modernizing Medicine. Other authors have no disclosures. This does not alter our adherence to PLOS ONE policies on sharing data and materials."
+        ],
+        "negative_ctxs": [
+            16,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The results of the meta-analysis need to be interpreted in the context of the primary articles. One factor to consider in examining any meta-analysis is sources of heterogeneity. Heterogeneity can increase generalizability of the study findings, but it can also impact interpretation of the association between exposure and outcome. Aside from differences in study location,setting, and design, some studies reported unadjusted odds ratios while others reported adjusted odds ratios. Furthermore, the assessment of metabolic syndrome varied as well,with some studies using NCEP-ATP III criteria, while others using the South Asian Modified version of the NCEP-ATP III criteria or the International Diabetes Foundation (IDF) definition . Therefore, we used random effects analysis to account for these sources of heterogeneity, and the odds of metabolic syndrome in psoriasis patients remained more than twice that of the general population"
+        ],
+        "negative_ctxs": [
+            20,
+            3
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    }
+]

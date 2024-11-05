@@ -1,0 +1,462 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            25,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            29,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We excluded papers solely based on the treatment of (painful) scars, scars in other than dermal tissue, neuromas, and papers otherwise irrelevant to the research question."
+        ],
+        "negative_ctxs": [
+            14,
+            16
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We included all English articles that mentioned the prevalence, intensity, or a cause of pain in dermal scar tissue. "
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched the Embase, Medline, Cochrane central, CINAHL, Web-of-Science, and Pubmed databases. In each database, we used the following search terms: scar, skin, pain, and etiology/pathology, adding all synonyms of these terms. The full search terms used can be found in the appendix."
+        ],
+        "negative_ctxs": [
+            17,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            " The references of all selected articles were crosschecked and relevant papers were included (Fig. 1)."
+        ],
+        "negative_ctxs": [
+            19,
+            25
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We searched the Embase, Medline, Cochrane central, CINAHL, Web-of-Science, and Pubmed databases. In each database, we used the following search terms: scar, skin, pain, and etiology/pathology, adding all synonyms of these terms. The full search terms used can be found in the appendix.\n\nLimitations: Liberal selection criteria challenged the systematic selection of papers.\n\nAlthough we performed a wide search in 6 databases, we cannot guarantee inclusion of all available papers with any relevance to the subject. "
+        ],
+        "negative_ctxs": [
+            28,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "First, to select relevant papers 2 reviewers (EB, LU) independently assessed titles and abstracts. In cases of disagreement, a third reviewer (CK) also assessed title and abstract and made the final decision on eligibility. To make a final decision about inclusion, the full-text of the eligible articles were assessed by 2 reviewers (EB, LU), if there was no consensus the article was discussed by the reviewers until consensus was reached."
+        ],
+        "negative_ctxs": [
+            29,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "For all included papers, 2 reviewers (EB, LU) independently extracted relevant information to answer our research question. We searched data on: 1) prevalence and intensity of pain in all types of dermal scars; 2) etiology, what biological, psychological, or environmental factors aggravate pain in dermal scars; and 3) pathophysiology, what is the underlying biological mechanism that causes pain in some scars and not in others. The collected information of both reviewers was verified by the other reviewer."
+        ],
+        "negative_ctxs": [
+            0,
+            28
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Our search resulted in 2,049 records, and after completion of the entire selection process, 52 papers remained with relevant information about painful scars (Fig. 1).\n\nFig. 1. Diagram illustrating the systematic review of literature for selection of studies."
+        ],
+        "negative_ctxs": [
+            13,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            26,
+            22
+        ],
+        "positive_ctxs": [
+            6,
+            7,
+            8,
+            11,
+            12,
+            20,
+            28
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched the Embase, Medline, Cochrane central, CINAHL, Web-of-Science, and Pubmed databases. In each database, we used the following search terms: scar, skin, pain, and etiology/pathology, adding all synonyms of these terms. The full search terms used can be found in the appendix."
+        ],
+        "negative_ctxs": [
+            7,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "First, to select relevant papers 2 reviewers (EB, LU) independently assessed titles and abstracts. In cases of disagreement, a third reviewer (CK) also assessed title and abstract and made the final decision on eligibility. To make a final decision about inclusion, the full-text of the eligible articles were assessed by 2 reviewers (EB, LU), if there was no consensus the article was discussed by the reviewers until consensus was reached."
+        ],
+        "negative_ctxs": [
+            18,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "For all included papers, 2 reviewers (EB, LU) independently extracted relevant information to answer our research question. We searched data on: 1) prevalence and intensity of pain in all types of dermal scars; 2) etiology, what biological, psychological, or environmental factors aggravate pain in dermal scars; and 3) pathophysiology, what is the underlying biological mechanism that causes pain in some scars and not in others. The collected information of both reviewers was verified by the other reviewer."
+        ],
+        "negative_ctxs": [
+            11,
+            4
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            33,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Disclaimer: There was no external funding in the preparation of this manuscript. Conflict of interest: Each author certifies that he or she, or a member of his or her immediate family, has no commercial association (i.e., consultancies, stock ownership, equity interest, patent/licensing arrangements, etc.) that might pose a conflict of interest in connection with the submitted manuscript"
+        ],
+        "negative_ctxs": [
+            19,
+            29
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            33,
+            18
+        ],
+        "positive_ctxs": []
+    }
+]

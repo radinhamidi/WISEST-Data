@@ -1,0 +1,466 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We performed a systematic review of the literature to evaluate the frequency and epidemiology of acute disseminated candidiasis\nwith skin lesions in neutropenic patients, taking into consideration\npossible changes caused by different prophylactic strategies.\n"
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "To evaluate the epidemiology of acute disseminated candidiasis with skin lesions in neutropenic patients, taking into consideration changes caused by different prophylactic strategies.\nWe selected all types of studies that included haematologic patients with neutropenia and candidaemia or acute disseminated candidiasis and provided a description of the clinical presentation, frequency and type of skin lesion, documentation of skin involvement by Candida and species causing infection."
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Reports with limited information (including abstracts), duplicate records, review papers or articles reporting skin lesions associated with infections caused by other pathogens were excluded."
+        ],
+        "negative_ctxs": [
+            3,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "A computerized search of the Medline database via PubMed was\nperformed for articles published from 1963 through September 2016 in the English language."
+        ],
+        "negative_ctxs": [
+            7,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A computerized search of the Medline database via PubMed was performed for articles published from 1963 through September 2016"
+        ],
+        "negative_ctxs": [
+            8,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "hand searching was performed in the reference lists\nof all identified studies to find relevant articles."
+        ],
+        "negative_ctxs": [
+            10,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "using the following keywords: 'candidiasis,' 'neutropenia or leukaemia' and 'skin or cutaneous.'"
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "A computerized search of the Medline database via PubMed was\nperformed for articles published from 1963 through September 2016 in the English language."
+        ],
+        "negative_ctxs": [
+            4,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "The data were extracted independently by one author (MG) and reviewed by the other (MN)."
+        ],
+        "negative_ctxs": [
+            9,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The following data were extracted from the articles: underlying disease and its treatment, type of treatment (induction, consolidation, therapy of relapse, other), clinical presentation, frequency, pattern and site of skin lesions, species causing invasive candidiasis, information about culture and histopathology of the skin, antifungal prophylaxis, primary treatment and outcome. Special attention was devoted to the type of skin lesion, species causing acute disseminated candidiasis and antifungal prophylaxis.We also looked at missing information in each study and the potential limitations caused by the lack of information.\n\nA summary of the characteristics of the cases, including the number of cases with missing information in each variable, is shown in Supplementary Table S2\n\nFive studies reported the frequency of skin lesions. The first was\npublished in 1974 and evaluated 77 cases of disseminated candidiasis\nin a 5-year period at a cancer hospital. Skin lesions were\npresent in ten cases (13%) . Another study evaluated 89\nconsecutive haematologic patients with neutropenia and found 18\ncases of acute disseminated candidiasis, eight of which (44.4%)\npresented with skin lesions . A third study reported 23 cases of\ncandidaemia with skin lesions among 200 episodes of candidaemia\nat a cancer centre (11.5%) . The fourth study evaluated 28 patients\nwith acute leukaemia who developed candidaemia. Eleven\n(39.3%) had skin lesions . The fifth study evaluated 53 consecutive\npatients with candidaemia and positive cultures from other\nsites. Nineteen (35.8%) presented with skin lesions ."
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Five studies reported the frequency of skin lesions. The first was\npublished in 1974 and evaluated 77 cases of disseminated candidiasis\nin a 5-year period at a cancer hospital. Skin lesions were\npresent in ten cases (13%) . Another study evaluated 89\nconsecutive haematologic patients with neutropenia and found 18\ncases of acute disseminated candidiasis, eight of which (44.4%)\npresented with skin lesions . A third study reported 23 cases of\ncandidaemia with skin lesions among 200 episodes of candidaemia\nat a cancer centre (11.5%) . The fourth study evaluated 28 patients\nwith acute leukaemia who developed candidaemia. Eleven\n(39.3%) had skin lesions . The fifth study evaluated 53 consecutive\npatients with candidaemia and positive cultures from other\nsites. Nineteen (35.8%) presented with skin lesions ."
+        ],
+        "negative_ctxs": [
+            7,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Among the 33 studies analysed, 22 were case reports and 11\nwere case series [3e6, 9e11, 13e15, 24e46]. Details of the studies\nare shown in Supplementary Table S1.\nFive studies reported the frequency of skin lesions. The first was\npublished in 1974 and evaluated 77 cases of disseminated candidiasis\nin a 5-year period at a cancer hospital. Skin lesions were\npresent in ten cases (13%)."
+        ],
+        "negative_ctxs": [
+            3,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Among the 33 studies analysed, 22 were case reports and 11were case series [3e6, 9e11, 13e15, 24e46]. Details of the studiesare shown inSupplementary Table S1.\n\nA total of 100 cases of acute disseminated candidiasis with skinlesions were identified. A summary of the characteristics of the cases, including the number of cases with missing information ineach variable, is shown inSupplementary Table S2."
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "ive studies reported the frequency of skin lesions. Thefirst waspublished in 1974 and evaluated 77 cases of disseminated candi-diasis in a 5-year period at a cancer hospital. Skin lesions werepresent in ten cases (13%). Another study evaluated 89consecutive haematologic patients with neutropenia and found 18cases of acute disseminated candidiasis, eight of which (44.4%)presented with skin lesions. A third study reported 23 cases ofcandidaemia with skin lesions among 200 episodes of candidaemiaat a cancer centre (11.5%). The fourth study evaluated 28 pa-tients with acute leukaemia who developed candidaemia. Eleven(39.3%) had skin lesions. Thefifth study evaluated 53 consec-utive patients with candidaemia and positive cultures from othersites. Nineteen (35.8%) presented with skin lesions,\nA total of 100 cases of acute disseminated candidiasis with skinlesions were identified. A summary of the characteristics of thecases, including the number of cases with missing information ineach variable, is shown inSupplementary Table S2. \r\n"
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Our study has some important limitations. Firstly, it includes mostly case reports; secondly, the analysis is derived mostly from\nolder studies, which are not representative of current standards of\nantifungal prophylaxis in haematologic patients and treatment of\nacute disseminated candidiasis; and thirdly, some articles did not\ninclude important information such as antifungal prophylaxis, details\nof culture and histopathology of skin lesions."
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "A total of 100 cases of acute disseminated candidiasis with skin\r\nlesions were identified. A summary of the characteristics of the\r\ncases, including the number of cases with missing information in\r\neach variable, is shown in Supplementary Table S2. The most\r\nfrequent underlying disease was acute leukaemia, comprising 86%\r\nof cases (54 acute myeloid leukaemia and 32 acute lymphoid\r\nleukaemia). Other underlying conditions were chronic myeloid\r\nleukaemia in blastic phase (n  1/4 8), aplastic anaemia (n  1/4 3), and\r\nmyelodysplastic syndrome, non-Hodgkin lymphoma and posttransplantation\r\nlymphoproliferative disease (n  1/4 1 patient each).\r\nThe majority of cases occurred during induction chemotherapy for\r\nrecently diagnosed (31%) or relapsed (25%) patients. Of note, only\r\nthree cases occurred during consolidation chemotherapy. The information\r\nwas not available in 32 cases.\r\nThe most frequent Candida species was C. tropicalis (68%), followed\r\nby C. krusei (15%) and C. albicans (10%). For two patients,\r\nhistopathologic diagnosis was attempted, but no organism was\r\nrecovered. The remaining five cases were caused by\r\nC. guilliermondii (two cases), and C. ciferrii, C. glabrata and C. albicans\r\nplus C. tropicalis (one case each).\r\nThe most frequent pattern of the skin lesions reported was\r\nerythematous or purpuric maculopapular lesions (44%), followed\r\nby purpuric or erythematous papular lesions, sometimes with a\r\npale centre (22%), nodules (17%) and subcutaneous abscess (6%).\r\nSome patients presented with a mixture of different types of lesions,\r\nsuch as papules and nodules (7%). The site of lesion was reported\r\nin 72 cases: in 44 the lesions were located in the extremities,\r\nand in 28 they were disseminated.\r\nSkin biopsy results with description of histopathology were\r\navailable in 51 cases. In 35 cases (68.6%), fungal elements (pseudohyphae,\r\nhyphae and yeasts) were present in the dermis as well as\r\nwithin blood vessels. In four cases, the pattern was that of an abscess.\r\nGranulomas, necrosis within the wall of a blood vessel, leukocytoclastic\r\nvasculitis, and perivascular infiltrates and thrombi in\r\nsmall vascular structures were also described. Positive cultures of\r\nskin biopsy samples were reported in 41 (71.9%) of 57 cases. The\r\nmost frequent species recovered in cultures of skin biopsy samples\r\nwas C. tropicalis (35 cases), followed by C. krusei (five cases).\r\nInvolvement of other organs was reported in 44 patients, with\r\nmultiple organs such as spleen, liver, kidneys and lungs involved in\r\nthe majority of cases. Involvement of more than two organs was\r\nreported in 26 of the 44 cases.\r\nPositive blood cultures were reported in 67 of the 68 cases\r\ncaused by C. tropicalis. The most frequent type of skin lesion in such\r\ncases was diffuse maculopapular lesions, reported in 39 (57.3%) of\r\nthe 68 cases. The most frequent clinical presentations among the 15\r\ncases caused by C. krusei were nodular (seven cases) or papular\r\n(seven cases) lesions.\r\nInformation about antifungal prophylaxis was not available in\r\nthe majority of cases (55%). Prophylaxis with fluconazole was reported\r\nin six cases. The species involved in these cases were\r\nC. krusei in five and C. ciferrii in one."
+        ],
+        "negative_ctxs": [
+            5,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            6,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "To evaluate the epidemiology of acute disseminated candidiasis with skin lesions in neutropenic patients, taking into consideration changes caused by different prophylactic strategies.\nWe selected all types of studies that included haematologic patients with neutropenia and candidaemia or acute disseminated candidiasis and provided a description of the clinical presentation, frequency and type of skin lesion, documentation of skin involvement by Candida and species causing infection."
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We selected all types of studies that included haematologic\npatients with neutropenia and candidaemia or acute disseminated\ncandidiasis and provided a description of the clinical presentation,\nfrequency and type of skin lesion, documentation of skin involvement\nby Candida and species causing infection. Reports with\nlimited information (including abstracts), duplicate records, review\npapers or articles reporting skin lesions associated with infections\ncaused by other pathogens were excluded."
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A computerized search of the Medline database via PubMed was performed for articles published from 1963 through September 2016"
+        ],
+        "negative_ctxs": [
+            4,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "The data were extracted independently by one author (MG) and reviewed by the other (MN)."
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Among the 183 articles, 43 met the eligibility\r\ncriteria. Of those, ten were excluded for the following reasons: lack\r\nof detailed clinical description (n  1/4 4), cases with skin lesions from\r\nother causes (n  1/4 2), cases without cutaneous involvement (n  1/4 2),\r\ncase reports in nonneutropenic patients (n  1/4 1) and review papers\r\n(n =1)"
+        ],
+        "negative_ctxs": [
+            8,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The following data were extracted from the articles: underlying disease and its treatment, type of treatment (induction, consolidation, therapy of relapse, other), clinical presentation, frequency, pattern and site of skin lesions, species causing invasive candidiasis, information about culture and histopathology of the skin, antifungal prophylaxis, primary treatment and outcome. Special attention was devoted to the type of skin lesion, species causing acute disseminated candidiasis and antifungal prophylaxis.We also looked at missing information in each study and the potential limitations caused by the lack of information.\n\nA summary of the characteristics of the cases, including the number of cases with missing information in each variable, is shown in Supplementary Table S2\n\nFive studies reported the frequency of skin lesions. The first was\npublished in 1974 and evaluated 77 cases of disseminated candidiasis\nin a 5-year period at a cancer hospital. Skin lesions were\npresent in ten cases (13%) . Another study evaluated 89\nconsecutive haematologic patients with neutropenia and found 18\ncases of acute disseminated candidiasis, eight of which (44.4%)\npresented with skin lesions . A third study reported 23 cases of\ncandidaemia with skin lesions among 200 episodes of candidaemia\nat a cancer centre (11.5%) . The fourth study evaluated 28 patients\nwith acute leukaemia who developed candidaemia. Eleven\n(39.3%) had skin lesions . The fifth study evaluated 53 consecutive\npatients with candidaemia and positive cultures from other\nsites. Nineteen (35.8%) presented with skin lesions ."
+        ],
+        "negative_ctxs": [
+            8,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Among the 33 studies analysed, 22 were case reports and 11were case series [3e6, 9e11, 13e15, 24e46]. Details of the studiesare shown inSupplementary Table S1.\n\nA total of 100 cases of acute disseminated candidiasis with skinlesions were identified. A summary of the characteristics of the cases, including the number of cases with missing information ineach variable, is shown inSupplementary Table S2."
+        ],
+        "negative_ctxs": [
+            4,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "ive studies reported the frequency of skin lesions. Thefirst waspublished in 1974 and evaluated 77 cases of disseminated candi-diasis in a 5-year period at a cancer hospital. Skin lesions werepresent in ten cases (13%). Another study evaluated 89consecutive haematologic patients with neutropenia and found 18cases of acute disseminated candidiasis, eight of which (44.4%)presented with skin lesions. A third study reported 23 cases ofcandidaemia with skin lesions among 200 episodes of candidaemiaat a cancer centre (11.5%). The fourth study evaluated 28 pa-tients with acute leukaemia who developed candidaemia. Eleven(39.3%) had skin lesions. Thefifth study evaluated 53 consec-utive patients with candidaemia and positive cultures from othersites. Nineteen (35.8%) presented with skin lesions,\nA total of 100 cases of acute disseminated candidiasis with skinlesions were identified. A summary of the characteristics of thecases, including the number of cases with missing information ineach variable, is shown inSupplementary Table S2. \r\n"
+        ],
+        "negative_ctxs": [
+            0,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "MN reports grants and personal fees from Pfizer, personal fees\r\nfrom Merck, personal fees from Astellas, personal fees from Gilead,\r\npersonal fees from Basilea, personal fees from United Medical and\r\npersonal fees from Teva outside the submitted work. MG reports no\r\nconflicts of interest relevant to this article."
+        ],
+        "negative_ctxs": [
+            10,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Transparency Declaration MN reports grants and personal fees from Pfizer, personal fees from Merck, personal fees from Astellas, personal fees from Gilead, personal fees from Basilea, personal fees from United Medical and personal fees from Teva outside the submitted work. MG reports no conflicts of interest relevant to this article."
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Our study has some important limitations. Firstly, it includes mostly case reports; secondly, the analysis is derived mostly from\nolder studies, which are not representative of current standards of\nantifungal prophylaxis in haematologic patients and treatment of\nacute disseminated candidiasis; and thirdly, some articles did not\ninclude important information such as antifungal prophylaxis, details\nof culture and histopathology of skin lesions."
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    }
+]

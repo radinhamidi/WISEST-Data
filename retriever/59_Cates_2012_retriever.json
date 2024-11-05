@@ -1,0 +1,465 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "This is a protocol for a Cochrane Review (Overview). The objectives are as follows: To assess the risk of serious adverse events in children treated with regular maintenance formoterol or salmeterol compared to placebo, or if used in combination with regular ICS, compared to the same dose of ICS.\n \nCriteria for considering reviews for inclusion Types of reviews Cochrane systematic reviews of randomised trials published in the Cochrane Database of Systematic Reviews (CDSR) that have a primary focus on adverse events. Participants Children with asthma. We will include reviews of both adults and children, but will only consider the results from the trials in children. Interventions Formoterol or salmeterol used as regular maintenance treatment in comparison to placebo, or if used in combination with regular ICS, compared to the same dose of ICS (See Figure 1). We will also include reviews comparing regular formoterol with salmeterol (with or without ICS), in order to assess the evidence for the comparative risks of formoterol and salmeterol in head-to-head trials. We will not include reviews of formoterol used for maintenance and relief of symptoms, or relief of symptoms alone. Outcome measures * Primary outcomes: all-cause mortality and non-fatal serious adverse events * Secondary outcomes; asthma-related deaths and serious adverse events\n \nO B J E C T I V E S We have used the paediatric trial results from Cochrane systematic reviews to assess the safety of regular formoterol or salmeterol, either as monotherapy or as combination therapy, in children with asthma. M E T H O D S Criteria for considering reviews for inclusion Types of reviews Cochrane systematic reviews of randomised trials published in the Cochrane Database of Systematic Reviews (CDSR) that have a primary focus on adverse events. Participants Children with asthma. We included reviews of both adults and children but only analysed the results from the trials in children. Interventions 1. Regular formoterol monotherapy versus placebo 2. Regular salmeterol monotherapy versus placebo 3. Regular formoterol in combination with ICS versus the same dose of ICS 4. Regular salmeterol in combination with ICS versus the same dose of ICS 5. Regular formoterol versus regular salmeterol 6. Regular formoterol in combination with ICS versus regular salmeterol in combination with ICS We did not include reviews of formoterol used for maintenance and relief of symptoms, or relief of symptoms alone. Outcome measures * Primary outcomes: all-cause mortality and non-fatal serious adverse events * Secondary outcomes: asthma-related deaths and asthma-related non-fatal serious adverse events"
+        ],
+        "negative_ctxs": [
+            43,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "O B J E C T I V E S\nWe have used the paediatric trial results from Cochrane systematic reviews to assess the safety of regular formoterol or salmeterol, either as monotherapy or as combination therapy, in children with asthma.\nM E T H O D S\nCriteria for considering reviews for inclusion\nTypes of reviews\nCochrane systematic reviews of randomised trials published in\nthe Cochrane Database of Systematic Reviews (CDSR) that have a primary focus on adverse events.\nParticipants\nChildren with asthma. We included reviews of both adults and children but only analysed the results from the trials in children.\nInterventions\n1. Regular formoterol monotherapy versus placebo\n2. Regular salmeterol monotherapy versus placebo\n3. Regular formoterol in combination with ICS versus the same dose of ICS\n4. Regular salmeterol in combination with ICS versus the same dose of ICS\n5. Regular formoterol versus regular salmeterol\n6. Regular formoterol in combination with ICS versus regular salmeterol in combination with ICS\nWe did not include reviews of formoterol used for maintenance and relief of symptoms, or relief of symptoms alone.\nOutcome measures\n* Primary outcomes: all-cause mortality and non-fatal serious\nadverse events\n* Secondary outcomes: asthma-related deaths and asthma-related non-fatal serious adverse events"
+        ],
+        "negative_ctxs": [
+            35,
+            49
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "O B J E C T I V E S\nWe have used the paediatric trial results from Cochrane systematic reviews to assess the safety of regular formoterol or salmeterol, either as monotherapy or as combination therapy, in children with asthma.\nM E T H O D S\nCriteria for considering reviews for inclusion\nTypes of reviews\nCochrane systematic reviews of randomised trials published in\nthe Cochrane Database of Systematic Reviews (CDSR) that have a primary focus on adverse events.\nParticipants\nChildren with asthma. We included reviews of both adults and children but only analysed the results from the trials in children.\nInterventions\n1. Regular formoterol monotherapy versus placebo\n2. Regular salmeterol monotherapy versus placebo\n3. Regular formoterol in combination with ICS versus the same dose of ICS\n4. Regular salmeterol in combination with ICS versus the same dose of ICS\n5. Regular formoterol versus regular salmeterol\n6. Regular formoterol in combination with ICS versus regular salmeterol in combination with ICS\nWe did not include reviews of formoterol used for maintenance and relief of symptoms, or relief of symptoms alone.\nOutcome measures\n* Primary outcomes: all-cause mortality and non-fatal serious\nadverse events\n* Secondary outcomes: asthma-related deaths and asthma-related non-fatal serious adverse events"
+        ],
+        "negative_ctxs": [
+            62,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We searched the Cochrane Database of Systematic Reviews (CDSR) in The Cochrane Library (2012, Issue 5 of 12) in May 2012. We did not apply any date restrictions. We did not search for non-Cochrane reviews. See Appendix 1 for the search strategy. We conducted updated literature searches for each identified adverse event review to search for any new trials that may not yet have been incorporated into the Cochrane reviews, using the search strategy published in each reviews. See Appendix 1 for the search strategy."
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We searched the Cochrane Database of Systematic Reviews (CDSR) in The Cochrane Library (2012, Issue 5 of 12) in May 2012. We did not apply any date restrictions. We did not search for non-Cochrane reviews. See Appendix 1 for the search strategy. We conducted updated literature searches for each identified adverse event review to search for any new trials that may not yet have been incorporated into the Cochrane reviews, using the search strategy published in each reviews. See Appendix 1 for the search strategy."
+        ],
+        "negative_ctxs": [
+            45,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched the Cochrane Database of Systematic Reviews (CDSR) in The Cochrane Library (2012, Issue 5 of 12) in May 2012. We did not apply any date restrictions. We did not search for non-Cochranereviews. See Appendix 1 for the search strategy.We conducted updated literature searches for each identified adverse event review to search for any new trials that may not yet have been incorporated into the Cochrane reviews, using the search strategy published in each reviews. See Appendix 1 for the search strategy."
+        ],
+        "negative_ctxs": [
+            47,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We conducted updated literature searches for each identified adverse event review to search for any new trials that may not yet have been incorporated into the Cochrane reviews, using the search strategy published in each review."
+        ],
+        "negative_ctxs": [
+            43,
+            23
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix 1. Cochrane Library search strategy #1 MeSH descriptor Asthma explode all trees #2 (asthma*):ti,ab,kw #3 (#1 OR #2) #4 (formoterol):ti,ab,kw #5(salmeterol):ti,ab,kw #6 MeSH descriptor Adrenergic beta-2 Receptor Agonists explode all trees #7 LABA:ti,ab #8 ((long-acting or \"long acting\") NEAR/3 beta*):ti #9 (#4 OR #5 OR #6 OR #7 OR #8) #10 (#2 AND #9) [Restrict to Cochrane Database of Systematic Reviews]\nthe outcomes specified above"
+        ],
+        "negative_ctxs": [
+            3,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We searched the Cochrane Database of Systematic Reviews (CDSR) in The Cochrane Library (2012, Issue 5 of 12) in May 2012. We did not apply any date restrictions. We did not search for non-Cochrane reviews. See Appendix 1 for the search strategy. We conducted updated literature searches for each identifiedadverse event review to search for any new trials that may not yethave been incorporated into the Cochrane reviews, using the search strategy published in each reviews. See Appendix 1 for the search strategy. "
+        ],
+        "negative_ctxs": [
+            12,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two review authors independently assessed Cochrane reviews for inclusion."
+        ],
+        "negative_ctxs": [
+            6,
+            58
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "All data were extracted independently by two reviewers."
+        ],
+        "negative_ctxs": [
+            35,
+            43
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The characteristics of the included reviews are summarised in Table2. All the reviews used the same inclusion criteria (randomisedcontrolled trials in patients of any age with a diagnosis ofasthma) and outcome measures (all-cause mortality, all-causenon-fatal serious adverse events, asthma-related mortality andserious adverse events). The included studies were not restricted to products approved for children by the FDA. The definition of serious adverse events was uniform across the reviews (see Appendix 2).\n\nIncluding the new studies, there are a total of 21 studies on 7318 children in the first four reviews, and a single study on 156 children in the sixth review comparing regular formoterol with regular salmeterol. There were no studies found in children comparing formoterol and salmeterol combination therapy against each other. The studies in children from four to 17 years of age are from a range of settings and conducted between 1992 and 2010. Separate data from children above or below the age of 12 years were not available. The early studies primarily randomised children between monotherapy LABAs with or without ICS as background therapy. In later years studies standardised ICS treatment in control andintervention groups, perhaps in response to concerns over the use of LABAs without concurrent ICS. The characteristics of the included studies in children in each of the reviews are summarised in Table 3, Table 4, Table 5 , Table 6 and Table 7, respectively.\n\nTable 2. Characteristics of included reviews\n\nTable 3. Regular formoterol v placebo trial details\n\nTable 4. Regular salmeterol v placebo trial details\n\nTable 5. Regular formoterol & ICSv ICStrial details\n\nTable 6. Regular salmeterol & ICSv ICStrial details\n\nTable 7. Regular formoterol versus regular salmeterol"
+        ],
+        "negative_ctxs": [
+            40,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Figure 3. Children with all-causeSAEs compared using Peto OR\n\nFigure 4. Children with an all-cause SAE: formoterol versus placebo subgrouped by brand and dose \n\nFigure 5. Interaction between randomised use of ICS and children with all-cause SAE on regular LABA using ORs"
+        ],
+        "negative_ctxs": [
+            55,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two review authors independently assessed the included reviews for methodological quality, with particular emphasis on potential bias in the review process of each review, using the AMSTAR tool\r\n(Shea 2007). We assessed the incorporation of the risk of bias into each review, and planned to carry out a sensitivity analysis based on the results of studies at low or unclear risk of bias for each outcome. We considered the risks of bias in relation to the selection of studies, ascertainment of serious adverse events, and method of analysis of the results.\r"
+        ],
+        "negative_ctxs": [
+            43,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two review authors independently assessed the included reviews for methodological quality, with particular emphasis on potential bias in the review process of each review, using the AMSTAR tool"
+        ],
+        "negative_ctxs": [
+            19,
+            32
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Including the new studies, there are a total of 21 studies on 7318 children in the first four reviews, and a single study on 156 children in the sixth review comparing regular formoterol with regular salmeterol.\n\nMortality There was only one death in a child across all the reviews. Correspondence with the trialist confirmed that the child concerned died from a sub-arachnoid haemorrhage whilst taking formoterol monotherapy (Cates 2012a.\n\nThe review comparing regular formoterol with placebo (Cates 2012a), in five trials including 1335 children, showed a significant increase in the odds ratio (OR) of children suffering an SAE of any cause (Peto OR 2.48; 95% CI 1.27 to 4.83, I 2 = 0% as shown in the top forest plot in Figure 3).\n\nThe review comparing regular salmeterol with placebo (Cates 2008), in five trials including 1333 children, found an increase in the OR of children suffering an SAE of any cause that was not statistically significant (Peto OR 1.30; 95% CI 0.82 to 2.05, I 2 = 17%, as shown in the second forest plot in Figure 3).\n\nThe review comparing regular formoterol in combination with ICS versus the same dose of ICS (Cates 2009b), in seven trials on 2788 children, also found an increase in the OR of children suffering an SAE of any cause that was not statistically significant (Peto OR 1.60; 95% CI 0.80 to 3.28, I 2 = 32%, as shown in the third forest plot in Figure 3)"
+        ],
+        "negative_ctxs": [
+            55,
+            43
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Data synthesis We will analyse serious adverse event data as odds ratios and as risk differences. Where there are zero cells in any of the studies the Peto Odds Ratio will be preferred as it requires no zero cell adjustment (Bradburn 2007). Whilst the risk difference analysis has the advantage of including data from trials with no events in either arm, there is usually higher heterogeneity than using odds ratios. The risk differences will be used to compare all-cause events and asthma-related events on the same scale, since odds ratios would not be expected to be the same if the ratio of all-cause events was driven by the increase in asthma-related events. Odds ratios are preferred to risk ratios, as there are two separate risk ratios for participants who suffer an adverse event and those who remain free of adverse events, and the choice of risk ratio cannot be made on any good empirical grounds and could alter the point estimates and statistical significance of the pooled results. Since the dose-response curves for each product and formulation may not be the same (Cates 2011; Senn 1997), we will look at subgroups of trials using different products and doses of both formoterol and salmeterol, and assess heterogeneity of the odds ratios using the I 2 statistic in Review Manager 5 (RevMan 2011) from the data sets in the existing reviews. We will first consider formoterol and salmeterol separately and then compare them to each other using direct and indirect comparisons (where the assumptions needed to make an indirect comparison appear to be reasonable). In Figure 1, the direct comparisons between formoterol and salmeterol are shown as red lines on the network diagram, and the indirect comparisons are shown as vertical green lines , comparing each drug with placebo or ICS. We will explore the safety interaction with ICS by comparing the treatment effects of formoterol or salmeterol versus placebo (diagonal green lines in Figure 1), and its difference from the treatment effect of formoterol or salmeterol\n\nrespectively with ICS versus the same dose of ICS (corresponding vertical green lines in Figure 1), using the test for interaction described in Altman 2003.\n\nData synthesis Direct randomised comparison data We extracted data from two new trials, which were included after we ran the updated search, and analysed them together with data from the relevant included systematic review using Review Manager 5 (RevMan 5); the results are summarised in Forest plots and tables of pooled results. We analysed serious adverse event data as odds ratios (OR) and as risk differences using RevMan 5 . Where there were zero cells in any of the studies the Peto OR was preferred as it requires no zero cell adjustment (Bradburn 2007). Whilst the risk difference analysis has the advantage of including data from trials with no events in either arm, there is usually higher heterogeneity than using ORs. The risk differences were used to compare all-cause events and asthmarelated events on the same scale, since ORs would not be expected to be the same if the ratio of all-cause events was driven by the increase in asthma-related events. We preferred ORs to risk ratios as there are two separate risk ratios for participants who suffer an adverse event and participants who do not, and the choice between these two risk ratios, which cannot be made on good empirical grounds, could alter the point estimates and statistical significance of the pooled results. Since the dose-response curves for each product and formulation may not have been the same (Cates 2011; Senn 1997), we also looked at subgroups of trials using different products and doses of formoterol, and assessed heterogeneity of the ORs using the I 2 statistic in RevMan 5 from the data sets in the existing reviews. We converted the pooled ORs (and 95% confidence interval (CI)) into absolute differences for the summary of findings table and the Cates plots with Visual Rx 2012 (using the mean control arm event rates from the trials). Indirect comparison of monotherapy and combination therapy\n\nWe explored the safety interaction with ICS by comparing the treatment effects of formoterol or salmeterol versus placebo (diagonal green lines in Figure 1A) and the difference from the treatment effect of formoterol or salmeterol with ICS versus the same dose of ICS (corresponding vertical green lines in Figure 1B) using the method described in Altman 2003 and Bucher 1997. This comparison was carried out by entering the monotherapy and combination therapy trial results as different subgroups in RevMan 5, and the results were displayed as a forest plot. The test for interaction between subgroups was generated for the Peto ORs using RevMan 5 and is displayed on the forest plots."
+        ],
+        "negative_ctxs": [
+            40,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We analysed serious adverse event data as odds ratios (OR) and as risk differences using RevMan 5 . Where there were zero cells in any of the studies the Peto OR was preferred as it requires no zero cell adjustment (Bradburn 2007). Whilst the risk difference analysis has the advantage of including data from trials with no events in either arm, there is usually higher heterogeneity than using ORs. The risk differences were used to compare all-cause events and asthma related events on the same scale, since ORs would not be expected to be the same if the ratio of all-cause events was driven by the increase in asthma-related events.\n\nThe review comparing regular formoterol with placebo (Cates 2012a), in five trials including 1335 children, showed a significant increase in the odds ratio (OR) of children suffering an SAE of any cause (Peto OR 2.48; 95% CI 1.27 to 4.83, I 2 = 0% as shown in the top forest plot in Figure 3).\n\nThe pooled risk difference using a fixed-effect model was an increase of 26 children per 1000 over 27 weeks (95% CI 9 more to 42 more per 1000), whilst a random-effects model which incorporates the heterogeneity had a wider CI and showed an increase of 20 children per 1000 over 27 weeks (95% CI 3 fewer to 43 more per 1000) which was not statistically significant.\n\n"
+        ],
+        "negative_ctxs": [
+            27,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Since the dose-response curves for each product and formulation may not have been the same (Cates 2011; Senn 1997), we also looked at subgroups of trials using different products and doses of formoterol, and assessed heterogeneity of the ORs using the I 2 statistic in RevMan 5 from the data sets in the existing reviews."
+        ],
+        "negative_ctxs": [
+            4,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "no info"
+        ],
+        "negative_ctxs": [
+            11,
+            27
+        ],
+        "positive_ctxs": [
+            41
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "All the included reviews were Cochrane reviews and judged to be of good quality with high AMSTAR scores. The quality of individual studies was assessed in the reviews using the Cochrane risk of bias tool. Although sequence generation and the method of allocation\nconcealment were not clearly reported in most of the trials in the reviews, we judged that there was low risk of selection bias as all the trials were sponsored by the manufacturers and used standard methods designed for regulatory purposes. Almost all the trials were double-blind in design, and the reviews included data on mortality and non-fatal serious adverse events (SAEs) from all the trials (with a single exception as shown in Table 3). The reviews sought data from manufacturers' websites and FDA reports. The review results therefore were not downgraded due to risks of bias in the included trials"
+        ],
+        "negative_ctxs": [
+            5,
+            55
+        ],
+        "positive_ctxs": [
+            39
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Quality of the evidence\nAll the included reviews were Cochrane reviews and judged to be\nof good quality with high AMSTAR scores. The quality of individual\nstudies was assessed in the reviews using the Cochrane risk of bias\ntool. Although sequence generation and the method of allocation\nconcealment were not clearly reported in most of the trials in the\nreviews, we judged that there was low risk of selection bias as all\nthe trials were sponsored by the manufacturers and used standard\nmethods designed for regulatory purposes. Almost all the trials\nwere double-blind in design, and the reviews included data on\nmortality and non-fatal serious adverse events (SAEs) from all the\ntrials (with a single exception as shown in Table 3). The reviews\nsought data from manufacturers' websites and FDA reports. The\nreview results therefore were not downgraded due to risks of bias\nin the included trials.\nWe chose all-cause SAEs as the primary outcome for this overview\nbecause ascertainment bias is a concern for the asthma-related\nevents. Even in double-blind trials, if there is a high threshold for\nlabelling events as being asthma-related, this could lead to an\nunderestimation of the true eIect of treatment on such events.\nMoreover a patient with an SAE may have this recorded under\nmore than one category (leading to double-counting of individual\npatients) whereas data on the number of participants with at\nleast one DAE of any cause is more reliably available from the\nmanufacturers' trial reports on their websites"
+        ],
+        "negative_ctxs": [
+            44,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "O B J E C T I V E S We have used the paediatric trial results from Cochrane systematic reviews to assess the safety of regular formoterol or salmeterol, either as monotherapy or as combination therapy, in children with asthma. M E T H O D S Criteria for considering reviews for inclusion Types of reviews Cochrane systematic reviews of randomised trials published in the Cochrane Database of Systematic Reviews (CDSR) that have a primary focus on adverse events. Participants Children with asthma. We included reviews of both adults and children but only analysed the results from the trials in children. Interventions 1. Regular formoterol monotherapy versus placebo 2. Regular salmeterol monotherapy versus placebo 3. Regular formoterol in combination with ICS versus the same dose of ICS 4. Regular salmeterol in combination with ICS versus the same dose of ICS 5. Regular formoterol versus regular salmeterol 6. Regular formoterol in combination with ICS versus regular salmeterol in combination with ICS We did not include reviews of formoterol used for maintenance and relief of symptoms, or relief of symptoms alone. Outcome measures * Primary outcomes: all-cause mortality and non-fatal serious adverse events * Secondary outcomes: asthma-related deaths and asthma related non-fatal serious adverse events\n\nSix Cochrane reviews on serious adverse events associated with LABA treatment in asthma were included: 1. Regular treatment with formoterol for chronic asthma: serious adverse events (Cates 2012a), 2. Regular treatment with salmeterol for chronic asthma: serious adverse events (Cates 2008), 3. Regular treatment with formoterol and inhaled steroids for chronic asthma: serious adverse events (Cates 2009b), 4. Regular treatment with salmeterol and inhaled steroids for chronic asthma: serious adverse events (Cates 2009a) 5. Regular treatment with formoterol versus regular treatment with salmeterol for chronic asthma: serious adverse events (Cates 2012b), 6. Regular treatment with formoterol and an inhaled corticosteroid versus regular treatment with salmeterol and an inhaled corticosteroid for chronic asthma: serious adverse events (Cates 2010). The characteristics of the included reviews are summarised in Table 2. All the reviews used the same inclusion criteria (randomised controlled trials in patients of any age with a diagnosis of asthma) and outcome measures (all-cause mortality, all-cause non-fatal serious adverse events, asthma-related mortality and serious adverse events)."
+        ],
+        "negative_ctxs": [
+            6,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            6,
+            47
+        ],
+        "positive_ctxs": [
+            56,
+            57
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "This is a protocol for a Cochrane Review (Overview). The objectives are as follows: To assess the risk of serious adverse events in children treated with regular maintenance formoterol or salmeterol compared to placebo, or if used in combination with regular ICS, compared to the same dose of ICS.\n \nCriteria for considering reviews for inclusion Types of reviews Cochrane systematic reviews of randomised trials published in the Cochrane Database of Systematic Reviews (CDSR) that have a primary focus on adverse events. Participants Children with asthma. We will include reviews of both adults and children, but will only consider the results from the trials in children. Interventions Formoterol or salmeterol used as regular maintenance treatment in comparison to placebo, or if used in combination with regular ICS, compared to the same dose of ICS (See Figure 1). We will also include reviews comparing regular formoterol with salmeterol (with or without ICS), in order to assess the evidence for the comparative risks of formoterol and salmeterol in head-to-head trials. We will not include reviews of formoterol used for maintenance and relief of symptoms, or relief of symptoms alone. Outcome measures * Primary outcomes: all-cause mortality and non-fatal serious adverse events * Secondary outcomes; asthma-related deaths and serious adverse events\n \nO B J E C T I V E S We have used the paediatric trial results from Cochrane systematic reviews to assess the safety of regular formoterol or salmeterol, either as monotherapy or as combination therapy, in children with asthma. M E T H O D S Criteria for considering reviews for inclusion Types of reviews Cochrane systematic reviews of randomised trials published in the Cochrane Database of Systematic Reviews (CDSR) that have a primary focus on adverse events. Participants Children with asthma. We included reviews of both adults and children but only analysed the results from the trials in children. Interventions 1. Regular formoterol monotherapy versus placebo 2. Regular salmeterol monotherapy versus placebo 3. Regular formoterol in combination with ICS versus the same dose of ICS 4. Regular salmeterol in combination with ICS versus the same dose of ICS 5. Regular formoterol versus regular salmeterol 6. Regular formoterol in combination with ICS versus regular salmeterol in combination with ICS We did not include reviews of formoterol used for maintenance and relief of symptoms, or relief of symptoms alone. Outcome measures * Primary outcomes: all-cause mortality and non-fatal serious adverse events * Secondary outcomes: asthma-related deaths and asthma-related non-fatal serious adverse events"
+        ],
+        "negative_ctxs": [
+            21,
+            61
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "O B J E C T I V E S\nWe have used the paediatric trial results from Cochrane systematic reviews to assess the safety of regular formoterol or salmeterol, either as monotherapy or as combination therapy, in children with asthma.\nM E T H O D S\nCriteria for considering reviews for inclusion\nTypes of reviews\nCochrane systematic reviews of randomised trials published in\nthe Cochrane Database of Systematic Reviews (CDSR) that have a primary focus on adverse events.\nParticipants\nChildren with asthma. We included reviews of both adults and children but only analysed the results from the trials in children.\nInterventions\n1. Regular formoterol monotherapy versus placebo\n2. Regular salmeterol monotherapy versus placebo\n3. Regular formoterol in combination with ICS versus the same dose of ICS\n4. Regular salmeterol in combination with ICS versus the same dose of ICS\n5. Regular formoterol versus regular salmeterol\n6. Regular formoterol in combination with ICS versus regular salmeterol in combination with ICS\nWe did not include reviews of formoterol used for maintenance and relief of symptoms, or relief of symptoms alone.\nOutcome measures\n* Primary outcomes: all-cause mortality and non-fatal serious\nadverse events\n* Secondary outcomes: asthma-related deaths and asthma-related non-fatal serious adverse events"
+        ],
+        "negative_ctxs": [
+            3,
+            57
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            34,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched the Cochrane Database of Systematic Reviews (CDSR) in The Cochrane Library (2012, Issue 5 of 12) in May 2012. We did not apply any date restrictions. We did not search for non-Cochranereviews. See Appendix 1 for the search strategy.We conducted updated literature searches for each identified adverse event review to search for any new trials that may not yet have been incorporated into the Cochrane reviews, using the search strategy published in each reviews. See Appendix 1 for the search strategy."
+        ],
+        "negative_ctxs": [
+            20,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two review authors independently assessed Cochrane reviews for inclusion."
+        ],
+        "negative_ctxs": [
+            1,
+            16
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "All data were extracted independently by two reviewers."
+        ],
+        "negative_ctxs": [
+            18,
+            29
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            41,
+            50
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The characteristics of the included reviews are summarised in Table2. All the reviews used the same inclusion criteria (randomisedcontrolled trials in patients of any age with a diagnosis ofasthma) and outcome measures (all-cause mortality, all-causenon-fatal serious adverse events, asthma-related mortality andserious adverse events). The included studies were not restricted to products approved for children by the FDA. The definition of serious adverse events was uniform across the reviews (see Appendix 2).\n\nIncluding the new studies, there are a total of 21 studies on 7318 children in the first four reviews, and a single study on 156 children in the sixth review comparing regular formoterol with regular salmeterol. There were no studies found in children comparing formoterol and salmeterol combination therapy against each other. The studies in children from four to 17 years of age are from a range of settings and conducted between 1992 and 2010. Separate data from children above or below the age of 12 years were not available. The early studies primarily randomised children between monotherapy LABAs with or without ICS as background therapy. In later years studies standardised ICS treatment in control andintervention groups, perhaps in response to concerns over the use of LABAs without concurrent ICS. The characteristics of the included studies in children in each of the reviews are summarised in Table 3, Table 4, Table 5 , Table 6 and Table 7, respectively.\n\nTable 2. Characteristics of included reviews\n\nTable 3. Regular formoterol v placebo trial details\n\nTable 4. Regular salmeterol v placebo trial details\n\nTable 5. Regular formoterol & ICSv ICStrial details\n\nTable 6. Regular salmeterol & ICSv ICStrial details\n\nTable 7. Regular formoterol versus regular salmeterol"
+        ],
+        "negative_ctxs": [
+            2,
+            60
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two review authors independently assessed the included reviews for methodological quality, with particular emphasis on potential bias in the review process of each review, using the AMSTAR tool\r\n(Shea 2007). We assessed the incorporation of the risk of bias into each review, and planned to carry out a sensitivity analysis based on the results of studies at low or unclear risk of bias for each outcome. We considered the risks of bias in relation to the selection of studies, ascertainment of serious adverse events, and method of analysis of the results.\r"
+        ],
+        "negative_ctxs": [
+            23,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We analysed serious adverse event data as odds ratios (OR) and as risk differences using RevMan 5 . Where there were zero cells in any of the studies the Peto OR was preferred as it requires no zero cell adjustment (Bradburn 2007). Whilst the risk difference analysis has the advantage of including data from trials with no events in either arm, there is usually higher heterogeneity than using ORs. The risk differences were used to compare all-cause events and asthma related events on the same scale, since ORs would not be expected to be the same if the ratio of all-cause events was driven by the increase in asthma-related events.\n\nThe review comparing regular formoterol with placebo (Cates 2012a), in five trials including 1335 children, showed a significant increase in the odds ratio (OR) of children suffering an SAE of any cause (Peto OR 2.48; 95% CI 1.27 to 4.83, I 2 = 0% as shown in the top forest plot in Figure 3).\n\nThe pooled risk difference using a fixed-effect model was an increase of 26 children per 1000 over 27 weeks (95% CI 9 more to 42 more per 1000), whilst a random-effects model which incorporates the heterogeneity had a wider CI and showed an increase of 20 children per 1000 over 27 weeks (95% CI 3 fewer to 43 more per 1000) which was not statistically significant.\n\n"
+        ],
+        "negative_ctxs": [
+            60,
+            48
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Since the dose-response curves for each product and formulation may not have been the same (Cates 2011; Senn 1997), we also looked at subgroups of trials using different products and doses of formoterol, and assessed heterogeneity of the ORs using the I 2 statistic in RevMan 5 from the data sets in the existing reviews."
+        ],
+        "negative_ctxs": [
+            60,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "no info"
+        ],
+        "negative_ctxs": [
+            46,
+            16
+        ],
+        "positive_ctxs": [
+            41
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "All the included reviews were Cochrane reviews and judged to be of good quality with high AMSTAR scores. The quality of individual studies was assessed in the reviews using the Cochrane risk of bias tool. Although sequence generation and the method of allocation\nconcealment were not clearly reported in most of the trials in the reviews, we judged that there was low risk of selection bias as all the trials were sponsored by the manufacturers and used standard methods designed for regulatory purposes. Almost all the trials were double-blind in design, and the reviews included data on mortality and non-fatal serious adverse events (SAEs) from all the trials (with a single exception as shown in Table 3). The reviews sought data from manufacturers' websites and FDA reports. The review results therefore were not downgraded due to risks of bias in the included trials"
+        ],
+        "negative_ctxs": [
+            54,
+            26
+        ],
+        "positive_ctxs": [
+            39
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            53,
+            47
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "D E C L A R A T I O N S O F I N T E R E S T\nChris Cates authored the included systematic reviews on the adverse events of long-acting beta2-agonists in adults and children, and was not involved in the assessment of the quality of the reviews.\nS O U R C E S O F S U P P O R T\nInternal sources\n* St George's University of London, UK.\nExternal sources\n* NIHR, UK.\nProgramme grant funding"
+        ],
+        "negative_ctxs": [
+            46,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Quality of the evidence\nAll the included reviews were Cochrane reviews and judged to be\nof good quality with high AMSTAR scores. The quality of individual\nstudies was assessed in the reviews using the Cochrane risk of bias\ntool. Although sequence generation and the method of allocation\nconcealment were not clearly reported in most of the trials in the\nreviews, we judged that there was low risk of selection bias as all\nthe trials were sponsored by the manufacturers and used standard\nmethods designed for regulatory purposes. Almost all the trials\nwere double-blind in design, and the reviews included data on\nmortality and non-fatal serious adverse events (SAEs) from all the\ntrials (with a single exception as shown in Table 3). The reviews\nsought data from manufacturers' websites and FDA reports. The\nreview results therefore were not downgraded due to risks of bias\nin the included trials.\nWe chose all-cause SAEs as the primary outcome for this overview\nbecause ascertainment bias is a concern for the asthma-related\nevents. Even in double-blind trials, if there is a high threshold for\nlabelling events as being asthma-related, this could lead to an\nunderestimation of the true eIect of treatment on such events.\nMoreover a patient with an SAE may have this recorded under\nmore than one category (leading to double-counting of individual\npatients) whereas data on the number of participants with at\nleast one DAE of any cause is more reliably available from the\nmanufacturers' trial reports on their websites"
+        ],
+        "negative_ctxs": [
+            59,
+            24
+        ],
+        "positive_ctxs": []
+    }
+]

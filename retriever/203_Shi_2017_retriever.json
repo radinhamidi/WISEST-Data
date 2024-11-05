@@ -1,0 +1,446 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Eligible literatures were included in the meta-analysis if they suited the following criteria: (1) full-text randomized controlled trials; (2) participants of any age or gender diagnosed with AD or its relevant diseases (contact dermatitis, urticaria, drug eruption, eczema, etc.); (3) no active skin exudation or infection was found before experiment; (4) experimental group: patients who received traditional herbal medicine and related preparations or formula, acupuncture and moxibustion, and any treatment having the TCM characteristics, combined or not with the western medical therapy; (5) control group: participants who received placebo or western medicines; (6) all included patients having the need to stop the previous applied topical steroid or immunosuppressant at least 1 week before RCT was conducted; (7) more than 1 severe degree criterion of AD as follows: SCORAD, EASI, VAS, simple scoring system, the Children's Dermatology Life Quality Index (CDLQI) , and itch intensity; (8) the major clinical outcome effectiveness of AD that was evaluated having one indicator at least as follows: (a) clinical effects; (b) the median clinical scores variation; (c) laboratory index; (d) the variation of symptom scores; (e) adverse effects; (f) lesion size change. Studies would be excluded if they do not meet the criteria mentioned above or the following: (1) severe clinical illnesses (such as liver or kidney disease) or infections; (2) absence or inconsistency of methods and results; (3) case report, comments, reviews, editorials, letters, and so forth"
+        ],
+        "negative_ctxs": [
+            1,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Eligible literatures were included in the meta-analysis if they suited the following criteria: (1) full-text randomized controlled trials; (2) participants of any age or gender diagnosed with AD or its relevant diseases (contact dermatitis, urticaria, drug eruption, eczema, etc.); (3) no active skin exudation or infection was found before experiment; (4) experimental group: patients who received traditional herbal medicine and related preparations or formula, acupuncture and moxibustion, and any treatment having the TCM characteristics, combined or not with the western medical therapy; (5) control group: participants who received placebo or western medicines; (6) all included patients having the need to stop the previous applied topical steroid or immunosuppressant at least 1 week before RCT was conducted; (7) more than 1 severe degree criterion of AD as follows: SCORAD, EASI, VAS, simple scoring system, the Children's Dermatology Life Quality Index (CDLQI) , and itch intensity; (8) the major clinical outcome effectiveness of AD that was evaluated having one indicator at least as follows: (a) clinical effects; (b) the median clinical scores variation; (c) laboratory index; (d) the variation of symptom scores; (e) adverse effects; (f) lesion size change."
+        ],
+        "negative_ctxs": [
+            25,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Eligible literatures were included in the meta-analysis if they suited the following criteria: (1) full-text randomized controlled trials; (2) participants of any age or gender diagnosed with AD or its relevant diseases (contact dermatitis, urticaria, drug eruption, eczema, etc.); (3) no active skin exudation or infection was found before experiment; (4) experimental group: patients who received traditional herbal medicine and related preparations or formula, acupuncture and moxibustion, and any treatment having the TCM characteristics, combined or not with the western medical therapy; (5) control group: participants who received placebo or western medicines; (6) all included patients having the need to stop the previous applied topical steroid or immunosuppressant at least 1 week before RCT was conducted; (7) more than 1 severe degree criterion of AD as follows: SCORAD, EASI, VAS, simple scoring system, the Children's Dermatology Life Quality Index (CDLQI) , and itch intensity; (8) the major clinical outcome effectiveness of AD that was evaluated having one indicator at least as follows: (a) clinical effects; (b) the median clinical scores variation; (c) laboratory index; (d) the variation of symptom scores; (e) adverse effects; (f) lesion size change. Studies would be excluded if they do not meet the criteria mentioned above or the following: (1) severe clinical illnesses (such as liver or kidney disease) or infections; (2) absence or inconsistency of methods and results; (3) case report, comments, reviews, editorials, letters, and so forth."
+        ],
+        "negative_ctxs": [
+            12,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "There were no language restrictions on literature searching in the selected database.\n\nThe searching language was slightly adjusted based on the demand of different databases for adaptation. The hand searching process was also performed in the library of Fourth Military Medical University through the magazines to identify other potential related articles.\n\nStudies would be excluded if they do not meet the criteria mentioned above or the following: (1) severe clinical illnesses (such as liver or kidney disease) or infections; (2) absence or inconsistency of methods and results; (3) case report, comments, reviews, editorials, letters, and so forth."
+        ],
+        "negative_ctxs": [
+            29,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Because of the pervasive low literature quality in Chinese electronic databases, so the international mainstreamed electronic databases including PubMed, Embase, Science Direct, Medline, Web of Science, ProQuest, Springerlink, and Wiley Library Online were selected for articles extraction from their inception up to December 2016\n\nThe hand searching process was also performed in the library of Fourth Military Medical University through the magazines to identify other potential related articles.\n\nThe searching terms were conducted as follows: \"allergic dermatitis\", \"contact dermatitis\", \"urticaria\", \"drug eruption\", \"eczema\", \"traditional Chinese medicine\", \"Chinese herbal medicine\", \"Chinese medicine\", \"acupuncture\", \"moxibustion\", \"random\", \"randomized controlled trial\", and the related synonyms; meanwhile the term searching process also conducted the free text strategy and Medical Subject Headings (MeSH) term."
+        ],
+        "negative_ctxs": [
+            6,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The hand searching process was also performed in the library of Fourth Military Medical University through the magazines to identify other potential related articles."
+        ],
+        "negative_ctxs": [
+            17,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The searching terms were conducted as follows: \"allergic dermatitis\", \"contact dermatitis\", \"urticaria\", \"drug eruption\", \"eczema\", \"traditional Chinese medicine\", \"Chinese herbal medicine\", \"Chinese medicine\", \"acupuncture\", \"moxibustion\", \"random\", \"randomized controlled trial\", and the related synonyms; meanwhile the term searching process also conducted the free text strategy and Medical Subject Headings (MeSH) term."
+        ],
+        "negative_ctxs": [
+            11,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "There were no language restrictions on literature searching in the selected database. \n\nRandomized controlled trials (RCTs) were searched based on standardized searching rules in eight medical databases from the inception up to December 2016"
+        ],
+        "negative_ctxs": [
+            25,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "This studies selection was conducted by two reviewers (Zhao-feng Shi, Tie-bing Song) to ensure the quality of searching. The disagreement was resolved by the third reviewers (Juan Xie) or repeated discussion."
+        ],
+        "negative_ctxs": [
+            21,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "The literature data were extracted by two independent reviewers (Zhao-feng Shi, Yi-quan Yan) who deeply assessed the article inclusion and exclusion criteria based on the modern standardized procession. All discrepancies divided by two reviewers were judged by a third reviewer (Juan Xie) until they drew the final conclusion."
+        ],
+        "negative_ctxs": [
+            8,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The literature characteristics comprised the following items: (1) the name of author and the year of publication; (2) sample size (experimental group/control group); (3) participants' age; (4) participants' gender (experimental group/control group); (5) study design; (6) disease category; (7) diagnostic and evaluating criteria; (8) treating method; (9) treating duration; (10) dropout numbers; (11) major outcome parameter; (12) side effect. The authors of included articles were contacted if we could not obtain the literature characteristics mentioned before (Table 1)"
+        ],
+        "negative_ctxs": [
+            18,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            " The literature characteristics comprised the following items: (1) the name of author and the year of publication; (2) sample size (experimental group/control group); (3) participants' age; (4) participants' gender (experimental group/control group); (5) study design; (6) disease category; (7) diagnostic and evaluating criteria; (8) treating method; (9) treating duration; (10) dropout numbers; (11) major outcome parameter; (12) side effect. The authors of included articles were contacted if we could not obtain the literature characteristics mentioned before (Table 1)."
+        ],
+        "negative_ctxs": [
+            2,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two independent investigators (Zhao-feng Shi, Tie-bing Song) conducted the study quality analysis based on the Cochrane Collaboration's tools for the risk of bias assessment "
+        ],
+        "negative_ctxs": [
+            6,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two independent investigators (Zhao-feng Shi, Tie-bing Song) conducted the study quality analysis based on the Cochrane Collaboration's tools for the risk of bias assessment"
+        ],
+        "negative_ctxs": [
+            19,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Figure 4 showed the clinical effectiveness of traditional Chinese medicines and relevant treatments for atopic dermatitis (AD) therapy.\n\nFigure 5 was the forest plot which illustrated the SCORing Atopic Dermatitis (SCORAD) amelioration after traditional Chinese medicines and relevant treatments for experimental groups and western medicine or placebo treatments for control groups. \n\nFigure 6 showed the Eczema Area and Severity Index (EASI) amelioration after traditional Chinese medicines and relevant treatments for experimental groups and western medicine or placebo treatments for control groups. \n\nFigure 7 illustrated the Symptom Score Reducing Index (SSRI) amelioration after traditional Chinese medicines or related treatments for experimental groups and western medicine or placebo treatments for control groups. "
+        ],
+        "negative_ctxs": [
+            12,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The heterogeneity of clinical effectiveness was moderately high ( I^2 = 65%), so the random effects model was performed to calculate the combined data by Mantel-Haenszel test. "
+        ],
+        "negative_ctxs": [
+            13,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The subgroup analysis was conducted based on the different treating methods (traditional Chinese medicine and related preparation, acupuncture, and related therapy) and publishing year of articles (before 2010, after 2010) to analyze the source of heterogeneity. "
+        ],
+        "negative_ctxs": [
+            21,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "The funnel plot (Figure 8) was drawn by reviewer (Zhao-feng Shi) based on pooled odds ratio (OR) as the midpoint. The publication bias of clinical effectiveness in included studies was evaluated by comparing the symmetry of the funnel plot. The symmetry of funnel plot was assessed by two reviewers' cooperation (Juan Xie and Yi-quan Yan) in the visual aspect and both the reviewers considered that this image was symmetrical, which means the clinical effectiveness did not have the publication bias. We also conducted Egger's test and Begg's test to confirm whether the publication did exist. The calculating result of Egger's (p=0.247 ) and Begg's test (0.06) and images indicated that the publication bias did not exist  (Figure 9)."
+        ],
+        "negative_ctxs": [
+            20,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "This study has four obvious advantages: (a) articles having good quality based on the Cochrane Collaboration's tools for the risk of bias assessment were included ensuring that the results trustworthy; "
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "(a) articles having good quality based on the Cochrane Collaboration's tools for the risk of bias assessment were included ensuring that the results trustworthy; (b) the articles' quality was evaluated by three reviewers' cooperation (Zhao-feng Shi, Juan Xie and Yi-quan Yan)"
+        ],
+        "negative_ctxs": [
+            19,
+            24
+        ],
+        "positive_ctxs": [
+            23
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            10,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Eligible literatures were included in the meta-analysis if they suited the following criteria: (1) full-text randomized controlled trials; (2) participants of any age or gender diagnosed with AD or its relevant diseases (contact dermatitis, urticaria, drug eruption, eczema, etc.); (3) no active skin exudation or infection was found before experiment; (4) experimental group: patients who received traditional herbal medicine and related preparations or formula, acupuncture and moxibustion, and any treatment having the TCM characteristics, combined or not with the western medical therapy; (5) control group: participants who received placebo or western medicines; (6) all included patients having the need to stop the previous applied topical steroid or immunosuppressant at least 1 week before RCT was conducted; (7) more than 1 severe degree criterion of AD as follows: SCORAD, EASI, VAS, simple scoring system, the Children's Dermatology Life Quality Index (CDLQI) , and itch intensity; (8) the major clinical outcome effectiveness of AD that was evaluated having one indicator at least as follows: (a) clinical effects; (b) the median clinical scores variation; (c) laboratory index; (d) the variation of symptom scores; (e) adverse effects; (f) lesion size change."
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Because of the pervasive low literature quality in Chinese electronic databases, so the international mainstreamed electronic databases including PubMed, Embase, Science Direct, Medline, Web of Science, ProQuest, Springerlink, and Wiley Library Online were selected for articles extraction from their inception up to December 2016\n\nThe hand searching process was also performed in the library of Fourth Military Medical University through the magazines to identify other potential related articles.\n\nThe searching terms were conducted as follows: \"allergic dermatitis\", \"contact dermatitis\", \"urticaria\", \"drug eruption\", \"eczema\", \"traditional Chinese medicine\", \"Chinese herbal medicine\", \"Chinese medicine\", \"acupuncture\", \"moxibustion\", \"random\", \"randomized controlled trial\", and the related synonyms; meanwhile the term searching process also conducted the free text strategy and Medical Subject Headings (MeSH) term."
+        ],
+        "negative_ctxs": [
+            32,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "This studies selection was conducted by two reviewers (Zhao-feng Shi, Tie-bing Song) to ensure the quality of searching. The disagreement was resolved by the third reviewers (Juan Xie) or repeated discussion."
+        ],
+        "negative_ctxs": [
+            28,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "The literature data were extracted by two independent reviewers (Zhao-feng Shi, Yi-quan Yan) who deeply assessed the article inclusion and exclusion criteria based on the modern standardized procession. All discrepancies divided by two reviewers were judged by a third reviewer (Juan Xie) until they drew the final conclusion."
+        ],
+        "negative_ctxs": [
+            18,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Forty full-text articles were assessed for  eligibility and 16 of  them  were  excluded  after full-text reading: (1),five studies were nonclinical trials; (2) one studyl acked  control  group;  (3) three studies were unrelated to traditional Chinese medicine therapy; (4) two articles were systematic reviews; (5) four studies were clinical protocols;(6) one study focused on irrelevant disease."
+        ],
+        "negative_ctxs": [
+            9,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The literature characteristics comprised the following items: (1) the name of author and the year of publication; (2) sample size (experimental group/control group); (3) participants' age; (4) participants' gender (experimental group/control group); (5) study design; (6) disease category; (7) diagnostic and evaluating criteria; (8) treating method; (9) treating duration; (10) dropout numbers; (11) major outcome parameter; (12) side effect. The authors of included articles were contacted if we could not obtain the literature characteristics mentioned before (Table 1)"
+        ],
+        "negative_ctxs": [
+            8,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two independent investigators (Zhao-feng Shi, Tie-bing Song) conducted the study quality analysis based on the Cochrane Collaboration's tools for the risk of bias assessment "
+        ],
+        "negative_ctxs": [
+            27,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The heterogeneity of clinical effectiveness was moderately high ( I^2 = 65%), so the random effects model was performed to calculate the combined data by Mantel-Haenszel test. "
+        ],
+        "negative_ctxs": [
+            27,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The subgroup analysis was conducted based on the different treating methods (traditional Chinese medicine and related preparation, acupuncture, and related therapy) and publishing year of articles (before 2010, after 2010) to analyze the source of heterogeneity. "
+        ],
+        "negative_ctxs": [
+            20,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "The funnel plot (Figure 8) was drawn by reviewer (Zhao-feng Shi) based on pooled odds ratio (OR) as the midpoint. The publication bias of clinical effectiveness in included studies was evaluated by comparing the symmetry of the funnel plot. The symmetry of funnel plot was assessed by two reviewers' cooperation (Juan Xie and Yi-quan Yan) in the visual aspect and both the reviewers considered that this image was symmetrical, which means the clinical effectiveness did not have the publication bias. We also conducted Egger's test and Begg's test to confirm whether the publication did exist. The calculating result of Egger's (p=0.247 ) and Begg's test (0.06) and images indicated that the publication bias did not exist  (Figure 9)."
+        ],
+        "negative_ctxs": [
+            9,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "This study has four obvious advantages: (a) articles having good quality based on the Cochrane Collaboration's tools for the risk of bias assessment were included ensuring that the results trustworthy; "
+        ],
+        "negative_ctxs": [
+            32,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The authors declare that there are no conflicts of interest.\n\nThis article was supported by the Youth Science Fund Project of China National Natural Science Foundation (no. 81403292), the Natural Science Basic Study Project of Shaanxi Province (no. 2015JQ8290), and the Boosting Project of Xijing Hospital (no. XJZT13M18)."
+        ],
+        "negative_ctxs": [
+            26,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "(a) articles having good quality based on the Cochrane Collaboration's tools for the risk of bias assessment were included ensuring that the results trustworthy; (b) the articles' quality was evaluated by three reviewers' cooperation (Zhao-feng Shi, Juan Xie and Yi-quan Yan)"
+        ],
+        "negative_ctxs": [
+            24,
+            27
+        ],
+        "positive_ctxs": [
+            23
+        ]
+    }
+]

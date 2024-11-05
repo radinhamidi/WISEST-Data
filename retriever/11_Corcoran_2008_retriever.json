@@ -1,0 +1,467 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The main purpose of the study was to conduct a meta\u0002analysis to determine how parent-involved treatment of child sexual abuse victims affected child adjustment in terms of the following symptom areas when compared to another type of treatment or a control group: internalizing symptoms, externalizing symptoms, sexualized behaviors, and/or PTSD.\n \n \n Inclusion criteria for the meta-analysis included the following: (a) Sexual abuse was the reason for treatment referral; (b) treatment was provided to children rather than adult survivors of sexual abuse; (c) parents had to be involved in the treatment, although the child's sexual abuse was a focus of the intervention; (d) studies had to assess the result of treatment on child internalizing symptoms (e.g., depression, anxiety), externalizing (behavior problems), sexual behavior problems, or PTSD; and (e) comparison or control group designs were required."
+        ],
+        "negative_ctxs": [
+            8,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The main purpose of the study was to conduct a meta\u0002analysis to determine how parent-involved treatment of child sexual abuse victims affected child adjustment in terms of the following symptom areas when compared to another type of treatment or a control group: internalizing symptoms, externalizing symptoms, sexualized behaviors, and/or PTSD.\n \n \n Inclusion criteria for the meta-analysis included the following: (a) Sexual abuse was the reason for treatment referral; (b) treatment was provided to children rather than adult survivors of sexual abuse; (c) parents had to be involved in the treatment, although the child's sexual abuse was a focus of the intervention; (d) studies had to assess the result of treatment on child internalizing symptoms (e.g., depression, anxiety), externalizing (behavior problems), sexual behavior problems, or PTSD; and (e) comparison or control group designs were required."
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Databases were searched from 1980 to summer 2005\n \n \n studies had to assess the result of treatment on child internalizing symptoms (e.g., depression, anxiety), externalizing (behavior problems), sexual behavior problems, or PTSD"
+        ],
+        "negative_ctxs": [
+            17,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Although randomization to treatment and control conditions was not necessary, single-group pretest, posttest designs were excluded, and (f) authors of studies had to provide the necessary statistical information to calculate effect sizes."
+        ],
+        "negative_ctxs": [
+            18,
+            25
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Databases were searched from 1980 to summer 2005 and included the following: CINAHL, Infotrac, Medline, Psychinfo, Social Sciences Index, and Social Work Research and Abstracts"
+        ],
+        "negative_ctxs": [
+            9,
+            21
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The National Clearinghouse of Abuse and Neglect and the four first authors of the primary parent-involved studies were also contacted for their knowledge of other studies meeting our criteria."
+        ],
+        "negative_ctxs": [
+            20,
+            14
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Search terms included child sexual abuse (e.g., victimization, molestation), treatment (e.g., therapy, intervention), and outcome (e.g., research, evaluation)."
+        ],
+        "negative_ctxs": [
+            20,
+            11
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Databases were searched from 1980 to summer 2005"
+        ],
+        "negative_ctxs": [
+            2,
+            22
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Studies were coded both by the principle investigator and a team of two trained master's in social work students, who were taking an advanced research course.\n \n \n Any discrepancies in coding were discussed to consensus."
+        ],
+        "negative_ctxs": [
+            8,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1: Treatment and design information on meta-analysis studies\n Description of treatment, sample, design, outcomes"
+        ],
+        "negative_ctxs": [
+            10,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1: Treatment and design information on meta-analysis studies\n Description of treatment, sample, design, outcomes \n \n \n Table 2: Methodological quality of studies \n Study ID, Randomization, Participant Blinding, Assessment Blinding, Attrition, Intention-to-treat analyses \n \n \n Table 3: Effect sizes for internalizing outcomes at posttest \n \n \n Table 4: Mean effect size and measure of heterogeneity for effect sizes \n \n \n Table 5: Effect sizes for externalizing outcomes\n \n \n Table 6: effect sizes for sexual behaviours outcomes \n \n \n Table 7: effect sizes for PTSD outcomes"
+        ],
+        "negative_ctxs": [
+            22,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Quality aspects of studies included the following: type of randomization method, the extent to which participant and assessment blinding occurred, the extent of attrition, and whether intention-to-treat analyses were conducted."
+        ],
+        "negative_ctxs": [
+            8,
+            16
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "When all studies were screened, seven outcome studies became the subject of this meta-analysis.\n \n \n Table 3: Effect sizes for internalizing outcomes at posttest \n \n \n Table 4: Mean effect size and measure of heterogeneity for effect sizes \n \n \n Table 5: Effect sizes for externalizing outcomes\n \n \n Table 6: effect sizes for sexual behaviours outcomes \n \n \n Table 7: effect sizes for PTSD outcomes"
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Table 1: Treatment and design information on meta-analysis studies\n Description of treatment, sample, design, outcomes \n \n \n In this study, the mean effect sizes were calculated under both assumptions separately. Under the fixed effect model, if the pooled variance estimate is large, greater than 0, the assumption that the only source of variation in true effect sizes is due to sampling error may not be appropriate. Thus, in meta-analysis, random effect models are used to explain heterogeneity among effect sizes beyond the variations related to fixed effects.\n \n \n The main purpose of the study was to conduct a meta-analysis to determine how parent-involved treatment of child sexual abuse victims affected child adjustment in terms of the following symptom areas when compared to another type of treatment or a control group:"
+        ],
+        "negative_ctxs": [
+            12,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Table 4: mean effect size and measure of heterogeneity for effect sizes \n Variable (timeframe), type, point estimate, 95% CI, probability, heterogeneity (Q value), df, probability"
+        ],
+        "negative_ctxs": [
+            9,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "When all studies were screened, seven out\u0002come studies became the subject of this meta-analysis. Because of the few number of studies, moderator analysis was precluded."
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "When all studies were screened, seven outcome studies became the subject of this meta-analysis. Because of the few number of studies, moderator analysis was precluded."
+        ],
+        "negative_ctxs": [
+            14,
+            19
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The main purpose of the study was to conduct a meta-analysis to determine how parent-involved treatment of child sexual abuse victims affected child adjustment in terms of the following symptom areas when compared to another type of treatment or a control group: internalizing symptoms, externalizing symptoms, sexualized behaviors, and/or PTSD.\n \n \n Inclusion criteria for the meta-analysis included the following: (a) Sexual abuse was the reason for treatment referral; (b) treatment was provided to children rather than adult survivors of sexual abuse; (c) parents had to be involved in the treatment, although the child's sexual abuse was a focus of the intervention; (d) studies had to assess the result of treatment on child internalizing symptoms (e.g., depression, anxiety), externalizing (behavior problems), sexual behavior problems, or PTSD; and (e) comparison or control group designs were required."
+        ],
+        "negative_ctxs": [
+            13,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": [
+            15,
+            16
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The main purpose of the study was to conduct a meta\u0002analysis to determine how parent-involved treatment of child sexual abuse victims affected child adjustment in terms of the following symptom areas when compared to another type of treatment or a control group: internalizing symptoms, externalizing symptoms, sexualized behaviors, and/or PTSD.\n \n \n Inclusion criteria for the meta-analysis included the following: (a) Sexual abuse was the reason for treatment referral; (b) treatment was provided to children rather than adult survivors of sexual abuse; (c) parents had to be involved in the treatment, although the child's sexual abuse was a focus of the intervention; (d) studies had to assess the result of treatment on child internalizing symptoms (e.g., depression, anxiety), externalizing (behavior problems), sexual behavior problems, or PTSD; and (e) comparison or control group designs were required."
+        ],
+        "negative_ctxs": [
+            6,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "studies had to assess the result of treatment on child internalizing symp\u0002toms (e.g., depression, anxiety), externalizing (behavior problems), sexual behavior problems, or PTSD; and (e) comparison or control group designs were required. Although randomization to treatment and control condi\u0002tions was not necessary, single-group pretest, posttest designs were excluded, and (f) authors of studies had to provide the necessary statistical information to calculate effect sizes."
+        ],
+        "negative_ctxs": [
+            0,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Databases were searched from 1980 to summer 2005 and included the following: CINAHL, Infotrac, Medline, Psychinfo, Social Sciences Index, and Social Work Research and Abstracts"
+        ],
+        "negative_ctxs": [
+            19,
+            18
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Studies were coded both by the principle investigator and a team of two trained master's in social work students, who were taking an advanced research course.\n \n \n Any discrepancies in coding were discussed to consensus."
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "For reasons for exclusion of particular studies, please contact the first author."
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1: Treatment and design information on meta-analysis studies\n Description of treatment, sample, design, outcomes"
+        ],
+        "negative_ctxs": [
+            22,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Quality aspects of studies included the following: type of randomization method, the extent to which participant and assessment blinding occurred, the extent of attrition, and whether intention-to-treat analyses were conducted."
+        ],
+        "negative_ctxs": [
+            4,
+            14
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Table 1: Treatment and design information on meta-analysis studies\n Description of treatment, sample, design, outcomes \n \n \n In this study, the mean effect sizes were calculated under both assumptions separately. Under the fixed effect model, if the pooled variance estimate is large, greater than 0, the assumption that the only source of variation in true effect sizes is due to sampling error may not be appropriate. Thus, in meta-analysis, random effect models are used to explain heterogeneity among effect sizes beyond the variations related to fixed effects.\n \n \n The main purpose of the study was to conduct a meta-analysis to determine how parent-involved treatment of child sexual abuse victims affected child adjustment in terms of the following symptom areas when compared to another type of treatment or a control group:"
+        ],
+        "negative_ctxs": [
+            24,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Table 4: mean effect size and measure of heterogeneity for effect sizes \n Variable (timeframe), type, point estimate, 95% CI, probability, heterogeneity (Q value), df, probability"
+        ],
+        "negative_ctxs": [
+            10,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "When all studies were screened, seven out\u0002come studies became the subject of this meta-analysis. Because of the few number of studies, moderator analysis was precluded."
+        ],
+        "negative_ctxs": [
+            6,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "When all studies were screened, seven outcome studies became the subject of this meta-analysis. Because of the few number of studies, moderator analysis was precluded."
+        ],
+        "negative_ctxs": [
+            14,
+            3
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding:\r\nNot stated"
+        ],
+        "negative_ctxs": [
+            12,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            17
+        ],
+        "positive_ctxs": []
+    }
+]

@@ -1,0 +1,448 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We evaluated the benefit/risk ratio of different\nanticoagulant regimens in the prevention of VTE in patients with AIS.\n\nwe performed a systematic review to\nassess the effectiveness of LMWH or UFH in\nreducing the rate of objectively diagnosed deepvein\nthrombosis (DVT), pulmonary embolism, without\nan excessive risk of intracranial hemorrhage in patients with acute ischemic stroke\n\nWe performed a search for randomized controlled\ntrials in which early treatment with either UFH or\nLMWH was compared with control in patients with\nacute ischemic stroke.\n\nWe included studies that met the following criteria:\n(1) Randomized controlled trials that included at\nleast one arm of the study with either LMWH or UFH\namong patients with acute ischemic stroke. Control\npatients were defined as patients that either\nreceived placebo or no treatment. Antiplatelet\ntreatment was allowed as long as the distribution\nof patients who used this treatment was not\ndifferent between the comparison groups. (2)\nRandomization within 14 days after the acute\nischemic event. (3) Objective diagnosis of venous\nthrombosis by 125I-fibrinogen scan, contrast venography,\nor venous ultrasound of the leg. (4) Pulmonary\nembolism reported either as primary or\nsecondary outcome. (5) Intracranial hemorrhage\nconfirmed by either CT or MRI scanning after\nclinical deterioration or at autopsy.\n\nThe primary outcome of this review was the\nincidence of adverse clinical outcome events\n(DVT, pulmonary embolism, or major intracranial\nor extracranial hemorrhage) which occurred during treatment and follow-up. Major intracranial\nbleeding was defined as acute or subacute events\nof neurological impairment, with hemorrhage\nproven by CT scan or autopsy. Major extracranial\nhemorrhage was defined as fatal bleeding or a\nbleeding requiring transfusion or hospitalization.\nDVT or pulmonary embolism had to be objectively\ndiagnosed."
+        ],
+        "negative_ctxs": [
+            21,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We included studies that met the following criteria:\n(1) Randomized controlled trials that included at\nleast one arm of the study with either LMWH or UFH\namong patients with acute ischemic stroke. Control\npatients were defined as patients that either\nreceived placebo or no treatment. Antiplatelet\ntreatment was allowed as long as the distribution\nof patients who used this treatment was not\ndifferent between the comparison groups. (2)\nRandomization within 14 days after the acute\nischemic event. (3) Objective diagnosis of venous\nthrombosis by 125I-fibrinogen scan, contrast venography,\nor venous ultrasound of the leg. (4) Pulmonary\nembolism reported either as primary or\nsecondary outcome. (5) Intracranial hemorrhage\nconfirmed by either CT or MRI scanning after\nclinical deterioration or at autopsy.\n\nWe evaluated the benefit/risk ratio of different\nanticoagulant regimens in the prevention of VTE in patients with AIS.\n\nwe performed a systematic review to\nassess the effectiveness of LMWH or UFH in\nreducing the rate of objectively diagnosed deepvein\nthrombosis (DVT), pulmonary embolism, without\nan excessive risk of intracranial hemorrhage in patients with acute ischemic stroke\n\nWe performed a search for randomized controlled\ntrials in which early treatment with either UFH or\nLMWH was compared with control in patients with\nacute ischemic stroke."
+        ],
+        "negative_ctxs": [
+            11,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched electronic databases\n(MEDLINE and EMBASE) and the Cochrane library for studies published up to January 2005. \n\nMeeting abstracts were scanned,"
+        ],
+        "negative_ctxs": [
+            15,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "the reference lists of the identified articles\nwere manually checked for additional publications"
+        ],
+        "negative_ctxs": [
+            12,
+            21
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Keywords were cerebrovascular disorders, stroke, venous thrombosis, thromboembolism, pulmonary embolism,\nintracranial bleeding, prophylaxis, heparin, low-molecular-weight heparin, and randomized controlled trial."
+        ],
+        "negative_ctxs": [
+            21,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Most trials excluded patients with a high risk of bleeding. In most of the trials prophylaxis\nwas started within 48 h after stroke onset. 20,238 patients received UFH and 2805 patients LMWH. Five studies assessed the effect of low-dose UFH [1,9--12], and 3 studies the effect of high-dose UFH [1,13,14] (Table 1). In two studies patients were\ntreated with intravenous UFH [13,14] and in the other six studies with subcutaneous UFH [1,9--12]. Six studies assessed the effect of low-dose LMWH\n[15--20], and five of high-dose LMWH [17,18,21-- 23]. Three trials used dalteparin, three nadroparin, two danaparoid and one a mesoglycan. In one study\nLMWH was given intravenously . One study used bodyweight-adjusted doses of LMWH . Three studies, FISS , FISS-bis , and IST ,\ninvestigated two different treatment doses. In the IST  we selected patients randomised to either heparin or control, including the patients that were\nallocated to aspirin, since aspirin use was the same in both arms.\n\n \nThe treatment period in the different trials varied considerably, from 7 to 30 days (Table 1). In only one study, treatment duration was longer than 14\ndays . Also follow-up was generally relatively short (Table 1), ranging from 14 days to 12 months. The IST, the by far largest included study had a\nduration of treatment of 14 days and a follow-up of 6 months.\n\nData on the concomitant use of aspirin were generally insufficiently provided. In most studies, like the IST, aspirin use was permitted, but exact numbers of patients using antiplatelet agents were lacking\n\nTable 1 Characteristics of the studies included in the overview"
+        ],
+        "negative_ctxs": [
+            4,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Figure 1 Odds ratio's for DVT (A) and pulmonary embolism (B) in controls and patients receiving low-dose and highdose\nanticoagulation after acute ischemic stroke.\n\nFigure 2 Odds ratio's for major intracranial hemorrhage (A) and extracranial hemorrhage (B) in controls and patients\nreceiving low-dose and high-dose anticoagulation after acute ischemic stroke.\n\nTable 1 Characteristics of the studies included in the overview"
+        ],
+        "negative_ctxs": [
+            7,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "We identified 681 potentially eligible articles. After\nscanning the abstracts and titles, we selected 26\narticles for more detailed evaluation, of which 16\ntrials fulfilled the predefined inclusion criteria\n(Table 1) [1,9--23]. Two of these trials were\npublished only as an abstract [18,22].\n\nEleven studies were included in the analysis of the\nefficacy of the different prophylactic regimens,\ninvolving 2484 patients. Eight studies systematically\nsought for asymptomatic and symptomatic DVT.\nSix studies investigated DVT by 125I-fibrinogen\nscanning [9--11,15,20,21], one by contrast venography\n, and one by Doppler-ultrasound .\nThree studies defined DVT as a secondary endpoint\nand diagnostic tests were only performed at clinical suspicion [17,22,23]. Four studies analyzed the\nefficacy of low-dose UFH, four studies investigated\nlow-dose LMWH or high-dose LMWH. There were no\ntrials that investigated the incidence of DVT with\nhigh-dose UFH.\n\nEleven studies including 22,386 patients provided\ndata on the incidence of pulmonary embolism. The\ndiagnostic method for confirmation of pulmonary\nembolism was seldom mentioned in the different\ntrials and, in all trials, it was merely a secondary outcome. The overall incidence of pulmonary embolism\nwas low, 0.6% in the treatment group and\n1.0% in the control patients (OR = 0.59, 95%\nCI=0.44--0.79). Two studies reported the efficacy\nof low-dose UFH or high-dose UFH. Six studies\ninvestigated low-dose LMWH and four studies highdose\nLMWH.\n\nFrom twelve studies data on symptomatic intracranial\nhemorrhage confirmed by CT scan or autopsy were available (22,471 patients). Four of the\ntwelve studies systematically repeated a CT scan,\nusually at the end of the treatment period [13,15--\n17]. Two studies reported the safety of low-dose\nUFH and three of high-dose UFH. For LMWH, six\nstudies investigated low dose and three studies high\ndose.\n\nTen trials from 21,547 patients reported data on\nmajor extracranial hemorrhage. \n\nFigure 1 Odds ratio's for DVT (A) and pulmonary embolism (B) in controls and patients receiving low-dose and highdose\nanticoagulation after acute ischemic stroke.\n\nFigure 2 Odds ratio's for major intracranial hemorrhage (A) and extracranial hemorrhage (B) in controls and patients\nreceiving low-dose and high-dose anticoagulation after acute ischemic stroke.\n\nTable 1 Characteristics of the studies included in the overview"
+        ],
+        "negative_ctxs": [
+            18,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Figure 1 Odds ratio's for DVT (A) and pulmonary embolism (B) in controls and patients receiving low-dose and highdose\nanticoagulation after acute ischemic stroke.\n\nFigure 2 Odds ratio's for major intracranial hemorrhage (A) and extracranial hemorrhage (B) in controls and patients\nreceiving low-dose and high-dose anticoagulation after acute ischemic stroke.\n\nTable 2 Relative risk of deep-vein thrombosis, pulmonary embolism, intracranial hemorrhage and extracranial\nhemorrhage associated with prophylaxis of low-dose or high-dose unfractionated heparin or low-molecular-weight\nheparin compared to no prophylaxis after acute ischemic stroke"
+        ],
+        "negative_ctxs": [
+            0,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Fig. 1A shows the odds ratio's of DVT for low dose and\nhigh dose of anticoagulant prophylaxis. There was\nsignificant heterogeneity between the different\nstudies (v2=31.2, p =0.001), probably caused by the\ndifferent diagnostic methods.\n\nThe overall incidence of pulmonary embolism\nwas low, 0.6% in the treatment group and\n1.0% in the control patients (OR = 0.59, 95%\nCI=0.44--0.79). Two studies reported the efficacy\nof low-dose UFH or high-dose UFH. Six studies\ninvestigated low-dose LMWH and four studies highdose\nLMWH. There was no statistical heterogeneity\nbetween the different studies.\n\nSensitivity analysis showed no significant\nheterogeneity between the results of the different\nstudies analyzing the incidence of ICH.\n\nTen trials from 21,547 patients reported data on\nmajor extracranial hemorrhage. There was statistical\nheterogeneity between the studies (v2=31.2,\np =0.001).\n\nFigure 1 Odds ratio's for DVT (A) and pulmonary embolism (B) in controls and patients receiving low-dose and highdose\nanticoagulation after acute ischemic stroke.\n\nFigure 2 Odds ratio's for major intracranial hemorrhage (A) and extracranial hemorrhage (B) in controls and patients\nreceiving low-dose and high-dose anticoagulation after acute ischemic stroke."
+        ],
+        "negative_ctxs": [
+            13,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "We evaluated the benefit/risk ratio of different\nanticoagulant regimens in the prevention of VTE in patients with AIS.\n\nwe performed a systematic review to\nassess the effectiveness of LMWH or UFH in\nreducing the rate of objectively diagnosed deepvein\nthrombosis (DVT), pulmonary embolism, without\nan excessive risk of intracranial hemorrhage in patients with acute ischemic stroke\n\nWe performed a search for randomized controlled\ntrials in which early treatment with either UFH or\nLMWH was compared with control in patients with\nacute ischemic stroke.\n\nWe included studies that met the following criteria:\n(1) Randomized controlled trials that included at\nleast one arm of the study with either LMWH or UFH\namong patients with acute ischemic stroke. Control\npatients were defined as patients that either\nreceived placebo or no treatment. Antiplatelet\ntreatment was allowed as long as the distribution\nof patients who used this treatment was not\ndifferent between the comparison groups. (2)\nRandomization within 14 days after the acute\nischemic event. (3) Objective diagnosis of venous\nthrombosis by 125I-fibrinogen scan, contrast venography,\nor venous ultrasound of the leg. (4) Pulmonary\nembolism reported either as primary or\nsecondary outcome. (5) Intracranial hemorrhage\nconfirmed by either CT or MRI scanning after\nclinical deterioration or at autopsy.\n\nThe primary outcome of this review was the\nincidence of adverse clinical outcome events\n(DVT, pulmonary embolism, or major intracranial\nor extracranial hemorrhage) which occurred during treatment and follow-up. Major intracranial\nbleeding was defined as acute or subacute events\nof neurological impairment, with hemorrhage\nproven by CT scan or autopsy. Major extracranial\nhemorrhage was defined as fatal bleeding or a\nbleeding requiring transfusion or hospitalization.\nDVT or pulmonary embolism had to be objectively\ndiagnosed."
+        ],
+        "negative_ctxs": [
+            15,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            5,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We included studies that met the following criteria:\n(1) Randomized controlled trials that included at\nleast one arm of the study with either LMWH or UFH\namong patients with acute ischemic stroke. Control\npatients were defined as patients that either\nreceived placebo or no treatment. Antiplatelet\ntreatment was allowed as long as the distribution\nof patients who used this treatment was not\ndifferent between the comparison groups. (2)\nRandomization within 14 days after the acute\nischemic event. (3) Objective diagnosis of venous\nthrombosis by 125I-fibrinogen scan, contrast venography,\nor venous ultrasound of the leg. (4) Pulmonary\nembolism reported either as primary or\nsecondary outcome. (5) Intracranial hemorrhage\nconfirmed by either CT or MRI scanning after\nclinical deterioration or at autopsy.\n\nWe evaluated the benefit/risk ratio of different\nanticoagulant regimens in the prevention of VTE in patients with AIS.\n\nwe performed a systematic review to\nassess the effectiveness of LMWH or UFH in\nreducing the rate of objectively diagnosed deepvein\nthrombosis (DVT), pulmonary embolism, without\nan excessive risk of intracranial hemorrhage in patients with acute ischemic stroke\n\nWe performed a search for randomized controlled\ntrials in which early treatment with either UFH or\nLMWH was compared with control in patients with\nacute ischemic stroke."
+        ],
+        "negative_ctxs": [
+            15,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched electronic databases\n(MEDLINE and EMBASE) and the Cochrane library for studies published up to January 2005. \n\nMeeting abstracts were scanned,"
+        ],
+        "negative_ctxs": [
+            13,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Most trials excluded patients with a high risk of bleeding. In most of the trials prophylaxis\nwas started within 48 h after stroke onset. 20,238 patients received UFH and 2805 patients LMWH. Five studies assessed the effect of low-dose UFH [1,9--12], and 3 studies the effect of high-dose UFH [1,13,14] (Table 1). In two studies patients were\ntreated with intravenous UFH [13,14] and in the other six studies with subcutaneous UFH [1,9--12]. Six studies assessed the effect of low-dose LMWH\n[15--20], and five of high-dose LMWH [17,18,21-- 23]. Three trials used dalteparin, three nadroparin, two danaparoid and one a mesoglycan. In one study\nLMWH was given intravenously . One study used bodyweight-adjusted doses of LMWH . Three studies, FISS , FISS-bis , and IST ,\ninvestigated two different treatment doses. In the IST  we selected patients randomised to either heparin or control, including the patients that were\nallocated to aspirin, since aspirin use was the same in both arms.\n\n \nThe treatment period in the different trials varied considerably, from 7 to 30 days (Table 1). In only one study, treatment duration was longer than 14\ndays . Also follow-up was generally relatively short (Table 1), ranging from 14 days to 12 months. The IST, the by far largest included study had a\nduration of treatment of 14 days and a follow-up of 6 months.\n\nData on the concomitant use of aspirin were generally insufficiently provided. In most studies, like the IST, aspirin use was permitted, but exact numbers of patients using antiplatelet agents were lacking\n\nTable 1 Characteristics of the studies included in the overview"
+        ],
+        "negative_ctxs": [
+            13,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Figure 1 Odds ratio's for DVT (A) and pulmonary embolism (B) in controls and patients receiving low-dose and highdose\nanticoagulation after acute ischemic stroke.\n\nFigure 2 Odds ratio's for major intracranial hemorrhage (A) and extracranial hemorrhage (B) in controls and patients\nreceiving low-dose and high-dose anticoagulation after acute ischemic stroke.\n\nTable 2 Relative risk of deep-vein thrombosis, pulmonary embolism, intracranial hemorrhage and extracranial\nhemorrhage associated with prophylaxis of low-dose or high-dose unfractionated heparin or low-molecular-weight\nheparin compared to no prophylaxis after acute ischemic stroke"
+        ],
+        "negative_ctxs": [
+            6,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Fig. 1A shows the odds ratio's of DVT for low dose and\nhigh dose of anticoagulant prophylaxis. There was\nsignificant heterogeneity between the different\nstudies (v2=31.2, p =0.001), probably caused by the\ndifferent diagnostic methods.\n\nThe overall incidence of pulmonary embolism\nwas low, 0.6% in the treatment group and\n1.0% in the control patients (OR = 0.59, 95%\nCI=0.44--0.79). Two studies reported the efficacy\nof low-dose UFH or high-dose UFH. Six studies\ninvestigated low-dose LMWH and four studies highdose\nLMWH. There was no statistical heterogeneity\nbetween the different studies.\n\nSensitivity analysis showed no significant\nheterogeneity between the results of the different\nstudies analyzing the incidence of ICH.\n\nTen trials from 21,547 patients reported data on\nmajor extracranial hemorrhage. There was statistical\nheterogeneity between the studies (v2=31.2,\np =0.001).\n\nFigure 1 Odds ratio's for DVT (A) and pulmonary embolism (B) in controls and patients receiving low-dose and highdose\nanticoagulation after acute ischemic stroke.\n\nFigure 2 Odds ratio's for major intracranial hemorrhage (A) and extracranial hemorrhage (B) in controls and patients\nreceiving low-dose and high-dose anticoagulation after acute ischemic stroke."
+        ],
+        "negative_ctxs": [
+            20,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Pieter W. Kamphuisen was financially supported by an unrestricted grant from the Niels Stensen Foundation, The Netherlands."
+        ],
+        "negative_ctxs": [
+            19,
+            17
+        ],
+        "positive_ctxs": [
+            21
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            1
+        ],
+        "positive_ctxs": []
+    }
+]

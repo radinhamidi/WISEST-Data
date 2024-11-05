@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "2.2. Selection Criteria. Type of Study. Full-text randomized controlled trials (RCTs) investigating the use of TGP for pSS in China and other countries were included, regardless of blinding, or types and languages of publication. Subjects. Study population included patients with pSS, regardless of sex, age, or ethnicity. A diagnosis of pSS was in line with the international classification of pSS in 2002. Interventions. Patients in the experimental group received oral TGP in combination with immunosuppressant (IS) treatment. In the control group, patients were treated with IS alone. 2.3. Outcome Measures. Outcome measures included the percentage of patients with improved clinical symptoms, experimental results (Schirmer test, saliva flow test), inflammatory markers such as C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR), immunoglobulin (IgG, IgM, and IgA), and adverse reactions."
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "2.2. Selection Criteria. Type of Study. Full-text randomized controlled trials (RCTs) investigating the use of TGP for pSS in China and other countries were included, regardless of blinding, or types and languages of publication. Subjects. Study population included patients with pSS, regardless of sex, age, or ethnicity. A diagnosis of pSS was in line with the international classification of pSS in 2002 . Interventions. Patients in the experimental group received oral TGP in combination with immunosuppressant (IS) treatment. In the control group, patients were treated with IS alone. 2.3. Outcome Measures. Outcome measures included the percentage of patients with improved clinical symptoms, experimental results (Schirmer test, saliva flow test), inflammatory markers such as C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR), immunoglobulin (IgG, IgM, and IgA), and adverse reactions."
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "For the English databases, subject headings and text-word searches were used, and the search details included \"primary Sjogren's Syndrome\", \"pSS\", \"total glucosides of paeony\", \"TGP\", \"randomized controlled trial\", and \"RCT\" and their synonyms. For the Chinese-language searches in the CNKI, VIP, and WanFang Databases, the same search strategy and search terms were used."
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The following databases were searched from their inception to July 2016: PubMed, Cochrane Central Register of Controlled Trials, Cochrane Database of Systematic Reviews, ISI Web of Knowledge, Chinese Biomedical Database, Chinese National Knowledge Infrastructure (CNKI), WanFang Database, and the Chongqing VIP Information Database (VIP)."
+        ],
+        "negative_ctxs": [
+            5,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "For the English databases, subject headings and text-word searches were used, and the search details included \"primary Sjogren's Syndrome\", \"pSS\", \"total \" glucosides of paeony\", \"TGP\", \"randomized controlled trial\", and \"RCT\" and their synonyms. For the Chinese-language searches in the CNKI, VIP, and WanFang Databases, the same search strategy and search terms were used."
+        ],
+        "negative_ctxs": [
+            15,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "For the English databases, subject headings and text-word searches were used, and the search details included \"primary Sjogren's Syndrome\", \"pSS\", \"total glucosides of paeony\", \"TGP\", \"randomized controlled trial\", and \"RCT\" and their synonyms. For the Chinese-language searches in the CNKI, VIP, and WanFang Databases, the same search strategy and search terms were used."
+        ],
+        "negative_ctxs": [
+            1,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two reviewers (L. Jin and C. Y. Li) screened all titles and abstracts of the studies independently"
+        ],
+        "negative_ctxs": [
+            10,
+            8
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data were extracted from all included studies using a standardized extraction form especially created for this meta-analysis. The form contained information on the participants, the methodological aspects of the study, interventions, and measured outcomes. Disagreements were resolved by discussion and by consultationwith other authors, and a judgment was made based on consensus. Finally, these forms were merged into a single extraction form."
+        ],
+        "negative_ctxs": [
+            18,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Figure 3: Forest plot of studies comparing total glucosides of paeony-immunisuppressant (TGP-IS) group and the immunosuppressant (IS) group, examining the effect on primary Sjogren's syndrome (including Schirmer test, saliva flow test, ESR, and CRP). (a) Schirmer test. (b) Saliva flow test. (c) ESR. (d) CRP. Note. total glucosides of paeony-immunisuppressant (TGP-IS) group: the group treated with total glucosides of paeony in combination with an immunosuppressant. immunosuppressant (IS) group: the group which received an immunosuppressant alone.\n\nFigure 4: Forest plot of studies comparing total glucosides of paeony-immunisuppressant (TGP-IS) group and the immunosuppressant (IS) group, examining the effect on primary Sjogren's syndrome (including IgA, IgG, IgM, and adverse reaction). (a) IgA. (b) IgG. (c) IgM. (d) Adverse reaction.\n"
+        ],
+        "negative_ctxs": [
+            13,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The study quality was evaluated as suggested in the Cochrane Handbook in terms of randomization , allocation concealment, blinding, completeness of data, and selective reporting, which were employed to evaluate the quality of the RCTs. \"Reported\"; \"unclear\"; or \"not reported\" were used to determine the standards mentioned above."
+        ],
+        "negative_ctxs": [
+            17,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Table 1. Characteristics of studies\n\nFigure 3: Forest plot of studies comparing total glucosides of paeony-immunisuppressant (TGP-IS) group and the immunosuppressant (IS) group, examining the effect on primary Sjogren's syndrome (including Schirmer test, saliva flow test, ESR, and CRP). (a) Schirmer test. (b) Saliva flow test. (c) ESR. (d) CRP. Note. total glucosides of paeony-immunisuppressant (TGP-IS) group: the group treated with total glucosides of paeony in combination with an immunosuppressant. immunosuppressant (IS) group: the group which received an immunosuppressant alone.\n\n"
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Available data of sufficient quality and similarity were used for a metaanalysis. Dichotomous data were expressed as relative risks (OR). Continuous data were expressed as weighted mean differences (WMD). A fixed-effect or random-effect model was used according to the heterogeneity. Heterogeneity was tested using the Z score and the Chi-square statistics with significance set at P < 0.1. The fixed-effect model was used to combine dichotomous data if the data were homogeneous. Conversely, the random-effect model was used otherwise."
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The study quality was evaluated as suggested in the Cochrane Handbook in terms of randomization , allocation concealment, blinding, completeness of data, and selective reporting, which were employed to evaluate the quality of the randomized controlled trials (RCTs). \"Reported\"; \"unclear\"; or \"not reported\" were used to determine the standards mentioned above.\n\nFigure 2: Risk of bias assessment results. (a) Risk of bias graph: review of authors' judgments about each risk of bias item presented as percentages across all included studies. (b) Risk of bias summary: review of authors' judgments about each risk of bias item for each included study. Note. \"?\": unclear, \"+\": reported, and \"-\": not reported.\n\nHowever, due to the low quality of included studies and the high risk of bias, further well-designed multicenter and large-scale randomized controlled trials (RCTs) are still needed to confirm the beneficial effects of total glucosides of paeony (TGP)."
+        ],
+        "negative_ctxs": [
+            13,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The study quality was evaluated as suggested in the Cochrane Handbook in terms of randomization , allocation concealment, blinding, completeness of data, and \nselective reporting, which were employed to evaluate the quality of the randomized controlled trials (RCTs). \"Reported\"; \"unclear\"; or \"not reported\" were used to determine the standards mentioned above.\n\nFigure 2: Risk of bias assessment results. (a) Risk of bias graph: review of authors' judgments about each risk of bias item presented as percentages across all included studies. (b) Risk of bias summary: review of authors' judgments about each risk of bias item for each included study. Note. \"?\": unclear, \"+\": reported, and \"-\": not reported.\n\nHowever, due to the low quality of included studies and the high risk of bias, further well-designed multicenter and large-scale randomized controlled trials (RCTs) are still needed to confirm the beneficial effects of total glucosides of paeony (TGP)."
+        ],
+        "negative_ctxs": [
+            1,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "2.2. Selection Criteria. Type of Study. Full-text randomized controlled trials (RCTs) investigating the use of TGP for pSS in China and other countries were included, regardless of blinding, or types and languages of publication. Subjects. Study population included patients with pSS, regardless of sex, age, or ethnicity. A diagnosis of pSS was in line with the international classification of pSS in 2002 . Interventions. Patients in the experimental group received oral TGP in combination with immunosuppressant (IS) treatment. In the control group, patients were treated with IS alone. 2.3. Outcome Measures. Outcome measures included the percentage of patients with improved clinical symptoms, experimental results (Schirmer test, saliva flow test), inflammatory markers such as C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR), immunoglobulin (IgG, IgM, and IgA), and adverse reactions."
+        ],
+        "negative_ctxs": [
+            6,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            10,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "2.2. Selection Criteria. Type of Study. Full-text randomized controlled trials (RCTs) investigating the use of TGP for pSS in China and other countries were included, regardless of blinding, or types and languages of publication. Subjects. Study population included patients with pSS, regardless of sex, age, or ethnicity. A diagnosis of pSS was in line with the international classification of pSS in 2002 . Interventions. Patients in the experimental group received oral TGP in combination with immunosuppressant (IS) treatment. In the control group, patients were treated with IS alone. 2.3. Outcome Measures. Outcome measures included the percentage of patients with improved clinical symptoms, experimental results (Schirmer test, saliva flow test), inflammatory markers such as C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR), immunoglobulin (IgG, IgM, and IgA), and adverse reactions."
+        ],
+        "negative_ctxs": [
+            4,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The following databases were searched from their inception to July 2016: PubMed, Cochrane Central Register of Controlled Trials, Cochrane Database of Systematic Reviews, ISI Web of Knowledge, Chinese Biomedical Database, Chinese National Knowledge Infrastructure (CNKI), WanFang Database, and the Chongqing VIP Information Database (VIP)."
+        ],
+        "negative_ctxs": [
+            18,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two reviewers (L. Jin and C. Y. Li) screened all titles and abstracts of the studies independently"
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data were extracted from all included studies using a standardized extraction form especially created for this meta-analysis. The form contained information on the participants, the methodological aspects of the study, interventions, and measured outcomes. Disagreements were resolved by discussion and by consultationwith other authors, and a judgment was made based on consensus. Finally, these forms were merged into a single extraction form."
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The study quality was evaluated as suggested in the Cochrane Handbook in terms of randomization , allocation concealment, blinding, completeness of data, and selective reporting, which were employed to evaluate the quality of the RCTs. \"Reported\"; \"unclear\"; or \"not reported\" were used to determine the standards mentioned above."
+        ],
+        "negative_ctxs": [
+            0,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Available data of sufficient quality and similarity were used for a metaanalysis. Dichotomous data were expressed as relative risks (OR). Continuous data were expressed as weighted mean differences (WMD). A fixed-effect or random-effect model was used according to the heterogeneity. Heterogeneity was tested using the Z score and the Chi-square statistics with significance set at P < 0.1. The fixed-effect model was used to combine dichotomous data if the data were homogeneous. Conversely, the random-effect model was used otherwise."
+        ],
+        "negative_ctxs": [
+            12,
+            11
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The study quality was evaluated as suggested in the Cochrane Handbook in terms of randomization , allocation concealment, blinding, completeness of data, and selective reporting, which were employed to evaluate the quality of the randomized controlled trials (RCTs). \"Reported\"; \"unclear\"; or \"not reported\" were used to determine the standards mentioned above.\n\nFigure 2: Risk of bias assessment results. (a) Risk of bias graph: review of authors' judgments about each risk of bias item presented as percentages across all included studies. (b) Risk of bias summary: review of authors' judgments about each risk of bias item for each included study. Note. \"?\": unclear, \"+\": reported, and \"-\": not reported.\n\nHowever, due to the low quality of included studies and the high risk of bias, further well-designed multicenter and large-scale randomized controlled trials (RCTs) are still needed to confirm the beneficial effects of total glucosides of paeony (TGP)."
+        ],
+        "negative_ctxs": [
+            11,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "All authors declare they have no conflicts of interest.\n\nThis study was financially supported by grants from the National Natural Science Foundation of China (Grant no. 81673724), the TCM Department of Chongqing Municipal Health and Family Planning commission (Grant no. 2012-1-6), and Chongqing Science and Technology Commission (Grant nos. cstc2015jbky330025011 and\ncstc2015shmszx120105)."
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The study quality was evaluated as suggested in the Cochrane Handbook in terms of randomization , allocation concealment, blinding, completeness of data, and \nselective reporting, which were employed to evaluate the quality of the randomized controlled trials (RCTs). \"Reported\"; \"unclear\"; or \"not reported\" were used to determine the standards mentioned above.\n\nFigure 2: Risk of bias assessment results. (a) Risk of bias graph: review of authors' judgments about each risk of bias item presented as percentages across all included studies. (b) Risk of bias summary: review of authors' judgments about each risk of bias item for each included study. Note. \"?\": unclear, \"+\": reported, and \"-\": not reported.\n\nHowever, due to the low quality of included studies and the high risk of bias, further well-designed multicenter and large-scale randomized controlled trials (RCTs) are still needed to confirm the beneficial effects of total glucosides of paeony (TGP)."
+        ],
+        "negative_ctxs": [
+            13,
+            11
+        ],
+        "positive_ctxs": []
+    }
+]

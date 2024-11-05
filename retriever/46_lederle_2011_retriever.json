@@ -1,0 +1,481 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "We developed and followed a standard protocol for all steps of the review process."
+        ],
+        "negative_ctxs": [
+            42,
+            31
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "trials that studied treatments commonly recommended and used to prevent VTE, such as subcutaneous low-dose UFH (<20 000 U/d) or similar prophylactic dosages of LMWH or related agents (such as fondaparinux) or graduated compression stockings or other mechanical measures (such as intermittent pneumatic compression)."
+        ],
+        "negative_ctxs": [
+            52,
+            39
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "trials that studied treatments commonly recommended and used to prevent VTE, such as subcutaneous low-dose UFH (<20 000 U/d) or similar prophylactic dosages of LMWH or related agents (such as fondaparinux) or graduated compression stockings or other mechanical measures (such as intermittent pneumatic compression).\nStudies were limited to those that provided separate data for hospitalized medical patients or those with stroke (excluding surgical, trauma, obstetric, or pediatric patients) in acute or intermediate care facilities."
+        ],
+        "negative_ctxs": [
+            32,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Quasi-randomized trials were excluded, as were trials in which patients were routinely treated with another anticoagulant (such as warfarin or drotrecogin alfa) or thrombolytic agent. Studies of heparin (but not mechanical) prophylaxis that were done specifically in patients with acute myocardial infarction were also excluded"
+        ],
+        "negative_ctxs": [
+            0,
+            55
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We included randomized, English-language trials\nNon-English-language studies were not included, but these were few and small."
+        ],
+        "negative_ctxs": [
+            21,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched MEDLINE from 1950 through April 2011\nSimilar terms were used to search the Cochrane Library for clinical trials of VTE prophylaxis.\nreference lists of pertinent randomized trials and systematic reviews were used to identify additional reports. "
+        ],
+        "negative_ctxs": [
+            38,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "reference lists of pertinent randomized trials and systematic reviews were used to identify additional reports. \nWhen necessary, additional information was requested from the original authors.\nAcknowledgment: The authors thank Indy Rutks and James Tacklind for their assistance in the literature search."
+        ],
+        "negative_ctxs": [
+            23,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "for articles listed in all 3 of the following Medical Subject Heading groupings: pulmonary embolism, thromboembolism, thrombosis, thrombophlebitis, venous thromboem\u0002bolism, venous thrombosis, or thromboembolism as keywords; primary prevention, prevent as a keyword, or subheading \"prevention and control\"; and publication type (randomized, controlled trial; controlled clinical trial; phase 3 or 4 clinical trial; or meta-analysis [used to identify additional trials])."
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We searched MEDLINE from 1950 through April 2011\nNon-English-language studies were not included"
+        ],
+        "negative_ctxs": [
+            31,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            43,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two reviewers extracted the data. Discrepancies were infrequent and were resolved through discussion with all authors."
+        ],
+        "negative_ctxs": [
+            6,
+            16
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Two independent investigators extracted data on study characteristics and clinical outcomes up to 120 days after randomization.\nOur primary outcome was total mortality up to 120 days after randomization. Secondary outcomes (all to 120 days) included symptomatic DVT; all pulmonary embolism (PE); fatal PE; all bleeding events; major bleeding events; and, for mechanical prophylaxis, skin damage. We chose 120 days to include most events likely to be related to both the intervention and any rebound effect after its discontinuation (12) without excessive dilution by unre\u0002lated later events.\n"
+        ],
+        "negative_ctxs": [
+            20,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Appendix Table 1 shows the characteristics of these studies."
+        ],
+        "negative_ctxs": [
+            22,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Study quality was assessed on the basis of the adequacy of allocation concealment (15), blinding methods (patient, investigator, or outcome assessor), intention-to-treat analysis, adequate details of study withdrawals and dropouts, and source of funding. The overall strength of evidence for the randomized trials was evaluated by using methods developed by the Agency for Healthcare Research and Quality and the Effective Health Care Program (16).\nAppendix Figure 2. Risk-for-bias graphs for trials of heparin prophylaxis versus no heparin, low-molecular-weight versus unfractionated heparin prophylaxis, and mechanical versus no mechanical prophylaxis.\nAppendix Table 2. Strength-of-Evidence Table for Clinical Outcomes"
+        ],
+        "negative_ctxs": [
+            30,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "40 unique randomized trials that met our inclusion criteria, involving more than 52 000 patients, were ultimately identified."
+        ],
+        "negative_ctxs": [
+            8,
+            22
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Peto odds ratios (ORs) were used except when event rates exceeded 1% (for mortality, all bleeding events, and skin damage), in which case risk ratios (RRs) from random-effects models were used"
+        ],
+        "negative_ctxs": [
+            41,
+            31
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Heterogeneity between studies was assessed by using chi-square and I2 tests, with a P value less than 0.100 and an I2 value greater than 50% considered high (17).\nStatistical heterogeneity among studies was not high for any outcome except \"PE associated with death\" in studies of heparin versus no heparin in patients with stroke, a comparison of only 2 studies."
+        ],
+        "negative_ctxs": [
+            46,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "We examined funnel plots and performed Egger intercept tests (20) to assess for publication bias.\nA funnel plot of all trials of heparin versus no heparin in all nonsurgical patients showed asymmetry (Egger intercept 2-sided P = 0.018) consistent with a publication bias against small studies that showed no reduction in the incidence of PE. No asymmetry was seen for trials that compared LMWH with UFH. "
+        ],
+        "negative_ctxs": [
+            41,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Appendix Table 2 (available at www.annals.org) summarizes our findings, including our assessment of the strength of evidence.\nAppendix Figure 2. Risk-for-bias graphs for trials of heparin prophylaxis versus no heparin, low-molecular-weight versus unfractionated heparin prophylaxis, and mechanical versus no mechanical prophylaxis."
+        ],
+        "negative_ctxs": [
+            13,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Limitation: Non-English-language studies were not included, but these were few and small."
+        ],
+        "negative_ctxs": [
+            26,
+            50
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "We included randomized, English-language trials that studied treatments commonly recommended and used to prevent VTE, such as subcutaneous low-dose UFH (<20 000 U/d) or similar prophylactic dosages of LMWH or related agents (such as fondaparinux) or graduated compression stockings or other mechanical measures (such as intermittent pneumatic compression). Eligible comparators included placebo, no treatment, or other active prophylaxis"
+        ],
+        "negative_ctxs": [
+            3,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            55,
+            15
+        ],
+        "positive_ctxs": [
+            31,
+            32,
+            34,
+            35,
+            36,
+            37,
+            38,
+            40,
+            42,
+            44,
+            45,
+            47,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "We developed and followed a standard protocol for all steps of the review process."
+        ],
+        "negative_ctxs": [
+            1,
+            41
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "trials that studied treatments commonly recommended and used to prevent VTE, such as subcutaneous low-dose UFH (<20 000 U/d) or similar prophylactic dosages of LMWH or related agents (such as fondaparinux) or graduated compression stockings or other mechanical measures (such as intermittent pneumatic compression).\nStudies were limited to those that provided separate data for hospitalized medical patients or those with stroke (excluding surgical, trauma, obstetric, or pediatric patients) in acute or intermediate care facilities."
+        ],
+        "negative_ctxs": [
+            25,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "The analyses of heparin trials were limited to only double-blinded studies to evaluate the importance of subjectivity in the ascertainment of outcomes other than death.\n\nFor studies of stroke, we followed the practice of most of the original authors and included hemorrhagic transformations of stroke as \"bleeding\" and, if symptomatic, as \"major bleeding.\" When possible, we included all events after randomization according to intention to treat, even if the original authors had excluded them."
+        ],
+        "negative_ctxs": [
+            11,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched MEDLINE from 1950 through April 2011\nSimilar terms were used to search the Cochrane Library for clinical trials of VTE prophylaxis.\nreference lists of pertinent randomized trials and systematic reviews were used to identify additional reports. "
+        ],
+        "negative_ctxs": [
+            46,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            43
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two reviewers extracted the data. Discrepancies were infrequent and were resolved through discussion with all authors."
+        ],
+        "negative_ctxs": [
+            40,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Quasi-randomized trials were excluded, as were trials in which patients were\nroutinely treated with another anticoagulant (such as warfarin or drotrecogin alfa) or thrombolytic agent.\n\nWe excluded surrogate outcomes, such as asymptomatic DVT or thrombocytopenia (a very rarely reported\nfinding) detected by routine testing of study patients, as well as diagnoses of VTE that were based only on history and physical examination without confirmatory testing.\n\nIn 2 studies that compared patients receiving low- or high-dose heparin with control participants (41, 42), the high-dose group was excluded because it exceeded our threshold for prophylactic dosing.\n\nAppendix Figure 1. Summary of evidence search and selection."
+        ],
+        "negative_ctxs": [
+            42,
+            46
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Two independent investigators extracted data on study characteristics and clinical outcomes up to 120 days after randomization.\nOur primary outcome was total mortality up to 120 days after randomization. Secondary outcomes (all to 120 days) included symptomatic DVT; all pulmonary embolism (PE); fatal PE; all bleeding events; major bleeding events; and, for mechanical prophylaxis, skin damage. We chose 120 days to include most events likely to be related to both the intervention and any rebound effect after its discontinuation (12) without excessive dilution by unre\u0002lated later events.\n"
+        ],
+        "negative_ctxs": [
+            28,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Study quality was assessed on the basis of the adequacy of allocation concealment (15), blinding methods (patient, investigator, or outcome assessor), intention-to-treat analysis, adequate details of study withdrawals and dropouts, and source of funding. The overall strength of evidence for the randomized trials was evaluated by using methods developed by the Agency for Healthcare Research and Quality and the Effective Health Care Program (16).\nAppendix Figure 2. Risk-for-bias graphs for trials of heparin prophylaxis versus no heparin, low-molecular-weight versus unfractionated heparin prophylaxis, and mechanical versus no mechanical prophylaxis.\nAppendix Table 2. Strength-of-Evidence Table for Clinical Outcomes"
+        ],
+        "negative_ctxs": [
+            32,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Peto odds ratios (ORs) were used except when event rates exceeded 1% (for mortality, all bleeding events, and skin damage), in which case risk ratios (RRs) from random-effects models were used"
+        ],
+        "negative_ctxs": [
+            7,
+            45
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Heterogeneity between studies was assessed by using chi-square and I2 tests, with a P value less than 0.100 and an I2 value greater than 50% considered high (17).\nStatistical heterogeneity among studies was not high for any outcome except \"PE associated with death\" in studies of heparin versus no heparin in patients with stroke, a comparison of only 2 studies."
+        ],
+        "negative_ctxs": [
+            40,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "We examined funnel plots and performed Egger intercept tests (20) to assess for publication bias.\nA funnel plot of all trials of heparin versus no heparin in all nonsurgical patients showed asymmetry (Egger intercept 2-sided P = 0.018) consistent with a publication bias against small studies that showed no reduction in the incidence of PE. No asymmetry was seen for trials that compared LMWH with UFH. "
+        ],
+        "negative_ctxs": [
+            12,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Appendix Table 2 (available at www.annals.org) summarizes our findings, including our assessment of the strength of evidence.\nAppendix Figure 2. Risk-for-bias graphs for trials of heparin prophylaxis versus no heparin, low-molecular-weight versus unfractionated heparin prophylaxis, and mechanical versus no mechanical prophylaxis."
+        ],
+        "negative_ctxs": [
+            28,
+            39
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "39% reported nonindustry funding\n1 reported funding by a nonindustry source."
+        ],
+        "negative_ctxs": [
+            47,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Primary Funding Source: American College of Physicians.\nGrant Support: By the American College of Physicians."
+        ],
+        "negative_ctxs": [
+            9,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Limitation: Non-English-language studies were not included, but these were few and small."
+        ],
+        "negative_ctxs": [
+            26,
+            9
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    }
+]

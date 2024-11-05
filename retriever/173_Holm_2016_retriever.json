@@ -1,0 +1,465 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Patients with Atropic Dematitis\n\nOmalizumab "
+        ],
+        "negative_ctxs": [
+            9,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Patients with Atropic Dematitis\n\nOmalizumab 300mg subcutaneously every 4 weeks\n\nResponse as measured by the physician's assessment as well as the change in the patient's symptomatic complaints reported in each patient file representing three grades: grade 1, failure of treatment; grade 2, moderate improvement; and grade 3,successful treatment."
+        ],
+        "negative_ctxs": [
+            19,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The response to treatment in our patients was compared to reports from the existing literature retrieved from PubMed, Web of Science, EMBASE, and ClinicalTrials.gov"
+        ],
+        "negative_ctxs": [
+            13,
+            10
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Cross-references were retrieved, but this did not identify additional studies."
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "using the search terms: \"eczema,\" \"dermatitis,\" \"atopic,\" \"omalizumab,\" and \"anti-IgE.\""
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Studies published by August 2015 were included."
+        ],
+        "negative_ctxs": [
+            11,
+            3
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 2 Reviewed cases"
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 2 Reviewed cases"
+        ],
+        "negative_ctxs": [
+            2,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Our literature search identified 26 studies (five case stud-ies, 18 case series, one prospective single-center investiga-tion,  and  two  randomized,  double-blinded,  placebo-controlled pilot studies) comprising 185 (results reportedon 174) patients, with a median of four, ranging from 1to 21 patients exploring omalizumab treatment for recal-citrant AD. A total of 129 (74.1%) patients experienced a beneficial effect of treatment ranging from little to com-plete  response  (Table 2).8,10,12-28Forty-five  patients(25.9%) from seven different studies reported no or nega-tive effect off omalizumab treatment.9,29-32Ongoing tri-als (ClinicalTrials.gov) exploring the use of omalizumabin the treatment of AD are being conducted.33We identi-fied seven trials with two currently posting results (notincluded)\n\nTable 2 Reviewed cases"
+        ],
+        "negative_ctxs": [
+            16,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Our literature search identified 26 studies (five case stud-ies, 18 case series, one prospective single-center investiga-tion,  and  two  randomized,  double-blinded,  placebo-controlled pilot studies) "
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Our literature search identified 26 studies (five case stud-ies, 18 case series, one prospective single-center investiga-tion,  and  two  randomized,  double-blinded,  placebo-controlled pilot studies) comprising 185 (results reportedon 174) patients, with a median of four, ranging from 1to 21 patients exploring omalizumab treatment for recal-citrant AD.\n\nTable 2 Reviewed cases\n\nOur results agree with Amrol,21reporting variation inthe clinical improvement between patients. This differencein effect may reflect the clinical heterogeneity of AD.Notably the best effect was seen among the youngestpatients, suggesting a contribution of the treatment to thenatural outgrowing of AD.21As seen in the case serieswith the lowest mean age8,19,21,26(<20 years), whichreports good or excellent clinical effect on all but onepatient, who still showed mild improvement. The inter-pretation of improvement as an effect of treatment shouldaccommodate the fact that most patients with AD (75%)have a spontaneous remission of disease before adoles-cence.4It is therefore impossible to determine whether he effects reported are a combination of the two, orsolely due to the natural history of AD"
+        ],
+        "negative_ctxs": [
+            2,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Furthermore, we systematically review the existing literature identifying studies of AD treated with omalizumab\n\nTable 2 Reviewed cases\n\nIn the reports reviewed, eight different baseline treat-ment regimens were identified, with the initial dosageranging  from  150 mg/2 weeks  (Quistet al.29every4 weeks)8,13,14,18,23,29-32to 600 mg/2 weeks,15and withdifferent strategies for increasing dosage throughout treat-ment8,14,29,30(see comments in Table 2). The averageduration of treatment was 8.1 months, ranging from 3 to29.2 months, with two studies far exceeding averagetreatment duration.25,26The regimen 150 mg/2 weeks (or300 mg/4 weeks) was used in eight studies and herebythe most widely used. One study increased dosage untilan improvement in dermatological status was seen, with amaximum of 450 mg/2 weeks.23Yet another followedthe guidelines for treatment of asthma and dosed afterbodyweight and IgE level (0.016 mg/kg/IU).17Some stud-ies treated with lower than recommended dose andreported clinical benefit from treatment.8,31Of the fivestudies reporting negative or uncertain positive effects,four were of minimal starting dose,29-32while Krathenand Hsu9were at 450 mg/2 weeks"
+        ],
+        "negative_ctxs": [
+            3,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            15,
+            18
+        ],
+        "positive_ctxs": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Patients with Atropic Dematitis\n\nOmalizumab 300mg subcutaneously every 4 weeks\n\nResponse as measured by the physician's assessment as well as the change in the patient's symptomatic complaints reported in each patient file representing three grades: grade 1, failure of treatment; grade 2, moderate improvement; and grade 3,successful treatment."
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The response to treatment in our patients was compared to reports from the existing literature retrieved from PubMed, Web of Science, EMBASE, and ClinicalTrials.gov"
+        ],
+        "negative_ctxs": [
+            18,
+            4
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 2 Reviewed cases"
+        ],
+        "negative_ctxs": [
+            15,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Our literature search identified 26 studies (five case stud-ies, 18 case series, one prospective single-center investiga-tion,  and  two  randomized,  double-blinded,  placebo-controlled pilot studies) "
+        ],
+        "negative_ctxs": [
+            17,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Our literature search identified 26 studies (five case stud-ies, 18 case series, one prospective single-center investiga-tion,  and  two  randomized,  double-blinded,  placebo-controlled pilot studies) comprising 185 (results reportedon 174) patients, with a median of four, ranging from 1to 21 patients exploring omalizumab treatment for recal-citrant AD.\n\nTable 2 Reviewed cases\n\nOur results agree with Amrol,21reporting variation inthe clinical improvement between patients. This differencein effect may reflect the clinical heterogeneity of AD.Notably the best effect was seen among the youngestpatients, suggesting a contribution of the treatment to thenatural outgrowing of AD.21As seen in the case serieswith the lowest mean age8,19,21,26(<20 years), whichreports good or excellent clinical effect on all but onepatient, who still showed mild improvement. The inter-pretation of improvement as an effect of treatment shouldaccommodate the fact that most patients with AD (75%)have a spontaneous remission of disease before adoles-cence.4It is therefore impossible to determine whether he effects reported are a combination of the two, orsolely due to the natural history of AD"
+        ],
+        "negative_ctxs": [
+            13,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflicts of interest: None."
+        ],
+        "negative_ctxs": [
+            14,
+            9
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            19
+        ],
+        "positive_ctxs": []
+    }
+]

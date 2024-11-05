@@ -1,0 +1,450 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Two mathematical models were developed for Psoriasis Area\nand Severity Index response to evaluate the magnitude of effect\nand the onset of the effect (time course of the treatment) for\neach drug.\n\nThe search strategy\nfocused on moderate to severe plaque psoriasis, randomized placebo- or\nactive-controlled trials of IL-12/23 inhibitors, TNF-a inhibitors, IL-17\ninhibitors, CD2 antagonists, PDE4 inhibitors, JAK inhibitors, and traditional\noral agents. The primary efficacy endpoint PASI75 and other PASI\nscores (PASI50, PASI90, and PASI100) were captured in the database."
+        ],
+        "negative_ctxs": [
+            12,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "In this analysis, data from the literature on Psoriasis Area and\r\nSeverity Index (PASI) response in patients with moderate to severe\r\npsoriasis were collected\n\nTo evaluate the magnitude and onset of the drug effect, two\r\nmathematical models were developed: 1) a longitudinal model to\r\nquantify the time course of PASI75 (primary clinical endpoint\r\nrepresenting the proportion of patients achieving \u000275%\nreduction in PASI score from baseline), and 2) a landmark model\r\nto quantify the dose-response relationship for PASI responders\r\n(PASI50, PASI75, PASI90, PASI100) at Week 12 (primary efficacy\r\ntimepoint in the majority of studies; primary efficacy timepoints\r\nranged from 10-24 weeks across all studies).\n\nThe search strategy focused on moderate to severe plaque psoriasis, randomized placebo- or\nactive-controlled trials of IL-12/23 inhibitors, TNF-a inhibitors, IL-17\ninhibitors, CD2 antagonists, PDE4 inhibitors, JAK inhibitors, and traditional\noral agents."
+        ],
+        "negative_ctxs": [
+            23,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Figure 1 Search strategy flow diagram. Details of studies included in the final database are listed in the Supplementary Appendix. PASI75,\u000275% reduction from baseline Psoriasis Area and Severity Index score."
+        ],
+        "negative_ctxs": [
+            8,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "randomized placebo- or\r\nactive-controlled trials"
+        ],
+        "negative_ctxs": [
+            15,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "the Ovid Medline search engine"
+        ],
+        "negative_ctxs": [
+            24,
+            1
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "US-based and European regulatory documents such as Summary\nBasis of Approvals and European Public Assessment Reports were searched"
+        ],
+        "negative_ctxs": [
+            6,
+            25
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Abstracts of potential records were screened by qualified personnel to\r\ndetermine the relevance to the research objectives; the study designs, treatment\r\nregimens, and patient populations were scrutinized to ensure that all\r\nstudies represented data that supported pooling"
+        ],
+        "negative_ctxs": [
+            0,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "PASI response data that passed the screening process were extracted from published articles, relevant\r\nconference posters, and/or abstracts. The data from selected sources\r\nwere captured or digitized, then data curation (e.g., unit standardization,\r\nnormalization of different dose regimen) was performed."
+        ],
+        "negative_ctxs": [
+            20,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "The literature search yielded 912 abstracts, of which 151 studies\r\nwere identified for potential inclusion in the analyses. Following\r\napplication of additional inclusion/exclusion criteria, the final\r\nanalysis included 71 studies for landmark and 57 studies for longitudinal\r\nanalyses\n\nAll drugs were included in the landmark model; however,\r\nthe longitudinal model did not include cyclosporine, acitretin,\r\nor baricitinib due to insufficient longitudinal data."
+        ],
+        "negative_ctxs": [
+            14,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Longitudinal model. The longitudinal model structure consisted of placebo\nand drug effects that were exponential vs, time describing the longitudinal\naspect of the effect. The response value was transformed into the\nlogit scale to restrict the estimated probability values between 0 and 1 as\nshown in the following equations:.\nwhere Pr is the probability, g is the inverse logit function to transform\nthe treatment effect, which is the sum of placebo (f0) and drug effect\n(fdrug) to the probability scale. The parameter kpbo and kdrug are rate constants\ndescribing onset of placebo and drug effects, respectively, with a\nmodeled unique estimate for each drug.\nThe dose-response component of the model was described by a sigmoidal\nEmax function. The model estimated the parameters for A (intercept),\nB (asymptote on placebo model), E (asymptote on drug model),\nED50 (dose achieving 50% of maximal response), for each drug. The normalized\ndose by the regulatory approved dose regimen, or normalized\ndose by the most frequently reported dose regimen (for nonapproved\ndrugs) was used to account for different doses or unique titration\nschemes for each drug during clinical studies. The Hill coefficient (c)\nwas also tested in the model. However, the parameter(s) were not estimated\nfor rate constant or dose-response terms if there was not sufficient\nlongitudinal or dose-response information available for a certain\ndrug. The between-study variability was described by g, having a normal\nprobability distribution with mean 0 and variance x2.\nLandmark model. A joint analysis of the efficacy endpoints (PASI50,\n75, 90, and 100) was performed to estimate differences in relative effect\nfor each endpoint by treatment. The response variable was the percentage\nof patients achieving PASI50, 75, 90, and 100 at each trial endpoint,\ntypically 12 weeks postfirst-dose administration.\nThe structure for the joint meta-regression model of PASI50,\nPASI75, PASI90, and PASI100 responses is summarized in Equations 5\nthrough 8. The final model was structured as follows:\nwhere PdeventThijk represents the probability (%) of a patient having an\nevent for the kth endpoint in the jth treatment arm of the ith trial and g\nwas the inverse logit function to transform the treatment effect to the\nprobability scale.\nEoi captures the estimated placebo response in PASI75 scores for a\npatient with body weight 90 kg (approximate median of the dataset) in\nthe ith trial as defined in Equation 6. A different placebo response was\nestimated for every trial with a constant fixed shift between PASI\nlevels.\nwhere triali is a baseline placebo effect for the ith trial; I1, I2 and I3 are\ncoefficients for PASI50, PASI90, or PASI100 relative to PASI75\nscores.\nEdrug represents the drug-response with drug-specific model parameters,\nsuch as maximum response for each drug (emd) and an effective\ndose for each individual drug (ED50,d). For the traditional oral systemic\ntreatments (methotrexate, cyclosporine, and acitretin), the optimal PASI\nresponses were achieved in practice by flexible dose adjustment for each\npatient, based on safety and efficacy. Therefore, there were insufficient\ndata in the literature to fully describe the dose-response relationship for\nthese drugs. As such, the maximum responses for traditional oral systemic\nagents were modeled as single-step offsets (Equation 7).\nFor TNF-a inhibitor, IL-12/23 inhibitor, IL-17 inhibitor, CD2\nantagonist, PDE4 inhibitor, and JAK inhibitor, a sigmoidal Emax function\nwas used to describe the relationship between dose and PASI\nresponse for each drug (Equation 7). As with E0, a scaling factor was\napplied to the estimated Emax to account for differences in PASI75,\nPASI50, PASI90, and PASI100 scores (Equation 8).\nIn the above equations, emd represented the drug-specific maximum\neffect; cd was the Hill coefficient; ED50,d was the estimated dose of half\nof the maximum effect and I5, I6, and I7 were scaling factors applied to\nPASI50, PASI90, and PASI100 scores, respectively. In this analysis, a single\nHill coefficient was applied to all drug classes except for IL-17 inhibitors.\nThe dose-response curve for IL-17 inhibitors was sufficiently\ndifferent from other drugs of interest that an individual offset was\nrequired to more appropriately describe the dose-response relationship.\nThe random effect gi,k on overall drug response (E01Edrug) was defined\nas having a mean 0 and variance x2k\n. The model included terms to account\nfor the correlation between different PASI scores (i.e., PASI50, PASI75,\nPASI90, or PASI100) within the same study and to account for the correlation\nbetween PASI scores among different arms within the same study.\nCovariate model. Based on previous knowledge,12,13 body weight was\nan important determinant of efficacy in patients with psoriasis. Therefore,\nbody weight was tested as a covariate in the longitudinal model and\nin the landmark model if body weight data were available in the literature\n(aggregated level, either by study arm or stratified by body weight),\nas described in Equations 9 and 10, respectively:\nIf body weight data were not reported (10-15% of studies in the literature),\nWEIG was set to 90 so that there was no influence on the\ncovariate estimation. The weight effect was tested on the treatment\neffect of the drug (Emax, ED50, or kdrug), as well as on the placebo\neffect (E0).\nResidual error model. In both the longitudinal and landmark analyses,\nthe predicted PASI responses represented the probability of \u000250, \u000275,\n\u000290, or 100% improvement in PASI scores. The residual error component\n(E) had a normal probability distribution with mean 0 and variance\nr2. Weight based on standard errors of fitted values (see Equations 11\nand 12) was noted as W, and the number of subjects for each arm\nwithin each study to account for the effect on parameter estimation due\nto the size of each trial was noted as N. Because studies were weighted\nby inverse of standard errors, larger studies had more influence on estimating\nthe parameter means.\nAdditionally, due to the longitudinal nature of the data and correlation\nwithin timepoint measurements of the same group of patients,14 a third\nlevel of variability (with mean 0 and variance r2\nCORR) was also incorporated\ninto the longitudinal model as shown below:\nThe standard model diagnostics (e.g., goodness-of-fit plots, precisions\nof the parameter estimates) were performed for both models to assess the\nmodel adequacy and any residual error model misspecifications.\nSimulations. Simulations were performed using the final model parameter\nestimates. The results were overlaid with observed data for both\ntime course (longitudinal) and dose-response at 12 weeks (landmark)\ndata by drug (and by dose) to visually compare the results and confirm\nthe model performance. Predicted PASI75 responses generated from the\nlongitudinal model were compared to predicted PASI75 responses from\nthe landmark model to demonstrate consistency between the models.\nET50 and ET90 (the time to reach 50% and 90% of the maximal treatment\neffect) were also calculated from the longitudinal model.\nThe final landmark model was used to simulate PASI75 or PASI90\nresponses at Week 12 for a typical patient with moderate to severe psoriasis\nfor each drug at clinically recommended doses. Placebo-adjusted treatment\neffect (effect size) for each drug was summarized in a forest plot.\nExternal validation. External validation was performed for PASI90\ntime-course response (using the validation dataset), in which the final\nmodel for longitudinal PASI75 was used to simulate (N51,000) the\nPASI90 time-course by incorporating the scaling factor between PASI75\nand PASI90 obtained from the landmark model, then overlaid with the\nobserved PASI90 time-course data.\nModeling software. Longitudinal data analyses were conducted using\nNonlinear Mixed Effect Modeling software NONMEM (v. 7.3) using the\nfirst-order conditional expectation method. A nonlinear mixed-effects routine\nin S-PLUS 8.0.4 for Windows (Insightful, Seattle, WA) was used for\nthe landmark analysis. The input datasets and model outputs were manipulated\nand all graphical displays were generated using R (v. 3.0.2) and\nRstudio (v. 0.99.879). Bootstrap was performed using PsN (v. 3.5.4)."
+        ],
+        "negative_ctxs": [
+            16,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Longitudinal model. The longitudinal model structure consisted of placebo\nand drug effects that were exponential vs, time describing the longitudinal\naspect of the effect. The response value was transformed into the\nlogit scale to restrict the estimated probability values between 0 and 1 as\nshown in the following equations:.\nwhere Pr is the probability, g is the inverse logit function to transform\nthe treatment effect, which is the sum of placebo (f0) and drug effect\n(fdrug) to the probability scale. The parameter kpbo and kdrug are rate constants\ndescribing onset of placebo and drug effects, respectively, with a\nmodeled unique estimate for each drug.\nThe dose-response component of the model was described by a sigmoidal\nEmax function. The model estimated the parameters for A (intercept),\nB (asymptote on placebo model), E (asymptote on drug model),\nED50 (dose achieving 50% of maximal response), for each drug. The normalized\ndose by the regulatory approved dose regimen, or normalized\ndose by the most frequently reported dose regimen (for nonapproved\ndrugs) was used to account for different doses or unique titration\nschemes for each drug during clinical studies. The Hill coefficient (c)\nwas also tested in the model. However, the parameter(s) were not estimated\nfor rate constant or dose-response terms if there was not sufficient\nlongitudinal or dose-response information available for a certain\ndrug. The between-study variability was described by g, having a normal\nprobability distribution with mean 0 and variance x2.\nLandmark model. A joint analysis of the efficacy endpoints (PASI50,\n75, 90, and 100) was performed to estimate differences in relative effect\nfor each endpoint by treatment. The response variable was the percentage\nof patients achieving PASI50, 75, 90, and 100 at each trial endpoint,\ntypically 12 weeks postfirst-dose administration.\nThe structure for the joint meta-regression model of PASI50,\nPASI75, PASI90, and PASI100 responses is summarized in Equations 5\nthrough 8. The final model was structured as follows:\nwhere PdeventThijk represents the probability (%) of a patient having an\nevent for the kth endpoint in the jth treatment arm of the ith trial and g\nwas the inverse logit function to transform the treatment effect to the\nprobability scale.\nEoi captures the estimated placebo response in PASI75 scores for a\npatient with body weight 90 kg (approximate median of the dataset) in\nthe ith trial as defined in Equation 6. A different placebo response was\nestimated for every trial with a constant fixed shift between PASI\nlevels.\nwhere triali is a baseline placebo effect for the ith trial; I1, I2 and I3 are\ncoefficients for PASI50, PASI90, or PASI100 relative to PASI75\nscores.\nEdrug represents the drug-response with drug-specific model parameters,\nsuch as maximum response for each drug (emd) and an effective\ndose for each individual drug (ED50,d). For the traditional oral systemic\ntreatments (methotrexate, cyclosporine, and acitretin), the optimal PASI\nresponses were achieved in practice by flexible dose adjustment for each\npatient, based on safety and efficacy. Therefore, there were insufficient\ndata in the literature to fully describe the dose-response relationship for\nthese drugs. As such, the maximum responses for traditional oral systemic\nagents were modeled as single-step offsets (Equation 7).\nFor TNF-a inhibitor, IL-12/23 inhibitor, IL-17 inhibitor, CD2\nantagonist, PDE4 inhibitor, and JAK inhibitor, a sigmoidal Emax function\nwas used to describe the relationship between dose and PASI\nresponse for each drug (Equation 7). As with E0, a scaling factor was\napplied to the estimated Emax to account for differences in PASI75,\nPASI50, PASI90, and PASI100 scores (Equation 8).\nIn the above equations, emd represented the drug-specific maximum\neffect; cd was the Hill coefficient; ED50,d was the estimated dose of half\nof the maximum effect and I5, I6, and I7 were scaling factors applied to\nPASI50, PASI90, and PASI100 scores, respectively. In this analysis, a single\nHill coefficient was applied to all drug classes except for IL-17 inhibitors.\nThe dose-response curve for IL-17 inhibitors was sufficiently\ndifferent from other drugs of interest that an individual offset was\nrequired to more appropriately describe the dose-response relationship.\nThe random effect gi,k on overall drug response (E01Edrug) was defined\nas having a mean 0 and variance x2k\n. The model included terms to account\nfor the correlation between different PASI scores (i.e., PASI50, PASI75,\nPASI90, or PASI100) within the same study and to account for the correlation\nbetween PASI scores among different arms within the same study.\nCovariate model. Based on previous knowledge,12,13 body weight was\nan important determinant of efficacy in patients with psoriasis. Therefore,\nbody weight was tested as a covariate in the longitudinal model and\nin the landmark model if body weight data were available in the literature\n(aggregated level, either by study arm or stratified by body weight),\nas described in Equations 9 and 10, respectively:\nIf body weight data were not reported (10-15% of studies in the literature),\nWEIG was set to 90 so that there was no influence on the\ncovariate estimation. The weight effect was tested on the treatment\neffect of the drug (Emax, ED50, or kdrug), as well as on the placebo\neffect (E0).\nResidual error model. In both the longitudinal and landmark analyses,\nthe predicted PASI responses represented the probability of \u000250, \u000275,\n\u000290, or 100% improvement in PASI scores. The residual error component\n(E) had a normal probability distribution with mean 0 and variance\nr2. Weight based on standard errors of fitted values (see Equations 11\nand 12) was noted as W, and the number of subjects for each arm\nwithin each study to account for the effect on parameter estimation due\nto the size of each trial was noted as N. Because studies were weighted\nby inverse of standard errors, larger studies had more influence on estimating\nthe parameter means.\nAdditionally, due to the longitudinal nature of the data and correlation\nwithin timepoint measurements of the same group of patients,14 a third\nlevel of variability (with mean 0 and variance r2\nCORR) was also incorporated\ninto the longitudinal model as shown below:\nThe standard model diagnostics (e.g., goodness-of-fit plots, precisions\nof the parameter estimates) were performed for both models to assess the\nmodel adequacy and any residual error model misspecifications.\nSimulations. Simulations were performed using the final model parameter\nestimates. The results were overlaid with observed data for both\ntime course (longitudinal) and dose-response at 12 weeks (landmark)\ndata by drug (and by dose) to visually compare the results and confirm\nthe model performance. Predicted PASI75 responses generated from the\nlongitudinal model were compared to predicted PASI75 responses from\nthe landmark model to demonstrate consistency between the models.\nET50 and ET90 (the time to reach 50% and 90% of the maximal treatment\neffect) were also calculated from the longitudinal model.\nThe final landmark model was used to simulate PASI75 or PASI90\nresponses at Week 12 for a typical patient with moderate to severe psoriasis\nfor each drug at clinically recommended doses. Placebo-adjusted treatment\neffect (effect size) for each drug was summarized in a forest plot.\nExternal validation. External validation was performed for PASI90\ntime-course response (using the validation dataset), in which the final\nmodel for longitudinal PASI75 was used to simulate (N51,000) the\nPASI90 time-course by incorporating the scaling factor between PASI75\nand PASI90 obtained from the landmark model, then overlaid with the\nobserved PASI90 time-course data.\nModeling software. Longitudinal data analyses were conducted using\nNonlinear Mixed Effect Modeling software NONMEM (v. 7.3) using the\nfirst-order conditional expectation method. A nonlinear mixed-effects routine\nin S-PLUS 8.0.4 for Windows (Insightful, Seattle, WA) was used for\nthe landmark analysis. The input datasets and model outputs were manipulated\nand all graphical displays were generated using R (v. 3.0.2) and\nRstudio (v. 0.99.879). Bootstrap was performed using PsN (v. 3.5.4)."
+        ],
+        "negative_ctxs": [
+            14,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Simulations. Simulations were performed using the final model parameter\r\nestimates. The results were overlaid with observed data for both\r\ntime course (longitudinal) and dose-response at 12 weeks (landmark)\r\ndata by drug (and by dose) to visually compare the results and confirm\r\nthe model performance. Predicted PASI75 responses generated from the\r\nlongitudinal model were compared to predicted PASI75 responses from\r\nthe landmark model to demonstrate consistency between the models.\r\nET50 and ET90 (the time to reach 50% and 90% of the maximal treatment\r\neffect) were also calculated from the longitudinal model.\r\nThe final landmark model was used to simulate PASI75 or PASI90\r\nresponses at Week 12 for a typical patient with moderate to severe psoriasis\r\nfor each drug at clinically recommended doses. Placebo-adjusted treatment\r\neffect (effect size) for each drug was summarized in a forest plot.\r\nExternal validation. External validation was performed for PASI90\r\ntime-course response (using the validation dataset), in which the final\r\nmodel for longitudinal PASI75 was used to simulate (N51,000) the\r\nPASI90 time-course by incorporating the scaling factor between PASI75\r\nand PASI90 obtained from the landmark model, then overlaid with the\r\nobserved PASI90 time-course data"
+        ],
+        "negative_ctxs": [
+            25,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Literature search and data selection. Following the search and selection\r\nstrategy proposed by the Cochrane group,11 the Ovid Medline search\r\nengine, US-based and European regulatory documents such as Summary\r\nBasis of Approvals and European Public Assessment Reports were\r\nsearched from 1964 to 2015 for reports of PASI responders in clinical trials\r\nfor the pharmaceutical treatment of psoriasis. The search strategy\r\nfocused on moderate to severe plaque psoriasis, randomized placebo- or\r\nactive-controlled trials of IL-12/23 inhibitors, TNF-a inhibitors, IL-17\r\ninhibitors, CD2 antagonists, PDE4 inhibitors, JAK inhibitors, and traditional\r\noral agents. The primary efficacy endpoint PASI75 and other PASI\r\nscores (PASI50, PASI90, and PASI100) were captured in the database.\r\nAbstracts of potential records were screened by qualified personnel to\r\ndetermine the relevance to the research objectives; the study designs, treatment\r\nregimens, and patient populations were scrutinized to ensure that all\r\nstudies represented data that supported pooling. PASI response data that\r\npassed the screening process were extracted from published articles, relevant\r\nconference posters, and/or abstracts. The data from selected sources\r\nwere captured or digitized, then data curation (e.g., unit standardization,\r\nnormalization of different dose regimen) was performed.\r\nAlthough a single database was generated to support both the longitudinal\r\nand landmark analysis, three separate datasets were created as\r\nrequired by the modeling objectives. In the longitudinal analysis, all\r\nrepeated measures of PASI75 response (test dataset) were used for model\r\nbuilding, and all repeated measures of PASI90 response (validation dataset)\r\nwere used for the external validation. The third dataset was for the\r\nlandmark analysis; PASI responses (PASI50, 75, 90, 100) at the primary\r\nefficacy measurement time (majority of studies were 12 weeks; range,\r\n10-24 weeks) were included."
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "However, caution is required in interpreting covariate effects\r\nwith aggregate-level data. In general, meta-analyses using data\nfrom the literature report covariates (age, body weight, sex, race,\r\netc.) as summary statistics (mean or median % of the trial dataset),\r\nwhich results in reduced power to detect clinically relevant\r\ninteractions. In an analysis conducted by Lambert et al.,6 it was\r\ndemonstrated that even moderately strong interactions may not\r\nbe adequately detected in the meta-analytic setting. Furthermore,\r\nthere is also a risk that introduction of aggregate-level covariates\r\nmay result in underestimation of exposure-response effects.7\r\nTherefore, although both meta-analytic models reported here\r\nsuggested that increasing body weight has an inverse effect on\r\nPASI response, the true magnitude of this interaction may not\r\nhave been captured in this setting. Instead, the use of individual\r\nlevel data may provide better estimates of the magnitude of this\r\neffect and may enhance the understanding of this relationship on\r\na mechanistic level.\nAs with any meta-analysis, the utility of the results depends, in\npart, on the studies that provided the information for analysis.\nWe therefore investigated heterogeneity in the aggregated pooled\ndataset. During study selection, only predefined inclusion and\nexclusion criteria were applied to control for possible heterogeneity\nacross the pooled studies. The parameterization of the landmark \nmodel therefore incorporated a study-specific placebo\neffect (E0) for each trial. In this manner, study-related differences\nwere accounted for by allowing the placebo effect of the PASI\nresponse to shift across different studies. In contrast, the drug\neffect was assumed to be constant across studies, i.e., all of the differences\nin response for a given drug at a given dose were assumed\nto be related to differences between studies and not to the drug\nitself."
+        ],
+        "negative_ctxs": [
+            14,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The final database included interleukin (IL)-12/23 inhibitors\r\n(ustekinumab, briakinumab), tumor necrosis factor (TNF)-a\r\ninhibitors (adalimumab, etanercept, certolizumab, infliximab),\r\nIL-17 inhibitors (secukinumab, ixekizumab, brodalumab), Tlymphocyte\r\n(CD2) antagonist (alefacept), phosphodiesterase-4, (PDE4) inhibitor (apremilast), JAK inhibitors (tofacitinib, baricitinib),\r\nand traditional oral agents (methotrexate, cyclosporine,\r\nacitretin)."
+        ],
+        "negative_ctxs": [
+            7,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "In this analysis, data from the literature on Psoriasis Area and\r\nSeverity Index (PASI) response in patients with moderate to severe\r\npsoriasis were collected\n\nTo evaluate the magnitude and onset of the drug effect, two\r\nmathematical models were developed: 1) a longitudinal model to\r\nquantify the time course of PASI75 (primary clinical endpoint\r\nrepresenting the proportion of patients achieving \u000275%\nreduction in PASI score from baseline), and 2) a landmark model\r\nto quantify the dose-response relationship for PASI responders\r\n(PASI50, PASI75, PASI90, PASI100) at Week 12 (primary efficacy\r\ntimepoint in the majority of studies; primary efficacy timepoints\r\nranged from 10-24 weeks across all studies).\n\nThe search strategy focused on moderate to severe plaque psoriasis, randomized placebo- or\nactive-controlled trials of IL-12/23 inhibitors, TNF-a inhibitors, IL-17\ninhibitors, CD2 antagonists, PDE4 inhibitors, JAK inhibitors, and traditional\noral agents."
+        ],
+        "negative_ctxs": [
+            13,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "The search strategy focused on moderate to severe plaque psoriasis, randomized placebo- or\nactive-controlled trials of IL-12/23 inhibitors, TNF-a inhibitors, IL-17\ninhibitors, CD2 antagonists, PDE4 inhibitors, JAK inhibitors, and traditional\noral agents. The primary efficacy endpoint PASI75 and other PASI\nscores (PASI50, PASI90, and PASI100) were captured in the database"
+        ],
+        "negative_ctxs": [
+            19,
+            25
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "the Ovid Medline search engine"
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Abstracts of potential records were screened by qualified personnel to\r\ndetermine the relevance to the research objectives; the study designs, treatment\r\nregimens, and patient populations were scrutinized to ensure that all\r\nstudies represented data that supported pooling"
+        ],
+        "negative_ctxs": [
+            18,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "PASI response data that passed the screening process were extracted from published articles, relevant\r\nconference posters, and/or abstracts. The data from selected sources\r\nwere captured or digitized, then data curation (e.g., unit standardization,\r\nnormalization of different dose regimen) was performed."
+        ],
+        "negative_ctxs": [
+            24,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Longitudinal model. The longitudinal model structure consisted of placebo\nand drug effects that were exponential vs, time describing the longitudinal\naspect of the effect. The response value was transformed into the\nlogit scale to restrict the estimated probability values between 0 and 1 as\nshown in the following equations:.\nwhere Pr is the probability, g is the inverse logit function to transform\nthe treatment effect, which is the sum of placebo (f0) and drug effect\n(fdrug) to the probability scale. The parameter kpbo and kdrug are rate constants\ndescribing onset of placebo and drug effects, respectively, with a\nmodeled unique estimate for each drug.\nThe dose-response component of the model was described by a sigmoidal\nEmax function. The model estimated the parameters for A (intercept),\nB (asymptote on placebo model), E (asymptote on drug model),\nED50 (dose achieving 50% of maximal response), for each drug. The normalized\ndose by the regulatory approved dose regimen, or normalized\ndose by the most frequently reported dose regimen (for nonapproved\ndrugs) was used to account for different doses or unique titration\nschemes for each drug during clinical studies. The Hill coefficient (c)\nwas also tested in the model. However, the parameter(s) were not estimated\nfor rate constant or dose-response terms if there was not sufficient\nlongitudinal or dose-response information available for a certain\ndrug. The between-study variability was described by g, having a normal\nprobability distribution with mean 0 and variance x2.\nLandmark model. A joint analysis of the efficacy endpoints (PASI50,\n75, 90, and 100) was performed to estimate differences in relative effect\nfor each endpoint by treatment. The response variable was the percentage\nof patients achieving PASI50, 75, 90, and 100 at each trial endpoint,\ntypically 12 weeks postfirst-dose administration.\nThe structure for the joint meta-regression model of PASI50,\nPASI75, PASI90, and PASI100 responses is summarized in Equations 5\nthrough 8. The final model was structured as follows:\nwhere PdeventThijk represents the probability (%) of a patient having an\nevent for the kth endpoint in the jth treatment arm of the ith trial and g\nwas the inverse logit function to transform the treatment effect to the\nprobability scale.\nEoi captures the estimated placebo response in PASI75 scores for a\npatient with body weight 90 kg (approximate median of the dataset) in\nthe ith trial as defined in Equation 6. A different placebo response was\nestimated for every trial with a constant fixed shift between PASI\nlevels.\nwhere triali is a baseline placebo effect for the ith trial; I1, I2 and I3 are\ncoefficients for PASI50, PASI90, or PASI100 relative to PASI75\nscores.\nEdrug represents the drug-response with drug-specific model parameters,\nsuch as maximum response for each drug (emd) and an effective\ndose for each individual drug (ED50,d). For the traditional oral systemic\ntreatments (methotrexate, cyclosporine, and acitretin), the optimal PASI\nresponses were achieved in practice by flexible dose adjustment for each\npatient, based on safety and efficacy. Therefore, there were insufficient\ndata in the literature to fully describe the dose-response relationship for\nthese drugs. As such, the maximum responses for traditional oral systemic\nagents were modeled as single-step offsets (Equation 7).\nFor TNF-a inhibitor, IL-12/23 inhibitor, IL-17 inhibitor, CD2\nantagonist, PDE4 inhibitor, and JAK inhibitor, a sigmoidal Emax function\nwas used to describe the relationship between dose and PASI\nresponse for each drug (Equation 7). As with E0, a scaling factor was\napplied to the estimated Emax to account for differences in PASI75,\nPASI50, PASI90, and PASI100 scores (Equation 8).\nIn the above equations, emd represented the drug-specific maximum\neffect; cd was the Hill coefficient; ED50,d was the estimated dose of half\nof the maximum effect and I5, I6, and I7 were scaling factors applied to\nPASI50, PASI90, and PASI100 scores, respectively. In this analysis, a single\nHill coefficient was applied to all drug classes except for IL-17 inhibitors.\nThe dose-response curve for IL-17 inhibitors was sufficiently\ndifferent from other drugs of interest that an individual offset was\nrequired to more appropriately describe the dose-response relationship.\nThe random effect gi,k on overall drug response (E01Edrug) was defined\nas having a mean 0 and variance x2k\n. The model included terms to account\nfor the correlation between different PASI scores (i.e., PASI50, PASI75,\nPASI90, or PASI100) within the same study and to account for the correlation\nbetween PASI scores among different arms within the same study.\nCovariate model. Based on previous knowledge,12,13 body weight was\nan important determinant of efficacy in patients with psoriasis. Therefore,\nbody weight was tested as a covariate in the longitudinal model and\nin the landmark model if body weight data were available in the literature\n(aggregated level, either by study arm or stratified by body weight),\nas described in Equations 9 and 10, respectively:\nIf body weight data were not reported (10-15% of studies in the literature),\nWEIG was set to 90 so that there was no influence on the\ncovariate estimation. The weight effect was tested on the treatment\neffect of the drug (Emax, ED50, or kdrug), as well as on the placebo\neffect (E0).\nResidual error model. In both the longitudinal and landmark analyses,\nthe predicted PASI responses represented the probability of \u000250, \u000275,\n\u000290, or 100% improvement in PASI scores. The residual error component\n(E) had a normal probability distribution with mean 0 and variance\nr2. Weight based on standard errors of fitted values (see Equations 11\nand 12) was noted as W, and the number of subjects for each arm\nwithin each study to account for the effect on parameter estimation due\nto the size of each trial was noted as N. Because studies were weighted\nby inverse of standard errors, larger studies had more influence on estimating\nthe parameter means.\nAdditionally, due to the longitudinal nature of the data and correlation\nwithin timepoint measurements of the same group of patients,14 a third\nlevel of variability (with mean 0 and variance r2\nCORR) was also incorporated\ninto the longitudinal model as shown below:\nThe standard model diagnostics (e.g., goodness-of-fit plots, precisions\nof the parameter estimates) were performed for both models to assess the\nmodel adequacy and any residual error model misspecifications.\nSimulations. Simulations were performed using the final model parameter\nestimates. The results were overlaid with observed data for both\ntime course (longitudinal) and dose-response at 12 weeks (landmark)\ndata by drug (and by dose) to visually compare the results and confirm\nthe model performance. Predicted PASI75 responses generated from the\nlongitudinal model were compared to predicted PASI75 responses from\nthe landmark model to demonstrate consistency between the models.\nET50 and ET90 (the time to reach 50% and 90% of the maximal treatment\neffect) were also calculated from the longitudinal model.\nThe final landmark model was used to simulate PASI75 or PASI90\nresponses at Week 12 for a typical patient with moderate to severe psoriasis\nfor each drug at clinically recommended doses. Placebo-adjusted treatment\neffect (effect size) for each drug was summarized in a forest plot.\nExternal validation. External validation was performed for PASI90\ntime-course response (using the validation dataset), in which the final\nmodel for longitudinal PASI75 was used to simulate (N51,000) the\nPASI90 time-course by incorporating the scaling factor between PASI75\nand PASI90 obtained from the landmark model, then overlaid with the\nobserved PASI90 time-course data.\nModeling software. Longitudinal data analyses were conducted using\nNonlinear Mixed Effect Modeling software NONMEM (v. 7.3) using the\nfirst-order conditional expectation method. A nonlinear mixed-effects routine\nin S-PLUS 8.0.4 for Windows (Insightful, Seattle, WA) was used for\nthe landmark analysis. The input datasets and model outputs were manipulated\nand all graphical displays were generated using R (v. 3.0.2) and\nRstudio (v. 0.99.879). Bootstrap was performed using PsN (v. 3.5.4)."
+        ],
+        "negative_ctxs": [
+            8,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Longitudinal model. The longitudinal model structure consisted of placebo\nand drug effects that were exponential vs, time describing the longitudinal\naspect of the effect. The response value was transformed into the\nlogit scale to restrict the estimated probability values between 0 and 1 as\nshown in the following equations:.\nwhere Pr is the probability, g is the inverse logit function to transform\nthe treatment effect, which is the sum of placebo (f0) and drug effect\n(fdrug) to the probability scale. The parameter kpbo and kdrug are rate constants\ndescribing onset of placebo and drug effects, respectively, with a\nmodeled unique estimate for each drug.\nThe dose-response component of the model was described by a sigmoidal\nEmax function. The model estimated the parameters for A (intercept),\nB (asymptote on placebo model), E (asymptote on drug model),\nED50 (dose achieving 50% of maximal response), for each drug. The normalized\ndose by the regulatory approved dose regimen, or normalized\ndose by the most frequently reported dose regimen (for nonapproved\ndrugs) was used to account for different doses or unique titration\nschemes for each drug during clinical studies. The Hill coefficient (c)\nwas also tested in the model. However, the parameter(s) were not estimated\nfor rate constant or dose-response terms if there was not sufficient\nlongitudinal or dose-response information available for a certain\ndrug. The between-study variability was described by g, having a normal\nprobability distribution with mean 0 and variance x2.\nLandmark model. A joint analysis of the efficacy endpoints (PASI50,\n75, 90, and 100) was performed to estimate differences in relative effect\nfor each endpoint by treatment. The response variable was the percentage\nof patients achieving PASI50, 75, 90, and 100 at each trial endpoint,\ntypically 12 weeks postfirst-dose administration.\nThe structure for the joint meta-regression model of PASI50,\nPASI75, PASI90, and PASI100 responses is summarized in Equations 5\nthrough 8. The final model was structured as follows:\nwhere PdeventThijk represents the probability (%) of a patient having an\nevent for the kth endpoint in the jth treatment arm of the ith trial and g\nwas the inverse logit function to transform the treatment effect to the\nprobability scale.\nEoi captures the estimated placebo response in PASI75 scores for a\npatient with body weight 90 kg (approximate median of the dataset) in\nthe ith trial as defined in Equation 6. A different placebo response was\nestimated for every trial with a constant fixed shift between PASI\nlevels.\nwhere triali is a baseline placebo effect for the ith trial; I1, I2 and I3 are\ncoefficients for PASI50, PASI90, or PASI100 relative to PASI75\nscores.\nEdrug represents the drug-response with drug-specific model parameters,\nsuch as maximum response for each drug (emd) and an effective\ndose for each individual drug (ED50,d). For the traditional oral systemic\ntreatments (methotrexate, cyclosporine, and acitretin), the optimal PASI\nresponses were achieved in practice by flexible dose adjustment for each\npatient, based on safety and efficacy. Therefore, there were insufficient\ndata in the literature to fully describe the dose-response relationship for\nthese drugs. As such, the maximum responses for traditional oral systemic\nagents were modeled as single-step offsets (Equation 7).\nFor TNF-a inhibitor, IL-12/23 inhibitor, IL-17 inhibitor, CD2\nantagonist, PDE4 inhibitor, and JAK inhibitor, a sigmoidal Emax function\nwas used to describe the relationship between dose and PASI\nresponse for each drug (Equation 7). As with E0, a scaling factor was\napplied to the estimated Emax to account for differences in PASI75,\nPASI50, PASI90, and PASI100 scores (Equation 8).\nIn the above equations, emd represented the drug-specific maximum\neffect; cd was the Hill coefficient; ED50,d was the estimated dose of half\nof the maximum effect and I5, I6, and I7 were scaling factors applied to\nPASI50, PASI90, and PASI100 scores, respectively. In this analysis, a single\nHill coefficient was applied to all drug classes except for IL-17 inhibitors.\nThe dose-response curve for IL-17 inhibitors was sufficiently\ndifferent from other drugs of interest that an individual offset was\nrequired to more appropriately describe the dose-response relationship.\nThe random effect gi,k on overall drug response (E01Edrug) was defined\nas having a mean 0 and variance x2k\n. The model included terms to account\nfor the correlation between different PASI scores (i.e., PASI50, PASI75,\nPASI90, or PASI100) within the same study and to account for the correlation\nbetween PASI scores among different arms within the same study.\nCovariate model. Based on previous knowledge,12,13 body weight was\nan important determinant of efficacy in patients with psoriasis. Therefore,\nbody weight was tested as a covariate in the longitudinal model and\nin the landmark model if body weight data were available in the literature\n(aggregated level, either by study arm or stratified by body weight),\nas described in Equations 9 and 10, respectively:\nIf body weight data were not reported (10-15% of studies in the literature),\nWEIG was set to 90 so that there was no influence on the\ncovariate estimation. The weight effect was tested on the treatment\neffect of the drug (Emax, ED50, or kdrug), as well as on the placebo\neffect (E0).\nResidual error model. In both the longitudinal and landmark analyses,\nthe predicted PASI responses represented the probability of \u000250, \u000275,\n\u000290, or 100% improvement in PASI scores. The residual error component\n(E) had a normal probability distribution with mean 0 and variance\nr2. Weight based on standard errors of fitted values (see Equations 11\nand 12) was noted as W, and the number of subjects for each arm\nwithin each study to account for the effect on parameter estimation due\nto the size of each trial was noted as N. Because studies were weighted\nby inverse of standard errors, larger studies had more influence on estimating\nthe parameter means.\nAdditionally, due to the longitudinal nature of the data and correlation\nwithin timepoint measurements of the same group of patients,14 a third\nlevel of variability (with mean 0 and variance r2\nCORR) was also incorporated\ninto the longitudinal model as shown below:\nThe standard model diagnostics (e.g., goodness-of-fit plots, precisions\nof the parameter estimates) were performed for both models to assess the\nmodel adequacy and any residual error model misspecifications.\nSimulations. Simulations were performed using the final model parameter\nestimates. The results were overlaid with observed data for both\ntime course (longitudinal) and dose-response at 12 weeks (landmark)\ndata by drug (and by dose) to visually compare the results and confirm\nthe model performance. Predicted PASI75 responses generated from the\nlongitudinal model were compared to predicted PASI75 responses from\nthe landmark model to demonstrate consistency between the models.\nET50 and ET90 (the time to reach 50% and 90% of the maximal treatment\neffect) were also calculated from the longitudinal model.\nThe final landmark model was used to simulate PASI75 or PASI90\nresponses at Week 12 for a typical patient with moderate to severe psoriasis\nfor each drug at clinically recommended doses. Placebo-adjusted treatment\neffect (effect size) for each drug was summarized in a forest plot.\nExternal validation. External validation was performed for PASI90\ntime-course response (using the validation dataset), in which the final\nmodel for longitudinal PASI75 was used to simulate (N51,000) the\nPASI90 time-course by incorporating the scaling factor between PASI75\nand PASI90 obtained from the landmark model, then overlaid with the\nobserved PASI90 time-course data.\nModeling software. Longitudinal data analyses were conducted using\nNonlinear Mixed Effect Modeling software NONMEM (v. 7.3) using the\nfirst-order conditional expectation method. A nonlinear mixed-effects routine\nin S-PLUS 8.0.4 for Windows (Insightful, Seattle, WA) was used for\nthe landmark analysis. The input datasets and model outputs were manipulated\nand all graphical displays were generated using R (v. 3.0.2) and\nRstudio (v. 0.99.879). Bootstrap was performed using PsN (v. 3.5.4)."
+        ],
+        "negative_ctxs": [
+            24,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Simulations. Simulations were performed using the final model parameter\r\nestimates. The results were overlaid with observed data for both\r\ntime course (longitudinal) and dose-response at 12 weeks (landmark)\r\ndata by drug (and by dose) to visually compare the results and confirm\r\nthe model performance. Predicted PASI75 responses generated from the\r\nlongitudinal model were compared to predicted PASI75 responses from\r\nthe landmark model to demonstrate consistency between the models.\r\nET50 and ET90 (the time to reach 50% and 90% of the maximal treatment\r\neffect) were also calculated from the longitudinal model.\r\nThe final landmark model was used to simulate PASI75 or PASI90\r\nresponses at Week 12 for a typical patient with moderate to severe psoriasis\r\nfor each drug at clinically recommended doses. Placebo-adjusted treatment\r\neffect (effect size) for each drug was summarized in a forest plot.\r\nExternal validation. External validation was performed for PASI90\r\ntime-course response (using the validation dataset), in which the final\r\nmodel for longitudinal PASI75 was used to simulate (N51,000) the\r\nPASI90 time-course by incorporating the scaling factor between PASI75\r\nand PASI90 obtained from the landmark model, then overlaid with the\r\nobserved PASI90 time-course data"
+        ],
+        "negative_ctxs": [
+            20,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Literature search and data selection. Following the search and selection\r\nstrategy proposed by the Cochrane group,11 the Ovid Medline search\r\nengine, US-based and European regulatory documents such as Summary\r\nBasis of Approvals and European Public Assessment Reports were\r\nsearched from 1964 to 2015 for reports of PASI responders in clinical trials\r\nfor the pharmaceutical treatment of psoriasis. The search strategy\r\nfocused on moderate to severe plaque psoriasis, randomized placebo- or\r\nactive-controlled trials of IL-12/23 inhibitors, TNF-a inhibitors, IL-17\r\ninhibitors, CD2 antagonists, PDE4 inhibitors, JAK inhibitors, and traditional\r\noral agents. The primary efficacy endpoint PASI75 and other PASI\r\nscores (PASI50, PASI90, and PASI100) were captured in the database.\r\nAbstracts of potential records were screened by qualified personnel to\r\ndetermine the relevance to the research objectives; the study designs, treatment\r\nregimens, and patient populations were scrutinized to ensure that all\r\nstudies represented data that supported pooling. PASI response data that\r\npassed the screening process were extracted from published articles, relevant\r\nconference posters, and/or abstracts. The data from selected sources\r\nwere captured or digitized, then data curation (e.g., unit standardization,\r\nnormalization of different dose regimen) was performed.\r\nAlthough a single database was generated to support both the longitudinal\r\nand landmark analysis, three separate datasets were created as\r\nrequired by the modeling objectives. In the longitudinal analysis, all\r\nrepeated measures of PASI75 response (test dataset) were used for model\r\nbuilding, and all repeated measures of PASI90 response (validation dataset)\r\nwere used for the external validation. The third dataset was for the\r\nlandmark analysis; PASI responses (PASI50, 75, 90, 100) at the primary\r\nefficacy measurement time (majority of studies were 12 weeks; range,\r\n10-24 weeks) were included."
+        ],
+        "negative_ctxs": [
+            18,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "CONFLICTS OF INTEREST\r\nK.I, S.A., P.G, R.W, H.V., H.T., S.K., and A.T. are employees and\r\nshareholders of Pfizer Inc. T.C., and M.K. were employees of Pfizer Inc at\r\nthe time of the analysis. J.M. has acted as a consultant for Pfizer Inc.\r\nL.P. has received consultancy/speaker's honoraria from AbbVie,\r\nAlmirall, Amgen, Biogen, Boehringer, Celgene, Gebro, Janssen, Leo-\r\nPharma, Lilly, Merck-Serono, MSD, Novartis, Pfizer Inc, and Sandoz. L.P.\r\nhas participated in a company-sponsored speaker's bureau for Celgene,\r\nJanssen, MSD, Novartis, and Pfizer Inc."
+        ],
+        "negative_ctxs": [
+            9,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "However, caution is required in interpreting covariate effects\r\nwith aggregate-level data. In general, meta-analyses using data\nfrom the literature report covariates (age, body weight, sex, race,\r\netc.) as summary statistics (mean or median % of the trial dataset),\r\nwhich results in reduced power to detect clinically relevant\r\ninteractions. In an analysis conducted by Lambert et al.,6 it was\r\ndemonstrated that even moderately strong interactions may not\r\nbe adequately detected in the meta-analytic setting. Furthermore,\r\nthere is also a risk that introduction of aggregate-level covariates\r\nmay result in underestimation of exposure-response effects.7\r\nTherefore, although both meta-analytic models reported here\r\nsuggested that increasing body weight has an inverse effect on\r\nPASI response, the true magnitude of this interaction may not\r\nhave been captured in this setting. Instead, the use of individual\r\nlevel data may provide better estimates of the magnitude of this\r\neffect and may enhance the understanding of this relationship on\r\na mechanistic level.\nAs with any meta-analysis, the utility of the results depends, in\npart, on the studies that provided the information for analysis.\nWe therefore investigated heterogeneity in the aggregated pooled\ndataset. During study selection, only predefined inclusion and\nexclusion criteria were applied to control for possible heterogeneity\nacross the pooled studies. The parameterization of the landmark \nmodel therefore incorporated a study-specific placebo\neffect (E0) for each trial. In this manner, study-related differences\nwere accounted for by allowing the placebo effect of the PASI\nresponse to shift across different studies. In contrast, the drug\neffect was assumed to be constant across studies, i.e., all of the differences\nin response for a given drug at a given dose were assumed\nto be related to differences between studies and not to the drug\nitself."
+        ],
+        "negative_ctxs": [
+            22,
+            5
+        ],
+        "positive_ctxs": []
+    }
+]

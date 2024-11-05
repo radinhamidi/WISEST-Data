@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            29,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "literature, in this systematic review, we sought to determine\nthe validity of the causality relationship via the use of one of\ntwo (or both) most common protocols for adverse drug reactions:\nchallenge-dechallenge-rechallenge (C-D-R) protocol\nand/or the Adverse Drug Reactions Probability Scale (APS),\nalso known as Naranjo algorithm . However, different algorithms,\nsuch as theWHO-UMC system,Gardnermethod,\nJones algorithm, or Kramer questionnaire, currently validated\nin the scientific literature to evaluate ADRs , were\nalso considered if used in the included papers. Additionally, we\nevaluated the complete or partial resolution of the oral lesions\nupon withdrawal without treatment and the most common alleged\noffending medication(s).\n\nThe systematic review included the following: (i) articles\n(case reports, case series, cohort studies, and case-control)\npublished between January 1966 and December 2016 in the\nEnglish language, (ii) cases with clinical features of DIOLRs\nwith or without cutaneous and/or other mucous membranes\ninvolvement, (iii) only cases where diagnosis of DIOLRs was\nbased on a histopathological examination (hematoxylin and\neosin stain (H&E)) via an oral biopsy with or without a direct\nimmunofluorescence (DIF) analysis, (iv) cases where the culprit\nmedication(s) was/were clearly stated, and (v) cases in\nwhich oral lesions appeared during or after administration of\nsystemic medications only.\nWe excluded randomized and non-randomized trials because\nthey are interventional in nature and cross-sectional\nstudies as they are performed at a single point in time or time\ninterval, so unsuitable to establish a possible causative relationship.\nWe also excluded case(s) with (i) oral involvement\nbut no oral biopsy was taken, (ii) oral and cutaneous\ninvolvement with only a cutaneous biopsy or where the\nlocation of the biopsy was not clearly specified (skin viz.\noral), (iii) only cutaneous lesions, (iv) oral lichenoid reactions\ninduced by dental materials, and (v) preexisting OLP/\nOLLs"
+        ],
+        "negative_ctxs": [
+            29,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The systematic review included the following: (i) articles\n(case reports, case series, cohort studies, and case-control)\npublished between January 1966 and December 2016 in the\nEnglish language, (ii) cases with clinical features of DIOLRs\nwith or without cutaneous and/or other mucous membranes\ninvolvement, (iii) only cases where diagnosis of DIOLRs was\nbased on a histopathological examination (hematoxylin and\neosin stain (H&E)) via an oral biopsy with or without a direct\nimmunofluorescence (DIF) analysis, (iv) cases where the culprit\nmedication(s) was/were clearly stated, and (v) cases in\nwhich oral lesions appeared during or after administration of\nsystemic medications only.\nWe excluded randomized and non-randomized trials because\nthey are interventional in nature and cross-sectional\nstudies as they are performed at a single point in time or time\ninterval, so unsuitable to establish a possible causative relationship.\nWe also excluded case(s) with (i) oral involvement\nbut no oral biopsy was taken, (ii) oral and cutaneous\ninvolvement with only a cutaneous biopsy or where the\nlocation of the biopsy was not clearly specified (skin viz.\noral), (iii) only cutaneous lesions, (iv) oral lichenoid reactions\ninduced by dental materials, and (v) preexisting OLP/\nOLLs"
+        ],
+        "negative_ctxs": [
+            2,
+            8
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We excluded randomized and non-randomized trials because\r\nthey are interventional in nature and cross-sectional\r\nstudies as they are performed at a single point in time or time\r\ninterval, so unsuitable to establish a possible causative relationship.\r\nWe also excluded case(s) with (i) oral involvement\r\nbut no oral biopsy was taken, (ii) oral and cutaneous\r\ninvolvement with only a cutaneous biopsy or where the\r\nlocation of the biopsy was not clearly specified (skin viz.\r\noral), (iii) only cutaneous lesions, (iv) oral lichenoid reactions\r\ninduced by dental materials, and (v) preexisting OLP/\r\nOLLs."
+        ],
+        "negative_ctxs": [
+            5,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "The systematic review included the following: (i) articles\r\n(case reports, case series, cohort studies, and case-control)\r\npublished between January 1966 and December 2016 in the\r\nEnglish language"
+        ],
+        "negative_ctxs": [
+            3,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We performed a computerized\nliterature search for articles published in nine databases from\nJanuary 1966 to December 2016: Ovid MEDLINE, Embase,\nCINAHL, Scopus, Web of Science, Cochrane Libraries,\nProQuest, ClinicalTrials.gov, and Google Scholar"
+        ],
+        "negative_ctxs": [
+            13,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "In addition, all references retrieved from all included articles\r\nwere further examined manually to identify other relevant\r\narticles that were not detected by the initial search."
+        ],
+        "negative_ctxs": [
+            8,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The\r\nsearches were concentrated on the two main topics of oral\r\nlichen planus/oral lichenoid lesions/oral lichenoid reactions\r\nand the adverse effects of medication, and drug-induced. We\r\nsearched these concepts using controlled vocabulary particular\r\nto each database and keywords. MeSH terms included, but not\r\nlimited to, Lichen Planus, Oral, Lichenoid lesions, Lichenoid\r\nreactions, Lichenoid eruptions AND Mouth, and Drug Related\r\nSide Effects and Adverse Reactions. The Ovid MEDLINE\r\nsearch was altered for each database. Citations and abstracts\r\nof retrieved articles were exported into RefWorks, and duplicates\r\nwere removed. The complete search strategies for the\r\nthree main database Ovid MEDLINE, Embase, and Scopus\r\nare included in the Appendix."
+        ],
+        "negative_ctxs": [
+            3,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Appendix. Search strategy of the three main database.\n\nOvid MEDLINE \n\n69\tlimit 68 to (english or spanish)\n"
+        ],
+        "negative_ctxs": [
+            24,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "After eliminating duplicates, two investigators (GF and JHS)\nindependently evaluated titles, abstract and full text of all the\nincluded articles. Any disagreement was discussed and resolved\nby consensus between the two investigators."
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Studies that met the inclusion criteria were independently\r\nreviewed by two investigators (GF and JS) who extracted\r\nand tabulated in an Excel sheet the following information"
+        ],
+        "negative_ctxs": [
+            4,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The characteristics of all included case reports/series and studies\nare described in Tables 1, 2, and 3.\n\nIn case reports/series, there was a slightly higher frequency\nin the females (53.7%) than males (44.4%), with a mean age\nof 56.81 (SD 11.72) and the highest number of cases reported\nin Australia (25.5%) followed by USA (19.1%) and Italy\n(14.9%) (Table 1).\nThe median number of culprit medication(s) described was\n1 (Q1-Q3, 1-3) (Table 1), with the most frequent ones being\nMethyldopa with 11 cases (20.37%), Interferon (IFN)-alpha\nwith 6 cases (11.11%), and Imatinib and Infliximab with 5\ncases (9.26%) (Table 2).\nThe median number of concurrent medication(s) described\nwas 2 (Q1-Q3, 1-3) (Table 1), with the most frequent ones\nbeing Potassium chloride with 5 cases (14.29%) and\nAllopurinol and vitamin C with 3 cases (8.57%) (Table 2).\nInterestingly, only 8 (14.8) cases showed no concurrent\nmedications other than the culprit, whereas in 27 other cases,\n1 to 7 concurrent medications were reported (Table 1).\nSimilarly, in only 43 (83.3%) of cases, there was one single\nculprit medication, while in the remaining 9 cases (16.37%), it\nvaried from 2 to 4 (Table 1).\nAdditional information about the frequency of cutaneous\nand other mucous membrane involvement, history of personal\nand family allergy, and direct immunofluorescence (DIF) are\nalso described in Table 3."
+        ],
+        "negative_ctxs": [
+            27,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 7 Case reports/series and studies on oral drug-induced lichenoid reactions (DIOLRs) from 1966 to 2016 included in this review\n\nTable 8 Withdrawal of the offending medication, treatment, remission, and adverse drug-reaction algorithms"
+        ],
+        "negative_ctxs": [
+            28,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            28,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "As shown in Fig. 1, we selected 155 full-text articles out of\n810 screened. Of those 155, only 46 were included for qualitative\nsynthesis: 40 case reports/case series, to a total of 54\npatients described, and 6 studies\n\nTable 1 Demographics,\nmedications, and timing of\nlatency and partial/complete resolution\nof oral lesions on 54\nDIOLR case reports"
+        ],
+        "negative_ctxs": [
+            24,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            29,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "only 46 were included for qualitative\nsynthesis\n\nDescriptive statistics were calculated on 54 patients with\nDIOLRs described in 40 case reports/series, including\nmean +- standard deviation for age, medians with interquartile\nrange for timing of latency period, partial/complete resolution\nof oral lesions, and last follow-up, and frequency\ndistribution for offending and concurrent medication distribution,\nclinical characteristics, and algorithms used for adverse\ndrug reactions.\nMann-Whitney U test was used to determine the difference\nof medians of latency period and time partial/complete resolution\nof oral lesions between males (M) and females (F), whereas\nSpearman's correlation (r) was used to identify any correlation\nbetween age and latency period and between age and\ntime partial/complete resolution of oral lesions. Conversely,\nKruskal-Wallis analysis was used to evaluate the difference\nof medians between age, latency period, and time partial/\ncomplete resolution of oral lesions by number of concurrent\nmediation(s)."
+        ],
+        "negative_ctxs": [
+            30,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "only 46 were included for qualitative\r\nsynthesis"
+        ],
+        "negative_ctxs": [
+            5,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "only 46 were included for qualitative\r\nsynthesis"
+        ],
+        "negative_ctxs": [
+            29,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Our review has several limitations, mainly related to the fact\nthat our analysis is only based on case reports, since the included\nstudies presented with incomplete data for an accurate\nanalysis regarding drugs and OLLs. Because of their nature,\nthose case reports are unable per se of depicting an accurate\nclinical overview of this entity. Case reports represent the\nlowest level of scientific evidence; they can be biased by the\nauthors as well Fig. 3 Histopathological features: word cloud of the most frequent terms as reviewers who based their assumption on\nprevious similar reports, which might not have used any of the\nmany standardized protocol/algorithm to assess an ADR.\nAnother important limitation is that those included cases\nwere not homogenous: not all cases described information\nregarding all the variables tabulated in Tables 7 and 8.\nAdditionally,many possible cases of DIOLRs might ormight\nnot have been reported only because previous reports on the\nsame medication had already been described in the literature.\nWe excluded all those muco-cutaneous cases where an oral\nbiopsy was not performed. This might have introduced a bias\nin reporting other cases of DIOLRs; however, it would have\nbeen impossible to truly ascertain the nature of the oral lesions,\nwithout a histopathological confirmation from an oral\nbiopsy. If this had been performed in all muco-cutaneous\ncases, we would have probably had a different number of\ncases to be included in our analysis.\nLastly, we still do not have standardized and validated diagnostic\ncriteria for DIOLRs; there is no consensus statement\non this entity. Therefore, if such criteria had existed, some of\nthose case reports would have not fit those criteria, while some\nothers would, thus making the total number of cases included\nin this review overrepresented or underrepresented."
+        ],
+        "negative_ctxs": [
+            24,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The systematic review included the following: (i) articles\n(case reports, case series, cohort studies, and case-control)\npublished between January 1966 and December 2016 in the\nEnglish language, (ii) cases with clinical features of DIOLRs\nwith or without cutaneous and/or other mucous membranes\ninvolvement, (iii) only cases where diagnosis of DIOLRs was\nbased on a histopathological examination (hematoxylin and\neosin stain (H&E)) via an oral biopsy with or without a direct\nimmunofluorescence (DIF) analysis, (iv) cases where the culprit\nmedication(s) was/were clearly stated, and (v) cases in\nwhich oral lesions appeared during or after administration of\nsystemic medications only.\nWe excluded randomized and non-randomized trials because\nthey are interventional in nature and cross-sectional\nstudies as they are performed at a single point in time or time\ninterval, so unsuitable to establish a possible causative relationship.\nWe also excluded case(s) with (i) oral involvement\nbut no oral biopsy was taken, (ii) oral and cutaneous\ninvolvement with only a cutaneous biopsy or where the\nlocation of the biopsy was not clearly specified (skin viz.\noral), (iii) only cutaneous lesions, (iv) oral lichenoid reactions\ninduced by dental materials, and (v) preexisting OLP/\nOLLs."
+        ],
+        "negative_ctxs": [
+            19,
+            0
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            6,
+            16
+        ],
+        "positive_ctxs": [
+            13,
+            24,
+            25,
+            26,
+            28
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The systematic review included the following: (i) articles\n(case reports, case series, cohort studies, and case-control)\npublished between January 1966 and December 2016 in the\nEnglish language, (ii) cases with clinical features of DIOLRs\nwith or without cutaneous and/or other mucous membranes\ninvolvement, (iii) only cases where diagnosis of DIOLRs was\nbased on a histopathological examination (hematoxylin and\neosin stain (H&E)) via an oral biopsy with or without a direct\nimmunofluorescence (DIF) analysis, (iv) cases where the culprit\nmedication(s) was/were clearly stated, and (v) cases in\nwhich oral lesions appeared during or after administration of\nsystemic medications only.\nWe excluded randomized and non-randomized trials because\nthey are interventional in nature and cross-sectional\nstudies as they are performed at a single point in time or time\ninterval, so unsuitable to establish a possible causative relationship.\nWe also excluded case(s) with (i) oral involvement\nbut no oral biopsy was taken, (ii) oral and cutaneous\ninvolvement with only a cutaneous biopsy or where the\nlocation of the biopsy was not clearly specified (skin viz.\noral), (iii) only cutaneous lesions, (iv) oral lichenoid reactions\ninduced by dental materials, and (v) preexisting OLP/\nOLLs"
+        ],
+        "negative_ctxs": [
+            0,
+            15
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We excluded randomized and non-randomized trials because\nthey are interventional in nature and cross-sectional\nstudies as they are performed at a single point in time or time\ninterval, so unsuitable to establish a possible causative relationship."
+        ],
+        "negative_ctxs": [
+            29,
+            4
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We performed a computerized\nliterature search for articles published in nine databases from\nJanuary 1966 to December 2016: Ovid MEDLINE, Embase,\nCINAHL, Scopus, Web of Science, Cochrane Libraries,\nProQuest, ClinicalTrials.gov, and Google Scholar"
+        ],
+        "negative_ctxs": [
+            9,
+            16
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "After eliminating duplicates, two investigators (GF and JHS)\nindependently evaluated titles, abstract and full text of all the\nincluded articles. Any disagreement was discussed and resolved\nby consensus between the two investigators."
+        ],
+        "negative_ctxs": [
+            24,
+            4
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Studies that met the inclusion criteria were independently\r\nreviewed by two investigators (GF and JS) who extracted\r\nand tabulated in an Excel sheet the following information"
+        ],
+        "negative_ctxs": [
+            5,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The characteristics of all included case reports/series and studies\nare described in Tables 1, 2, and 3.\n\nIn case reports/series, there was a slightly higher frequency\nin the females (53.7%) than males (44.4%), with a mean age\nof 56.81 (SD 11.72) and the highest number of cases reported\nin Australia (25.5%) followed by USA (19.1%) and Italy\n(14.9%) (Table 1).\nThe median number of culprit medication(s) described was\n1 (Q1-Q3, 1-3) (Table 1), with the most frequent ones being\nMethyldopa with 11 cases (20.37%), Interferon (IFN)-alpha\nwith 6 cases (11.11%), and Imatinib and Infliximab with 5\ncases (9.26%) (Table 2).\nThe median number of concurrent medication(s) described\nwas 2 (Q1-Q3, 1-3) (Table 1), with the most frequent ones\nbeing Potassium chloride with 5 cases (14.29%) and\nAllopurinol and vitamin C with 3 cases (8.57%) (Table 2).\nInterestingly, only 8 (14.8) cases showed no concurrent\nmedications other than the culprit, whereas in 27 other cases,\n1 to 7 concurrent medications were reported (Table 1).\nSimilarly, in only 43 (83.3%) of cases, there was one single\nculprit medication, while in the remaining 9 cases (16.37%), it\nvaried from 2 to 4 (Table 1).\nAdditional information about the frequency of cutaneous\nand other mucous membrane involvement, history of personal\nand family allergy, and direct immunofluorescence (DIF) are\nalso described in Table 3."
+        ],
+        "negative_ctxs": [
+            27,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "only 46 were included for qualitative\nsynthesis\n\nDescriptive statistics were calculated on 54 patients with\nDIOLRs described in 40 case reports/series, including\nmean +- standard deviation for age, medians with interquartile\nrange for timing of latency period, partial/complete resolution\nof oral lesions, and last follow-up, and frequency\ndistribution for offending and concurrent medication distribution,\nclinical characteristics, and algorithms used for adverse\ndrug reactions.\nMann-Whitney U test was used to determine the difference\nof medians of latency period and time partial/complete resolution\nof oral lesions between males (M) and females (F), whereas\nSpearman's correlation (r) was used to identify any correlation\nbetween age and latency period and between age and\ntime partial/complete resolution of oral lesions. Conversely,\nKruskal-Wallis analysis was used to evaluate the difference\nof medians between age, latency period, and time partial/\ncomplete resolution of oral lesions by number of concurrent\nmediation(s)."
+        ],
+        "negative_ctxs": [
+            27,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "only 46 were included for qualitative\r\nsynthesis"
+        ],
+        "negative_ctxs": [
+            28,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "only 46 were included for qualitative\r\nsynthesis"
+        ],
+        "negative_ctxs": [
+            24,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding information No funding source has been provided for this work.\r\nCompliance with ethical standards\r\nConflict of interest The authors declare that they have no conflict of interest."
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Our review has several limitations, mainly related to the fact\nthat our analysis is only based on case reports, since the included\nstudies presented with incomplete data for an accurate\nanalysis regarding drugs and OLLs. Because of their nature,\nthose case reports are unable per se of depicting an accurate\nclinical overview of this entity. Case reports represent the\nlowest level of scientific evidence; they can be biased by the\nauthors as well Fig. 3 Histopathological features: word cloud of the most frequent terms as reviewers who based their assumption on\nprevious similar reports, which might not have used any of the\nmany standardized protocol/algorithm to assess an ADR.\nAnother important limitation is that those included cases\nwere not homogenous: not all cases described information\nregarding all the variables tabulated in Tables 7 and 8.\nAdditionally,many possible cases of DIOLRs might ormight\nnot have been reported only because previous reports on the\nsame medication had already been described in the literature.\nWe excluded all those muco-cutaneous cases where an oral\nbiopsy was not performed. This might have introduced a bias\nin reporting other cases of DIOLRs; however, it would have\nbeen impossible to truly ascertain the nature of the oral lesions,\nwithout a histopathological confirmation from an oral\nbiopsy. If this had been performed in all muco-cutaneous\ncases, we would have probably had a different number of\ncases to be included in our analysis.\nLastly, we still do not have standardized and validated diagnostic\ncriteria for DIOLRs; there is no consensus statement\non this entity. Therefore, if such criteria had existed, some of\nthose case reports would have not fit those criteria, while some\nothers would, thus making the total number of cases included\nin this review overrepresented or underrepresented."
+        ],
+        "negative_ctxs": [
+            9,
+            26
+        ],
+        "positive_ctxs": []
+    }
+]

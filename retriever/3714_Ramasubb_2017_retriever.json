@@ -1,0 +1,492 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "D I F F E R E N C E S B E T W E E N P R O T O C O L A N D R E V I E W We updated our search strategies adding terms for smelly and malodorous tumours."
+        ],
+        "negative_ctxs": [
+            29,
+            43
+        ],
+        "positive_ctxs": [
+            52
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Randomised controlled trials (RCTs) that assessed the eIects\r\nof systemic antibiotics on malignant wounds were eligible for\r\ninclusion. In the absence of RCTs, we would have considered\r\nincluding controlled clinical trials (CCTs) that assessed the eIects\r\nof systemic antibiotics in the treatment of malignant wounds, with\r\na concurrent control group and prospective baseline assessment\r\nof the malignant wound in the review, but no eligible CCTs were\r\nidentified.\r\nTypes of participants\r\nStudies involving people of any age with a clinically diagnosed\r\nmalignant wound resulting from any type of cancer were eligible\r\nfor inclusion. Where diIerences in the definitions of a malignant\r\nwound existed, we accepted the study authors' diagnosis as\r\ndefinitive.\r\nTypes of interventions\r\nStudies evaluating the eIects of any systemic antibiotic used\r\nin the treatment of any type of malignant wound were eligible\r\nfor inclusion. This would have involved including studies that\r\ncompared systemic antibiotics with a placebo, no treatment, or\r\na topical antibiotic; and studies that compared one systemic\r\nantibiotic with another systemic antibio"
+        ],
+        "negative_ctxs": [
+            2,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Randomised controlled trials (RCTs) that assessed the eIects\r\nof systemic antibiotics on malignant wounds were eligible for\r\ninclusion. In the absence of RCTs, we would have considered\r\nincluding controlled clinical trials (CCTs) that assessed the eIects\r\nof systemic antibiotics in the treatment of malignant wounds, with\r\na concurrent control group and prospective baseline assessment\r\nof the malignant wound in the review, but no eligible CCTs were\r\nidentified.\r\nTypes of participants\r\nStudies involving people of any age with a clinically diagnosed\r\nmalignant wound resulting from any type of cancer were eligible\r\nfor inclusion. Where diIerences in the definitions of a malignant\r\nwound existed, we accepted the study authors' diagnosis as\r\ndefinitive.\r\nTypes of interventions\r\nStudies evaluating the eIects of any systemic antibiotic used\r\nin the treatment of any type of malignant wound were eligible\r\nfor inclusion. This would have involved including studies that\r\ncompared systemic antibiotics with a placebo, no treatment, or\r\na topical antibiotic; and studies that compared one systemic\r\nantibiotic with another systemic antibio"
+        ],
+        "negative_ctxs": [
+            20,
+            40
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Types of outcome measures Primary outcomes * Malodour (measured by a validated assessment tool, e.g. the TELER system (Grocott 2001b) which assesses malignant wounds using a 0 to 5 ordinal scale on a number of indicators, for example skin condition, wound exudate and odour. For odour, a score of 0 indicates odour that is obvious in the house/hospital ward. A score of 5 indicates no odour). * Adverse eIects of treatment (e.g. nausea, vomiting, rash or any other adverse eIect as reported by the trial authors). Secondary outcomes * Health-related quality of life (measured using a standardised generic questionnaire such as EQ-5D (Brooks 1996), SF-36 (Jenkinson 1996), or a disease-specific questionnaire). * Exudate/haemorrhage (number of dressing changes). * Pain relief (measured using visual analogue scale or other validated pain-measuring scale). * Cost(including measurements ofresource use, where reported). * Malignant tumour containment or regression as measured by time to progression (WHO 1979)."
+        ],
+        "negative_ctxs": [
+            46,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            50
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Electronic searches\r\nWe searched the following electronic databases to identify reports\r\nof relevant clinical trials:\r\n* the Cochrane Wounds Specialised Register (searched 8 March\r\n2017);\r\n* the Cochrane Central Register of Controlled Trials (CENTRAL;\r\n2017, Issue 3) in the Cochrane Library (searched 8 March 2017);\r\n* MEDLINE Ovid including In-Process & Other Non-Indexed\r\nCitations (1946 to 8 March 2017);\r\n* Embase Ovid (1974 to 8 March 2017);\r\n* CINAHL EBSCO Plus (Cumulative Index to Nursing and Allied\r\nHealth Literature; 1937 to 8 March 2017).\r\nThe search strategies for the Cochrane Wounds Specialised\r\nRegister, CENTRAL, Ovid MEDLINE, Ovid Embase and EBSCO\r\nCINAHL Plus can be found in Appendix 1. We combined the\r\nOvid MEDLINE search with the Cochrane Highly Sensitive Search\r\nStrategy for identifying randomised trials in MEDLINE: sensitivityand precision-maximising version (2008 revision) (Lefebvre 2011).\r\nWe combined the Embase search with the Ovid Embase filter\r\ndeveloped by the UK Cochrane Centre (Lefebvre 2011). We\r\ncombined the CINAHL searches with the trial filters developed by\r\nthe Scottish Intercollegiate Guidelines Network (SIGN 2017). There\r\nwere no restrictions with respect to language, date of publication\r\nor study setting. We also searched the following clinical trials\r\nregistries:\r\n* ClinicalTrials.gov (www.clinicaltrials.gov) (searched 20 March\r\n2017);\r\n* World Health Organization (WHO) International Clinical\r\nTrials Registry Platform (\r\nDefault.aspx) (searched 20 March 2017).\r\nSearch strategies for clinical trial registries can be found in\r\nAppendix 1.\r"
+        ],
+        "negative_ctxs": [
+            28,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            39,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix 1. Central search strategy"
+        ],
+        "negative_ctxs": [
+            7,
+            38
+        ],
+        "positive_ctxs": [
+            39
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            49,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Selection of studies Independently, two review authors (DR and PC) assessed the titles and abstracts of citations identified by the search strategy. The review authors were not blinded to the study authors or to the name of the publication. Full reports of all potentially relevant studies were retrieved for further assessment of eligibility based on the inclusion criteria. Had any disagreements occurred, we had planned to resolve them through discussion and consensus, or, where necessary, in consultation with a third review author (VS); however, this was not require"
+        ],
+        "negative_ctxs": [
+            13,
+            12
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data extraction and management\nTwo review authors (DR and PC) extracted data independently\nusing a pre-designed agreed data extraction form. A third review\nauthor (VS) checked the extracted data for accuracy. Where\ninformation regarding data was unclear (one study), we contacted\nthe lead author of the original trial report for further details;\nhowever, we did not receive a response.\n"
+        ],
+        "negative_ctxs": [
+            43,
+            4
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Summary of findings for the main comparison. Metronidazole compared to Placebo for treating malignant wounds"
+        ],
+        "negative_ctxs": [
+            45,
+            32
+        ],
+        "positive_ctxs": [
+            6,
+            28
+        ]
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Summary of findings for the main comparison. Metronidazole compared to Placebo for treating malignant wounds"
+        ],
+        "negative_ctxs": [
+            8,
+            18
+        ],
+        "positive_ctxs": [
+            6,
+            28
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Assessment of risk of bias in included studies\nIndependently, two review authors (DR and PC) assessed risk\nof bias using the criteria outlined in the Cochrane Handbook\nfor Systematic Reviews of Interventions (Higgins 2011b). T"
+        ],
+        "negative_ctxs": [
+            5,
+            31
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Assessment of risk of bias in included studies Independently, two review authors (DR and PC) assessed risk of bias using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011b). T"
+        ],
+        "negative_ctxs": [
+            3,
+            52
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "S U M M A R Y O F F I N D I N G S Summary of findings for the main comparison. Metronidazole compared to Placebo for treating malignant wounds"
+        ],
+        "negative_ctxs": [
+            7,
+            14
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "D I F F E R E N C E S B E T W E E N P R O T O C O L A N D R E V I E W"
+        ],
+        "negative_ctxs": [
+            11,
+            24
+        ],
+        "positive_ctxs": [
+            0,
+            52
+        ]
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Summary of findings for the main comparison. Metronidazole compared to Placebo for treating malignant wounds"
+        ],
+        "negative_ctxs": [
+            27,
+            16
+        ],
+        "positive_ctxs": [
+            6,
+            28
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Assessment of heterogeneity Had more than one study been included in this review, we would have assessed statistical heterogeneity in each meta-analysis, where performed, using the I2 statistic (Higgins 2011b). We planned to interpret the I2 statistic according to the following thresholds: * 0% to 40%: might not be important; * 40% to 60%: may represent moderate heterogeneity; * more than 60%: may represent substantial heterogeneity. We will apply this interpretation to future updates should additional studies be included in future meta-analyses. We had planned to explore identified heterogeneity visually using forest plots and analytically using sub-group analyses (e.g. for clinical variation such as type of cancer) and random-eIects metaanalyses; we will apply this, if indicated, in future updates."
+        ],
+        "negative_ctxs": [
+            8,
+            49
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            46,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Risk of bias in included studies"
+        ],
+        "negative_ctxs": [
+            50,
+            2
+        ],
+        "positive_ctxs": [
+            26
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Included studies\r\nOne study only met the inclusion criteria (Ashford 1984). This study\r\nwas a prospective, double-blind cross-over trial that compared\r\nthe eIect of systemic metronidazole with a placebo on odour in\r\nmalignant wounds"
+        ],
+        "negative_ctxs": [
+            28,
+            38
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            38,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "D I F F E R E N C E S B E T W E E N P R O T O C O L A N D R E V I E W We updated our search strategies adding terms for smelly and malodorous tumours."
+        ],
+        "negative_ctxs": [
+            13,
+            46
+        ],
+        "positive_ctxs": [
+            52
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Randomised controlled trials (RCTs) that assessed the eIects\r\nof systemic antibiotics on malignant wounds were eligible for\r\ninclusion. In the absence of RCTs, we would have considered\r\nincluding controlled clinical trials (CCTs) that assessed the eIects\r\nof systemic antibiotics in the treatment of malignant wounds, with\r\na concurrent control group and prospective baseline assessment\r\nof the malignant wound in the review, but no eligible CCTs were\r\nidentified.\r\nTypes of participants\r\nStudies involving people of any age with a clinically diagnosed\r\nmalignant wound resulting from any type of cancer were eligible\r\nfor inclusion. Where diIerences in the definitions of a malignant\r\nwound existed, we accepted the study authors' diagnosis as\r\ndefinitive.\r\nTypes of interventions\r\nStudies evaluating the eIects of any systemic antibiotic used\r\nin the treatment of any type of malignant wound were eligible\r\nfor inclusion. This would have involved including studies that\r\ncompared systemic antibiotics with a placebo, no treatment, or\r\na topical antibiotic; and studies that compared one systemic\r\nantibiotic with another systemic antibio"
+        ],
+        "negative_ctxs": [
+            38,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            46
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Electronic searches\r\nWe searched the following electronic databases to identify reports\r\nof relevant clinical trials:\r\n* the Cochrane Wounds Specialised Register (searched 8 March\r\n2017);\r\n* the Cochrane Central Register of Controlled Trials (CENTRAL;\r\n2017, Issue 3) in the Cochrane Library (searched 8 March 2017);\r\n* MEDLINE Ovid including In-Process & Other Non-Indexed\r\nCitations (1946 to 8 March 2017);\r\n* Embase Ovid (1974 to 8 March 2017);\r\n* CINAHL EBSCO Plus (Cumulative Index to Nursing and Allied\r\nHealth Literature; 1937 to 8 March 2017).\r\nThe search strategies for the Cochrane Wounds Specialised\r\nRegister, CENTRAL, Ovid MEDLINE, Ovid Embase and EBSCO\r\nCINAHL Plus can be found in Appendix 1. We combined the\r\nOvid MEDLINE search with the Cochrane Highly Sensitive Search\r\nStrategy for identifying randomised trials in MEDLINE: sensitivityand precision-maximising version (2008 revision) (Lefebvre 2011).\r\nWe combined the Embase search with the Ovid Embase filter\r\ndeveloped by the UK Cochrane Centre (Lefebvre 2011). We\r\ncombined the CINAHL searches with the trial filters developed by\r\nthe Scottish Intercollegiate Guidelines Network (SIGN 2017). There\r\nwere no restrictions with respect to language, date of publication\r\nor study setting. We also searched the following clinical trials\r\nregistries:\r\n* ClinicalTrials.gov (www.clinicaltrials.gov) (searched 20 March\r\n2017);\r\n* World Health Organization (WHO) International Clinical\r\nTrials Registry Platform (\r\nDefault.aspx) (searched 20 March 2017).\r\nSearch strategies for clinical trial registries can be found in\r\nAppendix 1.\r"
+        ],
+        "negative_ctxs": [
+            26,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Selection of studies Independently, two review authors (DR and PC) assessed the titles and abstracts of citations identified by the search strategy. The review authors were not blinded to the study authors or to the name of the publication. Full reports of all potentially relevant studies were retrieved for further assessment of eligibility based on the inclusion criteria. Had any disagreements occurred, we had planned to resolve them through discussion and consensus, or, where necessary, in consultation with a third review author (VS); however, this was not require"
+        ],
+        "negative_ctxs": [
+            48,
+            17
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data extraction and management\nTwo review authors (DR and PC) extracted data independently\nusing a pre-designed agreed data extraction form. A third review\nauthor (VS) checked the extracted data for accuracy. Where\ninformation regarding data was unclear (one study), we contacted\nthe lead author of the original trial report for further details;\nhowever, we did not receive a response.\n"
+        ],
+        "negative_ctxs": [
+            7,
+            20
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Characteristics of excluded studies [ordered by study ID]"
+        ],
+        "negative_ctxs": [
+            27,
+            16
+        ],
+        "positive_ctxs": [
+            37
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Summary of findings for the main comparison. Metronidazole compared to Placebo for treating malignant wounds"
+        ],
+        "negative_ctxs": [
+            32,
+            1
+        ],
+        "positive_ctxs": [
+            6,
+            28
+        ]
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Assessment of risk of bias in included studies\nIndependently, two review authors (DR and PC) assessed risk\nof bias using the criteria outlined in the Cochrane Handbook\nfor Systematic Reviews of Interventions (Higgins 2011b). T"
+        ],
+        "negative_ctxs": [
+            13,
+            25
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Summary of findings for the main comparison. Metronidazole compared to Placebo for treating malignant wounds"
+        ],
+        "negative_ctxs": [
+            52,
+            12
+        ],
+        "positive_ctxs": [
+            6,
+            28
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Assessment of heterogeneity Had more than one study been included in this review, we would have assessed statistical heterogeneity in each meta-analysis, where performed, using the I2 statistic (Higgins 2011b). We planned to interpret the I2 statistic according to the following thresholds: * 0% to 40%: might not be important; * 40% to 60%: may represent moderate heterogeneity; * more than 60%: may represent substantial heterogeneity. We will apply this interpretation to future updates should additional studies be included in future meta-analyses. We had planned to explore identified heterogeneity visually using forest plots and analytically using sub-group analyses (e.g. for clinical variation such as type of cancer) and random-eIects metaanalyses; we will apply this, if indicated, in future updates."
+        ],
+        "negative_ctxs": [
+            28,
+            41
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            36,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Risk of bias in included studies"
+        ],
+        "negative_ctxs": [
+            24,
+            13
+        ],
+        "positive_ctxs": [
+            26
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "y. Details of study funding are also not provided in the study report; however, it is noted that the placebo was provided by a pharmaceutical company"
+        ],
+        "negative_ctxs": [
+            20,
+            0
+        ],
+        "positive_ctxs": [
+            26
+        ]
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "S O U R C E S O F S U P P O R T Internal sources * No sources of support supplied External sources * This project was supported by the National Institute for Health Research (NIHR) via Cochrane Infrastructure funding to Cochrane Wounds. The views and opinions expressed herein are those of the authors and do not necessarily reflect those of the Systematic Reviews Programme, NIHR, NHS or the Department of Health, UK."
+        ],
+        "negative_ctxs": [
+            40,
+            7
+        ],
+        "positive_ctxs": [
+            52
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            25
+        ],
+        "positive_ctxs": []
+    }
+]

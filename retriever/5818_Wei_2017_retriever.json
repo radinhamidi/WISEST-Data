@@ -1,0 +1,468 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Inclusion criteria were prospective clinical trials (phase II or beyond) comprising at least 10 cases with advanced biliary cancer only; anti-EGFR therapies were applied as the only targeted therapy with or without chemotherapy; and reported events or incidents of toxic effect (i.e., skin rash). "
+        ],
+        "negative_ctxs": [
+            16,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Inclusion criteria were prospective clinical trials (phase II or beyond) comprising at least 10 cases with advanced biliary cancer only; anti-EGFR therapies were applied as the only targeted therapy with or without chemotherapy; and reported events or incidents of toxic effect (i.e., skin rash). "
+        ],
+        "negative_ctxs": [
+            0,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "\"Inclusion criteria were prospective clinical trials (phase II or beyond) comprising at least 10 cases\""
+        ],
+        "negative_ctxs": [
+            13,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "The language was restricted to English."
+        ],
+        "negative_ctxs": [
+            17,
+            8
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We carried out a systematic search of PubMed, Web of Science, Cochrane Library databases and abstracts from the American Society of Clinical Oncology annual meetings held between January 2013 and August 2017."
+        ],
+        "negative_ctxs": [
+            13,
+            17
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "An additional search from relevant references was manually performed for further supplementation."
+        ],
+        "negative_ctxs": [
+            8,
+            17
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Search terms included 'cetuximab', 'erlotinib', 'panitumumab', 'biliary', 'cholangiocarcinoma' and 'gallbladder'."
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "The language was restricted to English.\n\nWe carried out a systematic search of PubMed, Web of Science, Cochrane Library databases and abstracts from the American Society of Clinical Oncology annual meetings held between January 2013 and August 2017. "
+        ],
+        "negative_ctxs": [
+            4,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "A total of 714 patients who received anti-EGFR treatment from 13 trials were available for analysis of all-grade skin rash, with an incidence ranging from 55.6-94.3%."
+        ],
+        "negative_ctxs": [
+            14,
+            1
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Heterogeneity was evaluated by Cochrane's Q statistic. When the p value was < 0.1 the assumption of homogeneity was deemed invalid , and a random-effects model was used after meticulous exploration of causes of heterogeneity. Otherwise, when the p value was > 0.1, a fixed-effects model was preferred.\n\nUsing the random effects model, we found that all-grade skin rash occurred with an incidence of 78.2% (95% CI 70.4-84.3) in patients who received anti-EGFR treatment.\n\nFig. 2 Forest plot for metaanalysis of incidence of all-grade skin rash in patients with advanced biliary cancers who were treated with anti-EGFR therapies. The fixed-effects model was used for patients treated with cetuximab (a). The random-effects model was used for patients treated with erlotinib (b), panitumumab (c) or\noverall anti-EGFR therapies (d) ..."
+        ],
+        "negative_ctxs": [
+            2,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The heterogeneity of the 13 trials included was detected (Q = 56.0, p < 0.001). Potential causes for heterogeneity were explored by subgroup analysis of a different type of anti-EGFR treatment.\nWe found that heterogeneity exists in erlotinib- or\npanitumumab-based trials, although it was not detected in\ncetuximab-based trials (Fig. 2) in which a relative fixed dose\nwas used with similar chemotherapy regimens. The observed\nheterogeneity was possibly due to a dose difference and\ndifferent chemotherapy combinations"
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "This study has several limitations. First, this is a metaanalysis\ncarried out at study level, meaning that different\nconfounding factors from the patient level are unable to be\nassessed and incorporated into the analysis. Second, the\nincidents of all-grade and high-grade skin rash demonstrated\nsignificant heterogeneity among different studies.\nThis might be explained in part by the fact that differences\noccur in treatment type, drug dose, concomitant chemotherapy,\nstudy population, and CTCAE versions for recording\nadverse events. Third, some studies did not report a correlation\nbetween rash and clinical benefit, which might lead to\nreduced power of our stratified analysis to reach a definitive\nconclusion. However, the current results were still significant\nand encouraging. Fourth, two studies [8, 31] recorded\nthe side-effects as skin toxicity instead of rash, which might\noverestimate the incidence of anti-EGFR-induced rash,\nalthough rash is a classical and indispensable stage of anti-\nEGFR-induced toxic effects on the skin . Finally, the\nrelatively low incidence of biliary cancer and corresponding\nsmall sample sizes involved in the current analysis\nmight limit our findings, although pooled data were already\nendowed with much more statistical power than individual\ntrials."
+        ],
+        "negative_ctxs": [
+            14,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "We yielded 276 articles after the initial literature search, from which 17 potentially relevant clinical trials [5-9, 24-32, 37-39] were further selected for assessment (Fig. 1). Three trials were excluded because the number of\npatients was <10 (n = 1) ; inclusion of other targeted\ntherapies (n = 1) ; and inclusion of the same patient\ncohort from published data (n = 1) ."
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Inclusion criteria were prospective clinical trials (phase II or beyond) comprising at least 10 cases with advanced biliary cancer only; anti-EGFR therapies were applied as the only targeted therapy with or without chemotherapy; and reported events or incidents of toxic effect (i.e., skin rash). "
+        ],
+        "negative_ctxs": [
+            11,
+            13
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "\"Inclusion criteria were prospective clinical trials (phase II or beyond)\""
+        ],
+        "negative_ctxs": [
+            7,
+            20
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We carried out a systematic search of PubMed, Web of Science, Cochrane Library databases and abstracts from the American Society of Clinical Oncology annual meetings held between January 2013 and August 2017."
+        ],
+        "negative_ctxs": [
+            16,
+            19
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Heterogeneity was evaluated by Cochrane's Q statistic. When the p value was < 0.1 the assumption of homogeneity was deemed invalid , and a random-effects model was used after meticulous exploration of causes of heterogeneity. Otherwise, when the p value was > 0.1, a fixed-effects model was preferred.\n\nUsing the random effects model, we found that all-grade skin rash occurred with an incidence of 78.2% (95% CI 70.4-84.3) in patients who received anti-EGFR treatment.\n\nFig. 2 Forest plot for metaanalysis of incidence of all-grade skin rash in patients with advanced biliary cancers who were treated with anti-EGFR therapies. The fixed-effects model was used for patients treated with cetuximab (a). The random-effects model was used for patients treated with erlotinib (b), panitumumab (c) or\noverall anti-EGFR therapies (d) ..."
+        ],
+        "negative_ctxs": [
+            1,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The heterogeneity of the 13 trials included was detected (Q = 56.0, p < 0.001). Potential causes for heterogeneity were explored by subgroup analysis of a different type of anti-EGFR treatment.\nWe found that heterogeneity exists in erlotinib- or\npanitumumab-based trials, although it was not detected in\ncetuximab-based trials (Fig. 2) in which a relative fixed dose\nwas used with similar chemotherapy regimens. The observed\nheterogeneity was possibly due to a dose difference and\ndifferent chemotherapy combinations"
+        ],
+        "negative_ctxs": [
+            2,
+            12
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Acknowledgements: This study was supported by the China Scholarship Council (CSC no. 201606320156 to FQ Wei). \n\nConflict of interest: The authors have no conflict of interest to disclose."
+        ],
+        "negative_ctxs": [
+            8,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "This study has several limitations. First, this is a metaanalysis\ncarried out at study level, meaning that different\nconfounding factors from the patient level are unable to be\nassessed and incorporated into the analysis. Second, the\nincidents of all-grade and high-grade skin rash demonstrated\nsignificant heterogeneity among different studies.\nThis might be explained in part by the fact that differences\noccur in treatment type, drug dose, concomitant chemotherapy,\nstudy population, and CTCAE versions for recording\nadverse events. Third, some studies did not report a correlation\nbetween rash and clinical benefit, which might lead to\nreduced power of our stratified analysis to reach a definitive\nconclusion. However, the current results were still significant\nand encouraging. Fourth, two studies [8, 31] recorded\nthe side-effects as skin toxicity instead of rash, which might\noverestimate the incidence of anti-EGFR-induced rash,\nalthough rash is a classical and indispensable stage of anti-\nEGFR-induced toxic effects on the skin . Finally, the\nrelatively low incidence of biliary cancer and corresponding\nsmall sample sizes involved in the current analysis\nmight limit our findings, although pooled data were already\nendowed with much more statistical power than individual\ntrials."
+        ],
+        "negative_ctxs": [
+            6,
+            0
+        ],
+        "positive_ctxs": []
+    }
+]

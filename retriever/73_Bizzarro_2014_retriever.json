@@ -1,0 +1,448 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "D I F F E R E N C E S \u0003 B E T W E E N \u0003 P R O T O C O L \u0003 A N D \u0003 R E V I E W\r\nFebruary 2014\r\n1. One new author was included (Fabiano T Barbosa).\r\n2. We updated the methods section. Risk of bias tools were included in this updated review and items analysed before in 'risk of bias\r\nin included studies' (method of randomization, concealment of allocation, blinding of intervention, completeness of follow up, and\r\nblinded outcome assessment) were renamed to random sequence generation, allocation concealment, blinding of participants and\r\npersonnel, blinding of outcome assessment, incomplete outcome data, selective reporting, and other bias.\r\n3. Items of the risk of bias tables were reanalysed\n4. We included a summary of findings table."
+        ],
+        "negative_ctxs": [
+            24,
+            67
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "To compare the effects of postoperative administration of iNO\r\nversus placebo or conventional management, or both, on infants\r\nand children with CHD and pulmonary hypertension.\n\nCriteria for considering studies for this review\r\nTypes of studies\r\nWe evaluated randomized controlled trials (RCTs) and quasirandomized\r\ncontrolled trials that compared the use of iNO with\r\nplacebo or conventional management strategies, or both, and\r\nincluded at least one outcome of interest. We considered both\r\nparallel and cross-over design trials for inclusion.\r\nTypes of participants\r\nWe included infants and children aged one day to 14 years with\r\nCHD requiring surgical repair and with evidence of pulmonary\r\nhypertension in the pre- or postoperative period. We excluded\r\npreterm neonates.\r\nTypes of interventions\r\nWe evaluated the use of iNO at various concentrations ranging from\r\nfive to 80 ppm when given in the postoperative period.\r\nWe evaluated placebo, administered as nitrogen gas (N2), as a\r\ncontrol.\r\nConventional management included hyperventilation to induce\r\nrespiratory alkalosis, use of sodium bicarbonate to induce\r\nmetabolic alkalosis, use of intravenous inotropic and vasodilatory\r\nagents, and use of intravenous sedatives and neuromuscular\r\nblockade in an attempt to improve pulmonary blood flow (Whittsett\r\n1999).\r\nTypes of outcome measures\r\nPrimary outcomes\r\n1. Long-term mortality\r\n2. Mortality prior to discharge\r\nSecondary outcomes\r\n1. Length of stay in intensive care unit or hospital\r\n2. Incidence and severity of neurodevelopmental disability\r\n3. Incidence of PHTC\r\n4. Change in MPAP\r\n5. Change in MAP\r\n6. Change in HR\r\n7. Change in ratio of arterial oxygen tension (PaO2) to fraction of\r\ninspired oxygen (FiO2)\r\n8. Maximum methaemoglobin level"
+        ],
+        "negative_ctxs": [
+            54,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Criteria for considering studies for this review\nTypes of studies\nWe evaluated randomized controlled trials (RCTs) and quasirandomized\ncontrolled trials that compared the use of iNO with\nplacebo or conventional management strategies, or both, and\nincluded at least one outcome of interest. We considered both\nparallel and cross-over design trials for inclusion.\nTypes of participants\nWe included infants and children aged one day to 14 years with\nCHD requiring surgical repair and with evidence of pulmonary\nhypertension in the pre- or postoperative period. We excluded\npreterm neonates.\nTypes of interventions\nWe evaluated the use of iNO at various concentrations ranging from\nfive to 80 ppm when given in the postoperative period.\nWe evaluated placebo, administered as nitrogen gas (N2), as a\ncontrol.\nConventional management included hyperventilation to induce\nrespiratory alkalosis, use of sodium bicarbonate to induce\nmetabolic alkalosis, use of intravenous inotropic and vasodilatory\nagents, and use of intravenous sedatives and neuromuscular\nblockade in an attempt to improve pulmonary blood flow (Whittsett\n1999).\nTypes of outcome measures\nPrimary outcomes\n1. Long-term mortality\n2. Mortality prior to discharge\nSecondary outcomes\n1. Length of stay in intensive care unit or hospital\n2. Incidence and severity of neurodevelopmental disability\n3. Incidence of PHTC\n4. Change in MPAP\n5. Change in MAP\n6. Change in HR\n7. Change in ratio of arterial oxygen tension (PaO2) to fraction of\ninspired oxygen (FiO2)\n8. Maximum methaemoglobin level"
+        ],
+        "negative_ctxs": [
+            56,
+            64
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Criteria for considering studies for this review\nTypes of studies\nWe evaluated randomized controlled trials (RCTs) and quasirandomized\ncontrolled trials that compared the use of iNO with\nplacebo or conventional management strategies, or both, and\nincluded at least one outcome of interest. We considered both\nparallel and cross-over design trials for inclusion.\nTypes of participants\nWe included infants and children aged one day to 14 years with\nCHD requiring surgical repair and with evidence of pulmonary\nhypertension in the pre- or postoperative period. We excluded\npreterm neonates.\nTypes of interventions\nWe evaluated the use of iNO at various concentrations ranging from\nfive to 80 ppm when given in the postoperative period.\nWe evaluated placebo, administered as nitrogen gas (N2), as a\ncontrol.\nConventional management included hyperventilation to induce\nrespiratory alkalosis, use of sodium bicarbonate to induce\nmetabolic alkalosis, use of intravenous inotropic and vasodilatory\nagents, and use of intravenous sedatives and neuromuscular\nblockade in an attempt to improve pulmonary blood flow (Whittsett\n1999).\nTypes of outcome measures\nPrimary outcomes\n1. Long-term mortality\n2. Mortality prior to discharge\nSecondary outcomes\n1. Length of stay in intensive care unit or hospital\n2. Incidence and severity of neurodevelopmental disability\n3. Incidence of PHTC\n4. Change in MPAP\n5. Change in MAP\n6. Change in HR\n7. Change in ratio of arterial oxygen tension (PaO2) to fraction of\ninspired oxygen (FiO2)\n8. Maximum methaemoglobin level\n\nAssessment of risk of bias in included studies\r\nTwo authors (MB and IG) independently assessed the methodologic\r\nquality of each included trial following the guidelines described\r\nby The Cochrane Collaboration in the Cochrane Handbook for\r\nSystematic Reviews of Interventions 5.1.0 (Higgins 2011). A copy of\r\nthe form that we used to do this assessment is in Appendix 4.\r\nWe resolved any discrepancies in this assessment by a consensus\r\nmeeting. No third-party intervention was required. We used the\r\n'risk of bias' tool in RevMan 5.2 (RevMan 5.2). We assessed the risk\r\nof bias (when there is an error in the conduct of the trial that could\r\nlead to a misleading result) based on the information presented in\r\nthe papers. We did not contact authors for clarification. We used the\r\nfollowing as the assessment criteria."
+        ],
+        "negative_ctxs": [
+            7,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Criteria for considering studies for this review\nTypes of studies\nWe evaluated randomized controlled trials (RCTs) and quasirandomized\ncontrolled trials that compared the use of iNO with\nplacebo or conventional management strategies, or both, and\nincluded at least one outcome of interest. We considered both\nparallel and cross-over design trials for inclusion.\nTypes of participants\nWe included infants and children aged one day to 14 years with\nCHD requiring surgical repair and with evidence of pulmonary\nhypertension in the pre- or postoperative period. We excluded\npreterm neonates.\nTypes of interventions\nWe evaluated the use of iNO at various concentrations ranging from\nfive to 80 ppm when given in the postoperative period.\nWe evaluated placebo, administered as nitrogen gas (N2), as a\ncontrol.\nConventional management included hyperventilation to induce\nrespiratory alkalosis, use of sodium bicarbonate to induce\nmetabolic alkalosis, use of intravenous inotropic and vasodilatory\nagents, and use of intravenous sedatives and neuromuscular\nblockade in an attempt to improve pulmonary blood flow (Whittsett\n1999).\nTypes of outcome measures\nPrimary outcomes\n1. Long-term mortality\n2. Mortality prior to discharge\nSecondary outcomes\n1. Length of stay in intensive care unit or hospital\n2. Incidence and severity of neurodevelopmental disability\n3. Incidence of PHTC\n4. Change in MPAP\n5. Change in MAP\n6. Change in HR\n7. Change in ratio of arterial oxygen tension (PaO2) to fraction of\ninspired oxygen (FiO2)\n8. Maximum methaemoglobin level\n\nWe did not apply any language\r\nrestrictions during the literature search or for trial inclusion.\n\nAssessment of risk of bias in included studies\nTwo authors (MB and IG) independently assessed the methodologic\nquality of each included trial following the guidelines described\nby The Cochrane Collaboration in the Cochrane Handbook for\nSystematic Reviews of Interventions 5.1.0 (Higgins 2011). A copy of\nthe form that we used to do this assessment is in Appendix 4.\nWe resolved any discrepancies in this assessment by a consensus\nmeeting. No third-party intervention was required. We used the\n'risk of bias' tool in RevMan 5.2 (RevMan 5.2). We assessed the risk\nof bias (when there is an error in the conduct of the trial that could\nlead to a misleading result) based on the information presented in\nthe papers. We did not contact authors for clarification. We used the\nfollowing as the assessment criteria.\n\nDealing with missing data\r\nWe contacted the trial authors to clarify missing or unclear data\r\nwhen necessary."
+        ],
+        "negative_ctxs": [
+            46,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Electronic searches\r\nIn our original review we searched the Cochrane Central Register\r\nof Controlled Trials (CENTRAL) (The Cochrane Library 2004, Issue 3),\r\nMEDLINE (January 1966 to 1 July 2004) and EMBASE (January 1980\r\nto 1 July 2004) (Bizzarro 2005). For our first update, the search was\r\nextended from 1 July 2004 through to 1 November 2007.\r\nIn this latest updated version we searched CENTRAL through to\r\n2013, Issue 12 of The Cochrane Library, and MEDLINE and EMBASE\r\nthrough to 1 December 2013. We used filters to identify RCTs in\nMEDLINE (Dickersin 1994) and EMBASE (Lefebvre 1996). We limited\r\nthe searches to studies in humans. We did not apply any language\r\nrestrictions during the literature search or for trial inclusion. We\r\nincluded abstracts in this search and handsearched conference\r\nabstracts for relevant studies. We retrieved all eligible studies in full\r\ntext."
+        ],
+        "negative_ctxs": [
+            2,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Searching other resources\r\nWe searched the reference lists of identified review articles and all\r\nincluded studies in an attempt to identify other potentially eligible\r\nstudies. We undertook personal communication with primary\r\nauthors to identify unpublished data, when necessary"
+        ],
+        "negative_ctxs": [
+            9,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix 1. Search strategy for CENTRAL\n\u0013\n#1 HEART DEFECTS CONGENITAL\n#2 (congenital near heart)\n#3 (heart near defect*)\n#4 (heart near abnormal*)\n#5 (#1 or #2 or #3 or #4)\n#6 NITRIC OXIDE\n#7 (nitric next oxide)\n#8 ino\n#9 (#6 or #7 or #8)\n#10 (#5 and #9)\nAppendix 2. Search strategy for MEDLINE\r\n\u0013\r\n#1 exp Heart Defects, Congenital/\r\n#2 (congenital$ adj3 heart).tw.\r\n#3 (heart adj3 defect$).tw.\r\n#4 (heart adj3 abnormal$).tw.\r\n#5 or/1-4\r\n#6 Nitric oxide/\r\n#7 nitric oxide.tw.\r\n#8 ino.tw.\r\n#9 or/6-8\n#10 5 and 9\r\n+ RCT filter terms.\r\nAppendix 3. Search strategy for EMBASE\r\n#1 exp CHD/\r\n#2 (congenital$ adj3 heart).tw.\r\n#3 (heart adj3 defect$).tw.\r\n#4 (heart adj3 abnormal$).tw.\r\n#5 or/1-4\r\n#6 Nitric oxide/\r\n#7 nitric oxide.tw.\r\n#8 ino.tw.\r\n#9 or/6-8\r\n#10 5 and 9\r\n#11 random$.ti,ab.\r\n#12 factorial$.ti,ab.\r\n#13 (crossover$ or cross over$ or cross-over$).ti,ab.\r\n#14 placebo$.ti,ab.\r\n#15 (double$ adj blind$).ti,ab.\r\n#16 (singl$ adj blind$).ti,ab.\r\n#17 assign$.ti,ab.\r\n#18 allocat$.ti,ab.\r\n#19 volunteer$.ti,ab.\r\n#20 Crossover Procedure/\r\n#21 Double Blind Procedure/\r\n#22 Randomized Controlled Trial/\r\n#23 Single Blind Procedure/\r\n#24 or/11-23\r\n#25 exp animal/\r\n#26 nonhuman/\r\n#27 exp animal experiment/\r\n#28 or/25-27\r\n#29 exp human/\r\n#30 28 not 29\r\n#31 24 not 30\r\n#32 10 and 31"
+        ],
+        "negative_ctxs": [
+            8,
+            63
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Appendix 1. Search strategy for CENTRAL\n\u0013\n#1 HEART DEFECTS CONGENITAL\n#2 (congenital near heart)\n#3 (heart near defect*)\n#4 (heart near abnormal*)\n#5 (#1 or #2 or #3 or #4)\n#6 NITRIC OXIDE\n#7 (nitric next oxide)\n#8 ino\n#9 (#6 or #7 or #8)\n#10 (#5 and #9)\nAppendix 2. Search strategy for MEDLINE\r\n\u0013\r\n#1 exp Heart Defects, Congenital/\r\n#2 (congenital$ adj3 heart).tw.\r\n#3 (heart adj3 defect$).tw.\r\n#4 (heart adj3 abnormal$).tw.\r\n#5 or/1-4\r\n#6 Nitric oxide/\r\n#7 nitric oxide.tw.\r\n#8 ino.tw.\r\n#9 or/6-8\n#10 5 and 9\r\n+ RCT filter terms.\r\nAppendix 3. Search strategy for EMBASE\r\n#1 exp CHD/\r\n#2 (congenital$ adj3 heart).tw.\r\n#3 (heart adj3 defect$).tw.\r\n#4 (heart adj3 abnormal$).tw.\r\n#5 or/1-4\r\n#6 Nitric oxide/\r\n#7 nitric oxide.tw.\r\n#8 ino.tw.\r\n#9 or/6-8\r\n#10 5 and 9\r\n#11 random$.ti,ab.\r\n#12 factorial$.ti,ab.\r\n#13 (crossover$ or cross over$ or cross-over$).ti,ab.\r\n#14 placebo$.ti,ab.\r\n#15 (double$ adj blind$).ti,ab.\r\n#16 (singl$ adj blind$).ti,ab.\r\n#17 assign$.ti,ab.\r\n#18 allocat$.ti,ab.\r\n#19 volunteer$.ti,ab.\r\n#20 Crossover Procedure/\r\n#21 Double Blind Procedure/\r\n#22 Randomized Controlled Trial/\r\n#23 Single Blind Procedure/\r\n#24 or/11-23\r\n#25 exp animal/\r\n#26 nonhuman/\r\n#27 exp animal experiment/\r\n#28 or/25-27\r\n#29 exp human/\r\n#30 28 not 29\r\n#31 24 not 30\r\n#32 10 and 31"
+        ],
+        "negative_ctxs": [
+            34,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two authors independently read the RCTs identified through\nsearching electronic databases and handsearching of journals.\nUsing the inclusion and exclusion criteria defined above, the\nauthors reached consensus as to which studies were included in the\nreview."
+        ],
+        "negative_ctxs": [
+            12,
+            45
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two authors (MB and IG) independently extracted and collected\r\ndata on a paper form (Appendix 4). We contacted the authors\r\nof trials, when necessary, to obtain raw data not presented in\r\nthe trial report but necessary for the analysis. We resolved any\r\ndiscrepancies in a consensus meeting."
+        ],
+        "negative_ctxs": [
+            68,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Included studies\nThree of the trials were of parallel design (Day 2000; Miller 2000;\nRussell 1998) while the fourth employed a cross-over design (Morris\n2000). However, using the recommendations from The Cochrane\nCollaboration for evaluation of a cross-over trial (Alderson 2002),\nthe authors concluded that the inclusion of this study into the\nreview was valid. The details of the participants and interventions\ncan be found in the table Characteristics of included studies.\nEach of the four trials included in the review evaluated the\nuse of postoperative iNO in infants and children with CHD\nnecessitating repair. All included participants were identified as\nhaving pulmonary hypertension either in the preoperative or\npostoperative period. In three of the studies (Day 2000; Morris 2000;\nRussell 1998) postoperative pulmonary hypertension was used as\na criterion either for inclusion or for a separate subgroup analysis.\nOne of the RCTs (Miller 2000) utilized preoperative diagnosis as\npart of the entry criteria into the trial but did not comment on the\npresence or absence of postoperative pulmonary hypertension in\nindividual included participants.\nIn each RCT children were the primary patient population studied.\nRussell 1998 included 35 patients aged 2 days to 6.5 years. Day 2000\nincluded 44 patients aged 1 day to 20 years (and 2 adults). Morris\n2000 included 12 patients with an age range from 1 month to 17\nyears (1 adult). Miller 2000 did not specifically list the age range\nof their patient population but instead commented on inclusion\nof 124 patients with a median age of 3 months in the treatment\ngroup and 2 months in the control group. We excluded data on adult\npatients (defined as greater than or equal to 17 years of age) from\nthe analysis.\nThe RCTs diBered with respect to the method of treatment utilized\nin the control groups. Day 2000 compared the use of iNO with\n'conventional treatment' in the control group. No strict criteria\nor definition of 'conventional management' were utilized in this\ntrial and management of the control group was instead leP to\nthe discretion of the attending cardiothoracic surgeon. Morris\n2000 employed a cross-over method with patients randomized\nto receive either iNO in the treatment group or hyperventilation\nas the treatment comparison in the control group (oPen part of\nthe conventional management protocol). This trial utilized a 30-\nminute washout period between treatments. With the exception\nof the intervention, patient management was similar in both\ngroups. Russell 1998 and Miller 2000 initiated iNO in the treatment\ngroup versus placebo in the control group, although underlying\nconventional therapies (such as hyperventilation and the use of\ninotropes) were maintained in both groups.\nThe trials also diBered with respect to onset and duration of iNO\ntherapy in the postoperative period. Russell 1998 initiated iNO or\nplacebo therapy immediately aPer patients were removed from\ncardiopulmonary bypass and continued treatment for a total of 20\nminutes. Day 2000 initiated therapy upon the patient's arrival in the\nintensive care unit (ICU) and continued treatment until extubation,\nalthough data collection occurred at one hour aPer initiation of\ntherapy. Morris 2000 used a cross-over study design comparing iNO\nwith hyperventilation. Treatment was initiated at a mean of 8.5\nhours postoperation (range 4 to 40 hours) and each treatment was\ngiven for a period of 30 minutes. Miller 2000 initiated therapy just\naPer completion of surgery and continued iNO or placebo for a\nmaximum of seven days.\nThe concentration of iNO utilized also diBered among studies.\nRussell 1998 initiated iNO at 80 ppm while Day 2000 initiated\n20 ppm. Morris 2000 initiated a 5 ppm concentration of iNO for\n15 minutes and then 40 ppm for the remaining 15 minutes of\ntreatment (although data were presented only for outcomes on 40\nppm). Miller 2000 initiated iNO at 10 ppm and continued the use of\nthis concentration throughout the duration of the study."
+        ],
+        "negative_ctxs": [
+            37,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Mortality prior to discharge\r\nMortality was reported in two of the four trials included in this\r\nreview (Day 2000; Miller 2000). Day 2000 reported no deaths in\r\neither the treatment or control group whereas Miller 2000 observed\r\nfive deaths out of the 63 children in the treatment group and three\r\nof 61 in the control group (although only one death in each group\r\nwas believed to be related to a PHTC). The data presented were\r\nfrom parallel trials only and, therefore, we decided to calculate an\r\nOR. The analysis showed no statistically significant diBerence with\r\nrespect to mortality between the two groups (OR 1.67, 95% CI 0.38\r\nto 7.30; P = 0.50) (Analysis 1.1; Figure 4).\n\nMean number of pulmonary hypertensive crises (PHTC)\r\nThis outcome was reported only in Day 2000 with 3 PHTC out of\r\nthe 18 children in the treatment group and 4 PHTC out of the 20\r\nchildren in the control group. The data were from a parallel trial and\r\nwe calculated an OR. The analysis showed no significant diBerence\r\nwith respect to the absolute number of PHTC in the treatment\r\nversus the control groups (OR 0.80, 95% CI 0.15 to 4.18; P = 0.79)\r\n(Analysis 1.2).\r\nDi/erence in mean pulmonary arterial pressure (MPAP) change\r\nscore\r\nThis outcome was initially reported in two of the four trials (Morris\r\n2000; Russell 1998) and recorded, but not reported, in a third (Day\r\n2000). As a result, we obtained and analysed the raw, individual\r\npatient data from the investigators. A reduction in MPAP was\r\nconsidered a favourable outcome.\r\nOverall, the meta-analysis revealed no significant change in MPAP\r\nbetween iNO and control (treatment eBect -2.94 mm Hg, 95% CI\r\n-9.28 to 3.40; P = 0.36). The level of heterogeneity (I2 = 45%) was just\r\nbelow that considered significant (Analysis 1.3).\r\nDi/erence in mean arterial pressure (MAP) change score\r\nThis outcome was reported in three of the included trials (Day 2000;\r\nMorris 2000; Russell 1998). A reduction in MAP was considered an\r\nunfavourable outcome whereas no change or an increase in MAP\r\nfrom baseline was considered favourable.\r\nOverall, the meta-analysis revealed no significant diBerence in\r\neBect between the two groups (treatment eBect -3.55 mm Hg, 95%\r\nCI -11.86 to 4.76; P = 0.40). We observed no heterogeneity (I2 = 0%)\r\nbetween trials (Analysis 1.4).\r\nDifference in heart rate (HR) change score\r\nThis outcome was reported in three of the four trials (Day 2000;\r\nMorris 2000; Russell 1998). A reduction in HR, assuming constant\r\nstroke volume, was considered an unfavourable outcome as\r\ncompared to no change or an increase from baseline.\r\nOverall, the meta-analysis did not show a significant diBerence in\r\noverall eBect in either group (treatment eBect 0.02 bpm, 95% CI\r\n-8.13 to 8.18; P = 1.00). We observed no heterogeneity between\r\nstudies (I2 = 0%) (Analysis 1.5).\r\nDi/erence in PaO2:FiO2 change score\r\nOnly one parallel trial (Day 2000) included this outcome. An\r\nincrease in this ratio was considered a favourable outcome and\r\nindicative of improved arterial oxygenation. The trial observed no\r\nsignificant change in the ratio with the use of iNO as compared with\r\ncontrol (MD 17.18, 95% CI -28.21 to 62.57; P = 0.46) (Analysis 1.6).\r\nMaximum methaemoglobin level\r\nThis outcome was reported in only one of the four studies (Day\r\n2000). An increase in methaemoglobin level was considered an\r\nunfavourable outcome. These data were from a parallel trial and\r\nthus we calculated a weighted mean diBerence. Overall, there was a\r\nsignificantly elevated methaemoglobin level in the iNO group when\r\ncompared to control (MD 0.30%, 95% CI 0.24 to 0.36; P < 0.00001).\r\nHowever, the maximum methaemoglobin level did not approach\r\ntoxicity levels (> 10%) (Analysis 1.7)."
+        ],
+        "negative_ctxs": [
+            41,
+            54
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two authors (MB and IG) independently assessed the methodologic\r\nquality of each included trial following the guidelines described\r\nby The Cochrane Collaboration in the Cochrane Handbook for\r\nSystematic Reviews of Interventions 5.1.0 (Higgins 2011). A copy of\r\nthe form that we used to do this assessment is in Appendix 4.\r\nWe resolved any discrepancies in this assessment by a consensus\r\nmeeting. No third-party intervention was required. We used the\r\n'risk of bias' tool in RevMan 5.2 (RevMan 5.2). We assessed the risk\r\nof bias (when there is an error in the conduct of the trial that could\r\nlead to a misleading result) based on the information presented in\r\nthe papers. We did not contact authors for clarification. We used the\r\nfollowing as the assessment criteria."
+        ],
+        "negative_ctxs": [
+            59,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two authors (MB and IG) independently assessed the methodologic\r\nquality of each included trial following the guidelines described\r\nby The Cochrane Collaboration in the Cochrane Handbook for\r\nSystematic Reviews of Interventions 5.1.0 (Higgins 2011). A copy of\r\nthe form that we used to do this assessment is in Appendix 4.\r\nWe resolved any discrepancies in this assessment by a consensus\r\nmeeting. No third-party intervention was required. We used the\r\n'risk of bias' tool in RevMan 5.2 (RevMan 5.2). We assessed the risk\r\nof bias (when there is an error in the conduct of the trial that could\r\nlead to a misleading result) based on the information presented in\r\nthe papers. We did not contact authors for clarification. We used the\r\nfollowing as the assessment criteria."
+        ],
+        "negative_ctxs": [
+            32,
+            56
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "In our original review we identified six trials that were relevant\r\nto our topic of interest (Bizzarro 2005). We included four RCTs\r\nin the review (Day 2000; Miller 2000; Morris 2000; Russell 1998)\r\nand excluded two studies (Argenziano 1998; Matsui 1997). In\r\nour first update (search to November 2007) we identified two\r\nrelevant studies and excluded both (Khazin 2004; Smith 2006).\r\nFor this updated search (from November 2007 to 1 December\r\n2013) we excluded 49 studies considering the inclusion criteria and\r\nidentified three additional relevant trials (Checchia 2013; Kirbas\r\n2012; Loukhanov 2011) but none met out inclusion criteria. For a\r\nsummary of the search see Figure 1."
+        ],
+        "negative_ctxs": [
+            28,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "D I F F E R E N C E S \u0003 B E T W E E N \u0003 P R O T O C O L \u0003 A N D \u0003 R E V I E W\nFebruary 2014\n1. One new author was included (Fabiano T Barbosa).\n2. We updated the methods section. Risk of bias tools were included in this updated review and items analysed before in 'risk of bias\nin included studies' (method of randomization, concealment of allocation, blinding of intervention, completeness of follow up, and\nblinded outcome assessment) were renamed to random sequence generation, allocation concealment, blinding of participants and\npersonnel, blinding of outcome assessment, incomplete outcome data, selective reporting, and other bias.\n3. Items of the risk of bias tables were reanalysed\n4. We included a summary of findings table."
+        ],
+        "negative_ctxs": [
+            1,
+            46
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Three of the trials were of parallel design (Day 2000; Miller 2000;\nRussell 1998) while the fourth employed a cross-over design (Morris\n2000). However, using the recommendations from The Cochrane\nCollaboration for evaluation of a cross-over trial (Alderson 2002),\nthe authors concluded that the inclusion of this study into the\nreview was valid.\n\nPrimary outcomes diBered slightly among the RCTs as well. Russell\r\n1998 and Morris 2000 compared changes in haemodynamics (MPAP,\r\nMAP, HR) as their primary outcomes of interest. Day 2000 and Miller\r\n2000 compared the number of PHTC and the incidence of mortality\r\nin each group as their primary outcomes of interest. Day 2000 and\nMiller 2000 compared changes in haemodynamic measurements as\r\nsecondary outcomes of interest."
+        ],
+        "negative_ctxs": [
+            43,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Another serious problem with the meta-analysis concerns\r\nthe potential heterogeneity that exists among the included\r\ninvestigations. All four trials utilized different concentrations of\r\niNO, different lengths of administration of therapy, and included\r\npatients with diverse congenital heart lesions and of various ages.\r\nWhile the I2 statistic for heterogeneity is not statistically significant\r\nin most cases, the potential is apparent. An attempt to deal with\r\nthis is presented in the form of the subgroup analysis on method\r\nof control. Unfortunately, further subgroup analyses based on\r\nhost factors and concentration of iNO administered could not be\r\nperformed due to small sample sizes and missing individual patient\r\ndata. Therefore, although no significant differences were observed\r\nwith the use of iNO in this patient population, there is the potential\r\nfor heterogeneity and bias that compromise the results of the\r\nreview and make it impossible to draw any definitive conclusions\r\nat the present time"
+        ],
+        "negative_ctxs": [
+            32,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Assessment of reporting biases\nWe planned to assess publication bias using a funnel plot (Higgins\n2011) if more than nine studies were included in the meta-analysis.\nThe funnel plot has an inverted funnel shape if publication bias is\nabsent; funnel plots are examined visually and through Egger's test\nto test asymmetry\n\nSensitivity analysis\nWe performed sensitivity analyses, when possible, by excluding\ntrials of lower methodologic quality and reanalysing the data.\nR E"
+        ],
+        "negative_ctxs": [
+            42,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "We considered the quality of the evidence using the measurement\nof risk of bias. There was one study that had a low risk of bias in\nall domains (Miller 2000). Random sequence generation, allocation\nconcealment, incomplete outcome data, and selective reporting\nwere not assessed as high risk of bias in all included studies.\n\nFactors that also contribute to potential biases are lack of blinding\nto the intervention (Day 2000; Morris 2000) and lack of blinded\noutcome assessment, or failure to report this procedure, in all three\nstudies. Therefore, the potential for the introduction of bias into\nthe trials and subsequently the analysis is likely. We attempted\nto address this issue via sensitivity analysis, by evaluating only\nthose trials of high methodologic quality (Day 2000; Miller 2000).\nUnfortunately the only outcome that could be assessed, given the\nlack of individual data from one trial (Miller 2000), was mortality\nprior to discharge.\n\nSubgroup analyses\r\nInhaled nitric oxide versus conventional management\r\nThis analysis utilized data from Day 2000 and Morris 2000. These\r\ninvestigators compared the use of iNO to conventional therapies in\r\nthe management of postoperative pulmonary hypertension.\r\nMortality prior to discharge\r\nData from Day 2000 revealed no deaths in either treatment or\r\ncontrol groups and so no analysis was performed."
+        ],
+        "negative_ctxs": [
+            2,
+            40
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Potential biases in the review process\r\nFactors that also contribute to potential biases are lack of blinding\r\nto the intervention (Day 2000; Morris 2000) and lack of blinded\r\noutcome assessment, or failure to report this procedure, in all three\r\nstudies. Therefore, the potential for the introduction of bias into\r\nthe trials and subsequently the analysis is likely. We attempted\r\nto address this issue via sensitivity analysis, by evaluating only\r\nthose trials of high methodologic quality (Day 2000; Miller 2000).\r\nUnfortunately the only outcome that could be assessed, given the\r\nlack of individual data from one trial (Miller 2000), was mortality\r\nprior to discharge.\nAlso of concern is the relatively sparse number of patients included\r\nin the majority of the studies, as documented in the 'Additional\r\ntables' section of this review (see Table 1; Table 2; Table 3). A\r\ntotal of 73 outcomes collected from 62 infants and children (iNO\r\ngroup = 34, placebo and conventional management groups = 39)\r\nwere included (the discrepancy arises as a result of the cross-over\r\ndesign of Morris 2000). A possible explanation for the relatively\r\nsmall numbers of participants lies in the fact that we are dealing\r\nwith a very specific population with CHD necessitating repair and\r\ndemonstrating elevated pulmonary arterial pressures. The small\r\nsample sizes are reflected in the wide CIs seen in the analysis and,\r\nas a result, compromise the precision of the review.\nAnother serious problem with the meta-analysis concerns\r\nthe potential heterogeneity that exists among the included\r\ninvestigations. All four trials utilized diBerent concentrations of\r\niNO, diBerent lengths of administration of therapy, and included\r\npatients with diverse congenital heart lesions and of various ages.\r\nWhile the I2 statistic for heterogeneity is not statistically significant\r\nin most cases, the potential is apparent. An attempt to deal with\r\nthis is presented in the form of the subgroup analysis on method\r\nof control. Unfortunately, further subgroup analyses based on\r\nhost factors and concentration of iNO administered could not be\r\nperformed due to small sample sizes and missing individual patient\r\ndata. Therefore, although no significant diBerences were observed\r\nwith the use of iNO in this patient population, there is the potential\r\nfor heterogeneity and bias that compromise the results of the\r\nreview and make it impossible to draw any definitive conclusions\r\nat the present time."
+        ],
+        "negative_ctxs": [
+            8,
+            63
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Included studies\nThree of the trials were of parallel design (Day 2000; Miller 2000;\nRussell 1998) while the fourth employed a cross-over design (Morris\n2000). However, using the recommendations from The Cochrane\nCollaboration for evaluation of a cross-over trial (Alderson 2002),\nthe authors concluded that the inclusion of this study into the\nreview was valid. The details of the participants and interventions\ncan be found in the table Characteristics of included studies.\nEach of the four trials included in the review evaluated the\nuse of postoperative iNO in infants and children with CHD\nnecessitating repair. All included participants were identified as\nhaving pulmonary hypertension either in the preoperative or\npostoperative period. In three of the studies (Day 2000; Morris 2000;\nRussell 1998) postoperative pulmonary hypertension was used as\na criterion either for inclusion or for a separate subgroup analysis.\nOne of the RCTs (Miller 2000) utilized preoperative diagnosis as\npart of the entry criteria into the trial but did not comment on the\npresence or absence of postoperative pulmonary hypertension in\nindividual included participants.\nIn each RCT children were the primary patient population studied.\nRussell 1998 included 35 patients aged 2 days to 6.5 years. Day 2000\nincluded 44 patients aged 1 day to 20 years (and 2 adults). Morris\n2000 included 12 patients with an age range from 1 month to 17\nyears (1 adult). Miller 2000 did not specifically list the age range\nof their patient population but instead commented on inclusion\nof 124 patients with a median age of 3 months in the treatment\ngroup and 2 months in the control group. We excluded data on adult\npatients (defined as greater than or equal to 17 years of age) from\nthe analysis.\nThe RCTs diBered with respect to the method of treatment utilized\nin the control groups. Day 2000 compared the use of iNO with\n'conventional treatment' in the control group. No strict criteria\nor definition of 'conventional management' were utilized in this\ntrial and management of the control group was instead leP to\nthe discretion of the attending cardiothoracic surgeon. Morris\n2000 employed a cross-over method with patients randomized\nto receive either iNO in the treatment group or hyperventilation\nas the treatment comparison in the control group (oPen part of\nthe conventional management protocol). This trial utilized a 30-\nminute washout period between treatments. With the exception\nof the intervention, patient management was similar in both\ngroups. Russell 1998 and Miller 2000 initiated iNO in the treatment\ngroup versus placebo in the control group, although underlying\nconventional therapies (such as hyperventilation and the use of\ninotropes) were maintained in both groups.\nThe trials also diBered with respect to onset and duration of iNO\ntherapy in the postoperative period. Russell 1998 initiated iNO or\nplacebo therapy immediately aPer patients were removed from\ncardiopulmonary bypass and continued treatment for a total of 20\nminutes. Day 2000 initiated therapy upon the patient's arrival in the\nintensive care unit (ICU) and continued treatment until extubation,\nalthough data collection occurred at one hour aPer initiation of\ntherapy. Morris 2000 used a cross-over study design comparing iNO\nwith hyperventilation. Treatment was initiated at a mean of 8.5\nhours postoperation (range 4 to 40 hours) and each treatment was\ngiven for a period of 30 minutes. Miller 2000 initiated therapy just\naPer completion of surgery and continued iNO or placebo for a\nmaximum of seven days.\nThe concentration of iNO utilized also diBered among studies.\nRussell 1998 initiated iNO at 80 ppm while Day 2000 initiated\n20 ppm. Morris 2000 initiated a 5 ppm concentration of iNO for\n15 minutes and then 40 ppm for the remaining 15 minutes of\ntreatment (although data were presented only for outcomes on 40\nppm). Miller 2000 initiated iNO at 10 ppm and continued the use of\nthis concentration throughout the duration of the study.\nPrimary outcomes diBered slightly among the RCTs as well. Russell\n1998 and Morris 2000 compared changes in haemodynamics (MPAP,\nMAP, HR) as their primary outcomes of interest. Day 2000 and Miller\n2000 compared the number of PHTC and the incidence of mortality\nin each group as their primary outcomes of interest. Day 2000 and\nMiller 2000 compared changes in haemodynamic measurements as\nsecondary outcomes of interest.\n\nOverall completeness and applicability of evidence\nSeveral factors exist within and amongst the included trials that\nmake an accurate meta-analysis with a definitive conclusion\ndiBicult. The first area of concern to be addressed is with respect\nto the methodologic quality of the included studies. The trial of\nhighest methodologic quality (Miller 2000) only included data with\nrespect to mortality that could be included in the analysis. Of the\nthree remaining trials, we assessed only one (Day 2000) as being\nof relatively high methodologic quality based on concealment of\nallocation. Thus, the potential for selection bias is likely in the\nremaining two trials (Morris 2000; Russell 1998). Although the\nresults of this meta-analysis do not appear to show any significant\nclinical benefit of iNO to treat pulmonary hypertension in children\nwith CHD, any significant clinical harm is not identified in this\nsystematic review."
+        ],
+        "negative_ctxs": [
+            38,
+            63
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            63,
+            67
+        ],
+        "positive_ctxs": [
+            66
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "D I F F E R E N C E S \u0003 B E T W E E N \u0003 P R O T O C O L \u0003 A N D \u0003 R E V I E W\r\nFebruary 2014\r\n1. One new author was included (Fabiano T Barbosa).\r\n2. We updated the methods section. Risk of bias tools were included in this updated review and items analysed before in 'risk of bias\r\nin included studies' (method of randomization, concealment of allocation, blinding of intervention, completeness of follow up, and\r\nblinded outcome assessment) were renamed to random sequence generation, allocation concealment, blinding of participants and\r\npersonnel, blinding of outcome assessment, incomplete outcome data, selective reporting, and other bias.\r\n3. Items of the risk of bias tables were reanalysed\n4. We included a summary of findings table."
+        ],
+        "negative_ctxs": [
+            30,
+            69
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Criteria for considering studies for this review\nTypes of studies\nWe evaluated randomized controlled trials (RCTs) and quasirandomized\ncontrolled trials that compared the use of iNO with\nplacebo or conventional management strategies, or both, and\nincluded at least one outcome of interest. We considered both\nparallel and cross-over design trials for inclusion.\nTypes of participants\nWe included infants and children aged one day to 14 years with\nCHD requiring surgical repair and with evidence of pulmonary\nhypertension in the pre- or postoperative period. We excluded\npreterm neonates.\nTypes of interventions\nWe evaluated the use of iNO at various concentrations ranging from\nfive to 80 ppm when given in the postoperative period.\nWe evaluated placebo, administered as nitrogen gas (N2), as a\ncontrol.\nConventional management included hyperventilation to induce\nrespiratory alkalosis, use of sodium bicarbonate to induce\nmetabolic alkalosis, use of intravenous inotropic and vasodilatory\nagents, and use of intravenous sedatives and neuromuscular\nblockade in an attempt to improve pulmonary blood flow (Whittsett\n1999).\nTypes of outcome measures\nPrimary outcomes\n1. Long-term mortality\n2. Mortality prior to discharge\nSecondary outcomes\n1. Length of stay in intensive care unit or hospital\n2. Incidence and severity of neurodevelopmental disability\n3. Incidence of PHTC\n4. Change in MPAP\n5. Change in MAP\n6. Change in HR\n7. Change in ratio of arterial oxygen tension (PaO2) to fraction of\ninspired oxygen (FiO2)\n8. Maximum methaemoglobin level"
+        ],
+        "negative_ctxs": [
+            7,
+            64
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Criteria for considering studies for this review\r\nTypes of studies\r\nWe evaluated randomized controlled trials (RCTs) and quasirandomized\r\ncontrolled trials that compared the use of iNO with\r\nplacebo or conventional management strategies, or both, and\r\nincluded at least one outcome of interest. We considered both\r\nparallel and cross-over design trials for inclusion"
+        ],
+        "negative_ctxs": [
+            65,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Electronic searches\r\nIn our original review we searched the Cochrane Central Register\r\nof Controlled Trials (CENTRAL) (The Cochrane Library 2004, Issue 3),\r\nMEDLINE (January 1966 to 1 July 2004) and EMBASE (January 1980\r\nto 1 July 2004) (Bizzarro 2005). For our first update, the search was\r\nextended from 1 July 2004 through to 1 November 2007.\r\nIn this latest updated version we searched CENTRAL through to\r\n2013, Issue 12 of The Cochrane Library, and MEDLINE and EMBASE\r\nthrough to 1 December 2013. We used filters to identify RCTs in\nMEDLINE (Dickersin 1994) and EMBASE (Lefebvre 1996). We limited\r\nthe searches to studies in humans. We did not apply any language\r\nrestrictions during the literature search or for trial inclusion. We\r\nincluded abstracts in this search and handsearched conference\r\nabstracts for relevant studies. We retrieved all eligible studies in full\r\ntext."
+        ],
+        "negative_ctxs": [
+            39,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two authors independently read the RCTs identified through\nsearching electronic databases and handsearching of journals.\nUsing the inclusion and exclusion criteria defined above, the\nauthors reached consensus as to which studies were included in the\nreview."
+        ],
+        "negative_ctxs": [
+            50,
+            40
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two authors (MB and IG) independently extracted and collected\r\ndata on a paper form (Appendix 4). We contacted the authors\r\nof trials, when necessary, to obtain raw data not presented in\r\nthe trial report but necessary for the analysis. We resolved any\r\ndiscrepancies in a consensus meeting."
+        ],
+        "negative_ctxs": [
+            17,
+            52
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Excluded studies\r\nWe excluded seven studies during the review process. Of the\r\nexcluded studies, Matsui 1997 was listed in CENTRAL but was\r\nnot an RCT; Argenziano 1998 was an RCT on the topic of\r\ninterest but utilized only an adult patient population; Khazin\r\n2004 compared iNO with milrinone, not placebo or conventional\r\nmanagement, and analysed the combined eBects of the two agents\r\non pulmonary hypertension in the patient population of interest\r\nfor this review; Smith 2006 compared citrulline, an NO precursor,\r\nwith placebo in the patient population of interest. Loukhanov 2011\r\nand Kirbas 2012 compared the eBects of iNO versus aerosolized\r\niloprost on pulmonary hypertension in the patient population\r\nof interest within the first 72 hours post-bypass. Checchia 2013\r\ncompared the eBects of iNO versus placebo delivered to the\r\nmembrane oxygenator only during cardiopulmonary bypass in\r\nchildren undergoing repair of tetralogy of Fallot. The details of all\r\nexclusions can be found in Characteristics of excluded studies."
+        ],
+        "negative_ctxs": [
+            38,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Included studies\nThree of the trials were of parallel design (Day 2000; Miller 2000;\nRussell 1998) while the fourth employed a cross-over design (Morris\n2000). However, using the recommendations from The Cochrane\nCollaboration for evaluation of a cross-over trial (Alderson 2002),\nthe authors concluded that the inclusion of this study into the\nreview was valid. The details of the participants and interventions\ncan be found in the table Characteristics of included studies.\nEach of the four trials included in the review evaluated the\nuse of postoperative iNO in infants and children with CHD\nnecessitating repair. All included participants were identified as\nhaving pulmonary hypertension either in the preoperative or\npostoperative period. In three of the studies (Day 2000; Morris 2000;\nRussell 1998) postoperative pulmonary hypertension was used as\na criterion either for inclusion or for a separate subgroup analysis.\nOne of the RCTs (Miller 2000) utilized preoperative diagnosis as\npart of the entry criteria into the trial but did not comment on the\npresence or absence of postoperative pulmonary hypertension in\nindividual included participants.\nIn each RCT children were the primary patient population studied.\nRussell 1998 included 35 patients aged 2 days to 6.5 years. Day 2000\nincluded 44 patients aged 1 day to 20 years (and 2 adults). Morris\n2000 included 12 patients with an age range from 1 month to 17\nyears (1 adult). Miller 2000 did not specifically list the age range\nof their patient population but instead commented on inclusion\nof 124 patients with a median age of 3 months in the treatment\ngroup and 2 months in the control group. We excluded data on adult\npatients (defined as greater than or equal to 17 years of age) from\nthe analysis.\nThe RCTs diBered with respect to the method of treatment utilized\nin the control groups. Day 2000 compared the use of iNO with\n'conventional treatment' in the control group. No strict criteria\nor definition of 'conventional management' were utilized in this\ntrial and management of the control group was instead leP to\nthe discretion of the attending cardiothoracic surgeon. Morris\n2000 employed a cross-over method with patients randomized\nto receive either iNO in the treatment group or hyperventilation\nas the treatment comparison in the control group (oPen part of\nthe conventional management protocol). This trial utilized a 30-\nminute washout period between treatments. With the exception\nof the intervention, patient management was similar in both\ngroups. Russell 1998 and Miller 2000 initiated iNO in the treatment\ngroup versus placebo in the control group, although underlying\nconventional therapies (such as hyperventilation and the use of\ninotropes) were maintained in both groups.\nThe trials also diBered with respect to onset and duration of iNO\ntherapy in the postoperative period. Russell 1998 initiated iNO or\nplacebo therapy immediately aPer patients were removed from\ncardiopulmonary bypass and continued treatment for a total of 20\nminutes. Day 2000 initiated therapy upon the patient's arrival in the\nintensive care unit (ICU) and continued treatment until extubation,\nalthough data collection occurred at one hour aPer initiation of\ntherapy. Morris 2000 used a cross-over study design comparing iNO\nwith hyperventilation. Treatment was initiated at a mean of 8.5\nhours postoperation (range 4 to 40 hours) and each treatment was\ngiven for a period of 30 minutes. Miller 2000 initiated therapy just\naPer completion of surgery and continued iNO or placebo for a\nmaximum of seven days.\nThe concentration of iNO utilized also diBered among studies.\nRussell 1998 initiated iNO at 80 ppm while Day 2000 initiated\n20 ppm. Morris 2000 initiated a 5 ppm concentration of iNO for\n15 minutes and then 40 ppm for the remaining 15 minutes of\ntreatment (although data were presented only for outcomes on 40\nppm). Miller 2000 initiated iNO at 10 ppm and continued the use of\nthis concentration throughout the duration of the study."
+        ],
+        "negative_ctxs": [
+            29,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two authors (MB and IG) independently assessed the methodologic\r\nquality of each included trial following the guidelines described\r\nby The Cochrane Collaboration in the Cochrane Handbook for\r\nSystematic Reviews of Interventions 5.1.0 (Higgins 2011). A copy of\r\nthe form that we used to do this assessment is in Appendix 4.\r\nWe resolved any discrepancies in this assessment by a consensus\r\nmeeting. No third-party intervention was required. We used the\r\n'risk of bias' tool in RevMan 5.2 (RevMan 5.2). We assessed the risk\r\nof bias (when there is an error in the conduct of the trial that could\r\nlead to a misleading result) based on the information presented in\r\nthe papers. We did not contact authors for clarification. We used the\r\nfollowing as the assessment criteria."
+        ],
+        "negative_ctxs": [
+            50,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Three of the trials were of parallel design (Day 2000; Miller 2000;\nRussell 1998) while the fourth employed a cross-over design (Morris\n2000). However, using the recommendations from The Cochrane\nCollaboration for evaluation of a cross-over trial (Alderson 2002),\nthe authors concluded that the inclusion of this study into the\nreview was valid.\n\nPrimary outcomes diBered slightly among the RCTs as well. Russell\r\n1998 and Morris 2000 compared changes in haemodynamics (MPAP,\r\nMAP, HR) as their primary outcomes of interest. Day 2000 and Miller\r\n2000 compared the number of PHTC and the incidence of mortality\r\nin each group as their primary outcomes of interest. Day 2000 and\nMiller 2000 compared changes in haemodynamic measurements as\r\nsecondary outcomes of interest."
+        ],
+        "negative_ctxs": [
+            7,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Another serious problem with the meta-analysis concerns\r\nthe potential heterogeneity that exists among the included\r\ninvestigations. All four trials utilized different concentrations of\r\niNO, different lengths of administration of therapy, and included\r\npatients with diverse congenital heart lesions and of various ages.\r\nWhile the I2 statistic for heterogeneity is not statistically significant\r\nin most cases, the potential is apparent. An attempt to deal with\r\nthis is presented in the form of the subgroup analysis on method\r\nof control. Unfortunately, further subgroup analyses based on\r\nhost factors and concentration of iNO administered could not be\r\nperformed due to small sample sizes and missing individual patient\r\ndata. Therefore, although no significant differences were observed\r\nwith the use of iNO in this patient population, there is the potential\r\nfor heterogeneity and bias that compromise the results of the\r\nreview and make it impossible to draw any definitive conclusions\r\nat the present time"
+        ],
+        "negative_ctxs": [
+            22,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Assessment of reporting biases\nWe planned to assess publication bias using a funnel plot (Higgins\n2011) if more than nine studies were included in the meta-analysis.\nThe funnel plot has an inverted funnel shape if publication bias is\nabsent; funnel plots are examined visually and through Egger's test\nto test asymmetry\n\nSensitivity analysis\nWe performed sensitivity analyses, when possible, by excluding\ntrials of lower methodologic quality and reanalysing the data.\nR E"
+        ],
+        "negative_ctxs": [
+            30,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "We considered the quality of the evidence using the measurement\nof risk of bias. There was one study that had a low risk of bias in\nall domains (Miller 2000). Random sequence generation, allocation\nconcealment, incomplete outcome data, and selective reporting\nwere not assessed as high risk of bias in all included studies.\n\nFactors that also contribute to potential biases are lack of blinding\nto the intervention (Day 2000; Morris 2000) and lack of blinded\noutcome assessment, or failure to report this procedure, in all three\nstudies. Therefore, the potential for the introduction of bias into\nthe trials and subsequently the analysis is likely. We attempted\nto address this issue via sensitivity analysis, by evaluating only\nthose trials of high methodologic quality (Day 2000; Miller 2000).\nUnfortunately the only outcome that could be assessed, given the\nlack of individual data from one trial (Miller 2000), was mortality\nprior to discharge.\n\nSubgroup analyses\r\nInhaled nitric oxide versus conventional management\r\nThis analysis utilized data from Day 2000 and Morris 2000. These\r\ninvestigators compared the use of iNO to conventional therapies in\r\nthe management of postoperative pulmonary hypertension.\r\nMortality prior to discharge\r\nData from Day 2000 revealed no deaths in either treatment or\r\ncontrol groups and so no analysis was performed."
+        ],
+        "negative_ctxs": [
+            22,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            46,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "D E C L A R A T I O N S \u0003 O F \u0003 I N T E R E S T\r\nMatthew Bizzarro: none known\r\nIan Gross: none known\r\nFabiano T Barbos: none known\r\nS O U R C E S \u0003 O F \u0003 S U P P O R T\r\nInternal sources\r\n* Yale University School of Medicine, USA.\r\nExternal sources\r\n* No sources of support supplied"
+        ],
+        "negative_ctxs": [
+            8,
+            58
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Potential biases in the review process\r\nFactors that also contribute to potential biases are lack of blinding\r\nto the intervention (Day 2000; Morris 2000) and lack of blinded\r\noutcome assessment, or failure to report this procedure, in all three\r\nstudies. Therefore, the potential for the introduction of bias into\r\nthe trials and subsequently the analysis is likely. We attempted\r\nto address this issue via sensitivity analysis, by evaluating only\r\nthose trials of high methodologic quality (Day 2000; Miller 2000).\r\nUnfortunately the only outcome that could be assessed, given the\r\nlack of individual data from one trial (Miller 2000), was mortality\r\nprior to discharge.\nAlso of concern is the relatively sparse number of patients included\r\nin the majority of the studies, as documented in the 'Additional\r\ntables' section of this review (see Table 1; Table 2; Table 3). A\r\ntotal of 73 outcomes collected from 62 infants and children (iNO\r\ngroup = 34, placebo and conventional management groups = 39)\r\nwere included (the discrepancy arises as a result of the cross-over\r\ndesign of Morris 2000). A possible explanation for the relatively\r\nsmall numbers of participants lies in the fact that we are dealing\r\nwith a very specific population with CHD necessitating repair and\r\ndemonstrating elevated pulmonary arterial pressures. The small\r\nsample sizes are reflected in the wide CIs seen in the analysis and,\r\nas a result, compromise the precision of the review.\nAnother serious problem with the meta-analysis concerns\r\nthe potential heterogeneity that exists among the included\r\ninvestigations. All four trials utilized diBerent concentrations of\r\niNO, diBerent lengths of administration of therapy, and included\r\npatients with diverse congenital heart lesions and of various ages.\r\nWhile the I2 statistic for heterogeneity is not statistically significant\r\nin most cases, the potential is apparent. An attempt to deal with\r\nthis is presented in the form of the subgroup analysis on method\r\nof control. Unfortunately, further subgroup analyses based on\r\nhost factors and concentration of iNO administered could not be\r\nperformed due to small sample sizes and missing individual patient\r\ndata. Therefore, although no significant diBerences were observed\r\nwith the use of iNO in this patient population, there is the potential\r\nfor heterogeneity and bias that compromise the results of the\r\nreview and make it impossible to draw any definitive conclusions\r\nat the present time."
+        ],
+        "negative_ctxs": [
+            66,
+            15
+        ],
+        "positive_ctxs": []
+    }
+]

@@ -1,0 +1,468 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "patients diagnosed with malignancy; (2) participants assigned to  treatment with single agent BRAF inhibitor (vemurafenib or dabrafenib), or BRAF inhibitor in combination with  MEK inhibitor (cobimetinib or trametinib);\n\nevents or event rate and sample size available for cuSCC (cutaneous squamous cell carcinoma). \n\nTo evaluate the impact of the control regimen on the RR of cuSCC, studies have been classified into two subgroups; two studies with vemurafenib as monotherapy, and two studies with dabrafenib."
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Table 1: Main characteristics and results of the eligible studies\n\nRelevant clinical trials that met the following criteria were included: (1) prospective clinical trials in patients diagnosed with malignancy; (2) participants assigned to treatment with single agent BRAF inhibitor (vemurafenib or dabrafenib), or BRAF inhibitor in combination with MEK inhibitor (cobimetinib or trametinib);"
+        ],
+        "negative_ctxs": [
+            16,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Trials with relatively small number of patients (less than 20) were excluded. Phase I studies were excluded because of the different drug dosages and the relatively small number of patients on these trials. "
+        ],
+        "negative_ctxs": [
+            3,
+            18
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "the search was restricted to clinical trials and articles published in English"
+        ],
+        "negative_ctxs": [
+            19,
+            1
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We systematically searched Pubmed, Embase and the Cochrane Database (up to June 2017)"
+        ],
+        "negative_ctxs": [
+            1,
+            19
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Furthermore, the American Society of Clinical Oncology (ASCO) abstracts database of the annual meetings was also searched. Additionally, we searched the clinical trial registration website ( to obtain information on the registered prospective trials."
+        ],
+        "negative_ctxs": [
+            17,
+            12
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We systematically searched Pubmed, Embase and the Cochrane Database (up to June 2017) using various combinations of the terms: (\"vemurafenib\" or \"PLX4032\" or \"Zelboraf\"; or \"dabrafenib\" or \"GSK2118436\" or \"Tafinlar\"), and (\"cancer\" or \"carcinoma\" or \"tumor\" or malignancy\" or \"neoplasia\") and (\"clinical trial\" or \"prospective trials\" or \"randomized controlled trial\")."
+        ],
+        "negative_ctxs": [
+            17,
+            12
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "the search  was restricted to clinical trials and articles published in  English; \n\nTrials with relatively small number of patients (less than 20) were excluded. Phase I studies were excluded  because of the different drug dosages and the relatively  small number of patients on these trials."
+        ],
+        "negative_ctxs": [
+            13,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Abstracts of all candidate articles were read by two independent readers (LP and XY). Articles that could not be categorized based on title and abstract alone were retrieved for full-text review. Disagreements were resolved by consensus between the two readers."
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data abstraction was conducted independently  by two investigators (LP and XY).\n\nThe publications and data were reviewed and extracted by two independent investigators (LP and\nXY)."
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1: Main characteristics and results of the eligible studies"
+        ],
+        "negative_ctxs": [
+            20,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The relevant information of each study including: (1) article or publication information, such as first author's name, year of publication, etc.; (2) patient characteristics, such as diagnosis, age, gender, etc.; (3) study designation information, such as phase, total sample size, sample size per arm; (4) information about treatment, such as treatment approach, drug used; (5) events of cuSCC from the safety and toxicity profile and so on were carefully extracted, and they were recorded to a data collection form and then entered into an electronic database. If data from any of the above categories were not reported in the study, items were treated as \"NR (not reported)\". Authors of the primary studies were not contacted for additional or unreported information."
+        ],
+        "negative_ctxs": [
+            2,
+            15
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "A total of 7,442 patients with underlying malignancy diagnoses of melanoma (17 trials), NSCLC (3 trials), colorectal (1 trial), thyroid (1 trial), leukemia (1 trial), and other non-melanoma malignancy (1 trial) were available for the meta-analysis.\n\nOverall, a total of 6,445 patients from 21 trials were included for analysis of all-grade and incidence of cuSCC.\n\nOf the 22 studies included, 15 were non-randomized studies while the other 7 were randomized controlled trials.\n\nFigure 1: Flow diagram of selection process for the trials included in the meta-analysis. (7 studies selected for inclusion)\n"
+        ],
+        "negative_ctxs": [
+            0,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "the search was restricted to clinical trials\n\nIf heterogeneity existed, data was analyzed using a random-effects model, otherwise, a fixed-effects model was used.\n\nFigure 3: Subgroup analysis for incidence of all-grade and high-grade cuSCC. Each study was shown by the name of the lead author and year of publication. The summary incidences were also shown in the figure. Plots are arranged as follows: (A) Incidence of all-grade cuSCC by vemurafenib vs dabrafenib subgroup; (B) Incidence of all-grade cuSCC in melanoma vs non-melanoma; (C) Incidence of all-grade cuSCC from single-arm study vs RCT; (D) Incidence of cuSCC by vemurafenib vs dabrafenib subgroup; (E) Incidence of high grade cuSCC in melanoma vs non-melanoma; (F) Incidence of high-grade cuSCC from single-arm study vs RCT."
+        ],
+        "negative_ctxs": [
+            12,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "To test for variation in incidence estimates by other factors, we conducted a meta-regression analysis. To explore the possible reasons for heterogeneity, we also conducted subgroup analyses by underlying malignancy, specific drug used, and different trial design. A two-sided P value of < 0.05 was considered statistically significant."
+        ],
+        "negative_ctxs": [
+            2,
+            3
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "The presence of publication bias was evaluated by using  Begg's and Egger's tests [24, 25].\n\nFigure 5: Funnel plot for studies included in the meta-analysis.\n\nFigure 6: Sensitivity analysis for studies included in the meta-analysis. Plots are arranged as follows: (A) Publication bias of studies of incidence of all-grade cuSCC of BRAF inhibitor; (B) Publication bias of studies of incidence of high-grade cuSCC of BRAF inhibitor; (C) Publication bias of studies of incidence of all-grade cuSCC of dual BRAF/MEK inhibitors; (D) Publication bias of studies of incidence of high-grade cuSCC of dual BRAF/MEK inhibitors; (E) Publication bias of studies of RR of all-grade cuSCC; (F) Publication bias of studies of high-grade cuSCC."
+        ],
+        "negative_ctxs": [
+            9,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Begg's funnel plot and Egger's test were performed to evaluate the publication bias of the eligible studies. Twenty-one studies investigating all-grade and high-grade cuSCC induced by single agent BRAF inhibitor yielded an Egger's test score of P = 0.468 and P = 0.484, respectively, indicating the absence of publication bias in the studies (Figure 5).\n\nWe did sensitivity analysis to examine the stability and reliability of pooled results by sequential omission of individual studies. The results indicated that the significance estimate of pooled incidences and RRs was not significantly influenced by omitting any single study (Figure 6)."
+        ],
+        "negative_ctxs": [
+            3,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Despite the size of this meta-analysis, our study has some limitations. First, confounding variables at the patient level, such as comorbidities, age and previous drug exposure could not be incorporated into the analysis. Secondly, a continuity correction of 0.5 subjects with an event was used, which may have slightly overestimated the actual event rate of individual trials. Thirdly, there was considerable heterogeneity among the primary studies. Finally, we did not have access to patient-level data."
+        ],
+        "negative_ctxs": [
+            12,
+            16
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "\"patients diagnosed with malignancy; (2) participants assigned to  treatment with single agent BRAF inhibitor (vemurafenib or dabrafenib), or BRAF inhibitor in combination with  MEK inhibitor (cobimetinib or trametinib);\n\nevents or event rate and sample size available for cuSCC (cutaneous squamous cell carcinoma). \n\nTo evaluate the impact of the control regimen on the RR of cuSCC, studies have been classified into two subgroups; two studies with vemurafenib as monotherapy, and two studies with dabrafenib.\""
+        ],
+        "negative_ctxs": [
+            1,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            12,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Table 1: Main characteristics and results of the eligible studies\n\nRelevant clinical trials that met the following criteria were included: (1) prospective clinical trials in patients diagnosed with malignancy; (2) participants assigned to treatment with single agent BRAF inhibitor (vemurafenib or dabrafenib), or BRAF inhibitor in combination with MEK inhibitor (cobimetinib or trametinib);"
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We systematically searched Pubmed, Embase and the Cochrane Database (up to June 2017)"
+        ],
+        "negative_ctxs": [
+            8,
+            17
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Abstracts of all candidate articles were read by two independent readers (LP and XY). Articles that could not be categorized based on title and abstract alone were retrieved for full-text review. Disagreements were resolved by consensus between the two readers."
+        ],
+        "negative_ctxs": [
+            18,
+            7
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data abstraction was conducted independently  by two investigators (LP and XY).\n\nThe publications and data were reviewed and extracted by two independent investigators (LP and\nXY)."
+        ],
+        "negative_ctxs": [
+            14,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1: Main characteristics and results of the eligible studies"
+        ],
+        "negative_ctxs": [
+            12,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "the search was restricted to clinical trials\n\nIf heterogeneity existed, data was analyzed using a random-effects model, otherwise, a fixed-effects model was used.\n\nFigure 3: Subgroup analysis for incidence of all-grade and high-grade cuSCC. Each study was shown by the name of the lead author and year of publication. The summary incidences were also shown in the figure. Plots are arranged as follows: (A) Incidence of all-grade cuSCC by vemurafenib vs dabrafenib subgroup; (B) Incidence of all-grade cuSCC in melanoma vs non-melanoma; (C) Incidence of all-grade cuSCC from single-arm study vs RCT; (D) Incidence of cuSCC by vemurafenib vs dabrafenib subgroup; (E) Incidence of high grade cuSCC in melanoma vs non-melanoma; (F) Incidence of high-grade cuSCC from single-arm study vs RCT."
+        ],
+        "negative_ctxs": [
+            18,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "To test for variation in incidence estimates by other factors, we conducted a meta-regression analysis. To explore the possible reasons for heterogeneity, we also conducted subgroup analyses by underlying malignancy, specific drug used, and different trial design. A two-sided P value of < 0.05 was considered statistically significant."
+        ],
+        "negative_ctxs": [
+            18,
+            12
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "The presence of publication bias was evaluated by using  Begg's and Egger's tests [24, 25].\n\nFigure 5: Funnel plot for studies included in the meta-analysis.\n\nFigure 6: Sensitivity analysis for studies included in the meta-analysis. Plots are arranged as follows: (A) Publication bias of studies of incidence of all-grade cuSCC of BRAF inhibitor; (B) Publication bias of studies of incidence of high-grade cuSCC of BRAF inhibitor; (C) Publication bias of studies of incidence of all-grade cuSCC of dual BRAF/MEK inhibitors; (D) Publication bias of studies of incidence of high-grade cuSCC of dual BRAF/MEK inhibitors; (E) Publication bias of studies of RR of all-grade cuSCC; (F) Publication bias of studies of high-grade cuSCC."
+        ],
+        "negative_ctxs": [
+            15,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Begg's funnel plot and Egger's test were performed to evaluate the publication bias of the eligible studies. Twenty-one studies investigating all-grade and high-grade cuSCC induced by single agent BRAF inhibitor yielded an Egger's test score of P = 0.468 and P = 0.484, respectively, indicating the absence of publication bias in the studies (Figure 5).\n\nWe did sensitivity analysis to examine the stability and reliability of pooled results by sequential omission of individual studies. The results indicated that the significance estimate of pooled incidences and RRs was not significantly influenced by omitting any single study (Figure 6)."
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "ACKNOWLEDGMENTS AND FUNDING - This study was supported by a grant from the Natural Science Foundation of China (Grant number: 81402179).\n\nCONFLICTS OF INTEREST - None."
+        ],
+        "negative_ctxs": [
+            3,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Despite the size of this meta-analysis, our study has some limitations. First, confounding variables at the patient level, such as comorbidities, age and previous drug exposure could not be incorporated into the analysis. Secondly, a continuity correction of 0.5 subjects with an event was used, which may have slightly overestimated the actual event rate of individual trials. Thirdly, there was considerable heterogeneity among the primary studies. Finally, we did not have access to patient-level data."
+        ],
+        "negative_ctxs": [
+            20,
+            16
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    }
+]

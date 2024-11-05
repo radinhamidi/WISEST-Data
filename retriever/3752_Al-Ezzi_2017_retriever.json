@@ -1,0 +1,468 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "A prospective protocol was registered on a systematic review database (PROSPERO: CRD42015024354). Revision note No enough data for smell and taste dysfunction in pSS patients in order to be included in a separate SR. Therefore, all elements in one paper is better."
+        ],
+        "negative_ctxs": [
+            7,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Studies were selected for analysis if they satisfied the following  criteria: (i) studies of pSS female patients vs. healthy controls; (ii) smell, taste and sexual dysfunction were a primary or secondary outcome; (iii) quality of life and mental health well-being were a secondary outcome; (iv) studies that used the American European Consensus Group (AECG) criteria as a standard to categorize SS patients."
+        ],
+        "negative_ctxs": [
+            12,
+            9
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Relying on a well-established diagnostic criteria of AECG in classifying pSS patients has enriched our inclusion criteria"
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Studies were eliminated if pSS diagnosis was based on clinical experience or other diagnostic criteria.\n\nRelying on a well-established diagnostic criteria of AECG in classifying pSS patients has enriched our inclusion criteria . These criteria are valid, reliable and present a well defined group of pSS by discriminating between primary and secondary SS. We had to follow restrictive inclusion criteria to reduce heterogeneity among studies that used different and unreliable diagnostic criteria to classify pSS patients."
+        ],
+        "negative_ctxs": [
+            12,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We placed no  restriction on language or study population.\n\nUnpublished studies of the association has not been found"
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Several electronic sources for published studies from inception to June 2015 were searched. The databases included Ovid-Medline, Web of Science, Scopus, Embase and Cochrane Library."
+        ],
+        "negative_ctxs": [
+            11,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Recent issues of relevant publications and the reference lists of included texts and relevant review articles were searched. Experts were contacted for additional studies and data to clarify ambiguity."
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "MeSH and Boolean logic of the following search terms were used: Sjogren Syndrome, Sjogren Disease, hyposmia, anosmia, smell, smell*, olfact*, odour, nasal, nasal*, taste, taste*, gust, gust*, tastant, flavor, flavour, gustation, ageusia, hypogeusia, sex, sex*,obstet*, gyne*, gynae*, vagina, vagina*, dyspareunia."
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Several electronic sources for published studies from inception to June 2015 were searched.\n\nWe placed no restriction on language or study population.\n\nUnpublished studies of the association has not been found."
+        ],
+        "negative_ctxs": [
+            0,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "All titles and abstracts for relevant studies were screened. Reasons for exclusion were documented (Supplementary-1). Full texts of eligible studies were independently read and data were extracted by two reviewers (MA) and (NP).\n\nProtocol - Full texts of these potentially eligible studies will be retrieved and independently assessed for eligibility by two review team members. Any disagreement between them over the eligibility of particular studies will be resolved through discussion."
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Full texts of eligible studies were independently read and data were extracted by two reviewers (MA) and (NP).\n\nProtocol - Data extraction, quality assessment will be independently conducted by two reviewers."
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Characteristics of the five included studies."
+        ],
+        "negative_ctxs": [
+            7,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1. Characteristics of the five included studies."
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "We modified the validated Newcastle-Ottawa Scale (NOS) instrument for quality assessment of the final selected studies. This modification was applied by including relevant items from NOS case control, NOS cohort and the modified NOS cross-sectional designs as described by Herzog, Alvarez-Pasquin, Diaz et al.  (Supplementary-2).\n\nTable 2. Quality assessment of the included studies measured by Modified Newcastle Ottawa Scale (M-NOS).\n\nProtocol - Risk of bias (quality) assessment - Two review authors will independently assess the risk of bias in the included studies. By using the Newcastle Ottawa Scale (NOS) instrument for assessing case-control studies."
+        ],
+        "negative_ctxs": [
+            9,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Quality assessment was independently performed by MA and NP; any discrepancies were discussed and a third independent reviewer (KK) was involved if it could not be\r\nresolved."
+        ],
+        "negative_ctxs": [
+            0,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Our meta-analysis included five studies with a total number of 378 of participants (192 cases and 186 controls). The quality of included studies ranged between moderate [20,21] and high [6,13,14].\n\nFigure 1. Studies selection process"
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "During our search, there was no one study in the literature assessing the impact of pSS on the smell and taste and sexuality collectively. Therefore, splitting the study's aim into three separate goals has been conducted."
+        ],
+        "negative_ctxs": [
+            0,
+            15
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Meta-analysis -  Standardized mean differences (SMD) and 95% confidence intervals (CIs) were calculated for continuous data. A random-effect model was applied to reduce statistical heterogeneity in combining data in order to get an overall SMD."
+        ],
+        "negative_ctxs": [
+            13,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "We had to follow restrictive inclusion criteria to reduce heterogeneity among studies that used different and unreliable diagnostic criteria to classify pSS patients. \n\ntwo probable predictors for heterogeneity is the different age range across studies and the sample size, that is, larger studies demonstrate greater accuracy than smaller studies. Additional factors: the different quality of the included studies and selection bias in recruiting participants can also explain the resulted heterogeneity. Furthermore, it was not possible to adjust for potential confounders as we do not have access to studies data at individual level."
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Publication bias and subgroup analysis - As the number of the included studies in each subgroup is less than ten, funnel plot assessments were not required."
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Our meta-analysis included five studies with a total number of 378 of participants (192 cases and 186 controls). The quality of included studies ranged between moderate [20,21] and high [6,13,14]. We were unable to perform funnel plot or subgroup analysis owing to the limited number of studies available in each subgroup.\n\nAdditional factors: the different quality of the included studies and selection bias in recruiting participants can also explain the resulted heterogeneity."
+        ],
+        "negative_ctxs": [
+            7,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Limitations of this study -  The lack of primary research made it difficult to explore the potential cause of heterogeneity. However, two probable predictors for heterogeneity is the different age range across studies and the sample size, that is, larger studies demonstrate greater accuracy than smaller studies. Additional factors: the different quality of the included studies and selection bias in recruiting participants can also explain the resulted heterogeneity. Furthermore, it was not possible to adjust for potential confounders as we do not have access to studies data at individual level."
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The strength of the current review lies in its methodology that was conducted in accordance to PRISMA guidelines, to ensure high quality of studies selection and data extraction. \n\nRelying on a well-established diagnostic criteria of AECG in classifying pSS patients has enriched our inclusion criteria . These criteria are valid, reliable and present a well-defined group of pSS by discriminating between primary and secondary SS. We had to follow restrictive inclusion criteria to reduce heterogeneity among studies that used different and unreliable diagnostic criteria to classify pSS patients."
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "A prospective protocol was registered on a systematic review database (PROSPERO: CRD42015024354). Revision note No enough data for smell and taste dysfunction in pSS patients in order to be included in a separate SR. Therefore, all elements in one paper is better."
+        ],
+        "negative_ctxs": [
+            11,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Relying on a well-established diagnostic criteria of AECG in classifying pSS patients has enriched our inclusion criteria"
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Several electronic sources for published studies from inception to June 2015 were searched. The databases included Ovid-Medline, Web of Science, Scopus, Embase and Cochrane Library."
+        ],
+        "negative_ctxs": [
+            9,
+            13
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "All titles and abstracts for relevant studies were screened. Reasons for exclusion were documented (Supplementary-1). Full texts of eligible studies were independently read and data were extracted by two reviewers (MA) and (NP).\n\nProtocol - Full texts of these potentially eligible studies will be retrieved and independently assessed for eligibility by two review team members. Any disagreement between them over the eligibility of particular studies will be resolved through discussion."
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Full texts of eligible studies were independently read and data were extracted by two reviewers (MA) and (NP).\n\nProtocol - Data extraction, quality assessment will be independently conducted by two reviewers."
+        ],
+        "negative_ctxs": [
+            13,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "All titles and abstracts for relevant studies were screened. Reasons for exclusion were documented (Supplementary-1)."
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Characteristics of the five included studies."
+        ],
+        "negative_ctxs": [
+            9,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "We modified the validated Newcastle-Ottawa Scale (NOS) instrument for quality assessment of the final selected studies. This modification was applied by including relevant items from NOS case control, NOS cohort and the modified NOS cross-sectional designs as described by Herzog, Alvarez-Pasquin, Diaz et al.  (Supplementary-2).\n\nTable 2. Quality assessment of the included studies measured by Modified Newcastle Ottawa Scale (M-NOS).\n\nProtocol - Risk of bias (quality) assessment - Two review authors will independently assess the risk of bias in the included studies. By using the Newcastle Ottawa Scale (NOS) instrument for assessing case-control studies."
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Meta-analysis -  Standardized mean differences (SMD) and 95% confidence intervals (CIs) were calculated for continuous data. A random-effect model was applied to reduce statistical heterogeneity in combining data in order to get an overall SMD."
+        ],
+        "negative_ctxs": [
+            7,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "We had to follow restrictive inclusion criteria to reduce heterogeneity among studies that used different and unreliable diagnostic criteria to classify pSS patients. \n\ntwo probable predictors for heterogeneity is the different age range across studies and the sample size, that is, larger studies demonstrate greater accuracy than smaller studies. Additional factors: the different quality of the included studies and selection bias in recruiting participants can also explain the resulted heterogeneity. Furthermore, it was not possible to adjust for potential confounders as we do not have access to studies data at individual level."
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Publication bias and subgroup analysis - As the number of the included studies in each subgroup is less than ten, funnel plot assessments were not required."
+        ],
+        "negative_ctxs": [
+            10,
+            8
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Our meta-analysis included five studies with a total number of 378 of participants (192 cases and 186 controls). The quality of included studies ranged between moderate [20,21] and high [6,13,14]. We were unable to perform funnel plot or subgroup analysis owing to the limited number of studies available in each subgroup.\n\nAdditional factors: the different quality of the included studies and selection bias in recruiting participants can also explain the resulted heterogeneity."
+        ],
+        "negative_ctxs": [
+            1,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflict of interest - The authors report no conflicts of interest. The authors alone are responsible for the content and writing of this article. This work is in partial fulfilment of a PhD degree, which is supported by the Iraqi Ministry of Higher Education and Scientific Research."
+        ],
+        "negative_ctxs": [
+            12,
+            8
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Limitations of this study -  The lack of primary research made it difficult to explore the potential cause of heterogeneity. However, two probable predictors for heterogeneity is the different age range across studies and the sample size, that is, larger studies demonstrate greater accuracy than smaller studies. Additional factors: the different quality of the included studies and selection bias in recruiting participants can also explain the resulted heterogeneity. Furthermore, it was not possible to adjust for potential confounders as we do not have access to studies data at individual level."
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    }
+]

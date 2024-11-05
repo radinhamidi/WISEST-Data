@@ -1,0 +1,456 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "to answer our clinical question \"Is scoliosis-specific exercise therapy effective in delaying the progression of,\nor reducing the speed at which the curve progresses?\"\n\nTypes of participants\nWe included studies in which all patients were diagnosed as having AIS with at least a 10deg Cobb angle, and were between the ages of 10 years and the end of bone growth (in female adolescents, this is approximately between the ages of 15 and 17 years; in male adolescents, this usually occurs between 16 and 19 years of age). The end of bone growth can be determined by the Risser sign, which quantifies the ossification of the iliac crest. Stage 4 indicates total ossification ofthe apophysis, while Stage 5, indicates fusion of the apophysis to the iliac crest and the end of further growth. The Greulich-Pyle atlas calculates the maturity of bones by assessing x\u0002rays of the leN hand. We excluded studies in which patients presented with any type of secondary scoliosis (congenital, neurological, metabolic, post\u0002traumatic, etc), diagnosed according to the SRS criteria (SRS 2006).\n\nTypes of interventions\nExperimental intervention\nThe experimental interventions in this review included all types of SSEs, which are considered to be \"specific movements performed with a therapeutic aim of reducing the deformity\". Sports, active recreational activities and generalised physiotherapy were not consideredtobe specific exercises forthe treatmentof scoliosis and studies including these types of activities were excluded.\n\nComparison interventions\nComparison interventions included no treatment; diGerenttypes of SSEs, usual physiotherapy, doses or schedules of exercises; or other non-surgicaltreatments (e.g. braces, electrical stimulation, manual therapy). Comparisons included: exercises versus no treatment, exercises plus another treatment versus the other treatment, exercises versus other treatments, exercises versus usual physiotherapy, diGerent exercises versus each other, or diGerent doses/schedules of exercises versus each other.\n\nTypes of outcome measures\nThis is a review of the eGect of exercise on a radiological observation rather than a clinical syndrome.\nPrimary outcomes\nProgression of scoliosis, as measured by:\n* Cobb angle in degrees (absolute values),\n* angle of trunk rotation (ATR) in degrees (absolute values),\n* number of patients who have progressed by more than 5deg Cobb,\n* number of subjects for whom brace or surgery were prescribed.\nCosmetic issues, as measured by:\n* objective surface measurements, including Bunnel degrees or other measurements with validated scales or questionnaires (such as the Walter Reed Visual Assessment Scale),\n* topographic measurements e.g. the integrated shape imaging system (ISIS) angles, Quantec and Formetric (Rigo 2006).\nQuality of life and disability, as measured by:\n* specific validated questionnaires such as SRS-22, SF-36 (Asher 2003), BSSK, BrQ (Vasiliadis 2006).\nBack pain, as measured by:\n* visual analogue scale (VAS) or other validated measurement tools,\n* *use of drugs.\nPsychological issues, as measured by:\n* specific questionnaires such as sub-scales of SRS-22 and SF-36,\nBrQ."
+        ],
+        "negative_ctxs": [
+            31,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Types of participants\nWe included studies in which all patients were diagnosed as having\nAIS with at least a 10deg Cobb angle, and were between the ages\nof 10 years and the end of bone growth (in female adolescents,\nthis is approximately between the ages of 15 and 17 years; in male\nadolescents, this usually occurs between 16 and 19 years of age).\nThe end of bone growth can be determined by the Risser sign,\nwhich quantifies the ossification of the iliac crest. Stage 4 indicates\ntotal ossification ofthe apophysis, while Stage 5, indicates fusion of\nthe apophysis to the iliac crest and the end of further growth. The\nGreulich-Pyle atlas calculates the maturity of bones by assessing x\u0002rays of the leN hand.\nWe excluded studies in which patients presented with any type\nof secondary scoliosis (congenital, neurological, metabolic, post\u0002traumatic, etc), diagnosed according to the SRS criteria (SRS 2006).\n\nTypes of interventions\nExperimental intervention\nThe experimental interventions in this review included all types of\nSSEs, which are considered to be \"specific movements performed\nwith a therapeutic aim of reducing the deformity\". Sports, active\nrecreational activities and generalised physiotherapy were not\nconsideredtobe specific exercises forthe treatmentof scoliosis and\nstudies including these types of activities were excluded.\n\nComparison interventions\nComparison interventions included no treatment; diGerenttypes of\nSSEs, usual physiotherapy, doses or schedules of exercises; or other\nnon-surgicaltreatments (e.g. braces, electrical stimulation, manual\ntherapy).\nComparisons included: exercises versus no treatment, exercises\nplus another treatment versus the other treatment, exercises\nversus other treatments, exercises versus usual physiotherapy,\ndiGerent exercises versus each other, or diGerent doses/schedules\nof exercises versus each other.\nTypes of outcome measures\nThis is a review of the eGect of exercise on a radiological\nobservation rather than a clinical syndrome.\nPrimary outcomes\nProgression of scoliosis, as measured by:\n* Cobb angle in degrees (absolute values),\n* angle of trunk rotation (ATR) in degrees (absolute values),\n* number of patients who have progressed by more than 5deg Cobb,\n* number of subjects for whom brace or surgery were prescribed.\nCosmetic issues, as measured by:\n* objective surface measurements, including Bunnel degrees or\nother measurements with validated scales or questionnaires\n(such as the Walter Reed Visual Assessment Scale),\n* topographic measurements e.g. the integrated shape imaging\nsystem (ISIS) angles, Quantec and Formetric (Rigo 2006).\nQuality of life and disability, as measured by:\n* specific validated questionnaires such as SRS-22, SF-36 (Asher\n2003), BSSK, BrQ (Vasiliadis 2006).\nBack pain, as measured by:\n* visual analogue scale (VAS) or other validated measurement\ntools,\n* *use of drugs.\nPsychological issues, as measured by:\n* specific questionnaires such as sub-scales of SRS-22 and SF-36,\nBrQ.\n"
+        ],
+        "negative_ctxs": [
+            13,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Types of studies\nRandomised controlled trials (RCTs), quasi-RCTs (QRCTs) and observational studies were included, because it was anticipated that very few RCTs would be identified.\n\nWe excluded studies in which patients presented with any type of secondary scoliosis (congenital, neurological, metabolic, post\u0002traumatic, etc), diagnosed according to the SRS criteria (SRS 200)."
+        ],
+        "negative_ctxs": [
+            39,
+            49
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            51,
+            38
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched the following electronic databases:\n1) CENTRAL (The Cochrane Library to 30 March 2011), which\nincludes the Cochrane Back Review Group Trials Register,\n2) MEDLINE (1966 to 30 March 2011),\n3) EMBASE (1980 to 30 March 2011),\n4) CINAHL (1982 to 30 March 2011),\n5) SportDiscus (1975 to 30 March 2011),\n6) PsycInfo (1887 to 30 March 2011)\n7) PEDro (1929 to 30 March 2011)\n\n2) searching of the main electronic sources of ongoing trials\n(National Research Register, meta-Register of Controlled Trials;\nClinical Trials),\n3) searching of the Grey literature, including conference\nproceedings, PhD theses,"
+        ],
+        "negative_ctxs": [
+            34,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Searching other resources\nThe following strategies were also used:\n1) screening of the reference lists of all relevant papers\n\n4) contacting investigators and authors in this field for information on unpublished or incomplete trials."
+        ],
+        "negative_ctxs": [
+            47,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The strategy includes subject headings\n(MeSH) and text words. These include methodological terms,\ndisorder terms and treatment terms, and are listed in full for\nMEDLINE, EMBASE, CINAHL and the other databases searched\n(Appendix 1; Appendix 2; Appendix 3; Appendix 4). \n\nAppendix 1. MEDLINE search strategy\n1 randomized controlled trial.pt.\n2 controlled clinical trial.pt.\n3 randomized.ab.\n4 placebo.ab,ti.\n5 drug therapy.fs.\n6 randomly.ab,ti.\n7 trial.ab,ti.\n8 groups.ab,ti.\n9 or/1-8\n10 (animals not (humans and animals)).sh.\n11 9 not 10\n12 Comparative Study/\n13 exp Evaluation Studies/\n14 exp Follow-Up Studies/\n15 exp Prospective Studies/\n16 exp Cross-Over Studies/\n17 exp Epidemiologic Studies/\n18 exp Case-Control Studies/\n19 exp Cohort Studies/\n20 exp Cross-Sectional Studies/\n21 (cohort adj (study or studies)).mp."
+        ],
+        "negative_ctxs": [
+            36,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "All searches included non-English language literature\n\nAppendix 1. MEDLINE search strategy\r\n1 randomized controlled trial.pt.\r\n2 controlled clinical trial.pt.\r\n3 randomized.ab.\r\n4 placebo.ab,ti.\r\n5 drug therapy.fs.\r\n6 randomly.ab,ti.\r\n7 trial.ab,ti.\r\n8 groups.ab,ti.\r\n9 or/1-8\r\n10 (animals not (humans and animals)).sh.\r\n11 9 not 10\r\n12 Comparative Study/\r\n13 exp Evaluation Studies/\r\n14 exp Follow-Up Studies/\r\n15 exp Prospective Studies/\r\n16 exp Cross-Over Studies/\r\n17 exp Epidemiologic Studies/\r\n18 exp Case-Control Studies/\r\n19 exp Cohort Studies/\r\n20 exp Cross-Sectional Studies/\r\n21 (cohort adj (study or studies)).mp. "
+        ],
+        "negative_ctxs": [
+            56,
+            40
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two review authors (SN, MR) independently screened the search\nresults by reading titles and abstracts. Potentially relevant studies\nwere obtained in full text and independently assessed for inclusion\nby two review authors, who resolved any disagreement through\ndiscussion. A third review author was contacted if disagreements\npersisted."
+        ],
+        "negative_ctxs": [
+            18,
+            30
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two review authors (SM and JB-S) who were\nnot involved in the conduct of the primary studies, independently\nextracted the data. The data extraction form was not piloted\nbecause only two studies were included and data extracted\nwere checked for any discrepancies for both included studies.\nAny disagreement was discussed and a third review author (TK)\nwas consulted if disagreements persisted."
+        ],
+        "negative_ctxs": [
+            59,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Included studies\nWe included two studies: one randomised controlled trial (Wan\n2005) and one prospective controlled cohort study (Negrini 2008a). The randomised trial by Wan 2005, included 80 adolescents.\nElectro-stimulation on the lateral body surface, traction therapy,\npostural training and postural advice during normal activities were\nprescribed to both groups. The experimental group also performed\nSSE.\nThe  Negrini 2008a study of 74 adolescents prescribed the SEAS\n(Scientific Exercise Approah to Scoliosis) exercises (a type of SSE),\nwhich consisted of an individual education session of scoliosis\u0002specific SEAS exercises to be performed every three months. SSEs\nwere then performed at home two to three time per week. The\ncontrol group performed usual physiotherapy, which included\nexercise protocols according to the preferences of their single\ntherapist.\n\nC H A R A C T E R I S T I C S   O F   S T U D I E S\nCharacteristics of included studies [ordered by study ID]\n"
+        ],
+        "negative_ctxs": [
+            50,
+            55
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Summary of findings for the main comparison.\r\n\nThoracic curve: MD 9.00 95% confidence interval (CI 5.47 to12.53).\nDecrease in favour of the exercise group. Effect clinically relevant.\n\nLumbar curve: MD 8.00 95% (CI 5.08 to10.92). Decrease in favour of the exercise group. Effect clinically relevant."
+        ],
+        "negative_ctxs": [
+            35,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The risk of bias for RCTs and QRCTs was assessed using the 12\ncriteria recommended by the Cochrane Back Review Group (Furlan\n2009), which are an expansion of the 'Risk of bias' criteria listed\nin The Handbook of Systematic Reviews of Interventions (Higgins\n2009), and outlined in Appendix 5. The Newcastle-Ottawa Scale\n(NOS scale) (NOS 2000) was used to assess the observational\nstudies. The NOS scale assesses three broad areas: selection bias,\nattrition bias, and detection bias. See Appendix 6 for details on\n'Risk of bias' criteria for observational studies."
+        ],
+        "negative_ctxs": [
+            31,
+            6
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two review authors\n(SM and JB-S), who were not involved in the conduct of the\nprimary studies, independently assessed the internal validity ofthe\nincluded studies. Any disagreement between the review authors\nwas resolved by discussion; a third independent reviewer (NC) was\nconsulted if disagreements persisted. 'Risk of bias' assessment was\nnot blinded to trial authors, institution or journal since the review\nteam is familiar with the literature."
+        ],
+        "negative_ctxs": [
+            24,
+            45
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "We included two studies: one randomised controlled trial (Wan\n2005) and one prospective controlled cohort study (Negrini 2008a).\n\nEffects of interventions\nSee: Summary of findings for the main comparison\nExercises plus other treatments versus other treatments only\nProgression of scoliosis: Wan 2005\n* Thoracic curve: mean diGerence (MD) 9.00, (95% confidence\ninterval (CI) 5.47 to12.53). Statistically significant decrease in\nfavour of the exercise group\n* Lumbar curve: MD 8.00, (95% CI 5.08 to10.92). Statistically\nsignificant decrease in favour of the exercise group.\nThere was no evidence for patient-related outcomes of cosmetic\nimprovement, general improvement, disability or back pain.\nDifferent kind of exercises versus each other\nProgression of scoliosis: Negrini 2008a\nConsidering the per protocol analysis, the risk ratio (RR) for brace\nprescription was 0.24, (95% CI 0.06 to1.04). For the intention-to\u0002treat analysis: RR 0.37, (95% CI 0.13 to 1.05).\nIn terms of Cobb angle degree, the RR for patients' improvement\nwas 2.23,(95% CI 0.73 to 6.76);the RR for patients getting worse was\n0.89, (95% CI 0.26 to 3.06).The RR for patient stability was 0.85, (95%\nCI 0.64 to 1.15). The diGerences were not statically significant.\nIn regard to the angle of trunk rotation (ATR), the RR for\nimprovement was 3.34, (95% CI 0.36 to 30.68), for patients getting\nworse 0.56, (95% CI 0.21 to 1.47), for stability 1.11, (95% CI 0.85 to\n1.47). The differences were not statically significant.\n\nSummary of main results\nDespite a comprehensive search of published and unpublished\nliterature, we found only two studies that met the strict inclusion\ncriteria. There was very low quality evidence from two studies\n(Negrini 2008a; Wan 2005) indicating that SSEs added to other\ntreatments are more eGective than electrostimulation,traction and\nposturaltraining to avoid scoliosis progression, and that SSEs alone\nhas almost similar results to usual physiotherapy. No data were\nfound regarding the patient-centred outcomes of quality of life,\nback pain, psychological and cosmetic issues."
+        ],
+        "negative_ctxs": [
+            38,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            55,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Data synthesis\nMeta-analysis was not performed because only one RCT and two\nprospective observational controlled trials were found, both of\nwhich reported on different aspects of the same study"
+        ],
+        "negative_ctxs": [
+            39,
+            57
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Assessment of heterogeneity\nA P value of the Chi2 test less than 0.05 indicates a significant\nstatistical heterogeneity. Clinical heterogeneity was also assessed\nfor all retrieved studies. We planned to pool data only if the data\nwere appropriately homogeneous\n\nSubgroup analysis and investigation of heterogeneity\nWe had planned a subgroup analysis to explore the effects of\nthe following variables: age, bone age, Cobb degrees and type\nof exercise in the case of significant statistical heterogeneity, but\nmeta-analysis was not performed."
+        ],
+        "negative_ctxs": [
+            27,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            28,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Risk of bias in included studies\nOverall, the risk of bias in the included studies was very high. See Figure 2.\n\nQuality of the evidence\nThere is no evidence for or against the use of SSE for treating idiopathic scoliosis. Moreover, it must be stressed that the results regarding brace prescription reported in Negrini 2008a were at high risk of detection bias because the physicians who prescribed the treatments, and who probably believed in their efficacy, were also the physicians who assessed the outcomes and decided whether or not braces should be prescribed or not.\n\nSensitivity analysis\r\nTo incorporate the 'Risk of bias' assessment in the review process, stratification of intervention eGects had initially been planned. This would have included estimates by risk of bias as sensitivity analyses, excluding studies with high risk of bias from the analysis if diGerences in results were seen among studies at diGerent risks of bias. As a meta-analysis was not performed, a 'Risk of bias' assessment could not be conducted.\r"
+        ],
+        "negative_ctxs": [
+            38,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Possible limitations of this review included the small number of studies that met the inclusion criteria and a high risk of bias, particularly selection bias. More randomised controlled trials are needed in this area, along with a deeper understanding of the types of SSEs useful for the adolescent with AIS.\n\nThe strength of the review is the extensive and comprehensive searches conducted, including a large number of diGerent sources in many languages. The main weakness ofthe review is the absence of high quality studies in this field that make it impossible to reach any firm conclusions."
+        ],
+        "negative_ctxs": [
+            28,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "We included two studies: one randomised controlled trial (Wanm2005) and one prospective controlled cohort study (Negrini 2008a). The randomised trial by Wan 2005, included 80 adolescents. Electro-stimulation on the lateral body surface, traction therapy, postural training and postural advice during normal activities were prescribed to both groups. The experimental group also performed SSE. The  Negrini 2008a study of 74 adolescents prescribed the SEAS (Scientific Exercise Approah to Scoliosis) exercises (a type of SSE),\nwhich consisted of an individual education session of scoliosis\u0002specific SEAS exercises to be performed every three months. SSEs were then performed at home two to three time per week. The control group performed usual physiotherapy, which included exercise protocols according to the preferences of their single therapist.\n"
+        ],
+        "negative_ctxs": [
+            19,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            52,
+            0
+        ],
+        "positive_ctxs": [
+            57
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            42,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Types of participants\nWe included studies in which all patients were diagnosed as having\nAIS with at least a 10deg Cobb angle, and were between the ages\nof 10 years and the end of bone growth (in female adolescents,\nthis is approximately between the ages of 15 and 17 years; in male\nadolescents, this usually occurs between 16 and 19 years of age).\nThe end of bone growth can be determined by the Risser sign,\nwhich quantifies the ossification of the iliac crest. Stage 4 indicates\ntotal ossification ofthe apophysis, while Stage 5, indicates fusion of\nthe apophysis to the iliac crest and the end of further growth. The\nGreulich-Pyle atlas calculates the maturity of bones by assessing x\u0002rays of the leN hand.\nWe excluded studies in which patients presented with any type\nof secondary scoliosis (congenital, neurological, metabolic, post\u0002traumatic, etc), diagnosed according to the SRS criteria (SRS 2006).\n\nTypes of interventions\nExperimental intervention\nThe experimental interventions in this review included all types of\nSSEs, which are considered to be \"specific movements performed\nwith a therapeutic aim of reducing the deformity\". Sports, active\nrecreational activities and generalised physiotherapy were not\nconsideredtobe specific exercises forthe treatmentof scoliosis and\nstudies including these types of activities were excluded.\n\nComparison interventions\nComparison interventions included no treatment; diGerenttypes of\nSSEs, usual physiotherapy, doses or schedules of exercises; or other\nnon-surgicaltreatments (e.g. braces, electrical stimulation, manual\ntherapy).\nComparisons included: exercises versus no treatment, exercises\nplus another treatment versus the other treatment, exercises\nversus other treatments, exercises versus usual physiotherapy,\ndiGerent exercises versus each other, or diGerent doses/schedules\nof exercises versus each other.\nTypes of outcome measures\nThis is a review of the eGect of exercise on a radiological\nobservation rather than a clinical syndrome.\nPrimary outcomes\nProgression of scoliosis, as measured by:\n* Cobb angle in degrees (absolute values),\n* angle of trunk rotation (ATR) in degrees (absolute values),\n* number of patients who have progressed by more than 5deg Cobb,\n* number of subjects for whom brace or surgery were prescribed.\nCosmetic issues, as measured by:\n* objective surface measurements, including Bunnel degrees or\nother measurements with validated scales or questionnaires\n(such as the Walter Reed Visual Assessment Scale),\n* topographic measurements e.g. the integrated shape imaging\nsystem (ISIS) angles, Quantec and Formetric (Rigo 2006).\nQuality of life and disability, as measured by:\n* specific validated questionnaires such as SRS-22, SF-36 (Asher\n2003), BSSK, BrQ (Vasiliadis 2006).\nBack pain, as measured by:\n* visual analogue scale (VAS) or other validated measurement\ntools,\n* *use of drugs.\nPsychological issues, as measured by:\n* specific questionnaires such as sub-scales of SRS-22 and SF-36,\nBrQ.\n"
+        ],
+        "negative_ctxs": [
+            6,
+            53
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Types of studies\nRandomised controlled trials (RCTs), quasi-RCTs (QRCTs) and observational studies were included, because it was anticipated that very few RCTs would be identified."
+        ],
+        "negative_ctxs": [
+            27,
+            29
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched the following electronic databases:\n1) CENTRAL (The Cochrane Library to 30 March 2011), which\nincludes the Cochrane Back Review Group Trials Register,\n2) MEDLINE (1966 to 30 March 2011),\n3) EMBASE (1980 to 30 March 2011),\n4) CINAHL (1982 to 30 March 2011),\n5) SportDiscus (1975 to 30 March 2011),\n6) PsycInfo (1887 to 30 March 2011)\n7) PEDro (1929 to 30 March 2011)\n\n2) searching of the main electronic sources of ongoing trials\n(National Research Register, meta-Register of Controlled Trials;\nClinical Trials),\n3) searching of the Grey literature, including conference\nproceedings, PhD theses,"
+        ],
+        "negative_ctxs": [
+            45,
+            53
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two review authors (SN, MR) independently screened the search\nresults by reading titles and abstracts. Potentially relevant studies\nwere obtained in full text and independently assessed for inclusion\nby two review authors, who resolved any disagreement through\ndiscussion. A third review author was contacted if disagreements\npersisted."
+        ],
+        "negative_ctxs": [
+            21,
+            46
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two review authors (SM and JB-S) who were\nnot involved in the conduct of the primary studies, independently\nextracted the data. The data extraction form was not piloted\nbecause only two studies were included and data extracted\nwere checked for any discrepancies for both included studies.\nAny disagreement was discussed and a third review author (TK)\nwas consulted if disagreements persisted."
+        ],
+        "negative_ctxs": [
+            3,
+            53
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Excluded studies\nEighteen studies were excluded for the following reasons: 12\nstudies were excluded because of the study design, three because\nof outcome measures and three because ofthe type ofintervention.\n\nCharacteristics of excluded studies [ordered by study ID]\nStudy Reason for exclusion"
+        ],
+        "negative_ctxs": [
+            3,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Included studies\nWe included two studies: one randomised controlled trial (Wan\n2005) and one prospective controlled cohort study (Negrini 2008a). The randomised trial by Wan 2005, included 80 adolescents.\nElectro-stimulation on the lateral body surface, traction therapy,\npostural training and postural advice during normal activities were\nprescribed to both groups. The experimental group also performed\nSSE.\nThe  Negrini 2008a study of 74 adolescents prescribed the SEAS\n(Scientific Exercise Approah to Scoliosis) exercises (a type of SSE),\nwhich consisted of an individual education session of scoliosis\u0002specific SEAS exercises to be performed every three months. SSEs\nwere then performed at home two to three time per week. The\ncontrol group performed usual physiotherapy, which included\nexercise protocols according to the preferences of their single\ntherapist.\n\nC H A R A C T E R I S T I C S   O F   S T U D I E S\nCharacteristics of included studies [ordered by study ID]\n"
+        ],
+        "negative_ctxs": [
+            30,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The risk of bias for RCTs and QRCTs was assessed using the 12\ncriteria recommended by the Cochrane Back Review Group (Furlan\n2009), which are an expansion of the 'Risk of bias' criteria listed\nin The Handbook of Systematic Reviews of Interventions (Higgins\n2009), and outlined in Appendix 5. The Newcastle-Ottawa Scale\n(NOS scale) (NOS 2000) was used to assess the observational\nstudies. The NOS scale assesses three broad areas: selection bias,\nattrition bias, and detection bias. See Appendix 6 for details on\n'Risk of bias' criteria for observational studies."
+        ],
+        "negative_ctxs": [
+            48,
+            3
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Data synthesis\nMeta-analysis was not performed because only one RCT and two\nprospective observational controlled trials were found, both of\nwhich reported on different aspects of the same study"
+        ],
+        "negative_ctxs": [
+            42,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Assessment of heterogeneity\nA P value of the Chi2 test less than 0.05 indicates a significant\nstatistical heterogeneity. Clinical heterogeneity was also assessed\nfor all retrieved studies. We planned to pool data only if the data\nwere appropriately homogeneous\n\nSubgroup analysis and investigation of heterogeneity\nWe had planned a subgroup analysis to explore the effects of\nthe following variables: age, bone age, Cobb degrees and type\nof exercise in the case of significant statistical heterogeneity, but\nmeta-analysis was not performed."
+        ],
+        "negative_ctxs": [
+            19,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            32,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Risk of bias in included studies\nOverall, the risk of bias in the included studies was very high. See Figure 2.\n\nQuality of the evidence\nThere is no evidence for or against the use of SSE for treating idiopathic scoliosis. Moreover, it must be stressed that the results regarding brace prescription reported in Negrini 2008a were at high risk of detection bias because the physicians who prescribed the treatments, and who probably believed in their efficacy, were also the physicians who assessed the outcomes and decided whether or not braces should be prescribed or not.\n\nSensitivity analysis\r\nTo incorporate the 'Risk of bias' assessment in the review process, stratification of intervention eGects had initially been planned. This would have included estimates by risk of bias as sensitivity analyses, excluding studies with high risk of bias from the analysis if diGerences in results were seen among studies at diGerent risks of bias. As a meta-analysis was not performed, a 'Risk of bias' assessment could not be conducted.\r"
+        ],
+        "negative_ctxs": [
+            25,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            32,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "D E C L A R A T I O N S   O F   I N T E R E S T\nMany members of the review team have published widely in the field of scoliosis. One of the included studies (Negrini 2008a) was published\nby two authors of the review. Whenever a paper authored by a review author is considered, all decisions about the paper have been be\nmade by the other review authors.\nS O U R C E S   O F   S U P P O R T\nInternal sources\n* No sources of support supplied, Not specified.\nExternal sources\n* No sources of support supplied, Not specified"
+        ],
+        "negative_ctxs": [
+            10,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Possible limitations of this review included the small number of studies that met the inclusion criteria and a high risk of bias, particularly selection bias. More randomised controlled trials are needed in this area, along with a deeper understanding of the types of SSEs useful for the adolescent with AIS.\n\nThe strength of the review is the extensive and comprehensive searches conducted, including a large number of diGerent sources in many languages. The main weakness ofthe review is the absence of high quality studies in this field that make it impossible to reach any firm conclusions."
+        ],
+        "negative_ctxs": [
+            30,
+            46
+        ],
+        "positive_ctxs": []
+    }
+]

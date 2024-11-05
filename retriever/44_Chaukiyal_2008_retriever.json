@@ -1,0 +1,466 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "we undertook a systematic review of all randomized control trials (RCTs) comparing the efficacy of systemic anticoagulation (low-dose warfarin, UFH, and LMWH) in preventing catheter-related thrombosis in cancer patients with CVCs.\n\nInclusion criteria\nAll RCTs analyzing the efficacy of primary thromboprophylaxis (low-dose warfarin [1 mg/day], UFH or LMWH) as compared to placebo or no treatment in preventing catheter related thrombosis and systemic embolization in cancer patients (haematological or solid tumors) with central venous devices were considered for inclusion. Studies \ncomparing the efficacy of two different thromboprophylaxis regimens in preventing catheter-related thrombosis were also included. The first period of randomized crossover studies were included."
+        ],
+        "negative_ctxs": [
+            13,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "All RCTs analyzing the efficacy of primary thromboprophylaxis\n(low-dose warfarin [1 mg/day], UFH or LMWH) as compared to\nplacebo or no treatment in preventing catheter related thrombosis\nand systemic embolization in cancer patients (haematological\nor solid tumors) with central venous devices were considered for\ninclusion. Studies comparing the efficacy of two different\nthromboprophylaxis regimens in preventing catheter-related\nthrombosis were also included. The first period of randomized\ncrossover studies were included."
+        ],
+        "negative_ctxs": [
+            14,
+            5
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "All RCTs analyzing the efficacy of primary thromboprophylaxis (low-dose warfarin [1 mg/day], UFH or LMWH) as compared to placebo or no treatment in preventing catheter related thrombosis and systemic embolization in cancer patients (haematological or solid tumors) with central venous devices were considered for inclusion\n \nAnimal studies, non-RCTs, RCTs of interventions not relevant\nto this systematic review and studies analyzing the efficacy of\nheparin flushes or heparin-bonded catheters alone in preventing\ncatheter-related thrombosis were excluded."
+        ],
+        "negative_ctxs": [
+            2,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "There was no language restriction"
+        ],
+        "negative_ctxs": [
+            1,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Medline, Central and Google Scholar databases were searched for randomized controlled trials (RCTs) in June 2006.\n\nMedline (1966 to June 2006), Cochrane Central Register of RCTs (June 2006) and Google Scholar (June 2006) were searched for relevant articles using appropriate MESH terms: warfarin, coumadin, heparin, anticoagulants, anticoagulation, low molecular weight heparin, direct thrombin inhibitors, thromboprophylaxis, anticoagulant prophylaxis cancer, malignancy, central venous catheters, indwelling catheters, totally implanted venous access devices, catheterization, tunneled catheters, mediport, totally implanted catheters, randomized controlled trials. References of the included studies were searched for additional studies. There was no language restriction. Abstracts of the search results were screened according to the inclusion criteria."
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "References of the included studies were searched for additional studies. \n\nAbstracts of the search results were screened according to the inclusion criteria."
+        ],
+        "negative_ctxs": [
+            14,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "MESH terms: warfarin, coumadin, heparin, anticoagulants, anticoagulation, low molecular weight heparin, direct thrombin inhibitors, thromboprophylaxis, anticoagulant prophylaxis cancer, malignancy, central venous catheters, indwelling catheters, totally implanted venous access devices, catheterization, tunneled catheters, mediport, totally implanted catheters, randomized controlled trials."
+        ],
+        "negative_ctxs": [
+            12,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "There was no language restriction"
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "two reviewers extracted data and appraised the quality of RCTs\n\nTwo authors (PC, AN) independently assessed each trial and extracted data "
+        ],
+        "negative_ctxs": [
+            4,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Characteristics of the participants and the interventions of the included\ntrials are detailed in Table1. The number of participants\nranged from 29 to 439. Most studies used superior vena cava catheters.\nHowever, the type of catheter used in each study was\nvariable and unknown in the trial by Karthaus et al. (15) (Table\n1). None of the studies reported using heparin-bonded catheters.\nFour studies used heparin flushes during the study as per the hospital\nprotocol (2, 12, 14, 15). Catheter thrombosis was diagnosed\nwith contrast venography in nearly all studies, except by Abdelkefi\net al. in which ultrasonography was used (16). It was unclear\nwhy Karthaus et al. used two different methods for detection of\ncatheter thrombosis. More than half of the patients underwent\nvenography, while the remaining patients underwent compression\nultrasound for the diagnosis of UEDVT (15). Most studies\nlooked for catheter thrombosis in symptomatic patients as well\nas at the end of treatment period. However, two studies looked for\ncatheter thrombosis in symptomatic patients alone but not at the\nend of the treatment period (13, 14)."
+        ],
+        "negative_ctxs": [
+            9,
+            15
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "we included data as number of events per patients in this review. Dichotomous data (catheter related thrombosis, all cause bleeding, major bleeding, minor bleeding, and thrombocytopenia) were analyzed using the relative risk (RR) measure and its 95% confidence interval (CI)\n\nFigure 2: Effect of anticoagulation of the incidence of catheter-related thrombosis in cancer patients.\n\nFigure 3: Effect of anticoagulation of the incidence of overall bleeding in cancer patients."
+        ],
+        "negative_ctxs": [
+            2,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The quality of RCTs was assessed by standard methods including allocation concealment, blinding of participants, investigators, outcome assessors, use of intention-to-treat principle, and completeness to follow up (11).\n"
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two reviewers extracted data and appraised the quality of RCTs.\n\nTwo authors (PC, AN) independently assessed each trial and extracted data on the characteristics of participants, interventions, comparisons, and the following outcomes: catheter-associated venous thrombosis, all cause bleeding, major bleeding episodes, minor bleeding episodes, and thrombocytopenia using a standardized data extraction form. The quality of RCTs was assessed by standard methods including allocation concealment, blinding of participants, investigators, outcome assessors, use of intention-to-treat principle, and completeness to follow up (11).\nAny discrepancies were resolved by discussion with an arbitrator\n(SDN)."
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Eight RCTs (1,428 patients) were included. There was no statistically significant difference in the risk of catheter-related thrombosis for the use of warfarin versus placebo (3 trials, 425 patients, RR 0.75, 95% CI 0.24-2.35,p=0.63),heparin versus placebo (4 trials,886 patients, RR 0.46 95% CI 0.18-1.20, p=0.06) or warfarin, unfractionated heparin or low-molecular-weight heparin versus placebo (7 trials, 1,311 patients, RR 0.59, 95% CI 0.31-1.13, p=0.11). Substantial statistical heterogeneity was noted among these trials (I2>50%).The use of anticoagulants showed no statistically significant difference in the risk of overall bleeding (5 trials, 1,193 patients, RR 1.24, 95% CI 0.84-1.82, p=0.28), and thrombocytopenia for heparin versus placebo (4 trials, 958 patients, RR 0.85, 95% CI 0.49, 1.46, p=0.55) without any statistical heterogeneity (I2=0%).\n\nFigure 2: Effect of anticoagulation of the incidence of catheter-related thrombosis in cancer patients.\n\nFigure 3: Effect of anticoagulation of the incidence of overall bleeding in cancer patients."
+        ],
+        "negative_ctxs": [
+            0,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Risks estimated from individual trials were pooled using the DerSimonian-laird random effects model.\n\nResults were expressed as relative risk (RR) with 95% confidence intervals (CI) using random effects model for the outcomes of catheter-related thrombosis, bleeding and thrombocytopenia \n\n"
+        ],
+        "negative_ctxs": [
+            17,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Sensitivity analysis and metaregression analysis were not performed secondary to the small number of studies.\n\nThere was substantial statistical heterogeneity among the included studies (heterogeneity Chi2=14.32, I2 = 58.1%). Heterogeneity could be attributed to the differences in the type of anticoagulants used, sample size, type of catheters, and use of heparin flushes in some studies.\nHeterogeneity across the included studies was analyzed using heterogeneity chisquare (Cochrane Q) statistic and I2 test. An I2 of greater than 50% was evidence of substantial statistical heterogeneity.\n\nThere was substantial statistical heterogeneity among the included studies (Chi2= 6.75, I2= 70.4%). Heterogeneity could be attributed to the difference in the sample size, and duration of treatment.\n\nThe RCTs lacked a clear consensus definition of catheter-related thrombosis, and different diagnostic modalities (venography vs. ultrasound) were used to diagnose catheter-related thrombosis. \n\n The combination of small cohort sizes, discrepant study population, differences in study design, and the use of different thromboprophylaxis agents for varying duration accounts for the significant statistical heterogeneity.\n\nThere was substantial statistical heterogeneity among the included studies (Chi 2=7.58, I2=60.4%). Heterogeneity could be attributed to the differences in type of catheters,\nand use of heparin flushes in some studies.\n\n"
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Eight RCTs (1,428 patients) were included.\n\nSensitivity analysis and metaregression analysis were not performed secondary to the small number of studies.\n"
+        ],
+        "negative_ctxs": [
+            15,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "By current methodological standards, trial quality was variable.\nAllocation concealment was unclear in all the trials. Blinding\nwas complete in four studies (13, 15-17). Only three trials were\nanalyzed on intention to treat basis (13, 15, 17). Two trials were\nnot placebo controlled (2, 12). Loss to follow- up was not reported\nin the included studies."
+        ],
+        "negative_ctxs": [
+            4,
+            1
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "we undertook a systematic review of all randomized control trials (RCTs) comparing the efficacy of systemic anticoagulation (low-dose warfarin, UFH, and LMWH) in preventing catheter-related thrombosis in cancer patients with CVCs.\n\nInclusion criteria\nAll RCTs analyzing the efficacy of primary thromboprophylaxis (low-dose warfarin [1 mg/day], UFH or LMWH) as compared to placebo or no treatment in preventing catheter related thrombosis and systemic embolization in cancer patients (haematological or solid tumors) with central venous devices were considered for inclusion. Studies \ncomparing the efficacy of two different thromboprophylaxis regimens in preventing catheter-related thrombosis were also included. The first period of randomized crossover studies were included.\n\nRCTs analyzing the efficacy of primary thromboprophylaxis (low-dose warfarin [1 mg/day], UFH or LMWH) as compared to placebo or no treatment in preventing catheter related thrombosis and systemic embolization in cancer patients (haematological or solid tumors) with central venous devices were considered for inclusion. Studies comparing the efficacy of two different thromboprophylaxis regimens in preventing catheter-related thrombosis were also included. The first period of randomized crossover studies were included.\n\n"
+        ],
+        "negative_ctxs": [
+            6,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            0,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "All RCTs analyzing the efficacy of primary thromboprophylaxis\n(low-dose warfarin [1 mg/day], UFH or LMWH) as compared to\nplacebo or no treatment in preventing catheter related thrombosis\nand systemic embolization in cancer patients (haematological\nor solid tumors) with central venous devices were considered for\ninclusion. Studies comparing the efficacy of two different\nthromboprophylaxis regimens in preventing catheter-related\nthrombosis were also included. The first period of randomized\ncrossover studies were included."
+        ],
+        "negative_ctxs": [
+            17,
+            13
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Medline, Central and Google Scholar databases were searched for randomized controlled trials (RCTs) in June 2006.\n\nMedline (1966 to June 2006), Cochrane Central Register of RCTs (June 2006) and Google Scholar (June 2006) were searched for relevant articles using appropriate MESH terms: warfarin, coumadin, heparin, anticoagulants, anticoagulation, low molecular weight heparin, direct thrombin inhibitors, thromboprophylaxis, anticoagulant prophylaxis cancer, malignancy, central venous catheters, indwelling catheters, totally implanted venous access devices, catheterization, tunneled catheters, mediport, totally implanted catheters, randomized controlled trials. References of the included studies were searched for additional studies. There was no language restriction. Abstracts of the search results were screened according to the inclusion criteria."
+        ],
+        "negative_ctxs": [
+            12,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "two reviewers extracted data and appraised the quality of RCTs\n\nTwo authors (PC, AN) independently assessed each trial and extracted data "
+        ],
+        "negative_ctxs": [
+            12,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Trials excluded were either review articles or\nmeta-analysis that did not include cancer patients alone or did\nnot meet the inclusion criteria."
+        ],
+        "negative_ctxs": [
+            3,
+            11
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Characteristics of the participants and the interventions of the included\ntrials are detailed in Table1. The number of participants\nranged from 29 to 439. Most studies used superior vena cava catheters.\nHowever, the type of catheter used in each study was\nvariable and unknown in the trial by Karthaus et al. (15) (Table\n1). None of the studies reported using heparin-bonded catheters.\nFour studies used heparin flushes during the study as per the hospital\nprotocol (2, 12, 14, 15). Catheter thrombosis was diagnosed\nwith contrast venography in nearly all studies, except by Abdelkefi\net al. in which ultrasonography was used (16). It was unclear\nwhy Karthaus et al. used two different methods for detection of\ncatheter thrombosis. More than half of the patients underwent\nvenography, while the remaining patients underwent compression\nultrasound for the diagnosis of UEDVT (15). Most studies\nlooked for catheter thrombosis in symptomatic patients as well\nas at the end of treatment period. However, two studies looked for\ncatheter thrombosis in symptomatic patients alone but not at the\nend of the treatment period (13, 14)."
+        ],
+        "negative_ctxs": [
+            3,
+            4
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The quality of RCTs was assessed by standard methods including allocation concealment, blinding of participants, investigators, outcome assessors, use of intention-to-treat principle, and completeness to follow up (11).\n"
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Risks estimated from individual trials were pooled using the DerSimonian-laird random effects model.\n\nResults were expressed as relative risk (RR) with 95% confidence intervals (CI) using random effects model for the outcomes of catheter-related thrombosis, bleeding and thrombocytopenia \n\n"
+        ],
+        "negative_ctxs": [
+            17,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Sensitivity analysis and metaregression analysis were not performed secondary to the small number of studies.\n\nThere was substantial statistical heterogeneity among the included studies (heterogeneity Chi2=14.32, I2 = 58.1%). Heterogeneity could be attributed to the differences in the type of anticoagulants used, sample size, type of catheters, and use of heparin flushes in some studies.\nHeterogeneity across the included studies was analyzed using heterogeneity chisquare (Cochrane Q) statistic and I2 test. An I2 of greater than 50% was evidence of substantial statistical heterogeneity.\n\nThere was substantial statistical heterogeneity among the included studies (Chi2= 6.75, I2= 70.4%). Heterogeneity could be attributed to the difference in the sample size, and duration of treatment.\n\nThe RCTs lacked a clear consensus definition of catheter-related thrombosis, and different diagnostic modalities (venography vs. ultrasound) were used to diagnose catheter-related thrombosis. \n\n The combination of small cohort sizes, discrepant study population, differences in study design, and the use of different thromboprophylaxis agents for varying duration accounts for the significant statistical heterogeneity.\n\nThere was substantial statistical heterogeneity among the included studies (Chi 2=7.58, I2=60.4%). Heterogeneity could be attributed to the differences in type of catheters,\nand use of heparin flushes in some studies.\n\n"
+        ],
+        "negative_ctxs": [
+            3,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Eight RCTs (1,428 patients) were included.\n\nSensitivity analysis and metaregression analysis were not performed secondary to the small number of studies.\n"
+        ],
+        "negative_ctxs": [
+            15,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "By current methodological standards, trial quality was variable.\nAllocation concealment was unclear in all the trials. Blinding\nwas complete in four studies (13, 15-17). Only three trials were\nanalyzed on intention to treat basis (13, 15, 17). Two trials were\nnot placebo controlled (2, 12). Loss to follow- up was not reported\nin the included studies."
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            13
+        ],
+        "positive_ctxs": []
+    }
+]

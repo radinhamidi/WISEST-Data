@@ -1,0 +1,478 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "The study is registered with Centre for Reviews and Dissemination, University of York,PROSPERO 2016:CRD4201603301\n\nTypes of study to be included\r\nAll studies where the outcomes from the procedure are reported\r\nCondition or domain being studied\r\nIdiopathic facial blushing is an involuntary condition caused by autonomic dysfunction presenting as disproportionate\r\nredness of the face, neck and upper chest in response to heightened anxiety, usually in young fair skinned individuals.\r\nThoracoscopic sympathectomy is considered the most effective treatment for facial blushing, but is invasive and remains\r\ncontroversial.\r\nParticipants/population\r\nAll reports on those who have undergone a thoracic sympathectomy for facial flushing\r\nIntervention(s), exposure(s)\r\nThis study reviews the evidence to support thoracic sympathetic chain interruption as treatment for facial blushing.\r\nThose for hyperhidrosis alone will be excluded\r\nComparator(s)/control\r\nNone\r\nContext\r\nExclusions:\r\n1. Previous sympathectomy or re-do procedures for facial blushing\n2. Studies that included secondary causes of blushing such as neurogenic rosacea, Harlequin syndrome, Frey's syndrome\r\nor flushing as a result of a complication of a surgical procedure or as a result of menopause.\r\n3. Studies which included patients with hyperhidrosis where facial blushing data was not separable.\r\n4. Experimental animal studies.\r\nMain outcome(s)\r\n1. relief of symptoms\r\n2. Patient satisfaction\r\nMeasures of effect\r\nAs long a follow up as possible\r\nAdditional outcome(s)\r\n1. Complications of intervention\r\n2. Side effects of intervention\r\nMeasures of effect\r\nAs long as possible"
+        ],
+        "negative_ctxs": [
+            4,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "3.1. Inclusion and exclusion criteria Studies on patients with facial blushing, who underwent sympathetic interruption in which data for facial blushing could be separately extracted, were included. All types of study design such as randomized controlled trials, nonrandomized controlled trials, descriptive studies, and case series were included. In this review, sympathetic interruption includes sympathetectomy and sympathetic clipping or blockade. As per the nomenclature for the level of sympathetic interruption, an expert consensus published in 2011 on management of hyperhidrosis advocates adopting rib rather than vertebrae as reference level . Studies with patients who had previous sympathectomy or re-do procedures for facial blushing were excluded. This included secondary causes of blushing namely, neurogenic rosacea, Harlequin syndrome, Frey's syndrome, and menopause. Experimental animal studies and studies reporting insufficient preoperative and postoperative data were also excluded.\n"
+        ],
+        "negative_ctxs": [
+            14,
+            8
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "3.1. Inclusion and exclusion criteria Studies on patients with facial blushing, who underwent sympathetic interruption in which data for facial blushing could be separately extracted, were included. All types of study design such as randomized controlled trials, nonrandomized controlled trials, descriptive studies, and case series were included. In this review, sympathetic interruption includes sympathetectomy and sympathetic clipping or blockade. As per the nomenclature for the level of sympathetic interruption, an expert consensus published in 2011 on management of hyperhidrosis advocates adopting rib rather than vertebrae as reference level . Studies with patients who had previous sympathectomy or re-do procedures for facial blushing were excluded. This included secondary causes of blushing namely, neurogenic rosacea, Harlequin syndrome, Frey's syndrome, and menopause. Experimental animal studies and studies reporting insufficient preoperative and postoperative data were also excluded.\n"
+        ],
+        "negative_ctxs": [
+            12,
+            18
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Studies with patients who had previous sympathectomy or re-do procedures for facial blushing were excluded. This included secondary causes of blushing namely, neurogenic rosacea, Harlequin syndrome, Frey's syndrome, and menopause. Experimental animal studies and studies reporting insufficient preoperative and postoperative data were also excluded."
+        ],
+        "negative_ctxs": [
+            17,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "3.2. Search methods for identification of studies\nThe electronic databases searched to identify potential studies were Ovid-Medline, Embase, Cochrane library, and NICE. No limits or filters were applied to any of the databases as we found the literature on the topic of interest was limited. The key words used for the search were 'blushing,' 'flushing,' 'facial flush,' 'sympathectomy,' 'sympathetic clipping,' 'sympathetic block,' 'sympathectomy,' 'nerve block,' and 'nerve clipping.' However, a tailor made search strategy was created for each of the databases reviewed (Supplemental data)."
+        ],
+        "negative_ctxs": [
+            19,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The electronic databases searched to identify potential studies were Ovid-Medline, Embase, Cochrane library, and NICE. No limits or filters were applied to any of the databases as we found the literature on the topic of interest was limited."
+        ],
+        "negative_ctxs": [
+            7,
+            9
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "key words used for the search were'blushing,''flushing,''facialflush,''sympathectomy,''sympathetic clipping,''sympatheticblock,''sympathectomy,''nerve block,'and'nerve clipping.'However, a tailor made search strategy was created for eachof the databases reviewed (Supplemental data)"
+        ],
+        "negative_ctxs": [
+            7,
+            20
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "No limits or filters were applied to any of the databases as we found the literature on the topic of interest was limited."
+        ],
+        "negative_ctxs": [
+            17,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "The two review authors independently assessed the studies for inclusion and resolved the differences by discussion and, when necessary, in consultation with a third review author (Baker D M)."
+        ],
+        "negative_ctxs": [
+            16,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data extraction form was constructed based on the review objectives. Two review authors independently extracted data from included papers on to an Excel spread sheet. "
+        ],
+        "negative_ctxs": [
+            20,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "4. Results. 4.1. Study characteristics: Nine studies (Table 1) met the inclusion criteria with a total of 2045 cases, of which 1369 patients were included in the final analysis after removal of non-blushers and those who were not followed up or responded to questionnaires. Sympathetic blockade was achieved by clipping the second sympathetic ganglion above and below, whereas sympathectomy interrupted the ganglia varying from T1 to T3 except in one study where the interruption was from T1 to T5.Two studiescompared the outcomes of sympathectomy at T2 and T2-3[17,23]. In one study , 2nd ganglion interruption was per-formed in pure blushers while the 2nd and 3rd ganglia wereinterrupted in those with facial blushing with palmar hyperhi-drosis. In this study, split data for facial blushing and hyperhi-drosis was available. Follow-up period was 1-60 months witha median of 20 months in one study  and mean of21 months in the remaining 8 studies. Eight of the nine studies reported some formal method of preoperative assessment offacial blushing. All the nine studies used patient opinion,visual analog scores and/or a standardized questionnaire post-operatively to report outcome of surgery. Eight studies per-formed sympathectomy and one sympathetic blockade byclipping. All studies but one documented the procedure tobe bilateral\n\nTable 1.Characteristics of studies of the thoracic sympathetic chain interruption as treatment for facial blushing"
+        ],
+        "negative_ctxs": [
+            13,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 3. Primary and secondary outcomes"
+        ],
+        "negative_ctxs": [
+            9,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "3.5. Assessment of methodological quality of included studies: Case series comprised the majority of studies in the systematic review [15-21]. In this review, the tool from National Heart, Lung and Blood Institute of NIH  was used to assess the quality of case series designs. Accordingly, in the final analysis, we included four studies which were considered 'good' [15-18] and three as 'fair' [19-21]. \nA randomized controlled trial by Licht et al. was assessed for risk of bias using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions . The study was found to have 'low risk of bias' in key domains except the absence of control group which was considered as 'high risk of bias' in the 'other bias' category. \nThe intervention trial by Jadresic et al.  was categorized as 'controlled before-and-after study.' For this particular study, the Cochrane Collaboration's tool for assessing risk of bias was adapted using EPOC's criteria for studies other than RCTs . According to this tool, the study had 'low risk of bias' in three key domains and 'high risk of bias' in four key domains. However, for the purpose of our review, the data from this interventional trial is considered as similar to a case series and hence included in the review."
+        ],
+        "negative_ctxs": [
+            17,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Risk of bias (quality) assessment\r\nAs above.\r\n\r\ntwo -three people reviewing.\r\n\r\nReview paper.\r\n\r\nRemove duplications"
+        ],
+        "negative_ctxs": [
+            1,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Nine studies (Table 1) met the inclusion criteria with a total of 2045 cases, of which 1369 patients were included in the final analysis after removal of non-blushers and those who were not followed up or responded to questionnaires."
+        ],
+        "negative_ctxs": [
+            17,
+            10
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Strategy for data synthesis\nAs the review will be comprehensive it is likely that the studies retrieved will be heterogeneous. The data will be summarized descriptively as it will not possible to do meta-analysis. Median and range used to compile the data from individual studies with regard to each of the outcome variable. We prefer median over mean because the data is likely to be skewed and had outliers.\n\nAnalysis of subgroups or subsets\nNone planned\n\n\n3.6. Data analysisProportion of each parameter and its confidence interval wascomputed. Heterogeneity was assessed using Q statistics and I2.Meta-analysis was carried out using random effects model inSTATA 13. We included all the nine studies if they reported specificoutcome measures. We attempted subgroup analysis based on thestudy design, as we had seven case series and two interventiontrials. However, considering the methodological limitations of thetwo intervention trials, we combined all the study designs anddiscussed the results in detail. This approach is justified as our maininterest was on the outcome of sympathectomy and not in thecomparison of levels of sympathectomy  or sympathectomyversus medical treatment . The data of outcome measuresrelated to sympathectomy were isolated from the two interventiontrials [4,23] and were used for meta-analysis. Results are expressedin terms of proportion, 95% confidence interval and forest plot.268G. GIRISH ET AL.\r\n"
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            " We included all the nine studies if they reported specificoutcome measures. We attempted subgroup analysis based on thestudy design, as we had seven case series and two interventiontrials. However, considering the methodological limitations of thetwo intervention trials, we combined all the study designs anddiscussed the results in detail.\n\nThere was significant heterogeneity in the results (I2 = 90.4) and hence we used the random effect model for meta-analysis."
+        ],
+        "negative_ctxs": [
+            5,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The overall pooled estimate of the proportion of patients who got relief of facial blushing was 78.3% (95% CI, 58.2-98.39%). There was significant heterogeneity in the results (I2 = 90.4) and hence we used the random effect model for meta-analysis."
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Funnel plot could not be carried out since there were insuffi-cient studies in the review despite a comprehensive searchstrategy. The search strategy was followed with a broad inclu-sion of all types of study designs in order to unearth all theavailable studies pertaining to our research question."
+        ],
+        "negative_ctxs": [
+            18,
+            2
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "3.5. Assessment of methodological quality of included studies\nCase series comprised the majority of studies in the systematic review [15-21]. In this review, the tool from National Heart, Lung and Blood Institute of NIH  was used to assess the quality of case series designs. Accordingly, in the final analysis, we included four studies which were considered 'good' [15-18] and three as 'fair' [19-21].\nA randomized controlled trial by Licht et al.  was assessed for risk of bias using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions . The study was found to have 'low risk of bias' in key domains except the absence of control group which was considered as 'high risk of bias' in the 'other bias' category.\nThe intervention trial by Jadresic et al.  was categorized as 'controlled before-and-after study.' For this particular study, the Cochrane Collaboration's tool for assessing risk of bias was adapted using EPOC's criteria for studies other than RCTs . According to this tool, the study had 'low risk of bias' in three key domains and 'high risk of bias' in four key domains. However, for the purpose of our review, the data from this interventional trial is considered as similar to a case series and hence included in the review.\n\nThe review consisted of 4 good quality and 3 fair case series.The only RCT in this review was of level IIA and one nonran-domized study was of level IIB evidence. The case series wereof Level IV evidence"
+        ],
+        "negative_ctxs": [
+            13,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "5.1. Limitations of this review\nThe review consisted of 4 good quality and 3 fair case series. The only RCT in this review was of level IIA and one nonrandomized study was of level IIB evidence. The case series were of Level IV evidence. The paucity of good-quality studies could be seen as a limitation to making rigid conclusions."
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "3.1. Inclusion and exclusion criteria Studies on patients with facial blushing, who underwent sympathetic interruption in which data for facial blushing could be separately extracted, were included. All types of study design such as randomized controlled trials, nonrandomized controlled trials, descriptive studies, and case series were included. In this review, sympathetic interruption includes sympathetectomy and sympathetic clipping or blockade. As per the nomenclature for the level of sympathetic interruption, an expert consensus published in 2011 on management of hyperhidrosis advocates adopting rib rather than vertebrae as reference level . Studies with patients who had previous sympathectomy or re-do procedures for facial blushing were excluded. This included secondary causes of blushing namely, neurogenic rosacea, Harlequin syndrome, Frey's syndrome, and menopause. Experimental animal studies and studies reporting insufficient preoperative and postoperative data were also excluded.\r"
+        ],
+        "negative_ctxs": [
+            14,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            1,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "The study is registered with Centre for Reviews and Dissemination, University of York,PROSPERO 2016:CRD4201603301\n\nTypes of study to be included\r\nAll studies where the outcomes from the procedure are reported\r\nCondition or domain being studied\r\nIdiopathic facial blushing is an involuntary condition caused by autonomic dysfunction presenting as disproportionate\r\nredness of the face, neck and upper chest in response to heightened anxiety, usually in young fair skinned individuals.\r\nThoracoscopic sympathectomy is considered the most effective treatment for facial blushing, but is invasive and remains\r\ncontroversial.\r\nParticipants/population\r\nAll reports on those who have undergone a thoracic sympathectomy for facial flushing\r\nIntervention(s), exposure(s)\r\nThis study reviews the evidence to support thoracic sympathetic chain interruption as treatment for facial blushing.\r\nThose for hyperhidrosis alone will be excluded\r\nComparator(s)/control\r\nNone\r\nContext\r\nExclusions:\r\n1. Previous sympathectomy or re-do procedures for facial blushing\n2. Studies that included secondary causes of blushing such as neurogenic rosacea, Harlequin syndrome, Frey's syndrome\r\nor flushing as a result of a complication of a surgical procedure or as a result of menopause.\r\n3. Studies which included patients with hyperhidrosis where facial blushing data was not separable.\r\n4. Experimental animal studies.\r\nMain outcome(s)\r\n1. relief of symptoms\r\n2. Patient satisfaction\r\nMeasures of effect\r\nAs long a follow up as possible\r\nAdditional outcome(s)\r\n1. Complications of intervention\r\n2. Side effects of intervention\r\nMeasures of effect\r\nAs long as possible"
+        ],
+        "negative_ctxs": [
+            17,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "3.1. Inclusion and exclusion criteria Studies on patients with facial blushing, who underwent sympathetic interruption in which data for facial blushing could be separately extracted, were included. All types of study design such as randomized controlled trials, nonrandomized controlled trials, descriptive studies, and case series were included. In this review, sympathetic interruption includes sympathetectomy and sympathetic clipping or blockade. As per the nomenclature for the level of sympathetic interruption, an expert consensus published in 2011 on management of hyperhidrosis advocates adopting rib rather than vertebrae as reference level . Studies with patients who had previous sympathectomy or re-do procedures for facial blushing were excluded. This included secondary causes of blushing namely, neurogenic rosacea, Harlequin syndrome, Frey's syndrome, and menopause. Experimental animal studies and studies reporting insufficient preoperative and postoperative data were also excluded.\n"
+        ],
+        "negative_ctxs": [
+            11,
+            1
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            " All types of study designsuch as randomized controlled trials, nonrandomized controlledtrials, descriptive studies, and case series were included"
+        ],
+        "negative_ctxs": [
+            5,
+            19
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The electronic databases searched to identify potential studies were Ovid-Medline, Embase, Cochrane library, and NICE. No limits or filters were applied to any of the databases as we found the literature on the topic of interest was limited."
+        ],
+        "negative_ctxs": [
+            20,
+            13
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "The two review authors independently assessed the studies for inclusion and resolved the differences by discussion and, when necessary, in consultation with a third review author (Baker D M)."
+        ],
+        "negative_ctxs": [
+            12,
+            17
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data extraction form was constructed based on the review objectives. Two review authors independently extracted data from included papers on to an Excel spread sheet. "
+        ],
+        "negative_ctxs": [
+            11,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "4. Results. 4.1. Study characteristics: Nine studies (Table 1) met the inclusion criteria with a total of 2045 cases, of which 1369 patients were included in the final analysis after removal of non-blushers and those who were not followed up or responded to questionnaires. Sympathetic blockade was achieved by clipping the second sympathetic ganglion above and below, whereas sympathectomy interrupted the ganglia varying from T1 to T3 except in one study where the interruption was from T1 to T5.Two studiescompared the outcomes of sympathectomy at T2 and T2-3[17,23]. In one study , 2nd ganglion interruption was per-formed in pure blushers while the 2nd and 3rd ganglia wereinterrupted in those with facial blushing with palmar hyperhi-drosis. In this study, split data for facial blushing and hyperhi-drosis was available. Follow-up period was 1-60 months witha median of 20 months in one study  and mean of21 months in the remaining 8 studies. Eight of the nine studies reported some formal method of preoperative assessment offacial blushing. All the nine studies used patient opinion,visual analog scores and/or a standardized questionnaire post-operatively to report outcome of surgery. Eight studies per-formed sympathectomy and one sympathetic blockade byclipping. All studies but one documented the procedure tobe bilateral\n\nTable 1.Characteristics of studies of the thoracic sympathetic chain interruption as treatment for facial blushing"
+        ],
+        "negative_ctxs": [
+            8,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "3.5. Assessment of methodological quality of included studies: Case series comprised the majority of studies in the systematic review [15-21]. In this review, the tool from National Heart, Lung and Blood Institute of NIH  was used to assess the quality of case series designs. Accordingly, in the final analysis, we included four studies which were considered 'good' [15-18] and three as 'fair' [19-21]. \nA randomized controlled trial by Licht et al. was assessed for risk of bias using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions . The study was found to have 'low risk of bias' in key domains except the absence of control group which was considered as 'high risk of bias' in the 'other bias' category. \nThe intervention trial by Jadresic et al.  was categorized as 'controlled before-and-after study.' For this particular study, the Cochrane Collaboration's tool for assessing risk of bias was adapted using EPOC's criteria for studies other than RCTs . According to this tool, the study had 'low risk of bias' in three key domains and 'high risk of bias' in four key domains. However, for the purpose of our review, the data from this interventional trial is considered as similar to a case series and hence included in the review."
+        ],
+        "negative_ctxs": [
+            2,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            " We included all the nine studies if they reported specificoutcome measures. We attempted subgroup analysis based on thestudy design, as we had seven case series and two interventiontrials. However, considering the methodological limitations of thetwo intervention trials, we combined all the study designs anddiscussed the results in detail.\n\nThere was significant heterogeneity in the results (I2 = 90.4) and hence we used the random effect model for meta-analysis."
+        ],
+        "negative_ctxs": [
+            5,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The overall pooled estimate of the proportion of patients who got relief of facial blushing was 78.3% (95% CI, 58.2-98.39%). There was significant heterogeneity in the results (I2 = 90.4) and hence we used the random effect model for meta-analysis."
+        ],
+        "negative_ctxs": [
+            12,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Funnel plot could not be carried out since there were insuffi-cient studies in the review despite a comprehensive searchstrategy. The search strategy was followed with a broad inclu-sion of all types of study designs in order to unearth all theavailable studies pertaining to our research question."
+        ],
+        "negative_ctxs": [
+            6,
+            4
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "3.5. Assessment of methodological quality of included studies\nCase series comprised the majority of studies in the systematic review [15-21]. In this review, the tool from National Heart, Lung and Blood Institute of NIH  was used to assess the quality of case series designs. Accordingly, in the final analysis, we included four studies which were considered 'good' [15-18] and three as 'fair' [19-21].\nA randomized controlled trial by Licht et al.  was assessed for risk of bias using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions . The study was found to have 'low risk of bias' in key domains except the absence of control group which was considered as 'high risk of bias' in the 'other bias' category.\nThe intervention trial by Jadresic et al.  was categorized as 'controlled before-and-after study.' For this particular study, the Cochrane Collaboration's tool for assessing risk of bias was adapted using EPOC's criteria for studies other than RCTs . According to this tool, the study had 'low risk of bias' in three key domains and 'high risk of bias' in four key domains. However, for the purpose of our review, the data from this interventional trial is considered as similar to a case series and hence included in the review.\n\nThe review consisted of 4 good quality and 3 fair case series.The only RCT in this review was of level IIA and one nonran-domized study was of level IIB evidence. The case series wereof Level IV evidence"
+        ],
+        "negative_ctxs": [
+            10,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Declaration of interest: The authors have no relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript. This includes employment, consultancies, honoraria, stock ownership or options, expert testimony, grants or patents received or pending, or royalties.\n\nNo funding."
+        ],
+        "negative_ctxs": [
+            18,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "5.1. Limitations of this review\nThe review consisted of 4 good quality and 3 fair case series. The only RCT in this review was of level IIA and one nonrandomized study was of level IIB evidence. The case series were of Level IV evidence. The paucity of good-quality studies could be seen as a limitation to making rigid conclusions."
+        ],
+        "negative_ctxs": [
+            9,
+            14
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    }
+]

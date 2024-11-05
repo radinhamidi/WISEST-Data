@@ -1,0 +1,448 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "D I F F E R E N C E S \u0003 B E T W E E N \u0003 P R O T O C O L \u0003 A N D \u0003 R E V I E W\r\nWe included both the primary outcomes and changes in respiratory rate in the summary of findings table. Sufficient data were not available\r\nfor the outcome hospital admission rate to permit inclusion in the summary of findings table, as specified in the protocol.\r\nIn the Assessment of risk of bias in included studies section, we assessed blinding separately for each outcome, as a given outcome may\r\nor may not have been aJected by blinding.\r\nWe changed the thresholds for interpreting the different values of IT (assessment of heterogeneity) to: 0% to 50% heterogeneity might not\r\nbe important; > 50% to 75% moderate heterogeneity; and > 75% substantial heterogeneity.\r\nWe added a subgroup analysis (respiratory syncytial virus (RSV)-positive and RSV-negative children). We reported risk difference for\r\ndichotomous variables instead of risk ratio as stated in the protocol.\r\nToo few included studies prevented us from performing subgroup and sensitivity analyses"
+        ],
+        "negative_ctxs": [
+            10,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "O B J E C T I V E S\nTo assess the eJicacy and safety of CPAP compared to no CPAP or\nsham CPAP in infants and children up to three years of age with\nacute bronchiolitis\nM E T H O D S\nCriteria for considering studies for this review\nTypes of studies\nRandomised controlled trials (RCTs), quasi-RCTs, cross-over RCTs,\nand cluster-RCTs were eligible for inclusion in the review. \nTypes of participants\r\nChildren aged up to three years with a clinical diagnosis of acute\r\nbronchiolitis. We included all infants, regardless of RSV status.\r\nTypes of interventions\r\nWe included CPAP treatment with any pressure level, and delivered\r\nby any type of device, by any mode (nasal prongs, face mask,\r\netc.), and for any duration, compared to no CPAP or sham CPAP.\r\nWe included studies that applied CPAP at any time aKer patient\r\npresentation. We excluded studies that investigated the use of\r\nhigh-flow nasal cannulae, as this concept is addressed in another\r\nCochrane Review (Beggs 2014). We included trials in which all\r\nchildren who were randomised to treatment and control arms\r\nreceived similar management in all other respects.\r\nTypes of outcome measures\r\nWe addressed the following outcomes.\r\nPrimary outcomes\r\n1. Proportion of children requiring mechanical ventilation.\r\n2. Time to recovery (as defined by the study).\r\nSecondary outcomes\r\n1. Change in respiratory rate.\r\n2. Change in arterial oxygen saturation.\r\n3. Change in arterial partial pressure of carbon dioxide (pCOE) and\r\npartial pressure of oxygen (pOE).\r\n4. Hospital admission rate (from emergency department to\r\nhospital).\r\n5. Duration of emergency department stay.\r\n6. Duration of hospital stay.\r\n7. Need for intensive care unit admission.\r\n8. Adverse events, e.g. local nasal eJects, pneumothorax, and\r\nshock.\r\n9. Mortality."
+        ],
+        "negative_ctxs": [
+            39,
+            40
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "M E T H O D S\nCriteria for considering studies for this review\nTypes of studies\nRandomised controlled trials (RCTs), quasi-RCTs, cross-over RCTs,\nand cluster-RCTs were eligible for inclusion in the review. \nTypes of participants\nChildren aged up to three years with a clinical diagnosis of acute\nbronchiolitis. We included all infants, regardless of RSV status.\nTypes of interventions\nWe included CPAP treatment with any pressure level, and delivered\nby any type of device, by any mode (nasal prongs, face mask,\netc.), and for any duration, compared to no CPAP or sham CPAP.\nWe included studies that applied CPAP at any time aKer patient\npresentation. We excluded studies that investigated the use of\nhigh-flow nasal cannulae, as this concept is addressed in another\nCochrane Review (Beggs 2014). We included trials in which all\nchildren who were randomised to treatment and control arms\nreceived similar management in all other respects.\nTypes of outcome measures\nWe addressed the following outcomes.\nPrimary outcomes\n1. Proportion of children requiring mechanical ventilation.\n2. Time to recovery (as defined by the study).\nSecondary outcomes\n1. Change in respiratory rate.\n2. Change in arterial oxygen saturation.\n3. Change in arterial partial pressure of carbon dioxide (pCOE) and\npartial pressure of oxygen (pOE).\n4. Hospital admission rate (from emergency department to\nhospital).\n5. Duration of emergency department stay.\n6. Duration of hospital stay.\n7. Need for intensive care unit admission.\n8. Adverse events, e.g. local nasal eJects, pneumothorax, and\nshock.\n9. Mortality."
+        ],
+        "negative_ctxs": [
+            48,
+            55
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "M E T H O D S\nCriteria for considering studies for this review\nTypes of studies\nRandomised controlled trials (RCTs), quasi-RCTs, cross-over RCTs,\nand cluster-RCTs were eligible for inclusion in the review. \nTypes of participants\nChildren aged up to three years with a clinical diagnosis of acute\nbronchiolitis. We included all infants, regardless of RSV status.\nTypes of interventions\nWe included CPAP treatment with any pressure level, and delivered\nby any type of device, by any mode (nasal prongs, face mask,\netc.), and for any duration, compared to no CPAP or sham CPAP.\nWe included studies that applied CPAP at any time aKer patient\npresentation. We excluded studies that investigated the use of\nhigh-flow nasal cannulae, as this concept is addressed in another\nCochrane Review (Beggs 2014). We included trials in which all\nchildren who were randomised to treatment and control arms\nreceived similar management in all other respects.\nTypes of outcome measures\nWe addressed the following outcomes.\nPrimary outcomes\n1. Proportion of children requiring mechanical ventilation.\n2. Time to recovery (as defined by the study).\nSecondary outcomes\n1. Change in respiratory rate.\n2. Change in arterial oxygen saturation.\n3. Change in arterial partial pressure of carbon dioxide (pCOE) and\npartial pressure of oxygen (pOE).\n4. Hospital admission rate (from emergency department to\nhospital).\n5. Duration of emergency department stay.\n6. Duration of hospital stay.\n7. Need for intensive care unit admission.\n8. Adverse events, e.g. local nasal eJects, pneumothorax, and\nshock.\n9. Mortality.\n\nWe graded each potential source of bias as low, high, or unclear, and\r\nprovided quotes from the study report together with a justification\r\nfor our judgement in the risk of bias tables. We summarised the\r\nrisk of bias judgements across diJerent studies for each of the\r\ndomains listed. We considered blinding separately for diJerent\r\nkey outcomes where necessary. Where information on risk of bias\r\nrelated to unpublished data or correspondence with a trialist, we\r\nnoted this in the risk of bias table.\r\nWe took risk of bias into account for studies that contributed to a\r\ngiven outcome when considering treatment eJects."
+        ],
+        "negative_ctxs": [
+            22,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We did not apply any date, language, or\r\npublication restrictions.\n\nDealing with missing data\nWe contacted investigators or study sponsors to verify key study\ncharacteristics and to obtain missing numerical outcome data\nwhere possible (e.g. when a study was identified as an abstract\nonly). Where this was not possible, and the missing data were\nthought to introduce serious bias, we explored the impact of\nincluding such studies in the overall assessment of results by a\nsensitivity analysis.\nIf numerical outcome data such as standard deviations or\ncorrelation coeJicients were missing and could not be obtained\nfrom the study authors, we calculated these from other available\nstatistics, such as P values, according to the methods described\nin the Cochrane Handbook for Systematic Reviews of Interventions\n(Higgins 2021)."
+        ],
+        "negative_ctxs": [
+            5,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched the Cochrane Central Register of Controlled Trials\r\n(CENTRAL; 2021, Issue 7), which includes the Cochrane Acute\r\nRespiratory Infections (ARI) Group Specialised Register, MEDLINE\r\n(1946 to 15 August 2021), Embase (1974 to 15 August 2021), CINAHL\r\n(Cumulative Index to Nursing and Allied Health Literature) (1981 to\r\n15 August 2021), and LILACS (Latin American and Caribbean Health\r\nScience Information database) (1982 to 15 August 2021)"
+        ],
+        "negative_ctxs": [
+            35,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We reviewed the reference lists\r\nof included studies to identify any additional studies. We contacted\r\ncorresponding authors of the included trials to enquire as to any\r\nadditional ongoing RCTs or unpublished trials."
+        ],
+        "negative_ctxs": [
+            52,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We used the search strategy in\u0013 Appendix 1\u0013 to search CENTRAL\nand MEDLINE. We combined the MEDLINE search strategy with\nthe Cochrane Highly Sensitive Search Strategy for identifying\nrandomised trials in MEDLINE: sensitivity-maximising version (2008\nrevision); Ovid format (Lefebvre 2021). We adapted the search\nstrategy to search Embase (Appendix 2), CINAHL (Appendix 3), and\nLILACS (Appendix 4). We did not apply any date, language, or\npublication restrictions.\n\nAppendix 1. MEDLINE (Ovid) search strategy\n1 exp Bronchiolitis/\n2 bronchiolit*.tw.\n3 Bronchopneumonia/\n4 bronchopneumon*.tw.\n5 exp respiratory syncytial viruses/ or exp respiratory syncytial virus, human/\n6 Respiratory Syncytial Virus Infections/\n7 (respiratory syncytial virus* or rsv).tw.\n8 or/1-7\n9 Respiratory Therapy/\n10 Respiration, Artificial/\n11 positive-pressure respiration/ or continuous positive airway pressure/\n12 (positive pressur* adj5 (ventilat* or respir* or breath* or airway*)).tw.\n13 positiv* airway* pressur*.tw.\n14 continuous distend* pressur*.tw.\n15 positive end expiratory pressure.tw.\n16 (ppv or cpap or ncpap or nm-cpap or np-cpap or peep).tw.\n17 or/9-16\n18 8 and 17\nAppendix 2. Embase (Elsevier) search strategy\n#14 *'continuous distending pressure'*:ab,ti 46*\n#13 *ppv*:ab,ti OR *cpap*:ab,ti OR *ncpap*:ab,ti OR *'nm-cpap'*:ab,ti OR *'np-cpap'*:ab,ti 17000*\n#12 *'positive airway pressure'*:ab,ti 6991*\n#11 ((*'positive pressure'* OR *'positive-pressure'*) NEAR/5 (*ventilat** OR *respir** OR *breath** OR *airway**)):ab,ti 5253*\n#10 *'artificial ventilation'*/de OR *'positive end expiratory pressure'*/de OR *'cpap device'*/de 78111*\n#9 *#1* OR *#2* OR *#3* OR *#4* OR *#5* OR *#6* OR *#7* OR *#8**28466*\n#8 *rsv*:ab,ti 7727*\n#7 *'respiratory syncytial virus'*:ab,ti OR *'respiratory syncytial viruses'*:ab,ti 8252*\n#6 *'respiratory syncytial virus infection'*/de 1132*\n#5 *'respiratory syncytial pneumovirus'*/de 10173*\n#4 *bronchopneumon**:ab,ti 2426*\n#3 *'bronchopneumonia'*/de 3528*\n#2 *bronchiolit**:ab,ti 8269*\n#1 *'bronchiolitis'*/exp 11323*\nAppendix 3. CINAHL (EBSCO) search strategy\nS28 S18 AND S27 15\nS27 S19 OR S20 OR S21 OR S22 OR S23 OR S24 OR S25 OR S26 189,818\nS26 (MH \"Quantitative Studies\") 8,622\nS25 TI placebo* OR AB placebo* 20,274\nS24 TI random* OR AB random* 100,950\nS23 (MH \"Random Assignment\") 29,181\nS22 TI ((singl* or doubl* or tripl* or trebl*) N1 (blind* or mask*)) OR AB ((singl* or doubl* or tripl* or trebl*) N1 (blind* or mask*)) 14,743\nS21 TI clinic* N1 trial* OR AB clinic* N1 trial* 28,628\nS20 PT clinical trial 50,141\nS19 (MH \"Clinical Trials+\") 113,828\nS18 S9 AND S17 89\nS17 S10 OR S11 OR S12 OR S13 OR S14 OR S15 OR S16 14,880\nS16 TI (ppv or cpap or ncpap or nm-cpap or np-cpap or peep) OR AB (ppv or cpap or ncpap or nm-cpap or np-cpap or peep) 1,882\nS15 TI positive end expiratory pressur* OR AB positive end expiratory pressur* 627\nS14 TI continuous distending pressure OR AB continuous distending pressure 7\nS13 TI positive airway* pressur* OR AB positive airway* pressur* 1,306\nS12 TI ( (positive-pressure or positive pressure) N5 (ventilat* or respir* or breath* or airway*) ) OR AB ( (positive-pressure or positive\npressure) N5 (ventilat* or respir* or breath* or airway*) ) 2,199\nS11 (MH \"Positive Pressure Ventilation\") OR (MH \"Continuous Positive Airway Pressure\") OR (MH \"Positive End-Expiratory Pressure\") 4,063\nS10 (MH \"Respiratory Therapy\") OR (MH \"Respiration, Artificial\") 10,565\nS9 S1 OR S2 OR S3 OR S4 OR S5 OR S6 OR S7 OR S8 1,924\nS8 TI rsv OR AB rsv 478\nS7 TI respiratory syncytial virus* OR AB respiratory syncytial virus*693\nS6 (MH \"Respiratory Syncytial Virus Infections\") 784\nS5 (MH \"Respiratory Syncytial Viruses\") 283\nS4 TI bronchopneumon* OR AB bronchopneumon* 43\nS3 (MH \"Bronchopneumonia\") 40\nS2 TI bronchiolit* OR AB bronchiolit* 748\nS1 (MH \"Bronchiolitis+\") 692\nAppendix 4. LILACS (BIREME) search strategy\n(mh:bronchiolitis OR bronchiolit* OR bronquiolitis OR bronquiolite OR mh:c08.127.446.135* OR mh:c08.381.495.146.135* OR\nmh:c08.730.099.135* OR mh:bronchopneumonia OR bronchopneumon* OR bronconeumonia OR broncopneumonia OR mh:\"Respiratory\nSyncytial Viruses\" OR \"Virus Sincitiales Respiratorios\" OR \"Virus Sinciciais Respiratorios\" OR \"Virus Sincitial Respiratorio\" OR \"Virus\nSincicial Respiratorio\" OR \"Virus Sinciciales Respiratorios\" OR \"Virus Sincicial Respiratorio\" OR mh:\"Respiratory Syncytial Virus, Human\"\nOR \"Virus Sincitial Respiratorio Humano\" OR \"Virus Sincicial Respiratorio Humano\" OR mh:\"Respiratory Syncytial Virus Infections\" OR\n\"Infecciones por Virus Sincitial Respiratorio\" OR \"Infeccoes por Virus Respiratorio Sincicial\" OR \"respiratory syncytial virus\" OR \"respiratory\nsyncytial viruses\" OR rsv) AND (mh:\"Respiratory Therapy\" OR \"Terapia Respiratoria\" OR mh:\"Respiration, Artificial\" OR \"Respiracion\nArtificial\" OR \"Respiracao Artificial\" OR mh:\"Positive-Pressure Respiration\" OR \"Respiracion con Presion Positiva\" OR \"Respiracao com\nPressao Positiva\" OR \"Positive End-Expiratory Pressure\" OR mh:\"Continuous Positive Airway Pressure\" OR \"Presion de las Vias Aereas\nPositiva Continua\" OR \"Pressao Positiva Continua nas Vias Aereas\" OR \"Airway Pressure Release Ventilation\" OR \"Ventilacion Liberadora\nde Presion de las Vias Aereas\" OR \"Pressao Positiva Continua nas Vias Respiratorias\" OR \"Ventilacao com Liberacao de Pressao das\nVias Aereas\" OR vlpva OR \"Ventilacao com Liberacao de Pressao das Vias Respiratorias\" OR \"positive airway pressure\" OR \"continuous\ndistending pressure\" OR ppv OR cpap OR ncpap OR \"nm-cpap\" OR \"np-cpap\" OR peep OR \"positive pressure ventilation\" OR \"positive\npressure respiration\" OR \"positive pressure breathing\") AND db:(\"LILACS\") AND type_of_study:(\"clinical_trials\")"
+        ],
+        "negative_ctxs": [
+            30,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We did not apply any date, language, or\r\npublication restrictions."
+        ],
+        "negative_ctxs": [
+            34,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Three review authors (KRJ, JMD, JLM) independently assessed the\ntitles and abstracts of studies obtained by the search to identify\nany potentially relevant studies. We retrieved the full texts of\npotentially relevant studies, and all review authors (KRJ, JMD,\nJLM) independently assessed these for eligibility for inclusion in\nthe review. One review author (KRJ) corresponded with study\nauthors to clarify study eligibility where necessary. We listed\nexcluded studies along with the reasons for their exclusion. Any\ndisagreements were resolved by discussion."
+        ],
+        "negative_ctxs": [
+            34,
+            57
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two review authors (KRJ, JLM) independently extracted data using\r\na predefined data collection form following the guidance in the\r\nCochrane Handbook for Systematic Reviews of Interventions (Higgins\r\n2021). We extracted the following data: source, eligibility, methods,\r\nparticipants and settings, interventions, outcomes, results, adverse\r\neJects, study funding source, and potential conflicts of interest. Any\r\ndisagreements were resolved by discussion."
+        ],
+        "negative_ctxs": [
+            15,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Included studies\nWe included three studies providing data from 122 children (Lal\n2018; Milesi 2013; Thia 2008). For details, see\u0013 Characteristics of\nincluded studies.\nDesign\nAll of the included studies were single-centre trials (Lal 2018; Milesi\n2013; Thia 2008).\u0013Lal 2018\u0013was described as a prospective, openlabel\nrandomised trial;\u0013Milesi 2013\u0013as a prospective, parallel-group\nRCT; and\u0013Thia 2008\u0013was a randomised cross-over study.\nSample sizes\nThe three included studies presented data from a total of 122\nchildren. Sample sizes ranged from 19 children (10/9 treatment/\ncontrol) in\u0013 Milesi 2013, to 72 children (36/36 treatment/control)\nin\u0013Lal 2018. We only included data from children in the first phase of\nthe cross-over RCT (31 children; 16/15 treatment/control) by\u0013Thia\n2008.\nSetting\nThe included studies were single-centre trials conducted in India\n(Lal 2018), France (Milesi 2013), and the UK (Thia 2008). Two trials\ninvolved children who were inpatients (Lal 2018; Thia 2008). The\nstudy by\u0013Milesi 2013\u0013involved children being treated in a paediatric\nintensive care unit (PICU).\nParticipants\nChildren's ages\nLal 2018\u0013included children clinically diagnosed with bronchiolitis,\nbut their age range was not clearly defined.\u0013Milesi 2013\u0013included\ninfants aged up to six months, and\u0013 Thia 2008\u0013 enrolled children\naged up to 12 months. The mean age of children in the CPAP group\nwas 6.8 +- 0.9 weeks and 10.92 +- 41.33 weeks in the trials by\u0013Milesi\n2013\u0013 and\u0013 Thia 2008, respectively. The respective mean ages of\nchildren in the control groups were 8.2 +- 1.7 weeks and 10.5 +- 48.93\nweeks (Milesi 2013; Thia 2008).\nChildren's sex\nOnly\u0013Lal 2018\u0013reported children's sex (N = 72): there were 26 boys\nand 10 girls in the treatment group, and 28 boys and 8 girls in the\ncontrol group.\nRespiratory syncytial virus (RSV) status\nMilesi 2013\u0013 included only children with RSV-positive\nbronchiolitis.\u0013 Thia 2008\u0013 included 20 (of 31) children with RSVpositive\nbronchiolitis.\u0013Lal 2018\u0013did not report RSV status.\nStudy inclusion criteria\nLal 2018\u0013 included hospitalised children with a diagnosis of\nacute bronchiolitis.\u0013 Milesi 2013\u0013 included children with severe\nrespiratory distress defined by a modified Wood's clinical asthma\nscore (m-WCAS) > 4; no invasive or non-invasive ventilation,\nincluding nasal continuous positive airway pressure (nCPAP),\nbefore admission to PICU.\u0013Thia 2008\u0013enrolled children with capillary\npCOE measurements > 6 kPa.\nNone of the children in the three included trials were reported to\nhave comorbidities.\nStudy exclusion criteria\nLal 2018\u0013 excluded children in imminent need of mechanical\nventilation.\u0013 Milesi 2013\u0013 excluded children with underlying\ncardiopulmonary or neuromuscular disease and who had\npneumothorax on chest radiograph.\u0013 Thia 2008\u0013excluded children\nwith congenital heart disease, neuromuscular disease, or mid-face\ndysmorphism that prohibited the use of nasal prongs, those who\nrequired immediate invasive ventilation, and pCOE > 12 kPa.\nInterventions\nLal 2018\u0013used bubble CPAP delivered in the children's ward with a\nGregory circuit; the pressure generated was not reported. Bubble\nCPAP treatment was provided for one hour once only. Children in\nthe control arm received \"standard care\" in the form of adequate\nhydration and oxygen support through mask or hood for one\nhour once only. Children in the treatment group in the\u0013 Milesi\n2013\u0013 trial received nCPAP 6 cm HEO delivered using the Infant\nFlow Ventilator via a mask connected to a twin injector nozzle\nfixed to the child using a specially designed bonnet for children\nfor six hours. Children in the control group received a heated and\nhumidified air/oxygen mixture delivered through a nasal cannula\nthat allowed a maximum gas flow of 2.5 L/min (Milesi 2013).\nChildren in the treatment group in the study by\u0013Thia 2008\u0013received\n\"standard treatment\" (defined as minimal handling, intravenous\nfluids, and oxygen by nasal prongs or face mask) plus nCPAP for 12\nhours followed by standard treatment alone for the next 12 hours.\nChildren in the control group received standard treatment alone for\n12 hours followed by standard treatment plus nCPAP for the next\n12 hours.\nOutcomes\nThe primary outcome in the study by\u0013 Lal 2018\u0013 was change in\nrespiratory rate aKer the first hour of treatment; the secondary\noutcome was change in Silverman-Anderson score, and a Modified\nPaediatric Society of New Zealand Severity Score (MPSNZ-SS)\nbefore starting treatment and at one hour following the start of\ntreatment (Lal 2018).\nThe primary outcome in\u0013 Milesi 2013\u0013 was clinical score for\nrespiratory distress at baseline and at six hours aKer beginning\ntreatment. Respiratory distress was evaluated with the m-WCAS.\nSecondary outcome measures were respiratory and cardiac rate,\naverage blood pressure at baseline and six hours. However, the\noutcome measures for this study were not clearly defined in the\npublished study report, and data were taken from information\nat ClinicalTrials.gov. Other secondary outcome measures were\nmanometric: variation of oesophageal pressure at baseline and six\nhours, and gasometric: minimal fraction of inspired oxygen (FiOE)\nnecessary to reach an oxygen saturation between 94% and 98%,\ntranscutaneous pCOE, ratio of arterial partial pressure of oxygen to\nfraction of inspired oxygen (PaOE/FiOE) (Milesi 2013).\nThia 2008\u0013 assessed change in pCOE at 12 hours of intervention\nas the primary outcome measure. Secondary outcomes were\ncapillary pH, respiratory rate, pulse rate, and the need for invasive\nventilatory support (Thia 2008)."
+        ],
+        "negative_ctxs": [
+            9,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Primary outcomes\n1. Proportion of children requiring mechanical ventilation\nIn\u0013Lal 2018, two children in the CPAP group (N = 36) and one child in\nthe control group (N = 36) required ventilation. No children in\u0013Milesi\n2013\u0013required mechanical ventilation.\u0013Thia 2008\u0013reported that two\nchildren in the control group (N = 15) and no children in the CPAP\ngroup (N = 16) required mechanical ventilation.\n\n2. Time to recovery (as defined by the included trials)\nNone of the included studies provided data regarding children's\ntime to recovery.\n\nFigure 4. \u0003 Forest plot of outcome: 1.1 Proportion of children requiring mechanical ventilation."
+        ],
+        "negative_ctxs": [
+            45,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two review authors (KRJ, JLM) independently assessed the risk\r\nof bias for each included study using the criteria outlined in\r\nthe Cochrane Handbook for Systematic Reviews of Interventions\r\n(Higgins 2021). Any disagreements were resolved by discussion. We\r\nassessed risk of bias according to the following domains.\r\n1. Random sequence generation.\r\n2. Allocation concealment.\r\n3. Blinding of participants and personnel.\r\n4. Blinding of outcome assessment.\r\n5. Incomplete outcome data.\r\n6. Selective outcome reporting.\r\n7. Other bias.\r\nWe graded each potential source of bias as low, high, or unclear, and\r\nprovided quotes from the study report together with a justification\r\nfor our judgement in the risk of bias tables. We summarised the\r\nrisk of bias judgements across diJerent studies for each of the\r\ndomains listed. We considered blinding separately for diJerent\r\nkey outcomes where necessary. Where information on risk of bias\r\nrelated to unpublished data or correspondence with a trialist, we\r\nnoted this in the risk of bias table."
+        ],
+        "negative_ctxs": [
+            56,
+            59
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two review authors (KRJ, JLM) independently assessed the risk\nof bias for each included study using the criteria outlined in\nthe Cochrane Handbook for Systematic Reviews of Interventions\n(Higgins 2021). Any disagreements were resolved by discussion."
+        ],
+        "negative_ctxs": [
+            52,
+            35
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Results of the search\nWe presented search results for this update only. We identified 1260\nrecords in our August 2021 searches (Figure 1). We performed title\nand abstract screening of these 1260 records, and retrieved 92 fulltext\nreports for assessment, of which 91 studies were excluded. One\nstudy was eligible for inclusion, but the same study was included in\nthe previous update (Lal 2018). We did not identify any new trials\nfor inclusion in this update.\n\nIncluded studies\nWe included three studies providing data from 122 children (Lal\n2018; Milesi 2013; Thia 2008). For details, see\u0013 Characteristics of\nincluded studies.\n\nFigure 4. \u0003 Forest plot of outcome: 1.1 Proportion of children requiring mechanical ventilation."
+        ],
+        "negative_ctxs": [
+            41,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "D I F F E R E N C E S \u0003 B E T W E E N \u0003 P R O T O C O L \u0003 A N D \u0003 R E V I E W\nWe included both the primary outcomes and changes in respiratory rate in the summary of findings table. SuJicient data were not available\nfor the outcome hospital admission rate to permit inclusion in the summary of findings table, as specified in the protocol.\nIn the\u0013Assessment of risk of bias in included studies\u0013section, we assessed blinding separately for each outcome, as a given outcome may\nor may not have been aJected by blinding.\nWe changed the thresholds for interpreting the diJerent values of IT (assessment of heterogeneity) to: 0% to 50% heterogeneity might not\nbe important; > 50% to 75% moderate heterogeneity; and > 75% substantial heterogeneity.\nWe added a subgroup analysis (respiratory syncytial virus (RSV)-positive and RSV-negative children). We reported risk diJerence for\ndichotomous variables instead of risk ratio as stated in the protocol.\nToo few included studies prevented us from performing subgroup and sensitivity analyses"
+        ],
+        "negative_ctxs": [
+            38,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Design\nAll of the included studies were single-centre trials (Lal 2018; Milesi\n2013; Thia 2008).\u0013Lal 2018\u0013was described as a prospective, openlabel\nrandomised trial;\u0013Milesi 2013\u0013as a prospective, parallel-group\nRCT; and\u0013Thia 2008\u0013was a randomised cross-over study.\nSample sizes\nThe three included studies presented data from a total of 122\nchildren. Sample sizes ranged from 19 children (10/9 treatment/\ncontrol) in\u0013 Milesi 2013, to 72 children (36/36 treatment/control)\nin\u0013Lal 2018. We only included data from children in the first phase of\nthe cross-over RCT (31 children; 16/15 treatment/control) by\u0013Thia\n2008.\n\nParticipants\nChildren's ages\nLal 2018 included children clinically diagnosed with bronchiolitis,\nbut their age range was not clearly defined. Milesi 2013 included\ninfants aged up to six months, and\u0013 Thia 2008 enrolled children\naged up to 12 months. The mean age of children in the CPAP group\nwas 6.8 +- 0.9 weeks and 10.92 +- 41.33 weeks in the trials by Milesi\n2013  and Thia 2008, respectively. The respective mean ages of\nchildren in the control groups were 8.2 +- 1.7 weeks and 10.5 +- 48.93\nweeks (Milesi 2013; Thia 2008).\nChildren's sex\nOnly Lal 2018 reported children's sex (N = 72): there were 26 boys\nand 10 girls in the treatment group, and 28 boys and 8 girls in the\ncontrol group.\nRespiratory syncytial virus (RSV) status\nMilesi 2013 included only children with RSV-positive\nbronchiolitis. Thia 2008 included 20 (of 31) children with RSVpositive\nbronchiolitis. Lal 2018 did not report RSV status.\nStudy inclusion criteria\nLal 2018 included hospitalised children with a diagnosis of\nacute bronchiolitis. Milesi 2013 included children with severe\nrespiratory distress defined by a modified Wood's clinical asthma\nscore (m-WCAS) > 4; no invasive or non-invasive ventilation,\nincluding nasal continuous positive airway pressure (nCPAP),\nbefore admission to PICU. Thia 2008 enrolled children with capillary\npCOE measurements > 6 kPa.\n\nInterventions\nLal 2018 used bubble CPAP delivered in the children's ward with a\nGregory circuit; the pressure generated was not reported. Bubble\nCPAP treatment was provided for one hour once only. Children in\nthe control arm received \"standard care\" in the form of adequate\nhydration and oxygen support through mask or hood for one\nhour once only. Children in the treatment group in the Milesi\n2013  trial received nCPAP 6 cm HEO delivered using the Infant\nFlow Ventilator via a mask connected to a twin injector nozzle\nfixed to the child using a specially designed bonnet for children\nfor six hours. Children in the control group received a heated and\nhumidified air/oxygen mixture delivered through a nasal cannula\nthat allowed a maximum gas flow of 2.5 L/min (Milesi 2013).\nChildren in the treatment group in the study by Thia 2008 received\n\"standard treatment\" (defined as minimal handling, intravenous\nfluids, and oxygen by nasal prongs or face mask) plus nCPAP for 12\nhours followed by standard treatment alone for the next 12 hours.\nChildren in the control group received standard treatment alone for\n12 hours followed by standard treatment plus nCPAP for the next\n12 hours."
+        ],
+        "negative_ctxs": [
+            10,
+            55
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "1. Proportion of children requiring mechanical ventilation\r\nIn\u0013Lal 2018, two children in the CPAP group (N = 36) and one child in\r\nthe control group (N = 36) required ventilation. No children in\u0013Milesi\r\n2013\u0013required mechanical ventilation.\u0013Thia 2008\u0013reported that two\r\nchildren in the control group (N = 15) and no children in the CPAP\r\ngroup (N = 16) required mechanical ventilation. The diJerence was\r\nnot statistically significant (risk diJerence -0.01, 95% confidence\r\ninterval (CI) -0.09 to 0.08; 122 children, 3 studies; IT = 14%;\u0013 low\r\ncertainty evidence;\u0013Analysis 1.1; Figure 4)."
+        ],
+        "negative_ctxs": [
+            22,
+            50
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Too few included studies prevented us from performing subgroup\r\nand sensitivity analyses."
+        ],
+        "negative_ctxs": [
+            21,
+            55
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Allocation\nWe assessed the method of random sequence generation in two\nstudies as at unclear risk of bias due to inadequate reporting\n(Milesi 2013; Thia 2008). Lal 2018 used a computer soKware package\nfor sequence generation and was assessed as at low risk of bias.\nTwo studies used sequentially numbered, opaque, and sealed\nenvelopes and were assessed as at low risk of bias for allocation\nconcealment (Lal 2018; Milesi 2013). The method of allocation\nconcealment was not reported for Thia 2008 and was therefore\nassessed as at unclear risk of bias.\nBlinding\nWe assessed blinding of parents of included infants as at high risk of\nbias for the study by Lal 2018, which was an open-label study. Milesi\n2013 did not report blinding and was assessed as at unclear risk of\nbias. We assessed Thia 2008 as at low risk of bias for this domain.\nIncomplete outcome data\nLal 2018 reported that four children in the treatment arm (two\nwho required mechanical ventilation and two who did not tolerate\nCPAP), and one child who required mechanical ventilation in the\ncontrol arm did not complete the intervention; we assessed this\nstudy as at low risk of attrition bias because data for all randomised\nchildren were included in the analysis. Milesi 2013 reported no\nlosses to follow-up and was assessed as at low risk of bias. Thia 2008\nreported that two children from the control arm (one who required\nmechanical ventilation, and another who was reallocated to the\nCPAP arm) did not complete the intervention and were not included\nin the analysis. We assessed this study as at high risk of bias for this\ndomain (Thia 2008).\nSelective reporting\nWe assessed Lal 2018 as at low risk of bias for selective reporting,\nas all prespecified outcomes were reported. Milesi 2013 reported all\nprespecified outcomes and was assessed as at low risk of bias for\nthis domain. Thia 2008 did not report data for a secondary outcome\n(capillary pH) and was assessed as at high risk of reporting bias.\nOther potential sources of bias\nThe included studies were free of other potential sources of bias,\nalthough the funding source for Thia 2008 was not mentioned\n\nQuality of the evidence\nWe found low certainty evidence for both proportion of children\nrequiring mechanical ventilation and change in respiratory rate\n(Summary of findings 1). We downgraded the certainty of the\nevidence because of high risk of bias for incomplete outcome\ndata (participants lost to follow-up) and selective reporting, and\nwide confidence intervals (Lal 2018; Thia 2008). We assessed the\ncertainty of the evidence for change in respiratory rate as low due\nto high risk of bias in Lal 2018, which did not blind participants\n(parents of children), study personnel, or outcome assessors."
+        ],
+        "negative_ctxs": [
+            33,
+            57
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Potential biases in the review process\r\nThe search strategy for this review was broad and designed by\r\nthe Cochrane Acute Respiratory Infections Information Specialist.\r\nIt is unlikely that relevant studies were missed. Two review authors\r\nindependently carried out study selection, data extraction, and\r\nanalysis. There was no blinding of participants, study personnel, or\r\noutcome assessors, and this domain was assessed as at high risk\r\nof bias for\u0013 Lal 2018\u0013 (see\u0013Characteristics of included studies). We\r\nassessed\u0013Milesi 2013\u0013as at unclear risk of bias for random sequence\r\ngeneration (method not reported) and blinding of participants and\r\npersonnel (blinding not reported) (see\u0013Characteristics of included\r\nstudies). We assessed\u0013 Thia 2008\u0013 as at unclear risk of bias for\r\nrandom sequence generation (method not reported), allocation\r\nconcealment (method not reported), and blinding of outcome\r\nassessment (not reported), and at high risk of bias for incomplete\r\noutcome data (two children did not complete the study and were\r\nnot included in the analysis) and selective reporting (one outcome\r\nwas not reported) (see\u0013Characteristics of included studies). Data\r\nwere not available for many outcomes, and we were unable to\r\nobtain additional information from trial authors.\u0013Thia 2008\u0013was a\r\ncross-over trial, and we used data from the first trial phase for metaanalysis,\r\nwhich may have decreased study power."
+        ],
+        "negative_ctxs": [
+            42,
+            48
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Types of participants\r\nChildren aged up to three years with a clinical diagnosis of acute\r\nbronchiolitis. We included all infants, regardless of RSV status.\r\nTypes of interventions\r\nWe included CPAP treatment with any pressure level, and delivered\r\nby any type of device, by any mode (nasal prongs, face mask,\r\netc.), and for any duration, compared to no CPAP or sham CPAP.\r\nWe included studies that applied CPAP at any time aKer patient\r\npresentation. We excluded studies that investigated the use of\r\nhigh-flow nasal cannulae, as this concept is addressed in another\r\nCochrane Review (Beggs 2014). We included trials in which all\r\nchildren who were randomised to treatment and control arms\r\nreceived similar management in all other respects.\r\nTypes of outcome measures\r\nWe addressed the following outcomes.\r\nPrimary outcomes\r\n1. Proportion of children requiring mechanical ventilation.\r\n2. Time to recovery (as defined by the study).\r\nSecondary outcomes\r\n1. Change in respiratory rate.\r\n2. Change in arterial oxygen saturation.\r\n3. Change in arterial partial pressure of carbon dioxide (pCOE) and\r\npartial pressure of oxygen (pOE).\r\n4. Hospital admission rate (from emergency department to\r\nhospital).\r\n5. Duration of emergency department stay.\r\n6. Duration of hospital stay.\r\n7. Need for intensive care unit admission.\r\n8. Adverse events, e.g. local nasal eJects, pneumothorax, and\r\nshock.\r\n9. Mortality.\n\nIncluded studies\r\nWe included three studies providing data from 122 children (Lal\r\n2018; Milesi 2013; Thia 2008). For details, see\u0013 Characteristics of\r\nincluded studies.\r\nDesign\r\nAll of the included studies were single-centre trials (Lal 2018; Milesi\r\n2013; Thia 2008).\u0013Lal 2018\u0013was described as a prospective, openlabel\r\nrandomised trial;\u0013Milesi 2013\u0013as a prospective, parallel-group\r\nRCT; and\u0013Thia 2008\u0013was a randomised cross-over study.\r\nSample sizes\r\nThe three included studies presented data from a total of 122\r\nchildren. Sample sizes ranged from 19 children (10/9 treatment/\r\ncontrol) in\u0013 Milesi 2013, to 72 children (36/36 treatment/control)\r\nin\u0013Lal 2018. We only included data from children in the first phase of\r\nthe cross-over RCT (31 children; 16/15 treatment/control) by\u0013Thia\r\n2008.\r\nSetting\r\nThe included studies were single-centre trials conducted in India\r\n(Lal 2018), France (Milesi 2013), and the UK (Thia 2008). Two trials\r\ninvolved children who were inpatients (Lal 2018; Thia 2008). The\r\nstudy by\u0013Milesi 2013\u0013involved children being treated in a paediatric\r\nintensive care unit (PICU).\r\nParticipants\r\nChildren's ages\r\nLal 2018\u0013included children clinically diagnosed with bronchiolitis,\r\nbut their age range was not clearly defined.\u0013Milesi 2013\u0013included\r\ninfants aged up to six months, and\u0013 Thia 2008\u0013 enrolled children\r\naged up to 12 months. The mean age of children in the CPAP group\r\nwas 6.8 +- 0.9 weeks and 10.92 +- 41.33 weeks in the trials by\u0013Milesi\r\n2013\u0013 and\u0013 Thia 2008, respectively. The respective mean ages of\r\nchildren in the control groups were 8.2 +- 1.7 weeks and 10.5 +- 48.93\r\nweeks (Milesi 2013; Thia 2008).\r\nChildren's sex\r\nOnly\u0013Lal 2018\u0013reported children's sex (N = 72): there were 26 boys\r\nand 10 girls in the treatment group, and 28 boys and 8 girls in the\r\ncontrol group.\r\nRespiratory syncytial virus (RSV) status\r\nMilesi 2013\u0013 included only children with RSV-positive\r\nbronchiolitis.\u0013 Thia 2008\u0013 included 20 (of 31) children with RSVpositive\r\nbronchiolitis.\u0013Lal 2018\u0013did not report RSV status.\r\nStudy inclusion criteria\r\nLal 2018\u0013 included hospitalised children with a diagnosis of\r\nacute bronchiolitis.\u0013 Milesi 2013\u0013 included children with severe\r\nrespiratory distress defined by a modified Wood's clinical asthma\r\nscore (m-WCAS) > 4; no invasive or non-invasive ventilation,\r\nincluding nasal continuous positive airway pressure (nCPAP),\r\nbefore admission to PICU.\u0013Thia 2008\u0013enrolled children with capillary\r\npCOE measurements > 6 kPa.\r\nNone of the children in the three included trials were reported to\r\nhave comorbidities.\r\nStudy exclusion criteria\r\nLal 2018\u0013 excluded children in imminent need of mechanical\r\nventilation.\u0013 Milesi 2013\u0013 excluded children with underlying\r\ncardiopulmonary or neuromuscular disease and who had\r\npneumothorax on chest radiograph.\u0013 Thia 2008\u0013excluded children\r\nwith congenital heart disease, neuromuscular disease, or mid-face\r\ndysmorphism that prohibited the use of nasal prongs, those who\r\nrequired immediate invasive ventilation, and pCOE > 12 kPa.\r\nInterventions\r\nLal 2018\u0013used bubble CPAP delivered in the children's ward with a\r\nGregory circuit; the pressure generated was not reported. Bubble\r\nCPAP treatment was provided for one hour once only. Children in\r\nthe control arm received \"standard care\" in the form of adequate\r\nhydration and oxygen support through mask or hood for one\r\nhour once only. Children in the treatment group in the\u0013 Milesi\r\n2013\u0013 trial received nCPAP 6 cm HEO delivered using the Infant\r\nFlow Ventilator via a mask connected to a twin injector nozzle\r\nfixed to the child using a specially designed bonnet for children\r\nfor six hours. Children in the control group received a heated and\r\nhumidified air/oxygen mixture delivered through a nasal cannula\r\nthat allowed a maximum gas flow of 2.5 L/min (Milesi 2013).\r\nChildren in the treatment group in the study by\u0013Thia 2008\u0013received\r\n\"standard treatment\" (defined as minimal handling, intravenous\r\nfluids, and oxygen by nasal prongs or face mask) plus nCPAP for 12\r\nhours followed by standard treatment alone for the next 12 hours.\r\nChildren in the control group received standard treatment alone for\r\n12 hours followed by standard treatment plus nCPAP for the next\r\n12 hours.\r\nOutcomes\r\nThe primary outcome in the study by\u0013 Lal 2018\u0013 was change in\r\nrespiratory rate aKer the first hour of treatment; the secondary\r\noutcome was change in Silverman-Anderson score, and a Modified\r\nPaediatric Society of New Zealand Severity Score (MPSNZ-SS)\r\nbefore starting treatment and at one hour following the start of\r\ntreatment (Lal 2018).\r\nThe primary outcome in\u0013 Milesi 2013\u0013 was clinical score for\r\nrespiratory distress at baseline and at six hours aKer beginning\r\ntreatment. Respiratory distress was evaluated with the m-WCAS.\r\nSecondary outcome measures were respiratory and cardiac rate,\r\naverage blood pressure at baseline and six hours. However, the\r\noutcome measures for this study were not clearly defined in the\r\npublished study report, and data were taken from information\r\nat ClinicalTrials.gov. Other secondary outcome measures were\r\nmanometric: variation of oesophageal pressure at baseline and six\r\nhours, and gasometric: minimal fraction of inspired oxygen (FiOE)\r\nnecessary to reach an oxygen saturation between 94% and 98%,\r\ntranscutaneous pCOE, ratio of arterial partial pressure of oxygen to\r\nfraction of inspired oxygen (PaOE/FiOE) (Milesi 2013).\r\nThia 2008\u0013 assessed change in pCOE at 12 hours of intervention\r\nas the primary outcome measure. Secondary outcomes were\r\ncapillary pH, respiratory rate, pulse rate, and the need for invasive\r\nventilatory support (Thia 2008)."
+        ],
+        "negative_ctxs": [
+            16,
+            46
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            54,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "D I F F E R E N C E S \u0003 B E T W E E N \u0003 P R O T O C O L \u0003 A N D \u0003 R E V I E W\r\nWe included both the primary outcomes and changes in respiratory rate in the summary of findings table. Sufficient data were not available\r\nfor the outcome hospital admission rate to permit inclusion in the summary of findings table, as specified in the protocol.\r\nIn the Assessment of risk of bias in included studies section, we assessed blinding separately for each outcome, as a given outcome may\r\nor may not have been aJected by blinding.\r\nWe changed the thresholds for interpreting the different values of IT (assessment of heterogeneity) to: 0% to 50% heterogeneity might not\r\nbe important; > 50% to 75% moderate heterogeneity; and > 75% substantial heterogeneity.\r\nWe added a subgroup analysis (respiratory syncytial virus (RSV)-positive and RSV-negative children). We reported risk difference for\r\ndichotomous variables instead of risk ratio as stated in the protocol.\r\nToo few included studies prevented us from performing subgroup and sensitivity analyses"
+        ],
+        "negative_ctxs": [
+            30,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "M E T H O D S\nCriteria for considering studies for this review\nTypes of studies\nRandomised controlled trials (RCTs), quasi-RCTs, cross-over RCTs,\nand cluster-RCTs were eligible for inclusion in the review. \nTypes of participants\nChildren aged up to three years with a clinical diagnosis of acute\nbronchiolitis. We included all infants, regardless of RSV status.\nTypes of interventions\nWe included CPAP treatment with any pressure level, and delivered\nby any type of device, by any mode (nasal prongs, face mask,\netc.), and for any duration, compared to no CPAP or sham CPAP.\nWe included studies that applied CPAP at any time aKer patient\npresentation. We excluded studies that investigated the use of\nhigh-flow nasal cannulae, as this concept is addressed in another\nCochrane Review (Beggs 2014). We included trials in which all\nchildren who were randomised to treatment and control arms\nreceived similar management in all other respects.\nTypes of outcome measures\nWe addressed the following outcomes.\nPrimary outcomes\n1. Proportion of children requiring mechanical ventilation.\n2. Time to recovery (as defined by the study).\nSecondary outcomes\n1. Change in respiratory rate.\n2. Change in arterial oxygen saturation.\n3. Change in arterial partial pressure of carbon dioxide (pCOE) and\npartial pressure of oxygen (pOE).\n4. Hospital admission rate (from emergency department to\nhospital).\n5. Duration of emergency department stay.\n6. Duration of hospital stay.\n7. Need for intensive care unit admission.\n8. Adverse events, e.g. local nasal eJects, pneumothorax, and\nshock.\n9. Mortality."
+        ],
+        "negative_ctxs": [
+            5,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Types of studies\r\nRandomised controlled trials (RCTs), quasi-RCTs, cross-over RCTs,\r\nand cluster-RCTs were eligible for inclusion in the review.\r\nContinuous positive"
+        ],
+        "negative_ctxs": [
+            46,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched the Cochrane Central Register of Controlled Trials\r\n(CENTRAL; 2021, Issue 7), which includes the Cochrane Acute\r\nRespiratory Infections (ARI) Group Specialised Register, MEDLINE\r\n(1946 to 15 August 2021), Embase (1974 to 15 August 2021), CINAHL\r\n(Cumulative Index to Nursing and Allied Health Literature) (1981 to\r\n15 August 2021), and LILACS (Latin American and Caribbean Health\r\nScience Information database) (1982 to 15 August 2021)"
+        ],
+        "negative_ctxs": [
+            54,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Three review authors (KRJ, JMD, JLM) independently assessed the\ntitles and abstracts of studies obtained by the search to identify\nany potentially relevant studies. We retrieved the full texts of\npotentially relevant studies, and all review authors (KRJ, JMD,\nJLM) independently assessed these for eligibility for inclusion in\nthe review. One review author (KRJ) corresponded with study\nauthors to clarify study eligibility where necessary. We listed\nexcluded studies along with the reasons for their exclusion. Any\ndisagreements were resolved by discussion."
+        ],
+        "negative_ctxs": [
+            44,
+            2
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two review authors (KRJ, JLM) independently extracted data using\r\na predefined data collection form following the guidance in the\r\nCochrane Handbook for Systematic Reviews of Interventions (Higgins\r\n2021). We extracted the following data: source, eligibility, methods,\r\nparticipants and settings, interventions, outcomes, results, adverse\r\neJects, study funding source, and potential conflicts of interest. Any\r\ndisagreements were resolved by discussion."
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Excluded studies\r\nWe excluded nine studies (Characteristics of excluded studies).\r\nThree studies were not RCTs (Balanzat 2006; Javouhey 2008;\r\nSmith 1993); two studies investigated comparisons that were not\r\nrelevant to the review (Cesar 2017; Milesi 2017); and four studies\r\ninvestigated interventions that were not relevant to the review\r\n(Chidini 2011; Chidini 2015; Hough 2011; Yanez 2008). We excluded\r\nthree studies in this update (Cesar 2017; Chidini 2015; Milesi 2017)."
+        ],
+        "negative_ctxs": [
+            37,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Included studies\nWe included three studies providing data from 122 children (Lal\n2018; Milesi 2013; Thia 2008). For details, see\u0013 Characteristics of\nincluded studies.\nDesign\nAll of the included studies were single-centre trials (Lal 2018; Milesi\n2013; Thia 2008).\u0013Lal 2018\u0013was described as a prospective, openlabel\nrandomised trial;\u0013Milesi 2013\u0013as a prospective, parallel-group\nRCT; and\u0013Thia 2008\u0013was a randomised cross-over study.\nSample sizes\nThe three included studies presented data from a total of 122\nchildren. Sample sizes ranged from 19 children (10/9 treatment/\ncontrol) in\u0013 Milesi 2013, to 72 children (36/36 treatment/control)\nin\u0013Lal 2018. We only included data from children in the first phase of\nthe cross-over RCT (31 children; 16/15 treatment/control) by\u0013Thia\n2008.\nSetting\nThe included studies were single-centre trials conducted in India\n(Lal 2018), France (Milesi 2013), and the UK (Thia 2008). Two trials\ninvolved children who were inpatients (Lal 2018; Thia 2008). The\nstudy by\u0013Milesi 2013\u0013involved children being treated in a paediatric\nintensive care unit (PICU).\nParticipants\nChildren's ages\nLal 2018\u0013included children clinically diagnosed with bronchiolitis,\nbut their age range was not clearly defined.\u0013Milesi 2013\u0013included\ninfants aged up to six months, and\u0013 Thia 2008\u0013 enrolled children\naged up to 12 months. The mean age of children in the CPAP group\nwas 6.8 +- 0.9 weeks and 10.92 +- 41.33 weeks in the trials by\u0013Milesi\n2013\u0013 and\u0013 Thia 2008, respectively. The respective mean ages of\nchildren in the control groups were 8.2 +- 1.7 weeks and 10.5 +- 48.93\nweeks (Milesi 2013; Thia 2008).\nChildren's sex\nOnly\u0013Lal 2018\u0013reported children's sex (N = 72): there were 26 boys\nand 10 girls in the treatment group, and 28 boys and 8 girls in the\ncontrol group.\nRespiratory syncytial virus (RSV) status\nMilesi 2013\u0013 included only children with RSV-positive\nbronchiolitis.\u0013 Thia 2008\u0013 included 20 (of 31) children with RSVpositive\nbronchiolitis.\u0013Lal 2018\u0013did not report RSV status.\nStudy inclusion criteria\nLal 2018\u0013 included hospitalised children with a diagnosis of\nacute bronchiolitis.\u0013 Milesi 2013\u0013 included children with severe\nrespiratory distress defined by a modified Wood's clinical asthma\nscore (m-WCAS) > 4; no invasive or non-invasive ventilation,\nincluding nasal continuous positive airway pressure (nCPAP),\nbefore admission to PICU.\u0013Thia 2008\u0013enrolled children with capillary\npCOE measurements > 6 kPa.\nNone of the children in the three included trials were reported to\nhave comorbidities.\nStudy exclusion criteria\nLal 2018\u0013 excluded children in imminent need of mechanical\nventilation.\u0013 Milesi 2013\u0013 excluded children with underlying\ncardiopulmonary or neuromuscular disease and who had\npneumothorax on chest radiograph.\u0013 Thia 2008\u0013excluded children\nwith congenital heart disease, neuromuscular disease, or mid-face\ndysmorphism that prohibited the use of nasal prongs, those who\nrequired immediate invasive ventilation, and pCOE > 12 kPa.\nInterventions\nLal 2018\u0013used bubble CPAP delivered in the children's ward with a\nGregory circuit; the pressure generated was not reported. Bubble\nCPAP treatment was provided for one hour once only. Children in\nthe control arm received \"standard care\" in the form of adequate\nhydration and oxygen support through mask or hood for one\nhour once only. Children in the treatment group in the\u0013 Milesi\n2013\u0013 trial received nCPAP 6 cm HEO delivered using the Infant\nFlow Ventilator via a mask connected to a twin injector nozzle\nfixed to the child using a specially designed bonnet for children\nfor six hours. Children in the control group received a heated and\nhumidified air/oxygen mixture delivered through a nasal cannula\nthat allowed a maximum gas flow of 2.5 L/min (Milesi 2013).\nChildren in the treatment group in the study by\u0013Thia 2008\u0013received\n\"standard treatment\" (defined as minimal handling, intravenous\nfluids, and oxygen by nasal prongs or face mask) plus nCPAP for 12\nhours followed by standard treatment alone for the next 12 hours.\nChildren in the control group received standard treatment alone for\n12 hours followed by standard treatment plus nCPAP for the next\n12 hours.\nOutcomes\nThe primary outcome in the study by\u0013 Lal 2018\u0013 was change in\nrespiratory rate aKer the first hour of treatment; the secondary\noutcome was change in Silverman-Anderson score, and a Modified\nPaediatric Society of New Zealand Severity Score (MPSNZ-SS)\nbefore starting treatment and at one hour following the start of\ntreatment (Lal 2018).\nThe primary outcome in\u0013 Milesi 2013\u0013 was clinical score for\nrespiratory distress at baseline and at six hours aKer beginning\ntreatment. Respiratory distress was evaluated with the m-WCAS.\nSecondary outcome measures were respiratory and cardiac rate,\naverage blood pressure at baseline and six hours. However, the\noutcome measures for this study were not clearly defined in the\npublished study report, and data were taken from information\nat ClinicalTrials.gov. Other secondary outcome measures were\nmanometric: variation of oesophageal pressure at baseline and six\nhours, and gasometric: minimal fraction of inspired oxygen (FiOE)\nnecessary to reach an oxygen saturation between 94% and 98%,\ntranscutaneous pCOE, ratio of arterial partial pressure of oxygen to\nfraction of inspired oxygen (PaOE/FiOE) (Milesi 2013).\nThia 2008\u0013 assessed change in pCOE at 12 hours of intervention\nas the primary outcome measure. Secondary outcomes were\ncapillary pH, respiratory rate, pulse rate, and the need for invasive\nventilatory support (Thia 2008)."
+        ],
+        "negative_ctxs": [
+            12,
+            39
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two review authors (KRJ, JLM) independently assessed the risk\r\nof bias for each included study using the criteria outlined in\r\nthe Cochrane Handbook for Systematic Reviews of Interventions\r\n(Higgins 2021). Any disagreements were resolved by discussion. We\r\nassessed risk of bias according to the following domains.\r\n1. Random sequence generation.\r\n2. Allocation concealment.\r\n3. Blinding of participants and personnel.\r\n4. Blinding of outcome assessment.\r\n5. Incomplete outcome data.\r\n6. Selective outcome reporting.\r\n7. Other bias.\r\nWe graded each potential source of bias as low, high, or unclear, and\r\nprovided quotes from the study report together with a justification\r\nfor our judgement in the risk of bias tables. We summarised the\r\nrisk of bias judgements across diJerent studies for each of the\r\ndomains listed. We considered blinding separately for diJerent\r\nkey outcomes where necessary. Where information on risk of bias\r\nrelated to unpublished data or correspondence with a trialist, we\r\nnoted this in the risk of bias table."
+        ],
+        "negative_ctxs": [
+            6,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Design\nAll of the included studies were single-centre trials (Lal 2018; Milesi\n2013; Thia 2008).\u0013Lal 2018\u0013was described as a prospective, openlabel\nrandomised trial;\u0013Milesi 2013\u0013as a prospective, parallel-group\nRCT; and\u0013Thia 2008\u0013was a randomised cross-over study.\nSample sizes\nThe three included studies presented data from a total of 122\nchildren. Sample sizes ranged from 19 children (10/9 treatment/\ncontrol) in\u0013 Milesi 2013, to 72 children (36/36 treatment/control)\nin\u0013Lal 2018. We only included data from children in the first phase of\nthe cross-over RCT (31 children; 16/15 treatment/control) by\u0013Thia\n2008.\n\nParticipants\nChildren's ages\nLal 2018 included children clinically diagnosed with bronchiolitis,\nbut their age range was not clearly defined. Milesi 2013 included\ninfants aged up to six months, and\u0013 Thia 2008 enrolled children\naged up to 12 months. The mean age of children in the CPAP group\nwas 6.8 +- 0.9 weeks and 10.92 +- 41.33 weeks in the trials by Milesi\n2013  and Thia 2008, respectively. The respective mean ages of\nchildren in the control groups were 8.2 +- 1.7 weeks and 10.5 +- 48.93\nweeks (Milesi 2013; Thia 2008).\nChildren's sex\nOnly Lal 2018 reported children's sex (N = 72): there were 26 boys\nand 10 girls in the treatment group, and 28 boys and 8 girls in the\ncontrol group.\nRespiratory syncytial virus (RSV) status\nMilesi 2013 included only children with RSV-positive\nbronchiolitis. Thia 2008 included 20 (of 31) children with RSVpositive\nbronchiolitis. Lal 2018 did not report RSV status.\nStudy inclusion criteria\nLal 2018 included hospitalised children with a diagnosis of\nacute bronchiolitis. Milesi 2013 included children with severe\nrespiratory distress defined by a modified Wood's clinical asthma\nscore (m-WCAS) > 4; no invasive or non-invasive ventilation,\nincluding nasal continuous positive airway pressure (nCPAP),\nbefore admission to PICU. Thia 2008 enrolled children with capillary\npCOE measurements > 6 kPa.\n\nInterventions\nLal 2018 used bubble CPAP delivered in the children's ward with a\nGregory circuit; the pressure generated was not reported. Bubble\nCPAP treatment was provided for one hour once only. Children in\nthe control arm received \"standard care\" in the form of adequate\nhydration and oxygen support through mask or hood for one\nhour once only. Children in the treatment group in the Milesi\n2013  trial received nCPAP 6 cm HEO delivered using the Infant\nFlow Ventilator via a mask connected to a twin injector nozzle\nfixed to the child using a specially designed bonnet for children\nfor six hours. Children in the control group received a heated and\nhumidified air/oxygen mixture delivered through a nasal cannula\nthat allowed a maximum gas flow of 2.5 L/min (Milesi 2013).\nChildren in the treatment group in the study by Thia 2008 received\n\"standard treatment\" (defined as minimal handling, intravenous\nfluids, and oxygen by nasal prongs or face mask) plus nCPAP for 12\nhours followed by standard treatment alone for the next 12 hours.\nChildren in the control group received standard treatment alone for\n12 hours followed by standard treatment plus nCPAP for the next\n12 hours."
+        ],
+        "negative_ctxs": [
+            30,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "1. Proportion of children requiring mechanical ventilation\r\nIn\u0013Lal 2018, two children in the CPAP group (N = 36) and one child in\r\nthe control group (N = 36) required ventilation. No children in\u0013Milesi\r\n2013\u0013required mechanical ventilation.\u0013Thia 2008\u0013reported that two\r\nchildren in the control group (N = 15) and no children in the CPAP\r\ngroup (N = 16) required mechanical ventilation. The diJerence was\r\nnot statistically significant (risk diJerence -0.01, 95% confidence\r\ninterval (CI) -0.09 to 0.08; 122 children, 3 studies; IT = 14%;\u0013 low\r\ncertainty evidence;\u0013Analysis 1.1; Figure 4)."
+        ],
+        "negative_ctxs": [
+            17,
+            46
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Too few included studies prevented us from performing subgroup\r\nand sensitivity analyses."
+        ],
+        "negative_ctxs": [
+            40,
+            45
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Allocation\nWe assessed the method of random sequence generation in two\nstudies as at unclear risk of bias due to inadequate reporting\n(Milesi 2013; Thia 2008). Lal 2018 used a computer soKware package\nfor sequence generation and was assessed as at low risk of bias.\nTwo studies used sequentially numbered, opaque, and sealed\nenvelopes and were assessed as at low risk of bias for allocation\nconcealment (Lal 2018; Milesi 2013). The method of allocation\nconcealment was not reported for Thia 2008 and was therefore\nassessed as at unclear risk of bias.\nBlinding\nWe assessed blinding of parents of included infants as at high risk of\nbias for the study by Lal 2018, which was an open-label study. Milesi\n2013 did not report blinding and was assessed as at unclear risk of\nbias. We assessed Thia 2008 as at low risk of bias for this domain.\nIncomplete outcome data\nLal 2018 reported that four children in the treatment arm (two\nwho required mechanical ventilation and two who did not tolerate\nCPAP), and one child who required mechanical ventilation in the\ncontrol arm did not complete the intervention; we assessed this\nstudy as at low risk of attrition bias because data for all randomised\nchildren were included in the analysis. Milesi 2013 reported no\nlosses to follow-up and was assessed as at low risk of bias. Thia 2008\nreported that two children from the control arm (one who required\nmechanical ventilation, and another who was reallocated to the\nCPAP arm) did not complete the intervention and were not included\nin the analysis. We assessed this study as at high risk of bias for this\ndomain (Thia 2008).\nSelective reporting\nWe assessed Lal 2018 as at low risk of bias for selective reporting,\nas all prespecified outcomes were reported. Milesi 2013 reported all\nprespecified outcomes and was assessed as at low risk of bias for\nthis domain. Thia 2008 did not report data for a secondary outcome\n(capillary pH) and was assessed as at high risk of reporting bias.\nOther potential sources of bias\nThe included studies were free of other potential sources of bias,\nalthough the funding source for Thia 2008 was not mentioned\n\nQuality of the evidence\nWe found low certainty evidence for both proportion of children\nrequiring mechanical ventilation and change in respiratory rate\n(Summary of findings 1). We downgraded the certainty of the\nevidence because of high risk of bias for incomplete outcome\ndata (participants lost to follow-up) and selective reporting, and\nwide confidence intervals (Lal 2018; Thia 2008). We assessed the\ncertainty of the evidence for change in respiratory rate as low due\nto high risk of bias in Lal 2018, which did not blind participants\n(parents of children), study personnel, or outcome assessors."
+        ],
+        "negative_ctxs": [
+            46,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Funding sources\r\nLal 2018\u0013 reported that no funding was received;\u0013 Milesi 2013\u0013was\r\nfunded by the clinical research department of a university hospital;\r\nand\u0013Thia 2008\u0013did not mention source of funding."
+        ],
+        "negative_ctxs": [
+            46,
+            58
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "E C L A R A T I O N S \u0003 O F \u0003 I N T E R E S T\r\nKana R Jat: declared that they have no conflict of interest.\r\nJeanne M Dsouza: declared that they have no conflict of interest.\r\nJoseph L Mathew: declared that they have no conflict of interest.\r\nS O U R C E S \u0003 O F \u0003 S U P P O R T\r\nInternal sources\r\n* AIIMS, New Delhi and PGIMER Chandigarh, India\r\nInternet and Library support\r\nExternal sources\r\n* No sources of support provided"
+        ],
+        "negative_ctxs": [
+            45,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Potential biases in the review process\r\nThe search strategy for this review was broad and designed by\r\nthe Cochrane Acute Respiratory Infections Information Specialist.\r\nIt is unlikely that relevant studies were missed. Two review authors\r\nindependently carried out study selection, data extraction, and\r\nanalysis. There was no blinding of participants, study personnel, or\r\noutcome assessors, and this domain was assessed as at high risk\r\nof bias for\u0013 Lal 2018\u0013 (see\u0013Characteristics of included studies). We\r\nassessed\u0013Milesi 2013\u0013as at unclear risk of bias for random sequence\r\ngeneration (method not reported) and blinding of participants and\r\npersonnel (blinding not reported) (see\u0013Characteristics of included\r\nstudies). We assessed\u0013 Thia 2008\u0013 as at unclear risk of bias for\r\nrandom sequence generation (method not reported), allocation\r\nconcealment (method not reported), and blinding of outcome\r\nassessment (not reported), and at high risk of bias for incomplete\r\noutcome data (two children did not complete the study and were\r\nnot included in the analysis) and selective reporting (one outcome\r\nwas not reported) (see\u0013Characteristics of included studies). Data\r\nwere not available for many outcomes, and we were unable to\r\nobtain additional information from trial authors.\u0013Thia 2008\u0013was a\r\ncross-over trial, and we used data from the first trial phase for metaanalysis,\r\nwhich may have decreased study power."
+        ],
+        "negative_ctxs": [
+            45,
+            39
+        ],
+        "positive_ctxs": []
+    }
+]

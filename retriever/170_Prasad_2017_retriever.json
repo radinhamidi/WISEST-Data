@@ -1,0 +1,470 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "2.2. Study selection: We included only published articles describing [patients with] squamous cell carcinoma of head and neck ... <=20 years of age\n\nWe included only published articles describing HNSCC and treatment <=20 years of age, fully published case reports or case series. \n\n2.3. Data collection and data items:  disease free survival (DFS), Overall survival (OS)"
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "2.2. Study selection: We included only published articles describing [patients with] squamous cell carcinoma of head and neck ... <=20 years of age\n\nWe included only published articles describing HNSCC and treatment <=20 years of age, fully published case reports or case series. \n\n2.3. Data collection and data items:  disease free survival (DFS), Overall survival (OS)"
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Methods: We conducted an individual patient data analysis of PHNSCC. Two authors independently searched PubMed, google search, and Cochrane library for eligible studies using following search words: Pediatric Head and neck squamous cell carcinoma, Head and neck squamous cell carcinoma under age of 20, Head and neck squamous cell carcinoma in young, PHNSCC till June 1, 2016 published in English language."
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Two authors (BP and SM) independently searched PubMed, google search, and Cochrane library for eligible studies using following search words: pediatric Head and neck squamous cell carcinoma, Head and neck squamous cell carcinoma under age of 20, Head and neck squamous cell carcinoma in young, PHNSCC till June 1, 2016 published in English language. "
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "References from the primary search result also were manually searched for potentially eligible studies."
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Two authors independently searched PubMed, google search, and Cochrane library for eligible studies using following search words: Pediatric Head and neck squamous cell carcinoma, Head and neck squamous cell carcinoma under age of 20, Head and neck squamous cell carcinoma in young, PHNSCC till June 1, 2016 published in English language."
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Two authors independently searched PubMed, google search, and Cochrane library for eligible studies using following search words: Pediatric Head and neck squamous cell carcinoma, Head and neck squamous cell carcinoma under age of 20, Head and neck squamous cell carcinoma in young, PHNSCC till June 1, 2016 published in English language."
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two independent authors (BP) and(SM) selected the eligible studies. Any disagreement between two authors was solved by discussing with a third author (GKR). Study selection has been depicted in Fig. 1 PRISMA flow diagram."
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two authors independently (BP, SM) extracted all data from the eligible trials "
+        ],
+        "negative_ctxs": [
+            9,
+            4
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Total of 217 patients of PHNSCC were found in the literature. Individual patient data was available for 107 patients from 54 publications and statistical analysis was performed on 107 patients. Median age of the cohort was 15 years (Range: 0e20 years).22(20.6%) patients were below 10 years and 85(79.4%) were between 11 and 20 years of age. Sex ratio was skewed in favor of males with ratio of 1.7:1 (Male: 66, female: 38). Oral cavity tumors were, commonest 75 (70%) followed by laryngeal neoplasms 16(15%) [Fig. 2]. Among oral cavity tumors, tongue 56(74.67%) was involved most commonly followed by gingiva 10(13.3%), retromolar trigone1(1.3%), Upper lip 1(1.3%), Lower lip 1(1.3%), buccal mucosa 4(5.3%), hard palate 1(1.3%), floor of mouth 1(1.3%) [Fig. 3]. 11(10.2%) patients had DNA repair defect, fanconis anemia and 9(8.4%) patients had other risk factors like smoking(3), tobacco chewing(1), HPV infection , xerodera pigmenstosa(2),retinoblastoma survior(1) and sharp teeth(1). Surgery alone was used in 42(39.3%), radiotherapy alone in 15(14%), surgery followed by adjuvant radiotherapy in 24(22.4%), concurrent radiotherapy and chemotherapy in 15(14%), trimodality therapy 3(2.1%). Treatment data was not available for 8 (7.5%) [Table 2]. Fig. 4 depicts the various treatment modalities used.Out of 15 patients treated with radiation only external beam radiotherapy was used in 11 patients and brachytherapy was used in 4 patients. Interstitial brachytherapy with radon seeds and external beam was used in 2 patients, 10 g of potassium Iodide was used in 1 patient, and interstitial brachytherapy with neck dissection was used in 1 patient. Surgery with or without radiotherapy was used in 66 patients. Out of these 66 patients surgery for the primary site alone was done in 31 patients and surgery with neck dissection was done in 20 patients. Among 20 neck dissections 8 were selective neck dissections, 9 were modified neck dissection, 1 radical neck dissection and in 2 patient's neck dissection type were not specified. Brachytherapy for primary with neck dissection for nodes was used in 1, brachytherapy followed by wide local excision and neck dissection was done in 2 patients. Neoadjuvant chemotherapy followed by wide local excision and modified neck dissection followed by post-operative radiotherapy was used in 1 patient. Surgery followed by post-operative radiotherapy was used in 11 patients. Neoadjuvant chemotherapy was used in 4 patients among which 1 patient had docetaxel, cisplatin and 5 Fluorouracil and 1 patient received paclitaxel and carboplatin and data was NA in 2 patients. Brachytherapy with chemotherapy was used in 1 patient and WLE with adjuvant chemo-radiation was used in 1 patient. Palliative chemotherapy alone was used in 6 patients with Hydroxyurea-1, Methotrexate-1, Methotrexate with cyclophosphamide-1, Retinoic acid and 5 Flououracil-1, data not available-2 patients."
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Individual patient data was available for 107 patients from 54 publications and statistical analysis was performed on 107 patients."
+        ],
+        "negative_ctxs": [
+            0,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Total of 217 patients of PHNSCC were found in the literature. Individual patient data was available for 107 patients from 54 publications and statistical analysis was performed on 107 patients"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The limitations of this systematic review are varied heterogeneity among studies reported, underreporting of data in various articles, wide variation in treatment modalities across the century and absence of toxicity reporting."
+        ],
+        "negative_ctxs": [
+            0,
+            6
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": [
+            1,
+            10,
+            11
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "2.2. Study selection: We included only published articles describing [patients with] squamous cell carcinoma of head and neck ... <=20 years of age\n\nWe included only published articles describing HNSCC and treatment <=20 years of age, fully published case reports or case series. \n\n2.3. Data collection and data items:  disease free survival (DFS), Overall survival (OS)"
+        ],
+        "negative_ctxs": [
+            7,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We included only published articles describing head and neck Squamous cell carcinoma and treatment <=20 years of age, fully published case reports or case series. "
+        ],
+        "negative_ctxs": [
+            8,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Two authors (BP and SM) independently searched PubMed, google search, and Cochrane library for eligible studies using following search words: pediatric Head and neck squamous cell carcinoma, Head and neck squamous cell carcinoma under age of 20, Head and neck squamous cell carcinoma in young, PHNSCC till June 1, 2016 published in English language. "
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two independent authors (BP) and(SM) selected the eligible studies. Any disagreement between two authors was solved by discussing with a third author (GKR). Study selection has been depicted in Fig. 1 PRISMA flow diagram."
+        ],
+        "negative_ctxs": [
+            7,
+            4
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two authors independently (BP, SM) extracted all data from the eligible trials "
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Total of 217 patients of PHNSCC were found in the literature. Individual patient data was available for 107 patients from 54 publications and statistical analysis was performed on 107 patients. Median age of the cohort was 15 years (Range: 0e20 years).22(20.6%) patients were below 10 years and 85(79.4%) were between 11 and 20 years of age. Sex ratio was skewed in favor of males with ratio of 1.7:1 (Male: 66, female: 38). Oral cavity tumors were, commonest 75 (70%) followed by laryngeal neoplasms 16(15%) [Fig. 2]. Among oral cavity tumors, tongue 56(74.67%) was involved most commonly followed by gingiva 10(13.3%), retromolar trigone1(1.3%), Upper lip 1(1.3%), Lower lip 1(1.3%), buccal mucosa 4(5.3%), hard palate 1(1.3%), floor of mouth 1(1.3%) [Fig. 3]. 11(10.2%) patients had DNA repair defect, fanconis anemia and 9(8.4%) patients had other risk factors like smoking(3), tobacco chewing(1), HPV infection , xerodera pigmenstosa(2),retinoblastoma survior(1) and sharp teeth(1). Surgery alone was used in 42(39.3%), radiotherapy alone in 15(14%), surgery followed by adjuvant radiotherapy in 24(22.4%), concurrent radiotherapy and chemotherapy in 15(14%), trimodality therapy 3(2.1%). Treatment data was not available for 8 (7.5%) [Table 2]. Fig. 4 depicts the various treatment modalities used.Out of 15 patients treated with radiation only external beam radiotherapy was used in 11 patients and brachytherapy was used in 4 patients. Interstitial brachytherapy with radon seeds and external beam was used in 2 patients, 10 g of potassium Iodide was used in 1 patient, and interstitial brachytherapy with neck dissection was used in 1 patient. Surgery with or without radiotherapy was used in 66 patients. Out of these 66 patients surgery for the primary site alone was done in 31 patients and surgery with neck dissection was done in 20 patients. Among 20 neck dissections 8 were selective neck dissections, 9 were modified neck dissection, 1 radical neck dissection and in 2 patient's neck dissection type were not specified. Brachytherapy for primary with neck dissection for nodes was used in 1, brachytherapy followed by wide local excision and neck dissection was done in 2 patients. Neoadjuvant chemotherapy followed by wide local excision and modified neck dissection followed by post-operative radiotherapy was used in 1 patient. Surgery followed by post-operative radiotherapy was used in 11 patients. Neoadjuvant chemotherapy was used in 4 patients among which 1 patient had docetaxel, cisplatin and 5 Fluorouracil and 1 patient received paclitaxel and carboplatin and data was NA in 2 patients. Brachytherapy with chemotherapy was used in 1 patient and WLE with adjuvant chemo-radiation was used in 1 patient. Palliative chemotherapy alone was used in 6 patients with Hydroxyurea-1, Methotrexate-1, Methotrexate with cyclophosphamide-1, Retinoic acid and 5 Flououracil-1, data not available-2 patients."
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The limitations of this systematic review are varied heterogeneity among studies reported, underreporting of data in various articles, wide variation in treatment modalities across the century and absence of toxicity reporting."
+        ],
+        "negative_ctxs": [
+            5,
+            1
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Disclosure of potential conflicts of interest: The authors have no conflict of interest. \nNo financial support received."
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            5
+        ],
+        "positive_ctxs": []
+    }
+]

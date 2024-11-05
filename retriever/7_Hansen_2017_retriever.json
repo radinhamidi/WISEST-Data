@@ -1,0 +1,460 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "This systematic review was based on a registered (PROSPERO CRD42012002552) and published protocol (Hansen et al., 2012).\n\nOur main objective was to evaluate the effects of BASs versus placebo or no interventions on glycemic control and adverse events in type 2 diabetes. We originally planned to compare BAS versus other antidiabetic interventions, but only identified one trial comparing BASs versus rosiglitazone or sitagliptin (Rigby et al., 2010). We decided not to include data from the rosiglitazone arm in our analyses because the drug has been associated with increased risk of myocardial infarction but not cardiovascular or all cause mortality (Nissen & Wolski, 2010). Our primary endpoint was glycemic control (HbA1c). Secondary endpoints included adverse events and changes in fasting plasma glucose, total cholesterol, high-density lipoprotein (HDL) cholesterol, LDL cholesterol, triglycerides and body weight."
+        ],
+        "negative_ctxs": [
+            32,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Aim To evaluate the effects of bile acid sequestrants (BASs) versus placebo, no intervention or active comparators on glycemic control in type 2 diabetes."
+        ],
+        "negative_ctxs": [
+            44,
+            30
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We included trials of adult patients of both genders with type 2 diabetes as defined by the authors of the included trials. The BAS groups included cholestyramine, colesevelam colestimide or colestipol, irrespective of daily dose or duration of the trial.\n\nProtocol - PICOs"
+        ],
+        "negative_ctxs": [
+            31,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We included randomized controlled trials, irrespective of date, publication status, language, bias control and predefined outcome."
+        ],
+        "negative_ctxs": [
+            37,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We included randomized controlled trials, irrespective of date, publication status, language, bias control and predefined outcome.\n\nWe also searched the WHO International Clinical Trial Registry Platform and conference proceedings from the annual scientific meetings of the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD)."
+        ],
+        "negative_ctxs": [
+            1,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Eligible trials were identified by electronic searches in The Cochrane Library, Medline, Embase, the Web of Science and clinicaltrials.gov"
+        ],
+        "negative_ctxs": [
+            29,
+            35
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The reference lists of relevant articles were manually examined and relevant trials identified. Additional information on trials was sought through correspondence with authors and pharmaceutical companies."
+        ],
+        "negative_ctxs": [
+            38,
+            26
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The search terms in the Cochrane Library were (\"bile acid sequestrant\" or \"cholestyramine\" or \"colestimide\" or \"colestipol\" or \"colesevelam\") and \"type 2 diabetes\". The search strategy was adjusted to fit the other databases and combined with the Cochrane Search String for the identification of randomized clinical trials (\"Cochrane Handbook for Systematic Reviews of Interventions\")."
+        ],
+        "negative_ctxs": [
+            0,
+            37
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We included randomized controlled trials, irrespective of date, publication status, language, bias control and predefined outcome."
+        ],
+        "negative_ctxs": [
+            36,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "2.2 Study Selection - Two authors independently reviewed the trial inclusion and exclusion criteria.\n\nProtocol - Selection of studies: Trials identified through the electronic and manual searches will be listed and included trials will be selected using the criteria described above. Excluded trials will be listed with the reason for exclusion. All authors will participate in the selection or trials for inclusion."
+        ],
+        "negative_ctxs": [
+            30,
+            41
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Protocol: Data collection and analysis: Two authors (MH and DPS) will independently extract data and resolve disagreements through discussion before  analysis. In case of unresolved matters, a third party will be involved.\n\nArticle: Data extraction was performed independently by three authors based on standardized extraction forms. Disagreements were resolved through discussion."
+        ],
+        "negative_ctxs": [
+            20,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 2. Baseline characteristics of patients with type 2 diabetes\n\nTable 1. Characteristics of included trials"
+        ],
+        "negative_ctxs": [
+            30,
+            45
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1. Characteristics of included trials\n\nTable 2. Baseline characteristics of patients with type 2 diabetes\n\nFig 2.A End of treatment HbA1c random-effects meta-analysis\n\nFig 2.B End of trial fasting plasma glucose random-effects meta-analysis\n\nFig 3 Mean change in body weight random-effects meta-analysis"
+        ],
+        "negative_ctxs": [
+            27,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The risk of bias was assessed by separate domains: random sequence generation, allocation concealment, blinding of participants, personnel and outcome assessment, incomplete outcome data, selective reporting and other bias (\"Cochrane Handbook for Systematic Reviews of Interventions\")\n\nWe retrieved unpublished information about trial design and outcome measures from 16 trials\n\nTable 3. Risk of bias assessment"
+        ],
+        "negative_ctxs": [
+            31,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Table 1. Characteristics of included trials"
+        ],
+        "negative_ctxs": [
+            23,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Random-effects metaanalysis showed that patients randomized to BASs had a lower hemoglobin A1c at the end of treatment compared with the control group (mean difference -0.55%; 95% confidence interval -0.64 to -0.46). Analysis of trials with low risk of bias in all domains confirmed the findings.\n\nONLINE SUPPLEMENTARY: Fig 3. Mean change in body weight random-effects meta-analysis"
+        ],
+        "negative_ctxs": [
+            26,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The meta-analyses were performed using random-effects based on expected clinical heterogeneity. We repeated the analyses using fixed-effect models. In all analyses, the overall conclusion of the two models concurred, but random-effects models provided the most conservative estimate of the intervention effect. We therefore only report the result of the random-effects meta-analyses."
+        ],
+        "negative_ctxs": [
+            36,
+            41
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "We used I2 values as markers of heterogeneity\n\nsensitivity analyses were performed to evaluate heterogeneity\n\nthe heterogeneity between the trials with a placebo control group was considerable (I2=90.6). Sensitivity analyses on trials with a low risk of bias assessed using individual domains, confirmed the findings (MD -0.44%; -0.51 to -0.37; I2=91.6%; 9 trials).\n\nsub-group analyses showed a significant difference (P<0.01) between trials on colesevelam (MD -0.59 mmol/L; -0.60 to -0.57) and colestimide -1.30 mmol/L; -1.64 to - 0.96).\n\nProtocol: Subgroup analysis and investigation of heterogeneity: Subgroup analyses will be performed to analyse the influence of patient, intervention and trial characteristics intertrial heterogeneity. The subgroup analyses will compare the different types of BASs. The test for subgroup differences will be calculated and the results presented as P and I-squared values."
+        ],
+        "negative_ctxs": [
+            38,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Funnel plots and regression tests for funnel plot asymmetry in metaanalysis were performed for meta-analyses with at least ten trials to assess small study effects (Egger test for continuous and Harbord for dichotomous outcomes). The effects of interventions were examined using subgroup and sensitivity analyses.\n\nno evidence of publication bias or small study effects."
+        ],
+        "negative_ctxs": [
+            24,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "We evaluated bias control and subgroup and sensitivity analyses were performed to evaluate heterogeneity and bias.\n\nAnalysis of trials with low risk of bias in all domains confirmed the findings. \n\nData on adverse events were limited. There were no differences between trials stratified by the control group and no evidence of publication bias or small study effects."
+        ],
+        "negative_ctxs": [
+            6,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "We included randomized controlled trials, irrespective of date"
+        ],
+        "negative_ctxs": [
+            14,
+            20
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Aim To evaluate the effects of bile acid sequestrants (BASs) versus placebo, no intervention or active comparators on glycemic control in type 2 diabetes.\n\n"
+        ],
+        "negative_ctxs": [
+            14,
+            28
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            6,
+            41
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "This systematic review was based on a registered (PROSPERO CRD42012002552) and published protocol (Hansen et al., 2012).\n\nOur main objective was to evaluate the effects of BASs versus placebo or no interventions on glycemic control and adverse events in type 2 diabetes. We originally planned to compare BAS versus other antidiabetic interventions, but only identified one trial comparing BASs versus rosiglitazone or sitagliptin (Rigby et al., 2010). We decided not to include data from the rosiglitazone arm in our analyses because the drug has been associated with increased risk of myocardial infarction but not cardiovascular or all cause mortality (Nissen & Wolski, 2010). Our primary endpoint was glycemic control (HbA1c). Secondary endpoints included adverse events and changes in fasting plasma glucose, total cholesterol, high-density lipoprotein (HDL) cholesterol, LDL cholesterol, triglycerides and body weight."
+        ],
+        "negative_ctxs": [
+            30,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We included trials of adult patients of both genders with type 2 diabetes as defined by the authors of the included trials. The BAS groups included cholestyramine, colesevelam colestimide or colestipol, irrespective of daily dose or duration of the trial.\n\nProtocol - PICOs"
+        ],
+        "negative_ctxs": [
+            7,
+            45
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We included randomized controlled trials, irrespective of date"
+        ],
+        "negative_ctxs": [
+            2,
+            26
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Eligible trials were identified by electronic searches in The Cochrane Library, Medline, Embase, the Web of Science and clinicaltrials.gov"
+        ],
+        "negative_ctxs": [
+            26,
+            31
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "2.2 Study Selection - Two authors independently reviewed the trial inclusion and exclusion criteria.\n\nProtocol - Selection of studies: Trials identified through the electronic and manual searches will be listed and included trials will be selected using the criteria described above. Excluded trials will be listed with the reason for exclusion. All authors will participate in the selection or trials for inclusion."
+        ],
+        "negative_ctxs": [
+            33,
+            40
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Protocol: Data collection and analysis: Two authors (MH and DPS) will independently extract data and resolve disagreements through discussion before  analysis. In case of unresolved matters, a third party will be involved.\n\nArticle: Data extraction was performed independently by three authors based on standardized extraction forms. Disagreements were resolved through discussion."
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Study Selection - Excluded trials were listed with the reason for exclusion.\n\nThe initial search generated 383 references (Fig. 1) of which 20 fulfilled the predefined inclusion criteria. We had to exclude three trials from our quantitative analyses because we were unable to obtain the required data\n\nSupplementary data to this article can be found online at: xxxxxx\n\nProtocol: Excluded trials will be listed with the reason for exclusion."
+        ],
+        "negative_ctxs": [
+            30,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 2. Baseline characteristics of patients with type 2 diabetes\n\nTable 1. Characteristics of included trials"
+        ],
+        "negative_ctxs": [
+            19,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The risk of bias was assessed by separate domains: random sequence generation, allocation concealment, blinding of participants, personnel and outcome assessment, incomplete outcome data, selective reporting and other bias (\"Cochrane Handbook for Systematic Reviews of Interventions\")\n\nWe retrieved unpublished information about trial design and outcome measures from 16 trials\n\nTable 3. Risk of bias assessment"
+        ],
+        "negative_ctxs": [
+            31,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The meta-analyses were performed using random-effects based on expected clinical heterogeneity. We repeated the analyses using fixed-effect models. In all analyses, the overall conclusion of the two models concurred, but random-effects models provided the most conservative estimate of the intervention effect. We therefore only report the result of the random-effects meta-analyses."
+        ],
+        "negative_ctxs": [
+            27,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "We used I2 values as markers of heterogeneity\n\nsensitivity analyses were performed to evaluate heterogeneity\n\nthe heterogeneity between the trials with a placebo control group was considerable (I2=90.6). Sensitivity analyses on trials with a low risk of bias assessed using individual domains, confirmed the findings (MD -0.44%; -0.51 to -0.37; I2=91.6%; 9 trials).\n\nsub-group analyses showed a significant difference (P<0.01) between trials on colesevelam (MD -0.59 mmol/L; -0.60 to -0.57) and colestimide -1.30 mmol/L; -1.64 to - 0.96).\n\nProtocol: Subgroup analysis and investigation of heterogeneity: Subgroup analyses will be performed to analyse the influence of patient, intervention and trial characteristics intertrial heterogeneity. The subgroup analyses will compare the different types of BASs. The test for subgroup differences will be calculated and the results presented as P and I-squared values."
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Funnel plots and regression tests for funnel plot asymmetry in metaanalysis were performed for meta-analyses with at least ten trials to assess small study effects (Egger test for continuous and Harbord for dichotomous outcomes). The effects of interventions were examined using subgroup and sensitivity analyses.\n\nno evidence of publication bias or small study effects."
+        ],
+        "negative_ctxs": [
+            29,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "We evaluated bias control and subgroup and sensitivity analyses were performed to evaluate heterogeneity and bias.\n\nAnalysis of trials with low risk of bias in all domains confirmed the findings. \n\nData on adverse events were limited. There were no differences between trials stratified by the control group and no evidence of publication bias or small study effects."
+        ],
+        "negative_ctxs": [
+            7,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "FUNDING AND DISCLOSURES - The present study has not received direct funding. KHM holds shares in Chr. Hansen and Probi. TV has received lecture fees and/or research grants from, participated in advisory boards of and/or consulted for Amgen, AstraZeneca, Boehringer Ingelheim, Bristol-Myers Squibb, Eli Lilly, MSD/Merck, Novo Nordisk and Sanofi. FKK has received lecture fees and/or research grants from, participated in advisory boards of and/or consulted for Amgen, AstraZeneca, Boehringer Ingelheim, Eli Lilly, MSD/Merck, Novo Nordisk, Sanofi and Zealand Pharma. The remaining authors have nothing to disclose."
+        ],
+        "negative_ctxs": [
+            4,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "We included randomized controlled trials, irrespective of date"
+        ],
+        "negative_ctxs": [
+            33,
+            8
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    }
+]

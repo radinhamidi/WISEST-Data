@@ -1,0 +1,454 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "we conducted a systematic review\r\nand meta-analysis of the published randomized\ncontrolled trials (RCTs) to evaluate the role of autologous\r\nstem cell administration in the treatment of DFUs.\n\nStudies were included if: (1) they were reported as an\r\nRCT study; (2) they recruited patients with DFUs who\r\nwere assigned to either a stem cell group that accepted\r\nautologous stem cell (derived from bone marrow, peripheral\r\nblood, umbilical cord blood, or adipose tissue)\r\ntransplantation treatment, or a control group that accepted\r\nonly placebo or other medical treatment; and (3)\r\nthey reported outcomes regarding the healing of ulcers\r\nand where the relevant data could be estimated. Furthermore,\r\ncell therapy-related adverse events were also extracted.\r\nWhen the same groups of patients were\r\nreported in multiple papers, only the most recent and\r\ncomplete paper was selected to avoid overlap.\r\nStudies were excluded if: (1) there was no control\r\ngroup in the study; (2) studies lacked measurement data;\r\n(3) the same test was repeated in published literature or\r\nsubgroup analyses; and (4) they were non-English\r\narticles."
+        ],
+        "negative_ctxs": [
+            14,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Studies were included if: (1) they were reported as an\nRCT study; (2) they recruited patients with DFUs who\nwere assigned to either a stem cell group that accepted\nautologous stem cell (derived from bone marrow, peripheral\nblood, umbilical cord blood, or adipose tissue)\ntransplantation treatment, or a control group that accepted\nonly placebo or other medical treatment; and (3)\nthey reported outcomes regarding the healing of ulcers\nand where the relevant data could be estimated. Furthermore,\ncell therapy-related adverse events were also extracted.\nWhen the same groups of patients were\nreported in multiple papers, only the most recent and\ncomplete paper was selected to avoid overlap.\nStudies were excluded if: (1) there was no control\ngroup in the study; (2) studies lacked measurement data;\n(3) the same test was repeated in published literature or\nsubgroup analyses; and (4) they were non-English\narticles."
+        ],
+        "negative_ctxs": [
+            5,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Studies were excluded if: (1) there was no control\r\ngroup in the study; (2) studies lacked measurement data"
+        ],
+        "negative_ctxs": [
+            15,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "The search was limited to clinical trial studies published in English.\n\nStudies were excluded if: (1) there was no control\ngroup in the study; (2) studies lacked measurement data;\n(3) the same test was repeated in published literature or\nsubgroup analyses; and (4) they were non-English\narticles."
+        ],
+        "negative_ctxs": [
+            7,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Two reviewers (JG and RH) independently searched the\r\nPubmed, EMBASE, Web of Science, and Cochrane Library\r\n(Cochrane Center Register of Controlled Trials)\r\ndatabases,"
+        ],
+        "negative_ctxs": [
+            14,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Related original and review articles were identified manually, and\r\nreferences from these publications were also reviewed"
+        ],
+        "negative_ctxs": [
+            16,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "using the terms \"stem cell(s)\", \"progenitor\r\ncells\", \"lipoaspirate cells\" or \"mononuclear cells\" paired\r\nwith \"diabetic\", and \"diabetes\" paired with \"wound\",\r\n\"ulcer\", \"foot\" or \"isch(a)emia\"."
+        ],
+        "negative_ctxs": [
+            10,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "The search was limited\r\nto clinical trial studies published in English"
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two reviewers (JG and RH) independently searched the\r\nPubmed, EMBASE, Web of Science, and Cochrane Library\r\n(Cochrane Center Register of Controlled Trials)\r\ndatabases,"
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "According to the inclusion and exclusion criteria, all five\r\nauthors (JG, RH, KF, AD, and YG) were involved in the\r\nliterature search and data extraction"
+        ],
+        "negative_ctxs": [
+            16,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "After careful review of the publications, six RCT studies were\neligible and retrieved, including studies of bone marrowderived\nmesenchymal stem cells (BMMSCs; n = 1), bone\nmarrow-derived mononuclear cells (BMMNCs; n = 2),\nperipheral blood-derived mononuclear cells (PBMNCs;\nn = 1), bone marrow-enriched tissue repair cells\n(BMTRCs; enriched in CD90+ cells; n = 1), and humanprocessed\nlipoaspirate (PLA) cells (n = 1) [18-21].\nAmong the six studies, three were from China, two\nwere from Germany, and one was from Korea. The\ncharacteristics of the studies are shown in Table 1.\n\nTable 1 Characteristics of the included studies"
+        ],
+        "negative_ctxs": [
+            15,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Fig. 3 a Risk difference with stem cell therapy compared to control and interventions. b Risk difference with stem cell therapy compared to control and interventions by ulcer size and age group. BMMNCs bone marrow-derived mononuclear cells, BMMSCs bone marrow-derived mesenchymal stem"
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Quality was assessed according to the predefined inclusion criteria\n\nFig. 2 Risk of bias for each included RCT."
+        ],
+        "negative_ctxs": [
+            12,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "According to the inclusion and exclusion criteria, all five\r\nauthors (JG, RH, KF, AD, and YG) were involved in the\r\nliterature search and data extraction. Quality was\r\nassessed according to the predefined inclusion criteria"
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "After careful review of the publications, six RCT studies were\neligible and retrieved,\n\nFig. 3 a Risk difference with stem cell therapy compared to control and interventions. b Risk difference with stem cell therapy compared to control\r\nand interventions by ulcer size and age group."
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Both the fixed effects\nmodel and the random effects model were considered in\nthe analysis depending on the I2 result. If the study was\nnot statistically homogeneous, we used a fixed effects\nmodel analysis; if there was heterogeneity between studies,\nwe used a random effects model analysis"
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Fig. 3 a Risk difference with stem cell therapy compared to control and interventions. b Risk difference with stem cell therapy compared to control\nand interventions by ulcer size and age group.\n\nFrom a clinical viewpoint, subgroup analyses were performed with the following factors: age (>= 70 years or < 70 years) and ulcer size (>=5 cm2 or < 5 cm2)."
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "After careful review of the publications, six RCT studies were\neligible and retrieved,"
+        ],
+        "negative_ctxs": [
+            1,
+            5
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The risk of biases of the included studies is shown in\r\nFig. 2a and b. These data show that the highest risk of\r\nbias was in relation to performance and detection. Six\r\nRCT studies were included and the risk of bias for each\r\nRCT included was low."
+        ],
+        "negative_ctxs": [
+            11,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The current study has several limitations. First, stem\r\ncell sources, the number of delivered cells, and the\r\nroutes of cell administration differed among the studies.\r\nDue to these significant heterogeneities, optimized procedure\r\nprotocols were not determined. Second, only the\r\nfunnel plot was used to qualitatively assess publication\r\nbias, with no further examination by other methods such\r\nas Egger's regression. Third, the claim about the older\r\nsubgroup is not fully justified since the selected studies\r\nwere performed on patients aged 63, 65, 67, 69, and\r\n71 years. There is no remarkable difference between\r\nthese ages. Looking forwards, we need to include more\r\nstudies conducted on patients with a wider age range.\r\nFourth, the RCTs were small in scale and size, and evidence\r\nfrom larger samples and more rigorous RCTs are\r\nrequired."
+        ],
+        "negative_ctxs": [
+            12,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Therefore, we conducted a systematic review\nand meta-analysis of the published randomized\ncontrolled trials (RCTs) to evaluate the role of autologous\nstem cell administration in the treatment of DFUs.\n\nAfter careful review of the publications, six RCT studies were\neligible and retrieved, including studies of bone marrowderived\nmesenchymal stem cells (BMMSCs; n = 1), bone\nmarrow-derived mononuclear cells (BMMNCs; n = 2),\nperipheral blood-derived mononuclear cells (PBMNCs;\nn = 1), bone marrow-enriched tissue repair cells\n(BMTRCs; enriched in CD90+ cells; n = 1), and humanprocessed\nlipoaspirate (PLA) cells (n = 1) [18-21].\nAmong the six studies, three were from China, two\nwere from Germany, and one was from Korea. The\ncharacteristics of the studies are shown in Table 1.\n\nTable 1 Characteristics of the included studies"
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Studies were included if: (1) they were reported as an\nRCT study; (2) they recruited patients with DFUs who\nwere assigned to either a stem cell group that accepted\nautologous stem cell (derived from bone marrow, peripheral\nblood, umbilical cord blood, or adipose tissue)\ntransplantation treatment, or a control group that accepted\nonly placebo or other medical treatment; and (3)\nthey reported outcomes regarding the healing of ulcers\nand where the relevant data could be estimated. Furthermore,\ncell therapy-related adverse events were also extracted.\nWhen the same groups of patients were\nreported in multiple papers, only the most recent and\ncomplete paper was selected to avoid overlap.\nStudies were excluded if: (1) there was no control\ngroup in the study; (2) studies lacked measurement data;\n(3) the same test was repeated in published literature or\nsubgroup analyses; and (4) they were non-English\narticles."
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Studies were included if: (1) they were reported as an\r\nRCT study;"
+        ],
+        "negative_ctxs": [
+            5,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Two reviewers (JG and RH) independently searched the\r\nPubmed, EMBASE, Web of Science, and Cochrane Library\r\n(Cochrane Center Register of Controlled Trials)\r\ndatabases,"
+        ],
+        "negative_ctxs": [
+            14,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two reviewers (JG and RH) independently searched the\r\nPubmed, EMBASE, Web of Science, and Cochrane Library\r\n(Cochrane Center Register of Controlled Trials)\r\ndatabases,"
+        ],
+        "negative_ctxs": [
+            4,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "According to the inclusion and exclusion criteria, all five\r\nauthors (JG, RH, KF, AD, and YG) were involved in the\r\nliterature search and data extraction"
+        ],
+        "negative_ctxs": [
+            9,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "After careful review of the publications, six RCT studies were\neligible and retrieved, including studies of bone marrowderived\nmesenchymal stem cells (BMMSCs; n = 1), bone\nmarrow-derived mononuclear cells (BMMNCs; n = 2),\nperipheral blood-derived mononuclear cells (PBMNCs;\nn = 1), bone marrow-enriched tissue repair cells\n(BMTRCs; enriched in CD90+ cells; n = 1), and humanprocessed\nlipoaspirate (PLA) cells (n = 1) [18-21].\nAmong the six studies, three were from China, two\nwere from Germany, and one was from Korea. The\ncharacteristics of the studies are shown in Table 1.\n\nTable 1 Characteristics of the included studies"
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Quality was assessed according to the predefined inclusion criteria\n\nFig. 2 Risk of bias for each included RCT."
+        ],
+        "negative_ctxs": [
+            10,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Both the fixed effects\nmodel and the random effects model were considered in\nthe analysis depending on the I2 result. If the study was\nnot statistically homogeneous, we used a fixed effects\nmodel analysis; if there was heterogeneity between studies,\nwe used a random effects model analysis"
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Fig. 3 a Risk difference with stem cell therapy compared to control and interventions. b Risk difference with stem cell therapy compared to control\nand interventions by ulcer size and age group.\n\nFrom a clinical viewpoint, subgroup analyses were performed with the following factors: age (>= 70 years or < 70 years) and ulcer size (>=5 cm2 or < 5 cm2)."
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "After careful review of the publications, six RCT studies were\neligible and retrieved,"
+        ],
+        "negative_ctxs": [
+            1,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The risk of biases of the included studies is shown in\r\nFig. 2a and b. These data show that the highest risk of\r\nbias was in relation to performance and detection. Six\r\nRCT studies were included and the risk of bias for each\r\nRCT included was low."
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding\r\nThis work is supported by grant no. XMLX201610 from the Beijing Municipal\r\nAdministration of Hospitals Clinical Technology Innovation Program, grant\r\nno. DFL20150801 from the Beijing Municipal Administration of Hospitals\r\nClimbing Talent Training Program, grant no. 2016000020124G108 from the\r\nBeijing Outstanding Talents Project, and the Beijing Municipal Science and\r\nTechnology Commission Clinical features Applied Research Projects\r\nZ141107002514063. These funding programs were not involved in the study\r\ndesign, in the collection, analysis and interpretation of data, in the writing of\r\nthe report, or in the decision to submit the article for publication\n\nCompeting interests\r\nThe authors declare that they have no competing interests."
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The current study has several limitations. First, stem\r\ncell sources, the number of delivered cells, and the\r\nroutes of cell administration differed among the studies.\r\nDue to these significant heterogeneities, optimized procedure\r\nprotocols were not determined. Second, only the\r\nfunnel plot was used to qualitatively assess publication\r\nbias, with no further examination by other methods such\r\nas Egger's regression. Third, the claim about the older\r\nsubgroup is not fully justified since the selected studies\r\nwere performed on patients aged 63, 65, 67, 69, and\r\n71 years. There is no remarkable difference between\r\nthese ages. Looking forwards, we need to include more\r\nstudies conducted on patients with a wider age range.\r\nFourth, the RCTs were small in scale and size, and evidence\r\nfrom larger samples and more rigorous RCTs are\r\nrequired."
+        ],
+        "negative_ctxs": [
+            5,
+            14
+        ],
+        "positive_ctxs": []
+    }
+]

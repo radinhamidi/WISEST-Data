@@ -1,0 +1,499 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We identified RCTs comparing ADM to SOC in DFU. Any type of RCTs consisted of more than 10 participants per group were included. Outcomes included the healing rate, time to heal, wound area reduction and adverse events."
+        ],
+        "negative_ctxs": [
+            9,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We identified RCTs comparing ADM to SOC in DFU. Any type of RCTs consisted of more than 10 participants per group were included. Outcomes included the healing rate, time to heal, wound area reduction and adverse events. Articles that reported at least one outcome were included and those without the outcome measures of interest were excluded. Non-RCT, retrospective studies, letters, comments, editorials and guidelines were excluded."
+        ],
+        "negative_ctxs": [
+            4,
+            12
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Articles that reported at least one outcome were included and those without the outcome measures of interest were excluded. Non-RCT, retrospective studies, letters, comments, editorials and guidelines were excluded."
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We only included English-language articles."
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Pubmed, Medline, Embase and Cochrane library were searched up to August 2016 for comparative studies involving ADM in the management of DFU.\n\nReference lists of all eligible studies and relevant reviews were manually searched for any additional trials."
+        ],
+        "negative_ctxs": [
+            5,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Reference lists of all eligible studies and relevant reviews were manually searched for any additional trials."
+        ],
+        "negative_ctxs": [
+            14,
+            1
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The search terms were as follows: \"acellular matrix\", \"acellular dermal graft tissue\", \"decellularized dermal scaffold\", \"diabetic foot\", \"foot ulcer\", \"dysvascular foot\"."
+        ],
+        "negative_ctxs": [
+            10,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We only included English-language articles."
+        ],
+        "negative_ctxs": [
+            15,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two authors independently reviewed all titles and abstracts of studies identified by the above searches."
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data on patient characteristics (age, wound size, and other baseline characteristics), intervention and outcomes were extracted in duplicate by the two authors, using a standardized form."
+        ],
+        "negative_ctxs": [
+            6,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Basic information about included studies; RCT: randomized controlled trail; DFU: diabetic foot ulcer; N: not mentioned; ADM: acellular dermal matrix; SOC: standard of care."
+        ],
+        "negative_ctxs": [
+            10,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Fig. 3. Complete wound healing at 12 weeks.\n\nFig. 4. Complete wound healing at 16 weeks."
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two authors independently assessed the risk of bias of the included studies, based on the following items: random sequence generation, allocation concealment, blinding, incomplete outcome data, selective outcome reporting and other sources of bias."
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two authors independently assessed the risk of bias of the\r\nincluded studies, based on the following items: random sequence\r\ngeneration, allocation concealment, blinding, incomplete outcome\r\ndata, selective outcome reporting and other sources of bias .\r\nDisagreement was resolved by the third author. The quality of evidence of outcomes was judged according to the modified Jadad\r\nscale . Two authors independently evaluated five factors (generation of allocation sequence, allocation concealment, investigator\r\nblindness, description of withdrawals and drop-outs, efficacy of\r\nrandomization)."
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "All calculations were performed using Revman 5.3 software. Mean difference (MD) with 95% confidence interval (95% CI) was calculated for the continuous data and risk ratios (RR) with 95% CI for the dichotomous data. Heterogeneity among studies was estimated using I  statistic and substantial heterogeneity was represented by an I 2 value > 50%. A fixed effects model was used if the heterogeneity test did not reveal statistical significance (I 2 < 50%, P > 0.1). Otherwise, we adopted the random effects model. P < 0.05 was considered to be statistically significant. Sensitivity analysis was performed to explore the impact of an individual study by deleting one study each time."
+        ],
+        "negative_ctxs": [
+            3,
+            13
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Deleting the 4-week study would not change the result of this meta-analysis [RR 1.94, 95% CI 1.26 to 2.98]. There was, however, moderate heterogeneity between studies (I2  1/4 68%, P  1/4 0.01), thus, random effects model was used."
+        ],
+        "negative_ctxs": [
+            9,
+            1
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Sensitivity analysis was performed to explore the impact of an individual study by deleting one study each time."
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "According to risk of bias and modified Jadad score, the strength of evidence is moderate, as most of the trials related to commercial corporations which may especially reduce the publication of negative outcomes, what's more, blindness of investigator only described in two studies owing to the intrinsic character of such trialddADM is easily to be found on the wound bed. Except for the blindness, the quality of these clinical trials was well controlled."
+        ],
+        "negative_ctxs": [
+            9,
+            0
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The present study has some limitations. First, publication biasmay be the most important limitation, as majority of the studieswere related to corresponding corporations. Second, there was alack of uniform ADM product, the variation of different kind ofdressing products might also be a problem. Third, on behalf of thepatients, principal investigators had the right to adopt a secondADM in Walter'sstudy, thus a better outcome may generate.Fourth, the sample size of each included study was relatively small.Fifth, data was insufficient for total analysis. Observation indicatorswere limited to 16 weeks, with no long-term follow-up. Furtherstudies are needed to clarify the long-term outcomes and recur-rence rate. Finally, the cost-efficiency should also take into account,further RCTs about the total expense are needed to illustrate theclinical value of such method"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Six studies satisfied our inclusion criteria. Four studies were multicenter RCTs, two studies were single-center RCTs. Inclusion and exclusion criteria were similar within the included studies. Participants in every study were diabetic foot ulcer with adequate vascular perfusion."
+        ],
+        "negative_ctxs": [
+            3,
+            11
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": [
+            5,
+            8,
+            14,
+            15
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We identified RCTs comparing ADM to SOC in DFU. Any type of RCTs consisted of more than 10 participants per group were included. Outcomes included the healing rate, time to heal, wound area reduction and adverse events. Articles that reported at least one outcome were included and those without the outcome measures of interest were excluded. Non-RCT, retrospective studies, letters, comments, editorials and guidelines were excluded."
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Pubmed, Medline, Embase and Cochrane library were searched up to August 2016 for comparative studies involving ADM in the management of DFU.\n\nReference lists of all eligible studies and relevant reviews were manually searched for any additional trials."
+        ],
+        "negative_ctxs": [
+            11,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two authors independently reviewed all titles and abstracts of studies identified by the above searches."
+        ],
+        "negative_ctxs": [
+            10,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data on patient characteristics (age, wound size, and other baseline characteristics), intervention and outcomes were extracted in duplicate by the two authors, using a standardized form."
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "247 studies were excluded based on the inclusion criteria,while 6 studies were excluded after reading the full texts for thefollowing reasons: lack of controlled study[22e24]; retrospectivestudy; SOC is not the control group; skin substitute con-sisted of cellular components."
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Basic information about included studies; RCT: randomized controlled trail; DFU: diabetic foot ulcer; N: not mentioned; ADM: acellular dermal matrix; SOC: standard of care."
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two authors independently assessed the risk of bias of the included studies, based on the following items: random sequence generation, allocation concealment, blinding, incomplete outcome data, selective outcome reporting and other sources of bias."
+        ],
+        "negative_ctxs": [
+            8,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "All calculations were performed using Revman 5.3 software. Mean difference (MD) with 95% confidence interval (95% CI) was calculated for the continuous data and risk ratios (RR) with 95% CI for the dichotomous data. Heterogeneity among studies was estimated using I  statistic and substantial heterogeneity was represented by an I 2 value > 50%. A fixed effects model was used if the heterogeneity test did not reveal statistical significance (I 2 < 50%, P > 0.1). Otherwise, we adopted the random effects model. P < 0.05 was considered to be statistically significant. Sensitivity analysis was performed to explore the impact of an individual study by deleting one study each time."
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Deleting the 4-week study would not change the result of this meta-analysis [RR 1.94, 95% CI 1.26 to 2.98]. There was, however, moderate heterogeneity between studies (I2  1/4 68%, P  1/4 0.01), thus, random effects model was used."
+        ],
+        "negative_ctxs": [
+            13,
+            5
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Sensitivity analysis was performed to explore the impact of an individual study by deleting one study each time."
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "According to risk of bias and modified Jadad score, the strength of evidence is moderate, as most of the trials related to commercial corporations which may especially reduce the publication of negative outcomes, what's more, blindness of investigator only described in two studies owing to the intrinsic character of such trialddADM is easily to be found on the wound bed. Except for the blindness, the quality of these clinical trials was well controlled."
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Sources of funding- None\r\n"
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The present study has some limitations. First, publication biasmay be the most important limitation, as majority of the studieswere related to corresponding corporations. Second, there was alack of uniform ADM product, the variation of different kind ofdressing products might also be a problem. Third, on behalf of thepatients, principal investigators had the right to adopt a secondADM in Walter'sstudy, thus a better outcome may generate.Fourth, the sample size of each included study was relatively small.Fifth, data was insufficient for total analysis. Observation indicatorswere limited to 16 weeks, with no long-term follow-up. Furtherstudies are needed to clarify the long-term outcomes and recur-rence rate. Finally, the cost-efficiency should also take into account,further RCTs about the total expense are needed to illustrate theclinical value of such method"
+        ],
+        "negative_ctxs": [
+            4,
+            1
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    }
+]

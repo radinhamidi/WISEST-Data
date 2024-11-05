@@ -1,0 +1,477 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "All papers reporting on outcomes of patients with DM as a primary outcome were included for review to optimise population homogeneity. Data were extracted from studies reporting the incidence of positive lymph nodes in SNLB for DM. Studies not reporting SLNB outcomes were excluded. Studies including SLNB with other lymph node examinations (microscopic and macroscopic disease) in which the positivity rate for SLNB could not be determined were excluded."
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Forty-one studies were retrieved for detailed review, of which 19 did not meet the inclusion criteria. Six further studies were excluded as they did not report SLNB outcomes. "
+        ],
+        "negative_ctxs": [
+            14,
+            7
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Articles in the English language were considered"
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Two authors (JAD and JCRW) independently conducted a full systematic literature review of all studies in Ovid MEDLINE, Ovid EMBASE and the Cochrane Central Register of Controlled Trials.\n\nBoth 'free-text term' and 'MeSH term' searches were performed, using variations of the keyword 'desmoplas*'. Keywords were combined using Boolean operators. Articles in the English language were considered"
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The reference lists of all identified articles were reviewed for relevant studies. Finally, the archives of pertinent journals were hand-searched for relevant articles (Journal of Plastic, Reconstructive and Aesthetic Surgery; Plastic and Reconstructive Surgery; Annals of Surgical Oncology; and European Journal of Surgical Oncology). The authors of all included studies were contacted to identify potential further or ongoing research. "
+        ],
+        "negative_ctxs": [
+            5,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Keywords were combined using Boolean operators.\n\nBoth 'free-text term' and 'MeSH term' searches were performed, using variations of the keyword 'desmoplas*'."
+        ],
+        "negative_ctxs": [
+            4,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Articles in the English language were considered"
+        ],
+        "negative_ctxs": [
+            12,
+            8
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            " The full text of the relevant papers was retrieved and examined by each author independently for consideration for inclusion/exclusion. The final list of the included studies was compared and discussed between the two authors (JAD and JCRW)."
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data were independently extracted by the two authors (JA and JCRW) using a standardised form. The data were then cross-checked between the two authors to confirm the accuracy of extraction."
+        ],
+        "negative_ctxs": [
+            11,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Demographic data of included studies."
+        ],
+        "negative_ctxs": [
+            7,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Case reports,\nreview articles and duplicate patient populations were\nexcluded. Where two studies used the same database or patient population and the time period was over-lapping, there is a risk of duplication bias; in such cases, the most extensive data collection was used, with the shorter study excluded. Where two studies had similar time periods from the same database, however, one restricted participants by anatomical site, both were included.\nThe study selection process was in accordance with the PRISMA statement and is reported in Figure 1. The search strategy identified 232 papers, which were screened for retrieval, and 191 were deemed irrelevant based on their title or abstract. Forty-one studies were retrieved for detailed review, of which 19 did not meet the inclusion criteria. Six further studies were excluded as they did not\nreport SLNB outcomes. The remaining 16 papers were included in the review. The principal summary measure was the rate of positive SLNB in patients with DM, expressed as a percentage, and the secondary measure was the inci-\ndence of positive SLNB comparing PDM and MDM."
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The remaining 16 papers were included in the review. The principal summary measure was the rate of positive SLNB in patients with DM, expressed as a percentage, and the secondary measure was the incidence of positive SLNB comparing PDM and MDM.\n\nHowever, patient demographics were comparable between groups."
+        ],
+        "negative_ctxs": [
+            0,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "This review has some limitations. The review included\ntwo instances of studies identified in the search strategy\nthat had used the same database or population cohort. This\nintroduced the risk of multiple publication bias, albeit by\ndifferent authors. Therefore, in duplicate patient cohorts,\nthe smaller series was excluded where there was overlap in\ntime periods. Therefore, some patients who were not in the\noverlapping period were not included, thus limiting the\npatient pool. Where two studies were published from the\nsame institution yet one analysed a single anatomical site\nonly, both were included. The review should be repeated in\ntwo years as an update."
+        ],
+        "negative_ctxs": [
+            7,
+            11
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "All papers reporting on outcomes of patients with DM as a primary outcome were included for review to optimise population homogeneity. Data were extracted from studies reporting the incidence of positive lymph nodes in SNLB for DM. Studies not reporting SLNB outcomes were excluded. Studies including SLNB with other lymph node examinations (microscopic and macroscopic disease) in which the positivity rate for SLNB could not be determined were excluded."
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": [
+            0,
+            15
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "All papers reporting on outcomes of patients with DM as a primary outcome were included for review to optimise population homogeneity. Data were extracted from studies reporting the incidence of positive lymph nodes in SNLB for DM. Studies not reporting SLNB outcomes were excluded. Studies including SLNB with other lymph node examinations (microscopic and macroscopic disease) in which the positivity rate for SLNB could not be determined were excluded."
+        ],
+        "negative_ctxs": [
+            2,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Case reports, review articles and duplicate patient populations were excluded."
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Two authors (JAD and JCRW) independently conducted a full systematic literature review of all studies in Ovid MEDLINE, Ovid EMBASE and the Cochrane Central Register of Controlled Trials.\n\nBoth 'free-text term' and 'MeSH term' searches were performed, using variations of the keyword 'desmoplas*'. Keywords were combined using Boolean operators. Articles in the English language were considered"
+        ],
+        "negative_ctxs": [
+            5,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            " The full text of the relevant papers was retrieved and examined by each author independently for consideration for inclusion/exclusion. The final list of the included studies was compared and discussed between the two authors (JAD and JCRW)."
+        ],
+        "negative_ctxs": [
+            14,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data were independently extracted by the two authors (JA and JCRW) using a standardised form. The data were then cross-checked between the two authors to confirm the accuracy of extraction."
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Demographic data of included studies."
+        ],
+        "negative_ctxs": [
+            16,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The remaining 16 papers were included in the review. The principal summary measure was the rate of positive SLNB in patients with DM, expressed as a percentage, and the secondary measure was the incidence of positive SLNB comparing PDM and MDM.\n\nHowever, patient demographics were comparable between groups."
+        ],
+        "negative_ctxs": [
+            14,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding: Nil.\nConflict of interest: Nil."
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "This review has some limitations. The review included\ntwo instances of studies identified in the search strategy\nthat had used the same database or population cohort. This\nintroduced the risk of multiple publication bias, albeit by\ndifferent authors. Therefore, in duplicate patient cohorts,\nthe smaller series was excluded where there was overlap in\ntime periods. Therefore, some patients who were not in the\noverlapping period were not included, thus limiting the\npatient pool. Where two studies were published from the\nsame institution yet one analysed a single anatomical site\nonly, both were included. The review should be repeated in\ntwo years as an update."
+        ],
+        "negative_ctxs": [
+            16,
+            6
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    }
+]

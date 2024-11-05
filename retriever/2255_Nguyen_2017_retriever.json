@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Herein, we seek to consolidate current understandings of the disease\n\nExclusion criteria denied the inclusion of articles not written in English, conference abstracts, studies not performed in primary human subjects, and studies with inadequate patient data. Articles discussing cases of allergic contact dermatitis in response to shiitake mushroom exposure were not included. Additionally, cases of systemic symptoms (i.e. asthma or gastrointestinal distress) without dermatologic manifestations were not included."
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Exclusion criteria denied the inclusion of articles not written in English, conference abstracts, studies not performed in primary human subjects, and studies with inadequate patient data. Articles discussing cases of allergic contact dermatitis in response to shiitake mushroom exposure were not included. Additionally,\ncases of systemic symptoms (i.e. asthma or gastrointestinal distress) without dermatologic manifestations were not included."
+        ],
+        "negative_ctxs": [
+            14,
+            18
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Exclusion criteria\ndenied the inclusion of articles not written in English, conference abstracts, studies not performed in primary human subjects, and studies with inadequate patient data "
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Exclusion criteria denied the inclusion of articles not written in English, conference abstracts, studies not performed in primary human subjects, and studies with inadequate patient data."
+        ],
+        "negative_ctxs": [
+            19,
+            14
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The National Library of Medicine's PubMed database was systematically searched (to July 2015) for articles pertaining to the topic of shiitake dermatitis. The search terms used were \"shiitake\" with \"dermatitis\" and \"toxicoderma\". Search results were cross-checked with the Web of Science database using the same search terms."
+        ],
+        "negative_ctxs": [
+            4,
+            16
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The search terms used were \"shiitake\" with \"dermatitis\" and \"toxicoderma"
+        ],
+        "negative_ctxs": [
+            6,
+            16
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "The search terms used were \"shiitake\" with \"dermatitis\" and \"toxicoderma\". Search results were cross-checked with the Web of Science database using the same search terms. Article titles and abstracts were screened, and the full texts of all possibly relevant articles were retrieved to allow their evaluation for\ninclusion and the extraction of data. Exclusion criteria\ndenied the inclusion of articles not written in English,\nconference abstracts, studies not performed in primary human\nsubjects, and studies with inadequate patient data. Articles\ndiscussing cases of allergic contact dermatitis in response to\nshiitake mushroom exposure were not included. Additionally,\ncases of systemic symptoms (i.e. asthma or gastrointestinal\ndistress) without dermatologic manifestations were not\nincluded."
+        ],
+        "negative_ctxs": [
+            11,
+            17
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Etiology\nAll included cases resulted after the oral consumption of shiitake mushroom in various forms, including raw (n = 26) and\nlightly or undercooked (including in soups and stir fries, n = 10).\nIn three cases, the subjects had not experienced any reactions\nto the consumption of shiitake mushrooms prior to the reported\nincident: one case had previously consumed roasted mushrooms,\nand another reported no reaction after consuming shiitake\nmushrooms as recently as 2 weeks previously.6,28 Two\ncases reported recurring symptoms before diagnosis (at 1 year\nand 16 years, respectively).7,9 One subject reported the daily\nconsumption of raw mushrooms for 2 weeks prior to onset.33\nNo reports investigated genetic predisposition or familial patterns\nof shiitake dermatitis (Table 2).\nDemographics\nThe mean patient age was 44.58 years (range: 25-86 years).\nIncidence was more common in males at a 3 : 1 ratio (38\nmales, 12 females). The highest number of cases was reported\nin France, as documented in a systematic retrospective study\non shiitake dermatitis (n = 15) carried out through the French\nPoison Control Centers.22 Other countries with high numbers of\ncases included the USA (n = 9), Germany (n = 8), and the UK\n(n = 6). Asian cases are likely to be under-represented because\nnon-English-language articles were excluded from this review\n(Table 1).\nClinical presentation\nThe classically associated linear flagellate dermatitis was present\nin 98% of cases. The majority of lesions were described as\npapular or urticarial (80%), with 78% of cases having associated\npruritus. Additional signs included associated petechiae (14%)\nor purpura (2%), plaques (6%), burning sensation (2%), blanching\n(2%), and pustules (2%). Interestingly, one case (2%) was\ndescribed as morbilliform in presentation. Systemic signs and\nsymptoms were less common and included fever (6%), diarrhea\n(4%), paresthesia of the hands (2%), urticarial dermographism\n(2%), mouth ulcer/mucosal involvement (4%), dysphagia (2%),\nand conjunctivitis (2%).\nNearly all cases involved the trunk, and the majority of\npatients had upper and/or lower limb involvement (70% and\n66%, respectively). Involvement of the face and neck was less\ncommon (22% and 12%, respectively), and only two or three\ncases involved the hands and feet. The average time to onset\nof symptoms was 42.4 h (range: 2-120 h) after the consumption\nof shiitake mushrooms (Table 2)."
+        ],
+        "negative_ctxs": [
+            3,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Treatment\nIn general, shiitake dermatitis was self-limiting, and treatment\nwas focused on symptomatic management. A total of 31\npatients were prescribed corticosteroids (topical, n = 14; systemic,\nn = 8; not all studies specified which), and 21 patients\nreceived antihistamines. Of those receiving treatment, 13 cases\nwere reported to have no relief of symptoms, and one patient\nreported worsening of symptoms.17 Twelve patients received no\ntreatment. Other treatment approaches included polidocanol\nand psoralen ultraviolet A (PUVA) therapy. One patient\nattempted treatment with valacyclovir without relief, prior to a\ndiagnosis being established. Treatment modality was not\nreported in two cases. All cases resulted in complete resolution\n(two cases did not report outcomes or were lost from follow-up)\nwithin an average of 10.74 d (range: 2-35 d; adequate data in\n37 cases). The average time to resolution in cases not receiving\ntreatment was 12.5 d (range: 7-28 d; n = 8). In subjects receiving\nsteroid monotherapy, the average time to resolution was\n11.2 d (range: 2-35 d; n = 19) in patients receiving topical formulations\nand 9.3 d (range: 7-14 d; n = 4) in those receiving\nsystemic steroids. The mean time to resolution in subjects\nreceiving antihistamine and steroid combination therapy was\n10.4 d (range: 2-21 d; n = 17). No cases reported antihistamine\nmonotherapy."
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Twenty-nine articles were included, comprising\na total of 50 cases of patients with shiitake dermatitis.4,6-33 Articles\nconsisted of case reports (24 patients) and case series (26\npatients)\n\nA total of 31\npatients were prescribed corticosteroids (topical, n = 14; systemic,\nn = 8; not all studies specified which), and 21 patients\nreceived antihistamines."
+        ],
+        "negative_ctxs": [
+            11,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Articles\r\nconsisted of case reports (24 patients) and case series (26\r\npatients). A summary of the study characteristics and patient\r\npopulation pooled for this review is described in Table 1."
+        ],
+        "negative_ctxs": [
+            14,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Etiology\nAll included cases resulted after the oral consumption of shiitake\nmushroom in various forms, including raw (n = 26) and\nlightly or undercooked (including in soups and stir fries, n = 10).\nIn three cases, the subjects had not experienced any reactions\nto the consumption of shiitake mushrooms prior to the reported\nincident: one case had previously consumed roasted mushrooms,\nand another reported no reaction after consuming shiitake\nmushrooms as recently as 2 weeks previously.6,28 Two\ncases reported recurring symptoms before diagnosis (at 1 year\nand 16 years, respectively).7,9 One subject reported the daily\nconsumption of raw mushrooms for 2 weeks prior to onset.33\nNo reports investigated genetic predisposition or familial patterns\nof shiitake dermatitis (Table 2).\nDemographics\nThe mean patient age was 44.58 years (range: 25-86 years).\nIncidence was more common in males at a 3 : 1 ratio (38\nmales, 12 females). The highest number of cases was reported\nin France, as documented in a systematic retrospective study\non shiitake dermatitis (n = 15) carried out through the French\nPoison Control Centers.22 Other countries with high numbers of\ncases included the USA (n = 9), Germany (n = 8), and the UK\n(n = 6). Asian cases are likely to be under-represented because\nnon-English-language articles were excluded from this review\n(Table 1).\nClinical presentation\nThe classically associated linear flagellate dermatitis was present\nin 98% of cases. The majority of lesions were described as\npapular or urticarial (80%), with 78% of cases having associated\npruritus. Additional signs included associated petechiae (14%)\nor purpura (2%), plaques (6%), burning sensation (2%), blanching\n(2%), and pustules (2%). Interestingly, one case (2%) was\ndescribed as morbilliform in presentation. Systemic signs and\r\nsymptoms were less common and included fever (6%), diarrhea\r\n(4%), paresthesia of the hands (2%), urticarial dermographism\r\n(2%), mouth ulcer/mucosal involvement (4%), dysphagia (2%),\r\nand conjunctivitis (2%).\r\nNearly all cases involved the trunk, and the majority of\r\npatients had upper and/or lower limb involvement (70% and\r\n66%, respectively). Involvement of the face and neck was less\r\ncommon (22% and 12%, respectively), and only two or three\r\ncases involved the hands and feet. The average time to onset\r\nof symptoms was 42.4 h (range: 2-120 h) after the consumption\r\nof shiitake mushrooms (Table 2)."
+        ],
+        "negative_ctxs": [
+            6,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Based on the case reports included, it appears that\nthe average time to clearance is shorter in patients treated with\nsystemic steroids (9.3 d; range: 7-14 d) compared with patients\nwho receive no treatment (12.5 d; range: 7-28 d). However, this\nhas not been substantiated by controlled trials, and these\nreports are not sufficiently powered to warrant the recommendation of systemic steroids in all patients with shiitake dermatitis.\n\n"
+        ],
+        "negative_ctxs": [
+            4,
+            11
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Herein, we seek to consolidate current understandings of the disease.\n\nEtiology\nAll included cases resulted after the oral consumption of shiitake\nmushroom in various forms, including raw (n = 26) and\nlightly or undercooked (including in soups and stir fries, n = 10).\nIn three cases, the subjects had not experienced any reactions\nto the consumption of shiitake mushrooms prior to the reported\nincident: one case had previously consumed roasted mushrooms,\nand another reported no reaction after consuming shiitake\nmushrooms as recently as 2 weeks previously.6,28 Two\ncases reported recurring symptoms before diagnosis (at 1 year\nand 16 years, respectively).7,9 One subject reported the daily\nconsumption of raw mushrooms for 2 weeks prior to onset.33\nNo reports investigated genetic predisposition or familial patterns\nof shiitake dermatitis (Table 2).\nDemographics\nThe mean patient age was 44.58 years (range: 25-86 years).\nIncidence was more common in males at a 3 : 1 ratio (38\nmales, 12 females). The highest number of cases was reported\nin France, as documented in a systematic retrospective study\non shiitake dermatitis (n = 15) carried out through the French\nPoison Control Centers.22 Other countries with high numbers of\ncases included the USA (n = 9), Germany (n = 8), and the UK\n(n = 6). Asian cases are likely to be under-represented because\nnon-English-language articles were excluded from this review\n(Table 1).\nClinical presentation\nThe classically associated linear flagellate dermatitis was present\nin 98% of cases. The majority of lesions were described as\npapular or urticarial (80%), with 78% of cases having associated\npruritus. Additional signs included associated petechiae (14%)\nor purpura (2%), plaques (6%), burning sensation (2%), blanching\n(2%), and pustules (2%). Interestingly, one case (2%) was\nFigure 1 A systematic search of PubMed and Web of Science\nreturned 97 articles. After screening of titles and abstracts and a full\ntext review, a total of 29 articles were included in this review described as morbilliform in presentation. Systemic signs and\nsymptoms were less common and included fever (6%), diarrhea\n(4%), paresthesia of the hands (2%), urticarial dermographism\n(2%), mouth ulcer/mucosal involvement (4%), dysphagia (2%),\nand conjunctivitis (2%).\nNearly all cases involved the trunk, and the majority of\npatients had upper and/or lower limb involvement (70% and\n66%, respectively). Involvement of the face and neck was less\ncommon (22% and 12%, respectively), and only two or three\ncases involved the hands and feet. The average time to onset\nof symptoms was 42.4 h (range: 2-120 h) after the consumption\nof shiitake mushrooms (Table 2)."
+        ],
+        "negative_ctxs": [
+            7,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Exclusion criteria denied the inclusion of articles not written in English, conference abstracts, studies not performed in primary human subjects, and studies with inadequate patient data. Articles discussing cases of allergic contact dermatitis in response to shiitake mushroom exposure were not included. Additionally,\ncases of systemic symptoms (i.e. asthma or gastrointestinal distress) without dermatologic manifestations were not included."
+        ],
+        "negative_ctxs": [
+            12,
+            18
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The National Library of Medicine's PubMed database was systematically searched (to July 2015) for articles pertaining to the topic of shiitake dermatitis. The search terms used were \"shiitake\" with \"dermatitis\" and \"toxicoderma\". Search results were cross-checked with the Web of Science database using the same search terms."
+        ],
+        "negative_ctxs": [
+            16,
+            19
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Etiology\nAll included cases resulted after the oral consumption of shiitake mushroom in various forms, including raw (n = 26) and\nlightly or undercooked (including in soups and stir fries, n = 10).\nIn three cases, the subjects had not experienced any reactions\nto the consumption of shiitake mushrooms prior to the reported\nincident: one case had previously consumed roasted mushrooms,\nand another reported no reaction after consuming shiitake\nmushrooms as recently as 2 weeks previously.6,28 Two\ncases reported recurring symptoms before diagnosis (at 1 year\nand 16 years, respectively).7,9 One subject reported the daily\nconsumption of raw mushrooms for 2 weeks prior to onset.33\nNo reports investigated genetic predisposition or familial patterns\nof shiitake dermatitis (Table 2).\nDemographics\nThe mean patient age was 44.58 years (range: 25-86 years).\nIncidence was more common in males at a 3 : 1 ratio (38\nmales, 12 females). The highest number of cases was reported\nin France, as documented in a systematic retrospective study\non shiitake dermatitis (n = 15) carried out through the French\nPoison Control Centers.22 Other countries with high numbers of\ncases included the USA (n = 9), Germany (n = 8), and the UK\n(n = 6). Asian cases are likely to be under-represented because\nnon-English-language articles were excluded from this review\n(Table 1).\nClinical presentation\nThe classically associated linear flagellate dermatitis was present\nin 98% of cases. The majority of lesions were described as\npapular or urticarial (80%), with 78% of cases having associated\npruritus. Additional signs included associated petechiae (14%)\nor purpura (2%), plaques (6%), burning sensation (2%), blanching\n(2%), and pustules (2%). Interestingly, one case (2%) was\ndescribed as morbilliform in presentation. Systemic signs and\nsymptoms were less common and included fever (6%), diarrhea\n(4%), paresthesia of the hands (2%), urticarial dermographism\n(2%), mouth ulcer/mucosal involvement (4%), dysphagia (2%),\nand conjunctivitis (2%).\nNearly all cases involved the trunk, and the majority of\npatients had upper and/or lower limb involvement (70% and\n66%, respectively). Involvement of the face and neck was less\ncommon (22% and 12%, respectively), and only two or three\ncases involved the hands and feet. The average time to onset\nof symptoms was 42.4 h (range: 2-120 h) after the consumption\nof shiitake mushrooms (Table 2)."
+        ],
+        "negative_ctxs": [
+            4,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Articles\r\nconsisted of case reports (24 patients) and case series (26\r\npatients). A summary of the study characteristics and patient\r\npopulation pooled for this review is described in Table 1."
+        ],
+        "negative_ctxs": [
+            13,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Etiology\nAll included cases resulted after the oral consumption of shiitake\nmushroom in various forms, including raw (n = 26) and\nlightly or undercooked (including in soups and stir fries, n = 10).\nIn three cases, the subjects had not experienced any reactions\nto the consumption of shiitake mushrooms prior to the reported\nincident: one case had previously consumed roasted mushrooms,\nand another reported no reaction after consuming shiitake\nmushrooms as recently as 2 weeks previously.6,28 Two\ncases reported recurring symptoms before diagnosis (at 1 year\nand 16 years, respectively).7,9 One subject reported the daily\nconsumption of raw mushrooms for 2 weeks prior to onset.33\nNo reports investigated genetic predisposition or familial patterns\nof shiitake dermatitis (Table 2).\nDemographics\nThe mean patient age was 44.58 years (range: 25-86 years).\nIncidence was more common in males at a 3 : 1 ratio (38\nmales, 12 females). The highest number of cases was reported\nin France, as documented in a systematic retrospective study\non shiitake dermatitis (n = 15) carried out through the French\nPoison Control Centers.22 Other countries with high numbers of\ncases included the USA (n = 9), Germany (n = 8), and the UK\n(n = 6). Asian cases are likely to be under-represented because\nnon-English-language articles were excluded from this review\n(Table 1).\nClinical presentation\nThe classically associated linear flagellate dermatitis was present\nin 98% of cases. The majority of lesions were described as\npapular or urticarial (80%), with 78% of cases having associated\npruritus. Additional signs included associated petechiae (14%)\nor purpura (2%), plaques (6%), burning sensation (2%), blanching\n(2%), and pustules (2%). Interestingly, one case (2%) was\ndescribed as morbilliform in presentation. Systemic signs and\r\nsymptoms were less common and included fever (6%), diarrhea\r\n(4%), paresthesia of the hands (2%), urticarial dermographism\r\n(2%), mouth ulcer/mucosal involvement (4%), dysphagia (2%),\r\nand conjunctivitis (2%).\r\nNearly all cases involved the trunk, and the majority of\r\npatients had upper and/or lower limb involvement (70% and\r\n66%, respectively). Involvement of the face and neck was less\r\ncommon (22% and 12%, respectively), and only two or three\r\ncases involved the hands and feet. The average time to onset\r\nof symptoms was 42.4 h (range: 2-120 h) after the consumption\r\nof shiitake mushrooms (Table 2)."
+        ],
+        "negative_ctxs": [
+            8,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding: None.\nConflicts of interest: None"
+        ],
+        "negative_ctxs": [
+            3,
+            16
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Based on the case reports included, it appears that\nthe average time to clearance is shorter in patients treated with\nsystemic steroids (9.3 d; range: 7-14 d) compared with patients\nwho receive no treatment (12.5 d; range: 7-28 d). However, this\nhas not been substantiated by controlled trials, and these\nreports are not sufficiently powered to warrant the recommendation of systemic steroids in all patients with shiitake dermatitis.\n\n"
+        ],
+        "negative_ctxs": [
+            19,
+            5
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    }
+]

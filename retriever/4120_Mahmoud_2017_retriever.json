@@ -1,0 +1,490 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We included both clinical trials and observational studies of pediatric patients (aged <18 years) with SLE treated with RTX, published in full text or abstract. There was no language restriction. A minimum sample size of 5 patients was required for inclusion. Studies including both children and adults were excluded if the data for children could not be extracted separately."
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We included both clinical trials and observational studies of pediatric patients (aged <18 years) with SLE treated with RTX, published in full text or abstract. There was no language restriction. A minimum sample size of 5 patients was required for inclusion. Studies including both children and adults were excluded if the data for children could not be extracted separately."
+        ],
+        "negative_ctxs": [
+            17,
+            19
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "A minimum sample size of 5 patients was required for inclusion. Studies including both children and adults were excluded if the data for children could not be extracted separately.\n\n"
+        ],
+        "negative_ctxs": [
+            3,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The search strategy was performed in the digital databases of MEDLINE, Scopus, Web of Knowledge, and the Cochrane Library. We also searched the electronic databases of the American Society of Rheumatology, the European League Against Rheumatic Disease, and the French Society of Rheumatology."
+        ],
+        "negative_ctxs": [
+            14,
+            4
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The search strategy was performed in the digital databases of MEDLINE, Scopus, Web of Knowledge, and the Cochrane Library. We also searched the electronic databases of the American Society of Rheumatology, the European League Against Rheumatic Disease, and the French Society of Rheumatology."
+        ],
+        "negative_ctxs": [
+            7,
+            3
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Keywords included terms and synonyms for RTX, lupus, and child."
+        ],
+        "negative_ctxs": [
+            15,
+            24
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two investigators reviewed titles and abstracts and then selected potential manuscripts for retrieval. "
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two investigators reviewed titles and abstracts and then selected potential manuscripts for retrieval. The same investigators collected the data from the potential studies by applying the aforementioned selection criteria."
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table III. Characteristics of Studies"
+        ],
+        "negative_ctxs": [
+            8,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Six of the 12 studies assessed disease activity using the SLE Disease Activity Index and described statistically significant improvement at 1, 3, 6, and 12 months (Table IV). Two of the studies evaluated disease activity through the British Isles Lupus Activity Group score. Podolskaya et al reported a significant difference between scores from baseline to 1, 3, 6, and 12 months. Watson et al found no significant decrease in disease activity.\n\nRTX seemed to be effective in term of steroid-sparing effect. Overall, 7 of the 12 case series9,10,12,13,15,17,18 reported a significant decrease in corticosteroid doses in the short to long term (1-12 months). Willems et al20 reported that steroid therapy was maintained at low dosage (0.2 mg/kg/day) in 1 of their 11 patients and was tapered at 25%-50% of the baseline dosage in 5 patients."
+        ],
+        "negative_ctxs": [
+            13,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "We used an 18-criteria checklist developed by a panel of 7 Health Technology Assessment researchers using a modified Delphi method to perform a quality assessment on case series studies"
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two investigators (I.M. and M.J.) rated each study working independently; any disagreements\r\nwere resolved by consensus."
+        ],
+        "negative_ctxs": [
+            22,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Table III. Characterisitics of Studies"
+        ],
+        "negative_ctxs": [
+            4,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Given the differences in study design, interventions, and reported outcome measures, a meta-analysis was deemed inappropriate, and we focused on describing the studies in evidence tables with their results and a qualitative synthesis."
+        ],
+        "negative_ctxs": [
+            13,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Given the differences in study design, interventions, and reported outcome measures, a meta-analysis was deemed inappropriate, and we focused on describing the studies in evidence tables with their results and a qualitative synthesis."
+        ],
+        "negative_ctxs": [
+            8,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Given the differences in study design, interventions, and reported outcome measures, a meta-analysis was deemed inappropriate, and we focused on describing the studies in evidence tables with their results and a qualitative synthesis."
+        ],
+        "negative_ctxs": [
+            15,
+            16
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Twelve case series met the criteria for data extraction for the systematic review with a good quality assessment according to an 18-criteria checklist using a modified Delphi method. "
+        ],
+        "negative_ctxs": [
+            11,
+            18
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "We included both clinical trials and observational studies of pediatric patients (aged <18 years) with SLE treated with RTX, published in full text or abstract. There was no language restriction. A minimum sample size of 5 patients was required for inclusion. Studies including both children and adults were excluded if the data for children could not be extracted separately.\n\nTable I. Main response definitions and outcomes in the different studies"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            5,
+            19
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We included both clinical trials and observational studies of pediatric patients (aged <18 years) with SLE treated with RTX, published in full text or abstract. There was no language restriction. A minimum sample size of 5 patients was required for inclusion. Studies including both children and adults were excluded if the data for children could not be extracted separately."
+        ],
+        "negative_ctxs": [
+            22,
+            1
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The search strategy was performed in the digital databases of MEDLINE, Scopus, Web of Knowledge, and the Cochrane Library. We also searched the electronic databases of the American Society of Rheumatology, the European League Against Rheumatic Disease, and the French Society of Rheumatology."
+        ],
+        "negative_ctxs": [
+            17,
+            22
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two investigators reviewed titles and abstracts and then selected potential manuscripts for retrieval. "
+        ],
+        "negative_ctxs": [
+            5,
+            21
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two investigators reviewed titles and abstracts and then selected potential manuscripts for retrieval. The same investigators collected the data from the potential studies by applying the aforementioned selection criteria."
+        ],
+        "negative_ctxs": [
+            17,
+            22
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table III. Characteristics of Studies"
+        ],
+        "negative_ctxs": [
+            22,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "We used an 18-criteria checklist developed by a panel of 7 Health Technology Assessment researchers using a modified Delphi method to perform a quality assessment on case series studies"
+        ],
+        "negative_ctxs": [
+            4,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Given the differences in study design, interventions, and reported outcome measures, a meta-analysis was deemed inappropriate, and we focused on describing the studies in evidence tables with their results and a qualitative synthesis."
+        ],
+        "negative_ctxs": [
+            22,
+            16
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Given the differences in study design, interventions, and reported outcome measures, a meta-analysis was deemed inappropriate, and we focused on describing the studies in evidence tables with their results and a qualitative synthesis."
+        ],
+        "negative_ctxs": [
+            24,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Given the differences in study design, interventions, and reported outcome measures, a meta-analysis was deemed inappropriate, and we focused on describing the studies in evidence tables with their results and a qualitative synthesis."
+        ],
+        "negative_ctxs": [
+            13,
+            16
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Twelve case series met the criteria for data extraction for the systematic review with a good quality assessment according to an 18-criteria checklist using a modified Delphi method. "
+        ],
+        "negative_ctxs": [
+            17,
+            21
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The authors declare no conflicts of interest."
+        ],
+        "negative_ctxs": [
+            18,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            3
+        ],
+        "positive_ctxs": []
+    }
+]

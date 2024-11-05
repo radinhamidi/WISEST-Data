@@ -1,0 +1,472 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Therefore, we conducted the present meta-analysis to  systematically  review  all  the  published  articles  on  this issue and to obtain a relatively reliable result\n\nThe articles that met the following criteria were included in the study: 1) case-control studies evaluating the relationship between XRCC1 polymorphisms and NMSC susceptibility, 2) studies in which NMSC was confirmed in patients by experienced pathologists, and controls were age-matched unrelated participants without any type of cancer, 3) studies in which the results were expressed as odds ratio (OR) with corresponding 95% confidence interval (CI), and 4) studies in which the genotype distribution of controls for a certain polymorphism was in Hardy-Weinberg Equilibrium (HWE)."
+        ],
+        "negative_ctxs": [
+            12,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The articles that met the following criteria were included in the study: 1) case-control studies evaluating the relationship between XRCC1 polymorphisms and NMSC susceptibility, 2) studies in which NMSC was confirmed in patients by experienced pathologists, and controls were age-matched unrelated participants without any type of cancer, 3) studies in which the results were expressed as odds ratio (OR) with corresponding 95% confidence interval (CI), and 4) studies in which the genotype distribution of controls for a certain polymorphism was in Hardy-Weinberg Equilibrium (HWE)."
+        ],
+        "negative_ctxs": [
+            17,
+            22
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "The  articles  that  met  the  following  criteria  were  included in  the  study:  1)  case-control  studies  evaluating  the  rela-tionship  between  XRCC1  polymorphisms  and  NMSC susceptibility, 2) studies in which NMSC was confirmed in patients by experienced pathologists, and controls were age-matched unrelated participants without any type of cancer, 3) studies in which the results were expressed as odds ratio (OR) with corresponding 95% confidence interval (CI)\n\nStudies whose data could not be extracted, those with duplicated data, and reviews or conference papers were excluded."
+        ],
+        "negative_ctxs": [
+            15,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            " to  retrieve  relevant  articles published between January 2000 and November 2016. \n\nOur study included articles written only in the English language. If the same authors had published more than one article on the same subject among the same participants, then only the most complete study was included in this meta-analysis.\n\n"
+        ],
+        "negative_ctxs": [
+            14,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched the online databases of PubMed, Medline, Web of Science, and Embase to retrieve relevant articles"
+        ],
+        "negative_ctxs": [
+            17,
+            21
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We manually checked the references of retrieved articles to obtain more sources."
+        ],
+        "negative_ctxs": [
+            9,
+            4
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The Medical Subject Heading (MeSH) terms were \"skin cancer or non-melanoma skin cancer\", \"basal-cell skin cancer or squamous-cell skin cancer\", \"DNA repair gene or X-ray repair cross-complementing group 1 or XRCC1\", and \"polymorphism or single nucleotide polymorphism or variant\"."
+        ],
+        "negative_ctxs": [
+            3,
+            20
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "According to the Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement,25 two authors independently estimated the quality of extracted articles. Any disagreement was resolved by discussing with the third author. Each item reached a final consensus."
+        ],
+        "negative_ctxs": [
+            13,
+            14
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The 10 articles included were conducted  in  10  different  countries:  UK,29  Denmark,30,31USA,32  Sweden/Finland,33  Sweden,34  Korea,35  Japan,36Germany,37  and  Taiwan  (China).38  Three  were  conducted in  Asian  populations  and  seven  in  Caucasian  populations. The sample size ranged from 40 to 1,176. The genotypes of XRCC1 polymorphisms were determined using three meth-ods. The genotype distributions of the controls of all studies were in agreement with HWE (P.0.05). The main character-istics of the studies included are presented in Table 1\n\nTable 1 The detailed characteristics of all studies included in this meta-analysis"
+        ],
+        "negative_ctxs": [
+            19,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Figure 2 Forest plot of the association between Xrcc1 arg399gln polymorphism and non-melanoma skin cancer risk under allelic model\n\nFigure 3 Forest plot obtained by subgroup analysis based on ethnicity showing the association between Xrcc1 arg399gln polymorphism and non-melanoma skin cancer risk under heterogeneous model in asian populations."
+        ],
+        "negative_ctxs": [
+            15,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "According to the Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement, two authors independently estimated the quality of extracted articles."
+        ],
+        "negative_ctxs": [
+            11,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "According to the Reporting Items for Systematic Reviews and  Meta-Analyses  (PRISMA)  statement,25  two  authors independently  estimated  the  quality  of  extracted  articles. Any  disagreement  was  resolved  by  discussing  with  the third  author.  Each  item  reached  a  final  consensus."
+        ],
+        "negative_ctxs": [
+            3,
+            12
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Studies  whose  data  could  not  be  extracted,  those with  duplicated  data,  and  reviews  or  conference  papers were excluded.\n\nWe firstly identified 106 relevant articles. After applying the inclusion and exclusion criteria, a total of 10 articles were finally selected, including 6,683 participants.\n\nOverall, 10 relevant studies wewre finally included for analysis.\n\nhe summary of the test for association and test for hetero-geneity of this meta-analysis is shown in Table 2. All these 10  articles  concerned  the  effect  of  XRCC1  Arg399Gln polymorphism  in  NMSC  risk,  including  3,050  cases  and 3,463 controls. "
+        ],
+        "negative_ctxs": [
+            14,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "For  each  genetic  variant,  allelic  model,  homogeneous model, heterogeneous model, domain model, and recessive model  were  calculated. Cochran's Q test and I2 test were employed to evaluate the heterogeneity of the included articles;27,28 random-effect model was used when the P-value of Cochran's Q test was <0.10 and I2 >50%; otherwise, the fixed-effect model was used. "
+        ],
+        "negative_ctxs": [
+            17,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Cochran's Q test and I2 test were employed to evaluate the heterogeneity of the included articles;27,28 random-effect model was used when the P-value of Cochran's Q test was <0.10 and I2 >50%; otherwise, the fixed-effect model was used. \n\nNo significant between-study heterogeneity was observed, and the fixed-effect model was employed. \n\nSubgroup analysis by ethnicities showed that only Gln/Arg  genotype  of  this  variant  was  significantly  correlated with  increased  risk  of  NMSC  under  the  heterogeneous model in Asian populations (Gln/Arg vs Arg/Arg: OR =1.39, 95%  CI =1.04-1.87, P=0.03)  as  shown  in  Figure  3.  This positive  relationship  was  not  found  in  other  genetic models.  Moreover,  no  significant  relationship  was  found between XRCC1 Arg399Gln variant and NMSC risk under any  genetic  models  in  Caucasian  populations  (P.0.05). Subgroup  analysis  by  NMSC  types  showed  that  XRCC1 Arg399Gln variant was not associated with NMSC risk in both BCC and SCC types."
+        ],
+        "negative_ctxs": [
+            16,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "We systematically omitted each single article one at a time to verify whether our results were influenced by each included study.  Our  results  showed  that  the  pooled  ORs  were  not significantly changed. The funnel plot was used to assess the publication bias of the literature. All genetic comparisons in our study showed no evidence of publication bias as shown in Figure 5, which indicates that there was no publication bias in the present meta-analysis."
+        ],
+        "negative_ctxs": [
+            5,
+            12
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "According to the Reporting Items for Systematic Reviews and  Meta-Analyses  (PRISMA)  statement,25  two  authors independently  estimated  the  quality  of  extracted  articles.\n\nThe number of included studies for a certain SNP such as Arg280His variants was small, which may result in possible bias related to the selection of individual study participants"
+        ],
+        "negative_ctxs": [
+            16,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Several limitations were presented in this meta-analysis. 1) The included studies were conducted only in Asian and Caucasian populations, and other ethnicities were not con- sidered. 2) The number of included studies for a certain SNP such as Arg280His variants was small, which may result in possible bias related to the selection of individual study participants. 3) Other risk factors such as age and gender should be analyzed. 4) The interaction of gene-gene and gene-environment should be included in future research because the combined effect of multiple SNPs in several genes of DNA repair pathways could have a large impact on pathological phenotypes."
+        ],
+        "negative_ctxs": [
+            3,
+            21
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The articles that met the following criteria were included in the study: 1) case-control studies evaluating the relationship between XRCC1 polymorphisms and NMSC susceptibility, 2) studies in which NMSC was confirmed in patients by experienced pathologists, and controls were age- matched unrelated participants without any type of cancer.\n\nThe 10 articles included were conducted  in  10  different  countries:  UK,29  Denmark,30,31USA,32  Sweden/Finland,33  Sweden,34  Korea,35  Japan,36Germany,37  and  Taiwan  (China).38  Three  were  conducted in  Asian  populations  and  seven  in  Caucasian  populations. The sample size ranged from 40 to 1,176. The genotypes of XRCC1 polymorphisms were determined using three meth-ods. The genotype distributions of the controls of all studies were in agreement with HWE (P.0.05). The main character-istics of the studies included are presented in Table 1.\n\nTable 1 The detailed characteristics of all studies included in this meta-analysis"
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            0,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The articles that met the following criteria were included in the study: 1) case-control studies evaluating the relationship between XRCC1 polymorphisms and NMSC susceptibility, 2) studies in which NMSC was confirmed in patients by experienced pathologists, and controls were age-matched unrelated participants without any type of cancer, 3) studies in which the results were expressed as odds ratio (OR) with corresponding 95% confidence interval (CI), and 4) studies in which the genotype distribution of controls for a certain polymorphism was in Hardy-Weinberg Equilibrium (HWE)."
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "The  articles  that  met  the  following  criteria  were  included in  the  study:  1)  case-control  studies  evaluating  the  rela-tionship  between  XRCC1  polymorphisms  and  NMSC susceptibility, 2) studies in which NMSC was confirmed in patients by experienced pathologists, and controls were age-matched unrelated participants without any type of cancer, 3) studies in which the results were expressed as odds ratio (OR) with corresponding 95% confidence interval (CI), and 4) studies in which the genotype distribution of controls for a certain polymorphism was in Hardy-Weinberg Equilibrium (HWE).  Studies  whose  data  could  not  be  extracted,  those with  duplicated  data,  and  reviews  or  conference  papers were excluded"
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched the online databases of PubMed, Medline, Web of Science, and Embase to retrieve relevant articles"
+        ],
+        "negative_ctxs": [
+            6,
+            20
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "According to the Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement,25 two authors independently estimated the quality of extracted articles. Any disagreement was resolved by discussing with the third author. Each item reached a final consensus."
+        ],
+        "negative_ctxs": [
+            15,
+            4
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The 10 articles included were conducted  in  10  different  countries:  UK,29  Denmark,30,31USA,32  Sweden/Finland,33  Sweden,34  Korea,35  Japan,36Germany,37  and  Taiwan  (China).38  Three  were  conducted in  Asian  populations  and  seven  in  Caucasian  populations. The sample size ranged from 40 to 1,176. The genotypes of XRCC1 polymorphisms were determined using three meth-ods. The genotype distributions of the controls of all studies were in agreement with HWE (P.0.05). The main character-istics of the studies included are presented in Table 1\n\nTable 1 The detailed characteristics of all studies included in this meta-analysis"
+        ],
+        "negative_ctxs": [
+            14,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "According to the Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement, two authors independently estimated the quality of extracted articles."
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "For  each  genetic  variant,  allelic  model,  homogeneous model, heterogeneous model, domain model, and recessive model  were  calculated. Cochran's Q test and I2 test were employed to evaluate the heterogeneity of the included articles;27,28 random-effect model was used when the P-value of Cochran's Q test was <0.10 and I2 >50%; otherwise, the fixed-effect model was used. "
+        ],
+        "negative_ctxs": [
+            0,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Cochran's Q test and I2 test were employed to evaluate the heterogeneity of the included articles;27,28 random-effect model was used when the P-value of Cochran's Q test was <0.10 and I2 >50%; otherwise, the fixed-effect model was used. \n\nNo significant between-study heterogeneity was observed, and the fixed-effect model was employed. \n\nSubgroup analysis by ethnicities showed that only Gln/Arg  genotype  of  this  variant  was  significantly  correlated with  increased  risk  of  NMSC  under  the  heterogeneous model in Asian populations (Gln/Arg vs Arg/Arg: OR =1.39, 95%  CI =1.04-1.87, P=0.03)  as  shown  in  Figure  3.  This positive  relationship  was  not  found  in  other  genetic models.  Moreover,  no  significant  relationship  was  found between XRCC1 Arg399Gln variant and NMSC risk under any  genetic  models  in  Caucasian  populations  (P.0.05). Subgroup  analysis  by  NMSC  types  showed  that  XRCC1 Arg399Gln variant was not associated with NMSC risk in both BCC and SCC types."
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "We systematically omitted each single article one at a time to verify whether our results were influenced by each included study.  Our  results  showed  that  the  pooled  ORs  were  not significantly changed. The funnel plot was used to assess the publication bias of the literature. All genetic comparisons in our study showed no evidence of publication bias as shown in Figure 5, which indicates that there was no publication bias in the present meta-analysis."
+        ],
+        "negative_ctxs": [
+            11,
+            19
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "According to the Reporting Items for Systematic Reviews and  Meta-Analyses  (PRISMA)  statement,25  two  authors independently  estimated  the  quality  of  extracted  articles.\n\nThe number of included studies for a certain SNP such as Arg280His variants was small, which may result in possible bias related to the selection of individual study participants"
+        ],
+        "negative_ctxs": [
+            22,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The authors report no conflicts of interest in this work."
+        ],
+        "negative_ctxs": [
+            3,
+            10
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Several limitations were presented in this meta-analysis. 1) The included studies were conducted only in Asian and Caucasian populations, and other ethnicities were not con- sidered. 2) The number of included studies for a certain SNP such as Arg280His variants was small, which may result in possible bias related to the selection of individual study participants. 3) Other risk factors such as age and gender should be analyzed. 4) The interaction of gene-gene and gene-environment should be included in future research because the combined effect of multiple SNPs in several genes of DNA repair pathways could have a large impact on pathological phenotypes."
+        ],
+        "negative_ctxs": [
+            17,
+            21
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    }
+]

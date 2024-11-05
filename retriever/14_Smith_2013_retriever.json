@@ -1,0 +1,462 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            28,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The aim is to understand better the relationship between professional doctorate study and its research outcomes in the professional nursing context.\n\nQuestion: What do professional doctorates contribute to nursing practice?\n\nInclusion - Discussion of professional doctorate contribution for practising nurses and/or nursing practice. * Discussion of nursing outcomes from professional doctorate study relevant to the clinical nursing context. * Discussion of personal/professional development outcomes for nurse professionals practising in the clinical milieu."
+        ],
+        "negative_ctxs": [
+            4,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Inclusion - Discussion of professional doctorate contribution for practising nurses and/or nursing practice. * Discussion of nursing outcomes from professional doctorate study relevant to the clinical nursing context. * Discussion of personal/professional development outcomes for nurse professionals practising in the clinical milieu."
+        ],
+        "negative_ctxs": [
+            29,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "The literature was initially searched between 2005 and August 2011 inclusive. A second search using Proquest took place in May 2012. The year 2005 was chosen to coincide with publication of a UKCGE study analysing the growth in professional doctorate programmes by title and subject (Powell & Long 2005).\n\nExclusion * Editorials, letters, book reviews, or opinion papers exploring philosophies, epistemologies or characteristics, scope or definition of professional doctorates. * Papers in press. * Theoretical or conceptual discussion of programme characteristics, scope and purpose. * Discussion of allied health professionals, social work or social care, or other professions not related to health care."
+        ],
+        "negative_ctxs": [
+            13,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Inclusion - English language paper/professional doctorate thesis and full text electronically available.\n\nExclusion * Editorials, letters, book reviews, or opinion papers exploring philosophies, epistemologies or characteristics, scope or definition of professional doctorates. * Papers in press."
+        ],
+        "negative_ctxs": [
+            8,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Five databases were searched for papers\n\nTable 1 -Search strategy"
+        ],
+        "negative_ctxs": [
+            11,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The electronic search was combined with scanning and hand searching of included publications."
+        ],
+        "negative_ctxs": [
+            25,
+            28
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The notion of sampling to develop conceptual ideas as opposed to the inclusion and summation of all data was invaluable (Dixon-Woods et al. 2006)."
+        ],
+        "negative_ctxs": [
+            19,
+            27
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Inclusion - English language paper/professional doctorate thesis and full text electronically available.\n\nExclusion * Editorials, letters, book reviews, or opinion papers exploring philosophies, epistemologies or characteristics, scope or definition of professional doctorates. * Papers in press.\n\nThe literature was initially searched between 2005 and August 2011 inclusive   The year 2005 was chosen to coincide with publication of a UKCGE study analysing the growth in professional doctorate programmes by title and subject (Powell & Long 2005)."
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Filtering and paper selection - Following Brettle et al. (2010) the relevant papers were identified; first reviewing paper titles and abstracts, followed by detailed assessment of the paper s content using the inclusion and exclusion criteria. During this process supervision was given by an experienced health information specialist to reduce selection bias as far as possible."
+        ],
+        "negative_ctxs": [
+            5,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "It was thought a descriptive approach would enable an initial perspective on professional doctorates and nursing contribution, while enabling identification of themes for future discussion and development. The principles of descriptive synthesis Lloyd-Jones (2007) were employed. Published studies were described using narrative and summary, generally without interpreting the findings.\n\nThe professional doctorate's contribution to nursing practice within each paper was explicated (Table 3).\n\nTable 2 - Synthesis table\n\nTable 3 - Summary of findings"
+        ],
+        "negative_ctxs": [
+            24,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The works retained were not subjected to further appraisal of quality. On the one hand Dixon-Woods et al. (2006) argue that appraisal is integral to systematic review of randomized controlled trials. They also suggest, however, that there is no equivalent hierarchy of study design within qualitative approaches and there is little consensus or agreement regarding the actual or potential benefits of appraisal."
+        ],
+        "negative_ctxs": [
+            2,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Five research papers and three nursing professional doctorate theses were retained. A synthesis table was developed using an approach adapted from Ball et al. (2011) (Table 2).\n\nTable 2 - Synthesis table"
+        ],
+        "negative_ctxs": [
+            27,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "It was thought a descriptive approach would enable an initial perspective on professional doctorates and nursing contribution, while enabling identification of themes for future discussion and development. The principles of descriptive synthesis Lloyd-Jones (2007) were employed. Published studies were described using narrative and summary, generally without interpreting the findings."
+        ],
+        "negative_ctxs": [
+            16,
+            30
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The principles of descriptive synthesis Lloyd-Jones (2007) were employed. Published studies were described using narrative and summary, generally without interpreting the findings."
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            33,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "For the purpose of this paper there was a need to clarify the decision-making process while enabling the filtering and management of large amounts of published material regarding professional doctorates. The notion of sampling to develop conceptual ideas as opposed to the inclusion and summation of all data was invaluable."
+        ],
+        "negative_ctxs": [
+            26,
+            31
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The aim is to understand better the relationship between professional doctorate study and its research outcomes in the professional nursing context.\n\nQuestion: What do professional doctorates contribute to nursing practice?\n\nInclusion - Discussion of professional doctorate contribution for practising nurses and/or nursing practice. * Discussion of nursing outcomes from professional doctorate study relevant to the clinical nursing context. * Discussion of personal/professional development outcomes for nurse professionals practising in the clinical milieu."
+        ],
+        "negative_ctxs": [
+            30,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            29,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Inclusion - Discussion of professional doctorate contribution for practising nurses and/or nursing practice. * Discussion of nursing outcomes from professional doctorate study relevant to the clinical nursing context. * Discussion of personal/professional development outcomes for nurse professionals practising in the clinical milieu."
+        ],
+        "negative_ctxs": [
+            26,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Exclusion * Editorials, letters, book reviews, or opinion papers exploring philosophies, epistemologies or characteristics, scope or definition of professional doctorates. * Papers in press. * Theoretical or conceptual discussion of programme characteristics, scope and purpose."
+        ],
+        "negative_ctxs": [
+            28,
+            8
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Five databases were searched for papers\n\nTable 1 -Search strategy"
+        ],
+        "negative_ctxs": [
+            7,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Filtering and paper selection - Following Brettle et al. (2010) the relevant papers were identified; first reviewing paper titles and abstracts, followed by detailed assessment of the paper s content using the inclusion and exclusion criteria. During this process supervision was given by an experienced health information specialist to reduce selection bias as far as possible."
+        ],
+        "negative_ctxs": [
+            31,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The works retained were not subjected to further appraisal of quality. On the one hand Dixon-Woods et al. (2006) argue that appraisal is integral to systematic review of randomized controlled trials. They also suggest, however, that there is no equivalent hierarchy of study design within qualitative approaches and there is little consensus or agreement regarding the actual or potential benefits of appraisal."
+        ],
+        "negative_ctxs": [
+            22,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "It was thought a descriptive approach would enable an initial perspective on professional doctorates and nursing contribution, while enabling identification of themes for future discussion and development. The principles of descriptive synthesis Lloyd-Jones (2007) were employed. Published studies were described using narrative and summary, generally without interpreting the findings."
+        ],
+        "negative_ctxs": [
+            29,
+            20
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The principles of descriptive synthesis Lloyd-Jones (2007) were employed. Published studies were described using narrative and summary, generally without interpreting the findings."
+        ],
+        "negative_ctxs": [
+            13,
+            20
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Source of funding - This work has not received any external funding from grant awarding bodies or other agencies. There is no conflict of interest."
+        ],
+        "negative_ctxs": [
+            9,
+            2
+        ],
+        "positive_ctxs": [
+            29
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "For the purpose of this paper there was a need to clarify the decision-making process while enabling the filtering and management of large amounts of published material regarding professional doctorates. The notion of sampling to develop conceptual ideas as opposed to the inclusion and summation of all data was invaluable."
+        ],
+        "negative_ctxs": [
+            1,
+            5
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    }
+]

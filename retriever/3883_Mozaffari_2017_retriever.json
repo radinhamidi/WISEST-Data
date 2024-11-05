@@ -1,0 +1,466 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "All studies were checked for evaluation of salivary and serum levels of TNF-a  in patients with OLP compared with healthy controls"
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "patients with OLP; (3) diagnosed OLP on the basis of clinical methods, histologic methods, or both according to the criteria set forth by the World Health Organization; (4) reported that the healthy controls did not have OLP and any other cutaneous dermatologic or systematic disease; and (5) reported that the patients with OLP had no other dermatologic or systematic disease.\n\nassessed TNF-a levels in the serum or saliva of patients"
+        ],
+        "negative_ctxs": [
+            13,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "English language publications from 1983 to November 24, 2016"
+        ],
+        "negative_ctxs": [
+            9,
+            10
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "English language publications from 1983 to November 24, 2016.\n\nFig. 1. The flow chart of study"
+        ],
+        "negative_ctxs": [
+            11,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "our search of databases including PubMed/Medline, Science direct, Scopus, Web of Science, and Cochrane Library"
+        ],
+        "negative_ctxs": [
+            11,
+            3
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We used the keywords \"oral lichen planus\" and \"OLP\" combined with \"TNF-a\" and \"tumor necrosis factor\" in our search of databases including PubMed/Medline, Science direct, Scopus, Web of Science, and Cochrane Library for English language publications from 1983 to November 24, 2016."
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Studies were included if they (1) were case-control studies reported in the English language literature;\n\nfrom 1983 to November 24, 2016."
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Study selection - Two reviewers (MS and HRM) independently assessed the studies to determine if they met the inclusion criteria, and where there was disagreement, a third reviewer (MR) resolved the disagreement."
+        ],
+        "negative_ctxs": [
+            12,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data extraction - The relevant data extracted from all the studies included the name of the author(s), year of publication"
+        ],
+        "negative_ctxs": [
+            4,
+            1
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table I. Characteristics of 12 studies included in meta-analysis\n\nFig. 2. Forest plot of random-effect of TNF-a levels of saliva and serum in OLP groups compared with healthy controls. OLP, oral lichen planus."
+        ],
+        "negative_ctxs": [
+            13,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table I. Characteristics of 12 studies included in meta-analysis\n\nFig. 2. Forest plot of random-effect of TNF-a levels of saliva and serum in OLP groups compared with healthy controls. OLP, oral lichen planus.\n\nIf the data were presented using the standard error (SE), then the following formula was used to calculate SD (mathematical formula)"
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Quality evaluation - Two reviewers (MS and MR) independently evaluated the quality of each included study using the Newcastle-Ottawa Quality Assessment Scale to determine the quality of selection of study participants, comparability, exposure, and outcome, with a maximum score of 9 points."
+        ],
+        "negative_ctxs": [
+            1,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two reviewers (MS and MR) independently evaluated the quality of each included study using the Newcastle-\r\nOttawa Quality Assessment Scale to determine the quality of selection of study participants, comparability,\r\nexposure, and outcome, with a maximum score of 9\r\n\r\npoints."
+        ],
+        "negative_ctxs": [
+            4,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Fig. 1. The flow chart of study.\n\nTable I. Characteristics of 12 studies included in meta-analysis"
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We also used Comprehensive Meta-Analysis software version 2.0 (CMA 2.0) with a random effects model of bias. The MD of the studies was calculated for to estimate of TNF-a levels in the serum or saliva of patients with OLP compared with that of healthy controls in the meta-analysis.\n\nThe results of pooled estimates of 7 studies reporting TNF-a levels in the saliva of patients with OLP compared with that of healthy controls were MD = 25.90pg/mL with 95% CI 15.31-36.49 and P < .00001. However, significant statistical heterogeneity was found across studies (I2 = 98%; P < .00001) (Figure 2). Results of the pooled estimates of all studies reporting TNF-a of serum in patients with OLP compared with that in healthy controls were MD =1.65 pg/mL with 95% CI  0.82 to 4.11 and P = .19."
+        ],
+        "negative_ctxs": [
+            0,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "However, significant statistical heterogeneity was found across studies (I2 = 98%; P < .00001) (Figure 2). \n\nComprehensive Meta-Analysis software version 2.0\r(CMA 2.0) with a random effects model of bias.\n\nsaliva and serum TNF-a levels can be affected by age, type of OLP, stress, alcohol consumption, smoking, and genetics. Because these factors cannot be easily matched in both patients with OLP and healthy controls, there is heterogeneity among the study populations of the studies used in this meta-analysis."
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Publication bias was assessed through funnel plot analysis with Begg's and Egger's tests based on difference in means.\n\nPublication bias - Figure 3 shows the symmetric funnel plot for all studies. Begg's and Egger's tests did not reveal a significant evidence of publication bias among the included studies (Begg's test: P = .273; Egger's test: P = .050)."
+        ],
+        "negative_ctxs": [
+            1,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Table II shows the quality score for each study included in the meta-analysis. There was agreement on the elements of the quality scores between the 2 examiners. The mean quality score of 2 reviewers of 12 studies was 6.25 (moderate quality). The study by Liu et al.20 had Chinese full text and could not be translated, and therefore, we used minimum total score (total score = 4). \n \nThe quality of studies was divided into 3 categories: (1) high quality (total score: 7-9); (2) moderate quality (total score: 4-6); and (3) low quality (total score: 0-3)."
+        ],
+        "negative_ctxs": [
+            3,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Therefore, saliva and serum TNF-a levels can be affected by age, type of OLP, stress, alcohol consumption, smoking, and genetics. Because these factors cannot be easily matched in both patients with OLP and healthy controls, there is heterogeneity among the study populations of the studies used in this meta-analysis. Limitations of this meta-analysis include variable timing of saliva collection, different kits and methods of TNF-a assays, variation in criteria for selection of healthy controls, varying type and severity of OLP across studies, lack of uniform matching of age and gender between patients with OLP and healthy controls,"
+        ],
+        "negative_ctxs": [
+            1,
+            4
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "All studies were checked for evaluation of salivary and serum levels of TNF-a in patients with OLP compared with healthy controls."
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "patients with OLP; (3) diagnosed OLP on the basis of clinical methods, histologic methods, or both according to the criteria set forth by the World Health Organization; (4) reported that the healthy controls did not have OLP and any other cutaneous dermatologic or systematic disease; and (5) reported that the patients with OLP had no other dermatologic or systematic disease.\n\nassessed TNF-a levels in the serum or saliva of patients"
+        ],
+        "negative_ctxs": [
+            2,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "our search of databases including PubMed/Medline, Science direct, Scopus, Web of Science, and Cochrane Library"
+        ],
+        "negative_ctxs": [
+            12,
+            2
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Study selection - Two reviewers (MS and HRM) independently assessed the studies to determine if they met the inclusion criteria, and where there was disagreement, a third reviewer (MR) resolved the disagreement."
+        ],
+        "negative_ctxs": [
+            12,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data extraction - The relevant data extracted from all the studies included the name of the author(s), year of publication"
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table I. Characteristics of 12 studies included in meta-analysis\n\nFig. 2. Forest plot of random-effect of TNF-a levels of saliva and serum in OLP groups compared with healthy controls. OLP, oral lichen planus."
+        ],
+        "negative_ctxs": [
+            0,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Quality evaluation - Two reviewers (MS and MR) independently evaluated the quality of each included study using the Newcastle-Ottawa Quality Assessment Scale to determine the quality of selection of study participants, comparability, exposure, and outcome, with a maximum score of 9 points."
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We also used Comprehensive Meta-Analysis software version 2.0 (CMA 2.0) with a random effects model of bias. The MD of the studies was calculated for to estimate of TNF-a levels in the serum or saliva of patients with OLP compared with that of healthy controls in the meta-analysis.\n\nThe results of pooled estimates of 7 studies reporting TNF-a levels in the saliva of patients with OLP compared with that of healthy controls were MD = 25.90pg/mL with 95% CI 15.31-36.49 and P < .00001. However, significant statistical heterogeneity was found across studies (I2 = 98%; P < .00001) (Figure 2). Results of the pooled estimates of all studies reporting TNF-a of serum in patients with OLP compared with that in healthy controls were MD =1.65 pg/mL with 95% CI  0.82 to 4.11 and P = .19."
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "However, significant statistical heterogeneity was found across studies (I2 = 98%; P < .00001) (Figure 2). \n\nComprehensive Meta-Analysis software version 2.0\r(CMA 2.0) with a random effects model of bias.\n\nsaliva and serum TNF-a levels can be affected by age, type of OLP, stress, alcohol consumption, smoking, and genetics. Because these factors cannot be easily matched in both patients with OLP and healthy controls, there is heterogeneity among the study populations of the studies used in this meta-analysis."
+        ],
+        "negative_ctxs": [
+            1,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Publication bias was assessed through funnel plot analysis with Begg's and Egger's tests based on difference in means.\n\nPublication bias - Figure 3 shows the symmetric funnel plot for all studies. Begg's and Egger's tests did not reveal a significant evidence of publication bias among the included studies (Begg's test: P = .273; Egger's test: P = .050)."
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Table II shows the quality score for each study included in the meta-analysis. There was agreement on the elements of the quality scores between the 2 examiners. The mean quality score of 2 reviewers of 12 studies was 6.25 (moderate quality). The study by Liu et al.20 had Chinese full text and could not be translated, and therefore, we used minimum total score (total score = 4). \n \nThe quality of studies was divided into 3 categories: (1) high quality (total score: 7-9); (2) moderate quality (total score: 4-6); and (3) low quality (total score: 0-3)."
+        ],
+        "negative_ctxs": [
+            6,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Therefore, saliva and serum TNF-a levels can be affected by age, type of OLP, stress, alcohol consumption, smoking, and genetics. Because these factors cannot be easily matched in both patients with OLP and healthy controls, there is heterogeneity among the study populations of the studies used in this meta-analysis. Limitations of this meta-analysis include variable timing of saliva collection, different kits and methods of TNF-a assays, variation in criteria for selection of healthy controls, varying type and severity of OLP across studies, lack of uniform matching of age and gender between patients with OLP and healthy controls,"
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "The review protocol was registered with PROSPERO (CRD42017054446).\n\nThe articles must have also fulfilled all of the following inclusion criteria: the article must be written in English; the study participants must be adults (>=18 years); the diagnosis of psoriasis must be documented; suicidality must be a primary or secondary end point, and it must be documented through use of a questionnaire/survey or patient medical records; and suicidality must be assessed in conjunction with psoriasis and numerically reported (numbers of patients affected, percent values, odds ratio [OR] or hazard ratio [HR]). Case reports, case series, review articles, letters, and commentaries were excluded.\n\nOf the 15 studies that examined suicidal ideation in patients with psoriasis, 12 reported a higher prevalence or rate in patients with psoriasis than in controls without psoriasis.\n\nThree out of the 15 studies examining suicidal ideation reported lower prevalence of suicidal ideation in patients with psoriasis versus in controls; however, the control groups consisted of patients with urticarial disease, severe acne, and major chronic illnesses such as pulmonary and liver disease.\n \nTypes of study to be included\nAs we are examining prevalence of suicidality in psoriasis patients and not change in suicidality over time, we will limit our search to non-interventional studies.\n\nParticipants/population\nAdult patients diagnosed with Psoriasis. \nExclusions: Adolescents or children (under the age of 18) or those not diagnosed with psoriasis.\n\nIn this study, we will examine whether psoriasis is a risk factor for suicidality. The components of suicidality we will consider are ideation, attempted, or completed. We will broadly define our exposure as psoriasis, without limiting to one particular subtype of psoriasis.\n\nIn this study, we aim to examine prevalence of suicidality in psoriasis patients and not change in suicidality over time; therefore, we will focus on non-interventional studies.\n\nComparator(s)/control\nFor comparison, we will examine study participants that do not have psoriasis. The \"non-psoriasis\" control subjects may be healthy without any skin condition or may have a skin condition other than psoriasis."
+        ],
+        "negative_ctxs": [
+            21,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "we aim to synthesize the available literature on the epidemiologic association between psoriasis and the various aspects of suicidality.\n\nThe articles must have also fulfilled all of the following inclusion criteria: the article must be written in English; the study participants must be adults (>=18 years); the diagnosis of psoriasis must be documented; suicidality must be a primary or secondary end point, and it must be documented through use of a questionnaire/survey or patient medical records; and suicidality must be assessed in conjunction with psoriasis and numerically reported"
+        ],
+        "negative_ctxs": [
+            19,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The articles must have also fulfilled all of the following inclusion criteria: the article must be written in English; the study participants must be adults (>=18 years); the diagnosis of psoriasis must be documented; suicidality must be a primary or secondary end point, and it must be documented through use of a questionnaire/survey or patient medical records; and suicidality must be assessed in conjunction with psoriasis and numerically reported"
+        ],
+        "negative_ctxs": [
+            17,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "The articles must have also fulfilled all of the following inclusion criteria: the article must be written in English; the study participants must be adults (>=18 years); the diagnosis of psoriasis must be documented; suicidality must be a primary or secondary end point, and it must be documented through use of a questionnaire/survey or patient medical records; and suicidality must be assessed in conjunction with psoriasis and numerically reported (numbers of patients affected, percent values, odds ratio [OR] or hazard ratio [HR])."
+        ],
+        "negative_ctxs": [
+            3,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "The articles must have also fulfilled all of the following inclusion criteria: the article must be written in English"
+        ],
+        "negative_ctxs": [
+            11,
+            22
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            " to perform a systematic review search using the PubMed, EMBASE, PsycINFO, and Cochrane databases."
+        ],
+        "negative_ctxs": [
+            14,
+            17
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "In the process of screening articles for inclusion, we identified 2 additional articles for inclusion by manually searching article references."
+        ],
+        "negative_ctxs": [
+            16,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We used the following search criteria: (Psoriasis [MeSH]) AND (Suicide [MeSH] OR Suicide, Attempted [MeSH] OR suicid*)."
+        ],
+        "negative_ctxs": [
+            23,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "The search was limited to English-language studies"
+        ],
+        "negative_ctxs": [
+            23,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two authors (S.S. and C.T.) read reference abstracts to determine eligibility for inclusion in the systematic review."
+        ],
+        "negative_ctxs": [
+            20,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "During data extraction for this systematic review, discrepancies were resolved by consensus among S.S., C.T., H.K., and A.W.A."
+        ],
+        "negative_ctxs": [
+            2,
+            23
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table I. Study population characteristics: psoriasis and suicidality"
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table I. Study population characteristics: psoriasis and suicidality\n\nTable II. Study outcomes: psoriasis and suicidalit"
+        ],
+        "negative_ctxs": [
+            16,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "To measure study quality, we used a validated assessment tool for observational studies.11\n\n11. Stang A. Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses. Eur J Epidemiol. 2010;25(9):603-605\n\nNone of the studies scored 10 points on the modified Newcastle-Ottawa scale for quality assessment."
+        ],
+        "negative_ctxs": [
+            5,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Of the 15 studies that examined suicidal ideation in patients with psoriasis, 12 reported a higher prevalence or rate in patients with psoriasis than in controls without psoriasis.\n\nOf the 15 studies examining suicidal ideation, 8 assessed suicidal ideation in patients with psoriasis versus in controls without psoriasis. After synthesizing the aforementioned 8 studies on suicidal ideation, we found that patients with psoriasis were more than twice as likely to have suicidal ideation than patients without psoriasis (pooled OR, 2.05; 95% CI, 1.54-2.74) (Fig 2).\n\nEleven out of 18 studies examined suicide attempts and completed suicides in patients with psoriasis and cohorts without psoriasis\n\nAfter synthesizing data on suicidal behavior from 7 studies, we found that compared with controls without psoriasis, patients with psoriasis are more likely to attempt and complete suicides (pooled OR, 1.26; 95% CI, 1.13-1.40) (Fig 3)."
+        ],
+        "negative_ctxs": [
+            5,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "If a sufficient number of studies report the same outcome measure, we will pool the results using random-effects meta-analysis. We will assess for heterogeneity using the I-squared statistic, and examine for publication bias by calculating an Egger's coefficient and a visual representation using a funnel plot.\nAnalysis of subgroups or subsets\nWithin suicidality, we may perform sub-analysis on suicidal ideation, suicide attempts, or completed suicide in psoriasis patients vs non-psoriasis controls.\n\nUsing OR data obtained from the published results, we estimated the pooled OR for the presence of suicidal ideation and the pooled OR for the prevalence of patients with psoriasis who acted on their suicidal ideation. Additionally, we performed sensitivity analysis to separately examine prevalence of suicide attempts and completed suicides in patients with psoriasis versus in controls. We used the random effects analysis model of Dersimonian and Laird to generate all pooled ORs and account for any study heterogeneity.\n\nWe assessed publication bias by using visual inspection of a funnel plot representing the estimate of effect from each study in the meta-analysis against\na measure of its precision. The Egger regression test was done to calculate a bias coefficient and confirm the findings of the funnel plot."
+        ],
+        "negative_ctxs": [
+            9,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Using OR data obtained from the published results, we estimated the pooled OR for the presence of suicidal ideation and the pooled OR for the prevalence of patients\nwith psoriasis who acted on their suicidal ideation. Additionally, we performed sensitivity analysis to separately examine prevalence of suicide attempts and completed suicides in patients with psoriasis versus in controls. We used the random effects analysis model of Dersimonian and Laird to generate all pooled ORs and account for any study heterogeneity."
+        ],
+        "negative_ctxs": [
+            17,
+            8
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The I2 value of 44.2% suggested moderate heterogeneity.\n\nThe I2 value of 0 suggests limited heterogeneity"
+        ],
+        "negative_ctxs": [
+            22,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "The funnel plot of the 8 studies demonstrated symmetry, suggesting limited publication bias, which was confirmed by the Egger regression test (P = .359)\n\nA funnel plot of these studies suggested limited publication bias, which was confirmed by the Egger regression test (P = .101)"
+        ],
+        "negative_ctxs": [
+            20,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "None of the studies scored 10 points on the modified Newcastle-Ottawa scale for quality assessment. Five studies scored a maximum of 8 out of 10 points, whereas the majority of studies scored between 5 and 7 points (n = 10).\n\nThere were multiple uncontrolled studies in this systematic review that were also limited in terms of study quality when assessed by using the Newcastle-Ottawa scale."
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "we aim to synthesize the available literature on the epidemiologic association between psoriasis and the various aspects of suicidality.\n\nthe study participants must be adults (>=18 years); the diagnosis of psoriasis must be documented; suicidality must be a primary or secondary end point, and it must be documented through use of a questionnaire/survey or patient medical records\n\nTable I. Study population characteristics: psoriasis and suicidality"
+        ],
+        "negative_ctxs": [
+            7,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            23,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "The review protocol was registered with PROSPERO (CRD42017054446).\n\nThe articles must have also fulfilled all of the following inclusion criteria: the article must be written in English; the study participants must be adults (>=18 years); the diagnosis of psoriasis must be documented; suicidality must be a primary or secondary end point, and it must be documented through use of a questionnaire/survey or patient medical records; and suicidality must be assessed in conjunction with psoriasis and numerically reported (numbers of patients affected, percent values, odds ratio [OR] or hazard ratio [HR]). Case reports, case series, review articles, letters, and commentaries were excluded.\n\nOf the 15 studies that examined suicidal ideation in patients with psoriasis, 12 reported a higher prevalence or rate in patients with psoriasis than in controls without psoriasis.\n\nThree out of the 15 studies examining suicidal ideation reported lower prevalence of suicidal ideation in patients with psoriasis versus in controls; however, the control groups consisted of patients with urticarial disease, severe acne, and major chronic illnesses such as pulmonary and liver disease.\n \nTypes of study to be included\nAs we are examining prevalence of suicidality in psoriasis patients and not change in suicidality over time, we will limit our search to non-interventional studies.\n\nParticipants/population\nAdult patients diagnosed with Psoriasis. \nExclusions: Adolescents or children (under the age of 18) or those not diagnosed with psoriasis.\n\nIn this study, we will examine whether psoriasis is a risk factor for suicidality. The components of suicidality we will consider are ideation, attempted, or completed. We will broadly define our exposure as psoriasis, without limiting to one particular subtype of psoriasis.\n\nIn this study, we aim to examine prevalence of suicidality in psoriasis patients and not change in suicidality over time; therefore, we will focus on non-interventional studies.\n\nComparator(s)/control\nFor comparison, we will examine study participants that do not have psoriasis. The \"non-psoriasis\" control subjects may be healthy without any skin condition or may have a skin condition other than psoriasis."
+        ],
+        "negative_ctxs": [
+            25,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The articles must have also fulfilled all of the following inclusion criteria: the article must be written in English; the study participants must be adults (>=18 years); the diagnosis of psoriasis must be documented; suicidality must be a primary or secondary end point, and it must be documented through use of a questionnaire/survey or patient medical records; and suicidality must be assessed in conjunction with psoriasis and numerically reported"
+        ],
+        "negative_ctxs": [
+            20,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "we focused on noninterventional studies (eg, case-control, cross-sectional, and cohort studies) to examine the prevalence of suicidality rather than change in suicidality in response to interventions."
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            " to perform a systematic review search using the PubMed, EMBASE, PsycINFO, and Cochrane databases."
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two authors (S.S. and C.T.) read reference abstracts to determine eligibility for inclusion in the systematic review."
+        ],
+        "negative_ctxs": [
+            23,
+            21
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "During data extraction for this systematic review, discrepancies were resolved by consensus among S.S., C.T., H.K., and A.W.A."
+        ],
+        "negative_ctxs": [
+            17,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table I. Study population characteristics: psoriasis and suicidality"
+        ],
+        "negative_ctxs": [
+            20,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "To measure study quality, we used a validated assessment tool for observational studies.11\n\n11. Stang A. Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses. Eur J Epidemiol. 2010;25(9):603-605\n\nNone of the studies scored 10 points on the modified Newcastle-Ottawa scale for quality assessment."
+        ],
+        "negative_ctxs": [
+            11,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Using OR data obtained from the published results, we estimated the pooled OR for the presence of suicidal ideation and the pooled OR for the prevalence of patients\nwith psoriasis who acted on their suicidal ideation. Additionally, we performed sensitivity analysis to separately examine prevalence of suicide attempts and completed suicides in patients with psoriasis versus in controls. We used the random effects analysis model of Dersimonian and Laird to generate all pooled ORs and account for any study heterogeneity."
+        ],
+        "negative_ctxs": [
+            16,
+            18
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The I2 value of 44.2% suggested moderate heterogeneity.\n\nThe I2 value of 0 suggests limited heterogeneity"
+        ],
+        "negative_ctxs": [
+            25,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "The funnel plot of the 8 studies demonstrated symmetry, suggesting limited publication bias, which was confirmed by the Egger regression test (P = .359)\n\nA funnel plot of these studies suggested limited publication bias, which was confirmed by the Egger regression test (P = .101)"
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "None of the studies scored 10 points on the modified Newcastle-Ottawa scale for quality assessment. Five studies scored a maximum of 8 out of 10 points, whereas the majority of studies scored between 5 and 7 points (n = 10).\n\nThere were multiple uncontrolled studies in this systematic review that were also limited in terms of study quality when assessed by using the Newcastle-Ottawa scale."
+        ],
+        "negative_ctxs": [
+            14,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding sources: None.\nDisclosure: Dr Armstrong has served as an investigator and consultant/advisor to AbbVie, Amgen, Celgene, Janssen, Lilly, Novartis, Regeneron, Pfizer, and Modernizing Medicine. Drs Singh, Taylor, and Kornmehl have no conflicts of interest to declare."
+        ],
+        "negative_ctxs": [
+            19,
+            8
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            25,
+            24
+        ],
+        "positive_ctxs": []
+    }
+]

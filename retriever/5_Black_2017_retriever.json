@@ -1,0 +1,488 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "Our protocol was registered in PROSPERO (CRD42015025727)\nWe conducted a narrative synthesis of results, using methods described in our registered protocol"
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Relevant studies included those involving patients aged C18 years who were taking antihyperglycemic medications for T2DM in any setting.\nIncluded studies compared the spectrum of deprescribing approaches (stopping drug treatment entirely, reducing dose, gradual tapering, or substitution) of at least one medication (insulin, metformin, sulfonylureas, thiazolidinediones, meglitinides, alpha-glucosidase inhibitors, dipeptidyl peptidase IV inhibitors, pramlintide, glucagon-like peptide-1 agonists) to continuing these medications.\nIncluded studies had to report on at least one of the following: hypoglycemia, falls, adverse drug reactions, frequency of blood glucose testing, blood glucose levels, HbA1C levels, pill burden, emergency room visits and hospitalizations, quality of life and patient satisfaction, length of stay in hospital, microvascular complications, macrovascular outcomes, polyuria, hyperglycemia, and/or sleep disturbances."
+        ],
+        "negative_ctxs": [
+            7,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Relevant studies included those involving patients aged < 18 years who were taking antihyperglycemic medications for T2DM in any setting."
+        ],
+        "negative_ctxs": [
+            7,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Full-text articles excluded, with reasons: Not deprescribing (n = 26) No comparison group (n = 10) Not type-2 diabetes (n=2) No outcome data (n=2)"
+        ],
+        "negative_ctxs": [
+            13,
+            3
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "MEDLINE (1946 onward), EMBASE (1947 onward), and the Cochrane Library through to July 2015 were searched for relevant studies. The references of relevant studies were scanned. In addition, we searched clinicaltrials.gov, the\nWorld Health Organization Clinical Trials Registry, UpToDate, and Google Scholar."
+        ],
+        "negative_ctxs": [
+            5,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The references of relevant studies were scanned."
+        ],
+        "negative_ctxs": [
+            12,
+            9
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "search strategy can be found in Electronic Supplementary Material (ESM) Appendix 1."
+        ],
+        "negative_ctxs": [
+            7,
+            1
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two independent reviewers screened titles and abstracts and evaluated full-text articles against eligibility criteria."
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "The reviewers independently extracted data from eligible articles using a pilot-tested form."
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "We extracted the following: year, journal, funding, study design, number of participants, proportion of male/female participants, comorbidities, duration of diabetes, concomitant medications, study medications, doses, frequency, duration and stopping/tapering/switching regimen and outcomes on benefits and harms of deprescribing."
+        ],
+        "negative_ctxs": [
+            9,
+            4
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "patients in the intervention group were more likely to stop glyburide [relative risk (RR) 1.28; 95% confidence interval (CI) 1.22-1.33] compared to those in the control group."
+        ],
+        "negative_ctxs": [
+            13,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two independent reviewers conducted risk of bias assessments for eligible studies using Cochrane's ROBINS-I tool"
+        ],
+        "negative_ctxs": [
+            9,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "After extracting the data, the methodological quality was assessed by using the Cochrane bias risk assessment tool for included studies. The certainty of network evidence\r\nwas graded by using the Grade of Recommendations Assessment, Development, and Evaluation (GRADE) for primary outcomes. Any disagreement between the two\r\ninvestigators was resolved by discussion and consensus."
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Our systematic review identified two studies which assessed deprescribing antihyperglycemics in elderly patients."
+        ],
+        "negative_ctxs": [
+            13,
+            2
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We conducted a narrative synthesis of results"
+        ],
+        "negative_ctxs": [
+            6,
+            2
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "We conducted a narrative synthesis of results, using methods described in our registered protocol"
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Both studies were judged to be at serious risk of bias for all outcomes according to ROBINS-I tool  due to important problems with confounding, selection of participants, and deviations from intended interventions (ESM Appendices 2, 3)."
+        ],
+        "negative_ctxs": [
+            14,
+            3
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Based on the GRADE rating system, the quality of evidence for both studies was very low due to their non-randomized design and concerns surrounding the risk of bias and imprecision."
+        ],
+        "negative_ctxs": [
+            14,
+            9
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Studies meeting the following criteria were included: (a)\nparticipants (>=18 years) were diagnosed with hyperurice-\nmia with or without gout; (b) intervention group taken one\nof the seven uricosuric agents (probenecid, benzbromarone,\nlesinurad, dotinurad, verinurad, arhalofenate, or SHR4640);\n(c) comparison group taken placebo or another uricosuric\nagent diferent from the treatment group; (d) outcomes of\ninterest were reported;"
+        ],
+        "negative_ctxs": [
+            13,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            5,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "Our protocol was registered in PROSPERO (CRD42015025727)\nWe conducted a narrative synthesis of results, using methods described in our registered protocol"
+        ],
+        "negative_ctxs": [
+            11,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Relevant studies included those involving patients aged < 18 years who were taking antihyperglycemic medications for T2DM in any setting."
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "MEDLINE (1946 onward), EMBASE (1947 onward), and the Cochrane Library through to July 2015 were searched for relevant studies. The references of relevant studies were scanned. In addition, we searched clinicaltrials.gov, the\nWorld Health Organization Clinical Trials Registry, UpToDate, and Google Scholar."
+        ],
+        "negative_ctxs": [
+            7,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two independent reviewers screened titles and abstracts and evaluated full-text articles against eligibility criteria."
+        ],
+        "negative_ctxs": [
+            2,
+            4
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "The reviewers independently extracted data from eligible articles using a pilot-tested form."
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "We extracted the following: year, journal, funding, study design, number of participants, proportion of male/female participants, comorbidities, duration of diabetes, concomitant medications, study medications, doses, frequency, duration and stopping/tapering/switching regimen and outcomes on benefits and harms of deprescribing."
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two independent reviewers conducted risk of bias assessments for eligible studies using Cochrane's ROBINS-I tool"
+        ],
+        "negative_ctxs": [
+            2,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We conducted a narrative synthesis of results"
+        ],
+        "negative_ctxs": [
+            7,
+            12
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "We conducted a narrative synthesis of results, using methods described in our registered protocol"
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Both studies were judged to be at serious risk of bias for all outcomes according to ROBINS-I tool  due to important problems with confounding, selection of participants, and deviations from intended interventions (ESM Appendices 2, 3)."
+        ],
+        "negative_ctxs": [
+            14,
+            8
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "We extracted the following: year, journal, funding"
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Wade Thompson has received honoraria for speaking on the topic of deprescribing at conferences. Heather Lochnan has participated as site investigator in industry-funded diabetes clinical trials that involve the use of medication used in the treatment of diabetes. Barbara Farrell has received research funding for the purposes of developing a related antihyperglycemic deprescribing guideline and has received travel support from the Canadian Pharmacists Association to present portions of this material at their annual meeting in June 2016. Cody Black, Vivian Welch, Lisa McCarthy, Carlos Rojas-Fernandez, Salima Shamji, and Ross Upshur have nothing to disclose."
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Based on the GRADE rating system, the quality of evidence for both studies was very low due to their non-randomized design and concerns surrounding the risk of bias and imprecision."
+        ],
+        "negative_ctxs": [
+            6,
+            1
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    }
+]

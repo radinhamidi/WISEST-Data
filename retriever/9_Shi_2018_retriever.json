@@ -1,0 +1,474 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "This meta-analysis was conducted in accordance to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and was conducted following a priori established protocol (PROSPERO: CRD42018084958)"
+        ],
+        "negative_ctxs": [
+            23,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We thus conducted a systemic review and meta-analysis to present a comprehensive picture on the efficacy and safety of semaglutide in patients with T2DM.\r\n\r\n\r\nThe predetermined study inclusion criteria were: (1) RCTs; (2) adult patients had T2DM; (3) compared semaglutide with other therapies (anti-diabetic therapy or placebo); (4) reported the interested efficacy data including estimated treatment difference about glycemic control, weight control, and blood pressure and pulse rate; (5) reported safety data including adverse events (AEs) with varying degrees and AEs occurring in >= 5% patients according to predetermined terms or clinical significance; (6) the duration of follow up should be more than 24 weeks."
+        ],
+        "negative_ctxs": [
+            20,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The predetermined study inclusion criteria were: (1) RCTs; (2) adult patients had T2DM; (3) compared semaglutide with other therapies (anti-diabetic therapy or placebo); (4) reported the interested efficacy data including estimated treatment difference about glycemic control, weight control, and blood pressure and pulse rate; (5) reported safety data including adverse events (AEs) with varying degrees and AEs occurring in >= 5% patients according to predetermined terms or clinical significance; (6) the duration of follow up should be more than 24 weeks."
+        ],
+        "negative_ctxs": [
+            23,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "A comprehensively systematic search of Medline, Embase, and the Cochrane library was conducted from inception to Feb 24th, 2018 without language restriction. Additionally, unpublished trials were identified from the \"ClinicalTrials.gov\" website"
+        ],
+        "negative_ctxs": [
+            18,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A comprehensively systematic search of Medline, Embase, and the Cochrane library was conducted from inception to Feb 24th, 2018 without language restriction. Additionally, unpublished trials were identified from the \"ClinicalTrials.gov\" website."
+        ],
+        "negative_ctxs": [
+            12,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "References of all pertinent articles were further scrutinized to ensure that all relevant studies were identified."
+        ],
+        "negative_ctxs": [
+            11,
+            25
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "For the topic of \"type 2 diabetes,\" the following key terms were used for searching: \"type 2 diabetes\" or \"type 2 diabetes mellitus\". For the topic of \"semaglutide,\" we included the following terms: \"semaglutide\" or \"NN9936\" or \"NN9934\" or \"NN9935\" or \"ozempic.\" For the topic of \"randomized controlled trials (RCTs),\" the terms used were: \"clinical trial\" or \"controlled clinical trial\" or \"randomized controlled trial.\" Finally, we used the Boolean operator \"AND\" to combine three comprehensively searching topics."
+        ],
+        "negative_ctxs": [
+            1,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "A comprehensively systematic search of Medline, Embase, and the Cochrane library was conducted from inception to Feb 24th, 2018 without language restriction. Additionally, unpublished trials were identified from the \"ClinicalTrials.gov\" website"
+        ],
+        "negative_ctxs": [
+            20,
+            1
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two reviewers (Fang-Hong Shi and Hao Li) independently searched the databases to identify all potentially eligible studies, and all disagreements were resolved by consensus or by consulting a third author (Zhi-Chun Gu)."
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data Extraction \r\nTwo investigators (Fang-Hong Shi and Hao Li) screened the titles and abstracts of retrieved citations independently to identify potentially eligible trials. Following data were extracted from the eligible trials: first author's name, year of publication, number of study patients, baseline patient characteristics, related efficacy and safety data."
+        ],
+        "negative_ctxs": [
+            22,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1: Demographic and other baseline characteristics \nStudy, NCT number, year, follow up, background, variable, dosage, participants, mean age, HbA1C, duration of diabetes, body weight, BMI, eGFR, Sex, Ethnic origin, race "
+        ],
+        "negative_ctxs": [
+            19,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1: Demographic and other baseline characteristics \r\nStudy, NCT number, year, follow up, background, variable, dosage, participants, mean age, HbA1C, duration of diabetes, body weight, BMI, eGFR, Sex, Ethnic origin, race \r\n\r\n\r\nTable 2: relative risk of adverse events reported for semiglutide in comparison with control"
+        ],
+        "negative_ctxs": [
+            20,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two investigators (Fang-Hong Shi and Hao Li) evaluated the methodological quality of included randomized trials according to the Cochrane Collaboration Risk of Bias Tool, which includes random sequence generation, allocation concealment, masking, incomplete outcome data, selective reporting, and other bias (Higgins et al., 2011). Furthermore, we also assessed the background medication administration and funding sources."
+        ],
+        "negative_ctxs": [
+            15,
+            18
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two investigators (Fang-Hong Shi and Hao Li) evaluated the methodological quality of included randomized trials according to the Cochrane Collaboration Risk of Bias Tool, which includes random sequence generation, allocation concealment, masking, incomplete outcome data, selective reporting, and other bias (Higgins et al., 2011). "
+        ],
+        "negative_ctxs": [
+            7,
+            18
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "A total of 457 initially relevant publications were identified. Of these, 448 records were excluded through screening title and abstract by different reasons (Among these records, 10 RCTs were excluded which were listed in Table S1). Finally, 9 studies were identified for the final analysis (including 1 abstract)\r\n\r\n\r\nTable 1: Demographic and other baseline characteristics \r\n\r\n\r\nTable 2: relative risk of adverse events reported for semiglutide in comparison with control"
+        ],
+        "negative_ctxs": [
+            2,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Data Analysis\nThe estimates of meta-analysis were derived and presented in forest plots by using STATA version 12.0 (STATA Corporation, College Station, TX, USA) (Jais et al., 2008). Continuous variables were expressed as weight mean difference (WMD) with their 95% confidence intervals (95% CIs), and dichotomous data were reported as risk ratios (RRs) with 95% CIs. The random-effects model was used to calculate the overall estimated effects. Heterogeneity, which measures the percentage of total variation between studies, was tested through the I2 test (Chen et al., 2017). Subgroup analyses were performed by different control groups (placebo, sitagliptin, insulin glargine, other GLP-1 RAs, and other oral anti-diabetic drug), dosage of semaglutide (0.5 or 1.0 mg weekly) and duration of follow up. We conducted a sensitivity analysis to evaluate the influence of each individual study by omitting one study at a time as well as the impact after removing the placebo-controlled studies. P < 0.05 indicated a statistically significant difference\n\n\nFrom the protocol: \nStrategy for data synthesis \nStatistical analyses were performed using Stata version12.0 (Stata Corporation, College Station, TX, USA). Meta\u0002analysis estimates were derived and presented in forest plots . Continuous variables, including mean changes of estimated treatment difference(ETD) vs control group in HbA1c, bodyweight, fasting plasma glucose (FPG),body weight, BMI, systolic blood pressure (SBP), and diastolic blood pressure (DBP) etc were expressed as weight mean difference (WMD) with 95% confidence intervals (95%CIs); enumeration data including rate of any adverse events were reported as risk ratios (RRs) with 95% CIs. A random-effects model was used to calculated the overall estimated effect. Heterogeneity among studies was tested through the I2 test which measures the percentage of total variation between studies . p<0.05 was considered statistically significant. \nAnalysis of subgroups or subsets\nIf the necessary data are available, subgroup analyses will be done for people with different dosage,different durations or different control groups\n"
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Data Analysis\r\nThe estimates of meta-analysis were derived and presented in forest plots by using STATA version 12.0 (STATA Corporation, College Station, TX, USA) (Jais et al., 2008). Continuous variables were expressed as weight mean difference (WMD) with their 95% confidence intervals (95% CIs), and dichotomous data were reported as risk ratios (RRs) with 95% CIs. The random-effects model was used to calculate the overall estimated effects. Heterogeneity, which measures the percentage of total variation between studies, was tested through the I2 test (Chen et al., 2017). Subgroup analyses were performed by different control groups (placebo, sitagliptin, insulin glargine, other GLP-1 RAs, and other oral anti-diabetic drug), dosage of semaglutide (0.5 or 1.0 mg weekly) and duration of follow up. We conducted a sensitivity analysis to evaluate the influence of each individual study by omitting one study at a time as well as the impact after removing the placebo-controlled studies. P < 0.05 indicated a statistically significant difference"
+        ],
+        "negative_ctxs": [
+            16,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Glycemic Control\r\nThe considerable heterogeneity was detected across above outcomes (I2 = 92.6% for HbA1c%, I2 = 90.8% for FPG, I2 = 92.9% for SMPG, and I2 = 55.5% for PSMPG).\r\n\r\n\r\nWeight control\r\nNo significant heterogeneity was observed within included studies (I2 = 17.6% for body weight, I2 = 30.5% for BMI, and I2 = 30.7% for waist circumference).\r\n\r\n\r\nBlood pressure and pulse rate\r\n moderate heterogeneity within studies (I2 = 67.6).\r\n\r\n\r\nTable 2: Relative risk of adverse events reported for semaglutide in comparison with control\r\nEvents, number of studies, semaglutide therapy, control therapy, total, RR, 95% CI, homogeneity (I2, P)\r\n\r\n\r\nWhereas, we have performed the corresponding subgroup analysis to assess potential effect modifiers in baseline characteristics, and the results failed to identify these potential confounding on the outcomes\r\n\r\n\r\nThe results of sensitivity analysis, as shown in Tables S5, S6, were not altered after excluding each of the studies or placebo\u0002controlled studies."
+        ],
+        "negative_ctxs": [
+            15,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "The results of sensitivity analysis, as shown in Tables S5, S6, were not altered after excluding each of the studies or placebo\u0002controlled studies.\r\n\r\n\r\nPotential publication bias was evaluated by visually inspecting funnel plots as well as quantitative analysis of Begg test and Egger test"
+        ],
+        "negative_ctxs": [
+            5,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "All trials satisfied all bias tool items with the exception of blind method. Thus, the overall quality of included trials was moderate to high\n\n\nWhereas, we have performed the corresponding subgroup analysis to assess potential effect modifiers in baseline characteristics, and the results failed to identify these potential confounding on the outcomes\n\n\nThe results of sensitivity analysis, as shown in Tables S5, S6, were not altered after excluding each of the studies or placebo\u0002controlled studies."
+        ],
+        "negative_ctxs": [
+            12,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Thirdly, the baseline characteristics of included studies were not the same, including background treatment, controls, dosage, and duration of follow up. Whereas, we have performed the corresponding subgroup analysis to assess potential effect modifiers in baseline characteristics, and the results failed to identify these potential confounding on the outcomes. Undeniably, residual confounding effects between included studies cannot be excluded absolutely. Otherwise, the duration of included studies was different, which may lead to certain bias. Finally, it must be admitted that these studies of semaglutide are all sponsored by Novio Nodisk, thus sponsorship bias may present in this study.\n"
+        ],
+        "negative_ctxs": [
+            17,
+            22
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "We thus conducted a systemic review and meta-analysis to present a comprehensive picture on the efficacy and safety of semaglutide in patients with T2DM.\r\n\r\n\r\nThe predetermined study inclusion criteria were: (1) RCTs; (2) adult patients had T2DM; (3) compared semaglutide with other therapies (anti-diabetic therapy or placebo); (4) reported the interested efficacy data including estimated treatment difference about glycemic control, weight control, and blood pressure and pulse rate; (5) reported safety data including adverse events (AEs) with varying degrees and AEs occurring in >= 5% patients according to predetermined terms or clinical significance; (6) the duration of follow up should be more than 24 weeks."
+        ],
+        "negative_ctxs": [
+            12,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            19,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "This meta-analysis was conducted in accordance to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and was conducted following a priori established protocol (PROSPERO: CRD42018084958)"
+        ],
+        "negative_ctxs": [
+            18,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The predetermined study inclusion criteria were: (1) RCTs; (2) adult patients had T2DM; (3) compared semaglutide with other therapies (anti-diabetic therapy or placebo); (4) reported the interested efficacy data including estimated treatment difference about glycemic control, weight control, and blood pressure and pulse rate; (5) reported safety data including adverse events (AEs) with varying degrees and AEs occurring in >= 5% patients according to predetermined terms or clinical significance; (6) the duration of follow up should be more than 24 weeks."
+        ],
+        "negative_ctxs": [
+            23,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A comprehensively systematic search of Medline, Embase, and the Cochrane library was conducted from inception to Feb 24th, 2018 without language restriction. Additionally, unpublished trials were identified from the \"ClinicalTrials.gov\" website."
+        ],
+        "negative_ctxs": [
+            5,
+            26
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two reviewers (Fang-Hong Shi and Hao Li) independently searched the databases to identify all potentially eligible studies, and all disagreements were resolved by consensus or by consulting a third author (Zhi-Chun Gu)."
+        ],
+        "negative_ctxs": [
+            19,
+            21
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data Extraction \r\nTwo investigators (Fang-Hong Shi and Hao Li) screened the titles and abstracts of retrieved citations independently to identify potentially eligible trials. Following data were extracted from the eligible trials: first author's name, year of publication, number of study patients, baseline patient characteristics, related efficacy and safety data."
+        ],
+        "negative_ctxs": [
+            4,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "448 records were excluded through screening title and abstract by different reasons (Among these records, 10 RCTs were excluded which were listed in Table S1)"
+        ],
+        "negative_ctxs": [
+            4,
+            16
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1: Demographic and other baseline characteristics \nStudy, NCT number, year, follow up, background, variable, dosage, participants, mean age, HbA1C, duration of diabetes, body weight, BMI, eGFR, Sex, Ethnic origin, race "
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two investigators (Fang-Hong Shi and Hao Li) evaluated the methodological quality of included randomized trials according to the Cochrane Collaboration Risk of Bias Tool, which includes random sequence generation, allocation concealment, masking, incomplete outcome data, selective reporting, and other bias (Higgins et al., 2011). Furthermore, we also assessed the background medication administration and funding sources."
+        ],
+        "negative_ctxs": [
+            14,
+            1
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Data Analysis\r\nThe estimates of meta-analysis were derived and presented in forest plots by using STATA version 12.0 (STATA Corporation, College Station, TX, USA) (Jais et al., 2008). Continuous variables were expressed as weight mean difference (WMD) with their 95% confidence intervals (95% CIs), and dichotomous data were reported as risk ratios (RRs) with 95% CIs. The random-effects model was used to calculate the overall estimated effects. Heterogeneity, which measures the percentage of total variation between studies, was tested through the I2 test (Chen et al., 2017). Subgroup analyses were performed by different control groups (placebo, sitagliptin, insulin glargine, other GLP-1 RAs, and other oral anti-diabetic drug), dosage of semaglutide (0.5 or 1.0 mg weekly) and duration of follow up. We conducted a sensitivity analysis to evaluate the influence of each individual study by omitting one study at a time as well as the impact after removing the placebo-controlled studies. P < 0.05 indicated a statistically significant difference"
+        ],
+        "negative_ctxs": [
+            25,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Glycemic Control\r\nThe considerable heterogeneity was detected across above outcomes (I2 = 92.6% for HbA1c%, I2 = 90.8% for FPG, I2 = 92.9% for SMPG, and I2 = 55.5% for PSMPG).\r\n\r\n\r\nWeight control\r\nNo significant heterogeneity was observed within included studies (I2 = 17.6% for body weight, I2 = 30.5% for BMI, and I2 = 30.7% for waist circumference).\r\n\r\n\r\nBlood pressure and pulse rate\r\n moderate heterogeneity within studies (I2 = 67.6).\r\n\r\n\r\nTable 2: Relative risk of adverse events reported for semaglutide in comparison with control\r\nEvents, number of studies, semaglutide therapy, control therapy, total, RR, 95% CI, homogeneity (I2, P)\r\n\r\n\r\nWhereas, we have performed the corresponding subgroup analysis to assess potential effect modifiers in baseline characteristics, and the results failed to identify these potential confounding on the outcomes\r\n\r\n\r\nThe results of sensitivity analysis, as shown in Tables S5, S6, were not altered after excluding each of the studies or placebo\u0002controlled studies."
+        ],
+        "negative_ctxs": [
+            13,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "The results of sensitivity analysis, as shown in Tables S5, S6, were not altered after excluding each of the studies or placebo\u0002controlled studies.\r\n\r\n\r\nPotential publication bias was evaluated by visually inspecting funnel plots as well as quantitative analysis of Begg test and Egger test"
+        ],
+        "negative_ctxs": [
+            18,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "All trials satisfied all bias tool items with the exception of blind method. Thus, the overall quality of included trials was moderate to high\n\n\nWhereas, we have performed the corresponding subgroup analysis to assess potential effect modifiers in baseline characteristics, and the results failed to identify these potential confounding on the outcomes\n\n\nThe results of sensitivity analysis, as shown in Tables S5, S6, were not altered after excluding each of the studies or placebo\u0002controlled studies."
+        ],
+        "negative_ctxs": [
+            21,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Two investigators (Fang-Hong Shi and Hao Li) evaluated the methodological quality of included randomized trials according to the Cochrane Collaboration Risk of Bias Tool, which includes random sequence generation, allocation concealment, masking, incomplete outcome data, selective reporting, and other bias (Higgins et al., 2011). Furthermore, we also assessed the background medication administration and funding sources.\r\n\r\n\r\nHowever, the presence of sponsored bias was a concern because all included nine studies were sponsored by Novio Nodisk."
+        ],
+        "negative_ctxs": [
+            6,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding\nThis article is supported by the Fundamental Research Funds for the Central Universities (No.17JCYB11), the pharmaceutical fund of college of medicine, Shanghai Jiaotong University (No.JDYX2017QN003), the fund of Shanghai Pharmaceutical Association (No.2015-YY-01-20), Program for Key Discipline of Clinical Pharmacy of Shanghai (2016-40044-002), and Program for Key but Weak Discipline of Shanghai Municipal Commission of Health and Family Planning (2016ZB0304)\r\n\r\n\r\nConflict of Interest Statement\r\nThe authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+        ],
+        "negative_ctxs": [
+            6,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Thirdly, the baseline characteristics of included studies were not the same, including background treatment, controls, dosage, and duration of follow up. Whereas, we have performed the corresponding subgroup analysis to assess potential effect modifiers in baseline characteristics, and the results failed to identify these potential confounding on the outcomes. Undeniably, residual confounding effects between included studies cannot be excluded absolutely. Otherwise, the duration of included studies was different, which may lead to certain bias. Finally, it must be admitted that these studies of semaglutide are all sponsored by Novio Nodisk, thus sponsorship bias may present in this study.\n"
+        ],
+        "negative_ctxs": [
+            1,
+            13
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    }
+]

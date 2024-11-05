@@ -1,0 +1,472 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "Inclusion criteria and methods of data analysis were specified in advance and documented ( 1/4CRD42016049474)."
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "we performed a systematic review of longitudinal studies of nevus counts in the general population. "
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Population-based longitudinal studies in adults (>18 years of age) that consisted of a baseline and at least one follow-up count of common nevi werei included."
+        ],
+        "negative_ctxs": [
+            5,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "No attempt was made to identify unpublished literature."
+        ],
+        "negative_ctxs": [
+            6,
+            2
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Eligible studies through September 20, 2016, were identified by searching MEDLINE 1950 using PubMed software as the search interface (U.S. National Library of Medicine, Bethesda, MD) and hand-searching the reference lists of the retrieved articles.\n\nNo attempt was made to identify unpublished literature. Authors of one article were contacted by e-mail for further information but did not respond."
+        ],
+        "negative_ctxs": [
+            4,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Eligible studies through September 20, 2016, were identified by searching MEDLINE 1950 using PubMed software as the search interface (U.S. National Library of Medicine, Bethesda, MD) and hand-searching the reference lists of the retrieved articles.\n\nAuthors of one article were contacted by e-mail for further information but did not respond."
+        ],
+        "negative_ctxs": [
+            4,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The following medical subject headings, terms, or text words were used: naevus; naevi; nevus; nevi; melanocytic naevi; nevus, pigmented; cohort; longitudinal studies; and prospective."
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "First, titles and abstracts from retrieved articles were screened by two review authors (EP and TN). Subsequently, full texts of potentially relevant articles were assessed for eligibility by the same two reviewers. Any discrepancy was resolved by consensus."
+        ],
+        "negative_ctxs": [
+            0,
+            6
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Protocol - From included articles data will be extracted using a standardized extraction form"
+        ],
+        "negative_ctxs": [
+            2,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Longitudinal nevus counts: comparison of results from two  cohorts"
+        ],
+        "negative_ctxs": [
+            4,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Protocol - Strategy for data synthesis - Narrative (descriptive) review, but quantitative via meta-analysis where identified studies are readily comparable"
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Protocol - Risk of bias (quality) assessment - Two reviewers will independently assess risk of bias by using the Newcastle Ottawa Scale to assess the quality of the studies.\n\nProtocol - Risk of bias (quality) assessment - Completed - Yes"
+        ],
+        "negative_ctxs": [
+            4,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Protocol - Risk of bias (quality) assessment - Two reviewers will independently assess risk of bias by using the Newcastle Ottawa Scale to assess the quality of the studies.\n\nProtocol - Risk of bias (quality) assessment - Completed - Yes"
+        ],
+        "negative_ctxs": [
+            4,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Table 1. Longitudinal nevus counts: comparison of results from two cohorts"
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Both these studies have \rreported very limited longitudinal data,\rwhich hamper interpretation and\r generalization of the findings."
+        ],
+        "negative_ctxs": [
+            6,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Both these studies have  reported very limited longitudinal data, which hamper interpretation and generalization of the findings."
+        ],
+        "negative_ctxs": [
+            4,
+            0
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "708 studies were identified, of which two met the inclusion criteria"
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Both studies have major limitations. In the US study (Tindall, 1976), age, sex, and race distributions of the study population were not provided, and no exact nevus counts were given overall or within demographic strata. The authors of the Turkish study (Koseoglu et al., 2015) did not specify from  where or how the 60 matched control subjects were recruited and how representative they were of the general population. Neither did they note if there was any loss to follow up."
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "It is crucial to have longitudinal data on normal nevus development in all age groups in the general population because these are the strongest determinants of melanoma."
+        ],
+        "negative_ctxs": [
+            5,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            6,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "Inclusion criteria and methods of data analysis were specified in advance and documented ( 1/4CRD42016049474)."
+        ],
+        "negative_ctxs": [
+            2,
+            3
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Population-based longitudinal studies in adults (>18 years of age) that consisted of a baseline and at least one follow-up count of common nevi werei included."
+        ],
+        "negative_ctxs": [
+            5,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "It is crucial to have longitudinal data on normal nevus development in all age groups in the general population because these are the strongest determinants of melanoma."
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Eligible studies through September 20, 2016, were identified by searching MEDLINE 1950 using PubMed software as the search interface (U.S. National Library of Medicine, Bethesda, MD) and hand-searching the reference lists of the retrieved articles.\n\nNo attempt was made to identify unpublished literature. Authors of one article were contacted by e-mail for further information but did not respond."
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "First, titles and abstracts from retrieved articles were screened by two review authors (EP and TN). Subsequently, full texts of potentially relevant articles were assessed for eligibility by the same two reviewers. Any discrepancy was resolved by consensus."
+        ],
+        "negative_ctxs": [
+            6,
+            2
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Protocol - From included articles data will be extracted using a standardized extraction form"
+        ],
+        "negative_ctxs": [
+            1,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Longitudinal nevus counts: comparison of results from two  cohorts"
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Protocol - Risk of bias (quality) assessment - Two reviewers will independently assess risk of bias by using the Newcastle Ottawa Scale to assess the quality of the studies.\n\nProtocol - Risk of bias (quality) assessment - Completed - Yes"
+        ],
+        "negative_ctxs": [
+            0,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Both these studies have  reported very limited longitudinal data, which hamper interpretation and generalization of the findings."
+        ],
+        "negative_ctxs": [
+            5,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "708 studies were identified, of which two met the inclusion criteria"
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "CONFLICT OF INTEREST The authors state no conflict of interest.\n\nACKNOWLEDGMENTS This research was conducted with the support of the Centre of Research Excellence for the Study of  Naevi funded by the National Health and Medical Research Council (NHMRC; grant ID: APP1099021)."
+        ],
+        "negative_ctxs": [
+            3,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Both studies have major limitations. In the US study (Tindall, 1976), age, sex, and race distributions of the study population were not provided, and no exact nevus counts were given overall or within demographic strata. The authors of the Turkish study (Koseoglu et al., 2015) did not specify from  where or how the 60 matched control subjects were recruited and how representative they were of the general population. Neither did they note if there was any loss to follow up."
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    }
+]

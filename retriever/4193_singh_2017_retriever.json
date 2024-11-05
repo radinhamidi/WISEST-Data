@@ -1,0 +1,474 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "TABLE 1. Summary of Studies"
+        ],
+        "negative_ctxs": [
+            1,
+            12
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Articles that provided histologic data on both initial biopsy and subsequent tumor debulk from WLE or MMS of BCC, SCC in situ, and SCC tumors were included."
+        ],
+        "negative_ctxs": [
+            13,
+            9
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "published from 1960 to date.\n\nStudies with less than 2 cases of NMSCs were excluded.\n\nCases were excluded when incidental nonkeratinocytic tumors, for example, Dermatofibrosarcoma Protuberans or Microcystic Adnexal Carcinoma, were identified or those that were designated as \"miscellaneous.\""
+        ],
+        "negative_ctxs": [
+            11,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "all available synonyms was performed to identify all relevant studies in the English language published from 1960 to date."
+        ],
+        "negative_ctxs": [
+            14,
+            10
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A comprehensive search of PubMed/MEDLINE, Web of Science, and EMBASE with terms for SCC, BCC, MMS, WLE, biopsy"
+        ],
+        "negative_ctxs": [
+            10,
+            5
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Select articles, including their references, were assessed in full for inclusion in the quantitative analysis."
+        ],
+        "negative_ctxs": [
+            7,
+            16
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "A comprehensive search of PubMed/MEDLINE, Web of Science, and EMBASE with terms for SCC, BCC, MMS, WLE, biopsy, and all available synonyms was performed to identify all relevant studies in the English language published from 1960 to date."
+        ],
+        "negative_ctxs": [
+            5,
+            11
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Search Strategy - A comprehensive search of PubMed/MEDLINE, Web of Science, and EMBASE with terms for SCC, BCC, MMS, WLE, biopsy, and all available synonyms was performed to identify all relevant studies in the English language published from 1960 to date."
+        ],
+        "negative_ctxs": [
+            6,
+            5
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "TABLE 2. Patient, Tumor, and Initial Biopsy Characteristics"
+        ],
+        "negative_ctxs": [
+            10,
+            15
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "TABLE 1. Summary of Studies"
+        ],
+        "negative_ctxs": [
+            11,
+            3
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "TABLE 1. Summary of Studies\n\nTABLE 3. Correlation in Histologic Findings Between Initial Biopsy and Subsequent Debulk Specimen"
+        ],
+        "negative_ctxs": [
+            17,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The results of the authors' study depended on completeness and accuracy of the articles included in the quantitative systematic review. More than 70% of cases had missing tumor size. Diameter of nerves affected by PNI was not reported. Squamous cell carcinomas with missing data are thus likely under-staged based on both AJCC and BWH criteria which use tumor size and diameter of nerve invasion as staging criteria. Six out of 14 studies had nonconsecutive cases, where the surgeons selected the tumors to be sent for debulk analysis. These studies may have a higher incidence of adverse features because of selection bias as surgeons are presumably more likely to send clinically high-risk tumors for further analysis."
+        ],
+        "negative_ctxs": [
+            17,
+            9
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "TABLE 1. Summary of Studies"
+        ],
+        "negative_ctxs": [
+            10,
+            2
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            0,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Articles that provided histologic data on both initial biopsy and subsequent tumor debulk from WLE or MMS of BCC, SCC in situ, and SCC tumors were included."
+        ],
+        "negative_ctxs": [
+            15,
+            3
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A comprehensive search of PubMed/MEDLINE, Web of Science, and EMBASE with terms for SCC, BCC, MMS, WLE, biopsy"
+        ],
+        "negative_ctxs": [
+            15,
+            3
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "TABLE 2. Patient, Tumor, and Initial Biopsy Characteristics"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The authors have indicated no significant interest with commercial supporters."
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The results of the authors' study depended on completeness and accuracy of the articles included in the quantitative systematic review. More than 70% of cases had missing tumor size. Diameter of nerves affected by PNI was not reported. Squamous cell carcinomas with missing data are thus likely under-staged based on both AJCC and BWH criteria which use tumor size and diameter of nerve invasion as staging criteria. Six out of 14 studies had nonconsecutive cases, where the surgeons selected the tumors to be sent for debulk analysis. These studies may have a higher incidence of adverse features because of selection bias as surgeons are presumably more likely to send clinically high-risk tumors for further analysis."
+        ],
+        "negative_ctxs": [
+            3,
+            0
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    }
+]

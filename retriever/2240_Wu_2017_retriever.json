@@ -1,0 +1,462 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "To provide an up-to-date picture of the clinical effi-cacy and safety of IL-17 antagonists in psoriasis, we conducted a meta-analysis\n\nStudies included in this meta-analysis met the follow criteria: (i) they were phase 3 RCTs that enrolled patients with plaque psoriasis; (ii) their duration of treatment was >=12 weeks; (iii) they used a parallel design or crossover design of IL-17 antagonists vs. placebo; and (iv) their data reported information on Psoriasis Area and Severity Index (PASI) response, Dermatology Life Quality Index (DLQI) score of 0 or 1 response, adverse events (AEs) and discontinuations."
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Studies included in this meta-analysis met the follow criteria: (i) they were phase 3 RCTs that enrolled patients with plaque psoriasis; (ii) their duration of treatment was >=12 weeks; (iii) they used a parallel design or crossover design of IL-17 antagonists vs. placebo; and (iv) their data reported information on Psoriasis Area and Severity Index (PASI) response, Dermatology Life Quality Index (DLQI) score of 0 or 1 response, adverse events (AEs) and discontinuations."
+        ],
+        "negative_ctxs": [
+            8,
+            14
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Studies included in this meta-analysis met the follow criteria: (i)they were phase 3 RCTs that enrolled patients with plaque psori-asis; (ii) their duration of treatment was >=12 weeks; (iii) they used a parallel design or crossover design of IL-17 antagonistsvs. placebo; and (iv) their data reported information on Psoriasis Area and Severity Index (PASI) response, Dermatology LifeQuality Index (DLQI) score of 0 or 1 response, adverse events(AEs) and discontinuations"
+        ],
+        "negative_ctxs": [
+            13,
+            14
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched all relevant studies published before May 2016 on\nthe electronic databases MEDLINE, Embase and Cochrane\nLibrary, using the following search terms: 'psoriasis', 'secukinumab',\n'brodalumab', 'ixekizumab', 'anti-IL-17', 'IL-17 inhibitor'\nor 'IL-17 antagonists'. Additionally, Center Watch Clinical\nTrials Listing Service ( Current\nControlled Trials Service ( and\nclinical trials registered at ClinicalTrials.gov (\nls.gov) were searched for details of any relevant clinical trials in\nprogress."
+        ],
+        "negative_ctxs": [
+            13,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "using the following search terms: 'psoriasis', 'secukinumab', 'brodalumab', 'ixekizumab', 'anti-IL-17', 'IL-17 inhibitor' or 'IL-17 antagonists"
+        ],
+        "negative_ctxs": [
+            1,
+            2
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Study selection was performed by two independent investigators.\nFirst, titles and abstracts of cited articles were evaluated by\ntwo investigators to determine their relevance. Then, full papers\nwere reviewed to identify all trials meeting the eligibility criteria.\nDisagreements were resolved through discussion or by consensus\nwith a third investigator. "
+        ],
+        "negative_ctxs": [
+            16,
+            8
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Basic characteristics of included studies. Study   Journal    Dose and dosing schedule No. of patients Age (years)  Male\npatients N (%)  Duration of psoriasis (years) PASI score  Study duration  Modified Jadad score"
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Figure 2 Meta-analysis of the rate of the PASI 75 responders.  \n\nFigure 3 Meta-analysis of the rate of the PASI 90 responders. \n\nFigure 4 Meta-analysis of the rate of the PASI 100 responders. \n\nFigure 5 Meta-analysis of the proportion of patients who had a DLQI 0 or 1"
+        ],
+        "negative_ctxs": [
+            14,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Methodological quality of included articles was assessed using modified Jadad criteria with an eight-item scale (randomization, method of randomization, blinding, method of blinding, withdrawals and dropouts, inclusion and exclusion criteria, adverse effects and statistical analysis) by two independent reviewers. The majority of studies retained were allocated high-quality scores (mean modified Jadad score 7.875 for included studies, all of the nine RCTs had a score >=7)."
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "A total of 405 relevant articles were identified from various databases, of which 359 articles were excluded after reviewing the titles and abstracts. Then, an additional 37 articles were excluded due to various reasons (not RCTs, not phase 3 trials or no required data). Finally, nine articles27-35 including nine RCTs fully met the eligibility criteria. Nine RCTs with 5941 patients reported the proportion of patients with a 75% improvement from baseline in the PASI score (PASI 75) at 12 weeks. Nine RCTs with 5941 patients reported PASI 90 response rates. Nine RCTs with 5941 patients reported the PASI 100 response rates at 12 weeks."
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The statistical analysis was performed using Review Manager 5.2 (The Nordic Cochrane Centre, Copenhagen, Denmark) from the Cochrane Collaboration. All analysis indicators, which were categorical dichotomous variables, were assessed using relative risks (RR). P < 0.05 was considered to be statistically significant, and 95% confidence intervals (CI) were reported. Homogeneity was tested by the I2 statistic (significance level at I2 > 50%). 26 A random-effects model was used if the I2 statistic was significant. Otherwise, a fixed-effects model was used. "
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The IL-17 antagonists group was associated with a higher rate of DLQI 0 or 1 response than the placebo group (RR = 7.11, 95% CI: 4.18-12.09, P < 0.00001) with significant heterogeneity between studies (P = 0.0005, I2 = 80%; Fig. 5)\n\ns. IL-17 antagonists were associated with a higher infection proportion than the placebo group (RR = 1.29, 95% CI: 1.06-1.57, P = 0.01) with significant heterogeneity (P = 0.02,I2 = 56%; Fig. 8)."
+        ],
+        "negative_ctxs": [
+            10,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Our results are mainly based on individual case reports, smallcase  series  and  retrospective  studies.  Treatment options include topical, physical, surgery, systemic  treatments andphototherapy. Treatments were often reported to have beenunsuccessful. The disease course after treatment tends to beprogressive with occurrence of new lesions. Medical literature also shows that treatment of monoclonal gammopathy withalkylating agents does not necessarily influence the activity of skin disease."
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Methodological quality of included articles was assessed using modified Jadad criteria with an eight-item scale (randomization, method of randomization, blinding, method of blinding, withdrawals and dropouts, inclusion and exclusion criteria, adverse effects and statistical analysis) by two independent reviewers \n\nThe majority of studies retained were allocated high-quality scores (mean modified Jadad score 7.875 for included studies, all of the nine RCTs had a score >=7)."
+        ],
+        "negative_ctxs": [
+            2,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The meta-analysis results of phase 3 clinical trials indicate that\nIL-17 antagonists are effective agents in the treatment of patients with psoriasis."
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Studies included in this meta-analysis met the follow criteria: (i) they were phase 3 RCTs that enrolled patients with plaque psoriasis; (ii) their duration of treatment was >=12 weeks; (iii) they used a parallel design or crossover design of IL-17 antagonists vs. placebo; and (iv) their data reported information on Psoriasis Area and Severity Index (PASI) response, Dermatology Life Quality Index (DLQI) score of 0 or 1 response, adverse events (AEs) and discontinuations."
+        ],
+        "negative_ctxs": [
+            8,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched all relevant studies published before May 2016 on\nthe electronic databases MEDLINE, Embase and Cochrane\nLibrary, using the following search terms: 'psoriasis', 'secukinumab',\n'brodalumab', 'ixekizumab', 'anti-IL-17', 'IL-17 inhibitor'\nor 'IL-17 antagonists'. Additionally, Center Watch Clinical\nTrials Listing Service ( Current\nControlled Trials Service ( and\nclinical trials registered at ClinicalTrials.gov (\nls.gov) were searched for details of any relevant clinical trials in\nprogress."
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Study selection was performed by two independent investigators.\nFirst, titles and abstracts of cited articles were evaluated by\ntwo investigators to determine their relevance. Then, full papers\nwere reviewed to identify all trials meeting the eligibility criteria.\nDisagreements were resolved through discussion or by consensus\nwith a third investigator. "
+        ],
+        "negative_ctxs": [
+            7,
+            16
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Basic characteristics of included studies. Study   Journal    Dose and dosing schedule No. of patients Age (years)  Male\npatients N (%)  Duration of psoriasis (years) PASI score  Study duration  Modified Jadad score"
+        ],
+        "negative_ctxs": [
+            14,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Methodological quality of included articles was assessed using modified Jadad criteria with an eight-item scale (randomization, method of randomization, blinding, method of blinding, withdrawals and dropouts, inclusion and exclusion criteria, adverse effects and statistical analysis) by two independent reviewers. The majority of studies retained were allocated high-quality scores (mean modified Jadad score 7.875 for included studies, all of the nine RCTs had a score >=7)."
+        ],
+        "negative_ctxs": [
+            13,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The statistical analysis was performed using Review Manager 5.2 (The Nordic Cochrane Centre, Copenhagen, Denmark) from the Cochrane Collaboration. All analysis indicators, which were categorical dichotomous variables, were assessed using relative risks (RR). P < 0.05 was considered to be statistically significant, and 95% confidence intervals (CI) were reported. Homogeneity was tested by the I2 statistic (significance level at I2 > 50%). 26 A random-effects model was used if the I2 statistic was significant. Otherwise, a fixed-effects model was used. "
+        ],
+        "negative_ctxs": [
+            15,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The IL-17 antagonists group was associated with a higher rate of DLQI 0 or 1 response than the placebo group (RR = 7.11, 95% CI: 4.18-12.09, P < 0.00001) with significant heterogeneity between studies (P = 0.0005, I2 = 80%; Fig. 5)\n\ns. IL-17 antagonists were associated with a higher infection proportion than the placebo group (RR = 1.29, 95% CI: 1.06-1.57, P = 0.01) with significant heterogeneity (P = 0.02,I2 = 56%; Fig. 8)."
+        ],
+        "negative_ctxs": [
+            6,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Our results are mainly based on individual case reports, smallcase  series  and  retrospective  studies.  Treatment options include topical, physical, surgery, systemic  treatments andphototherapy. Treatments were often reported to have beenunsuccessful. The disease course after treatment tends to beprogressive with occurrence of new lesions. Medical literature also shows that treatment of monoclonal gammopathy withalkylating agents does not necessarily influence the activity of skin disease."
+        ],
+        "negative_ctxs": [
+            12,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Methodological quality of included articles was assessed using modified Jadad criteria with an eight-item scale (randomization, method of randomization, blinding, method of blinding, withdrawals and dropouts, inclusion and exclusion criteria, adverse effects and statistical analysis) by two independent reviewers \n\nThe majority of studies retained were allocated high-quality scores (mean modified Jadad score 7.875 for included studies, all of the nine RCTs had a score >=7)."
+        ],
+        "negative_ctxs": [
+            12,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflicts of interest. The authors declare that they have no competing interests."
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": []
+    }
+]

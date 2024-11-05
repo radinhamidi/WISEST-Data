@@ -1,0 +1,468 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We thus undertook to perform a meta-analysis of clinical trials performed in medical care, excluding cases of acute ischaemic stroke and acute myocardial infarction, in order to assess the prophylactic efficacy of heparins in such patients.\n\nOnly randomised trials assessing a dose of heparin corresponding to a prophylactic treatment of venous thromboembolic disease were included (i.e. for UFH: daily dose of 10,000 to 15,000 IU in two or three subcutaneous injections; for LMWH: doses corresponding to the prophylactic dose recommended for each one). Non randomised trials or trials assessing danaparoid sodium were excluded."
+        ],
+        "negative_ctxs": [
+            3,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Only randomised trials assessing a dose of heparin corresponding to a prophylactic treatment of venous thromboembolic disease were included (i.e. for UFH: daily dose of 10,000 to 15,000 IU in two or three subcutaneous injections; for LMWH: doses corresponding to the prophylactic dose recommended for each one). Non randomised trials or trials assessing danaparoid sodium were excluded."
+        ],
+        "negative_ctxs": [
+            10,
+            5
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We performed a computer assisted literature search with Medline(r) and Current Contents(r) for randomised clinical trials comparing a heparin prophylaxis [with low-molecular-weight heparin (LMWH) or unfractionated heparin (UFH)] to a control in the prevention of venous thromboembolic disease in internal medicine. All the manufacturers of LMWH in France were contacted and asked to provide published or unpublished trial data relevant to internal medicine (Sanofi for Nadroparin, Rhone-Poulenc Rorer for Enoxaparin, Pharmacia-Upjohn for Dalteparin) so that the data used were exhaustive. Hand searching of reference lists of retrieved material was performed."
+        ],
+        "negative_ctxs": [
+            3,
+            6
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Hand searching of reference lists of retrieved material was performed."
+        ],
+        "negative_ctxs": [
+            10,
+            11
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "The selection and extraction of data from the individual trials were initially and independently performed by two of the authors (PM, BT)."
+        ],
+        "negative_ctxs": [
+            12,
+            10
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "The selection and extraction of data from the individual trials were initially and independently performed by two of the authors (PM, BT)."
+        ],
+        "negative_ctxs": [
+            11,
+            7
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Summarised designs of all randomised controlled trials of heparin therapy versus control\n\nTable 2 Summarised designs of all randomised controlled trials of LMWH versus UFH therapy"
+        ],
+        "negative_ctxs": [
+            0,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 3 Summarised results of all randomised controlled trials of heparin therapy versus control\n\nTable 4 Summarised results of all randomised controlled trials of LMWH versus UFH"
+        ],
+        "negative_ctxs": [
+            4,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "In addition, a \"best-study\" subgroup was elaborated. This subgroup included only double-blind studies with a good randomisation method."
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Eight trials assessing the prophylactic efficacy of heparin (LMWH or UFH) versus a control group of patients receiving no active anti-thrombotic treatment (with or without placebo) were found\n\nNine clinical trials were found and selected for the comparison of LMWH and UFH \n\nHeparins versus Control\nDVT was assessed in 5 trials (845 patients), early mortality in 4 trials (14,658 patients) and clinical PE and major haemorrhage in 6 trials (respectively 14,843 and 12,603 patients) (Table 3).\n\nThe study published by Halkin (21), which was first excluded due to its system of randomisation, was finally included in this meta-analysis to test the robustness of the results. Only deaths (at one month) were recorded in this study (52/669 deaths in the UFH group and 75/689 deaths in the control group). A non-significant reduction in mortality was also observed when this study was taken into account (relative risk = 0.92 [0.82 to 1.03]; P = 0.14)\n\nLMWH versus UFH\nDVT and major haemorrhage were assessed in 8 trials, with respective totals of 4,085 and 4,469 patients (DVT assessment was not available for all patients). Early mortality was studied in all trials (4,669 patients) and clinical PE in 7 trials (4,033 patients) (Table 4)."
+        ],
+        "negative_ctxs": [
+            10,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "the meta-analyses were performed using the logarithm of the relative risk. A heterogeneity test was systematically performed and a random effect model for the relative risk was planned when this test was positive\n\nGraphical representation of the results of the meta-analysis (logarithm of the relative risk method) for deep-vein thrombosis (upper left), pulmonary embolism (upper right), deaths (lower left) and major bleeding (lower right) when comparing heparin (UFH and LMWH) to control.\n\nGraphical representation of the results of the meta-analysis (logarithm of the relative risk method) for deep-vein thrombosis (upper left), pulmonary embolism (upper right), deaths (lower left) and major bleeding (lower right) when comparing LMWH to UFH."
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The heterogeneity test was non-significant for each comparison.\n\nThe heterogeneity test was non-significant for each comparison.\n\nDespite the heterogeneity of the methods used for the diagnostic of DVT, there is an homogeneous treatment to control ratio whatever the diagnostic method applied was (non significant heterogeneity test).\n\nThis recommendation is however not definitive, since the patients of the different studies pooled were enrolled in internal medicine studies based on a confinement to bed for a period of more than 72 h which thus includes heterogeneous pathologies in terms of thrombotic risk\n\nDespite the different definitions of major bleeding among the trials (three studies with major\nbleeding defined as overt haemorrhage involving cessation of treatment, three studies with major bleeding defined as intracranial or retroperitoneal haemorrhage or as haemorrhage requiring transfusion and two studies without clear definition), the relative risks seem to be constant across the studies according to the heterogeneity test (p = 0.59)."
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Eight trials assessing the prophylactic efficacy of heparin (LMWH or UFH) versus a control group of patients receiving no active anti-thrombotic treatment (with or without placebo) were found\n\nNine clinical trials were found and selected for the comparison of LMWH and UFH"
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The robustness of the results was checked thanks to the \"best study\" subgroup, which only includes double blind trials with an adequate randomisation method. The results were comparable in this subgroup despite the loss of power, with a relative risk of 0.50 [0.33 to 0.76] for DVT (666 patients); 0.57 [0.27 to 1.20] for clinical PE (2,965 patients); 0.98 [0.79 to 1.21] for total number of deaths (2,965 patients); and 1.20 [0.41 to 3.56] for major bleeding episodes (725 patients)."
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "randomised clinical trials comparing a heparin prophylaxis [with low-molecular-weight heparin (LMWH) or unfractionated heparin (UFH)] to a control in the prevention of venous thromboembolic disease in internal medicine\n\nEight trials assessing the prophylactic efficacy of heparin (LMWH or UFH) versus a control group of patients receiving no active anti-thrombotic treatment (with or without placebo) were found"
+        ],
+        "negative_ctxs": [
+            2,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            4,
+            7
+        ],
+        "positive_ctxs": [
+            0,
+            2,
+            6
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Only randomised trials assessing a dose of heparin corresponding to a prophylactic treatment of venous thromboembolic disease were included (i.e. for UFH: daily dose of 10,000 to 15,000 IU in two or three subcutaneous injections; for LMWH: doses corresponding to the prophylactic dose recommended for each one). Non randomised trials or trials assessing danaparoid sodium were excluded."
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We performed a computer assisted literature search with Medline(r) and Current Contents(r) for randomised clinical trials comparing a heparin prophylaxis [with low-molecular-weight heparin (LMWH) or unfractionated heparin (UFH)] to a control in the prevention of venous thromboembolic disease in internal medicine. All the manufacturers of LMWH in France were contacted and asked to provide published or unpublished trial data relevant to internal medicine (Sanofi for Nadroparin, Rhone-Poulenc Rorer for Enoxaparin, Pharmacia-Upjohn for Dalteparin) so that the data used were exhaustive. Hand searching of reference lists of retrieved material was performed."
+        ],
+        "negative_ctxs": [
+            3,
+            0
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "The selection and extraction of data from the individual trials were initially and independently performed by two of the authors (PM, BT)."
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "The selection and extraction of data from the individual trials were initially and independently performed by two of the authors (PM, BT)."
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Summarised designs of all randomised controlled trials of heparin therapy versus control\n\nTable 2 Summarised designs of all randomised controlled trials of LMWH versus UFH therapy"
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "In addition, a \"best-study\" subgroup was elaborated. This subgroup included only double-blind studies with a good randomisation method."
+        ],
+        "negative_ctxs": [
+            9,
+            4
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "the meta-analyses were performed using the logarithm of the relative risk. A heterogeneity test was systematically performed and a random effect model for the relative risk was planned when this test was positive\n\nGraphical representation of the results of the meta-analysis (logarithm of the relative risk method) for deep-vein thrombosis (upper left), pulmonary embolism (upper right), deaths (lower left) and major bleeding (lower right) when comparing heparin (UFH and LMWH) to control.\n\nGraphical representation of the results of the meta-analysis (logarithm of the relative risk method) for deep-vein thrombosis (upper left), pulmonary embolism (upper right), deaths (lower left) and major bleeding (lower right) when comparing LMWH to UFH."
+        ],
+        "negative_ctxs": [
+            10,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The heterogeneity test was non-significant for each comparison.\n\nThe heterogeneity test was non-significant for each comparison.\n\nDespite the heterogeneity of the methods used for the diagnostic of DVT, there is an homogeneous treatment to control ratio whatever the diagnostic method applied was (non significant heterogeneity test).\n\nThis recommendation is however not definitive, since the patients of the different studies pooled were enrolled in internal medicine studies based on a confinement to bed for a period of more than 72 h which thus includes heterogeneous pathologies in terms of thrombotic risk\n\nDespite the different definitions of major bleeding among the trials (three studies with major\nbleeding defined as overt haemorrhage involving cessation of treatment, three studies with major bleeding defined as intracranial or retroperitoneal haemorrhage or as haemorrhage requiring transfusion and two studies without clear definition), the relative risks seem to be constant across the studies according to the heterogeneity test (p = 0.59)."
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Eight trials assessing the prophylactic efficacy of heparin (LMWH or UFH) versus a control group of patients receiving no active anti-thrombotic treatment (with or without placebo) were found\n\nNine clinical trials were found and selected for the comparison of LMWH and UFH"
+        ],
+        "negative_ctxs": [
+            11,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The robustness of the results was checked thanks to the \"best study\" subgroup, which only includes double blind trials with an adequate randomisation method. The results were comparable in this subgroup despite the loss of power, with a relative risk of 0.50 [0.33 to 0.76] for DVT (666 patients); 0.57 [0.27 to 1.20] for clinical PE (2,965 patients); 0.98 [0.79 to 1.21] for total number of deaths (2,965 patients); and 1.20 [0.41 to 3.56] for major bleeding episodes (725 patients)."
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            6
+        ],
+        "positive_ctxs": []
+    }
+]

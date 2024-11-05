@@ -1,0 +1,466 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "The search methods, eligibility criteria, and outcomes of interest were specified in advance in a protocol developed by the study investigators.\n\nAn expert reference librarian, following the protocol, conducted an electronic search strategy (Supplemental Table 1).\n\nThe strengths of the present review relate to the comprehensive nature of literature search and the measures undertaken to reduce the effect of bias and random error, including predefined protocol-driven work, duplicate data extraction and review, and expert contact."
+        ],
+        "negative_ctxs": [
+            15,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Search terms included lipodystrophy, and age 0 to 18 years. Patients with unambiguous diagnosis of lipodystrophy were included. Lipodystrophy secondary to HIV treatment was excluded.\n\nWe included original prospective and retrospective studies that reported data on lipodystrophy. Studies that contained a definite description of body fat distribution consistent with that seen in lipodystrophy were selected."
+        ],
+        "negative_ctxs": [
+            4,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Search terms included lipodystrophy, and age 0 to 18 years. Patients with unambiguous diagnosis of lipodystrophy were included. Lipodystrophy secondary to HIV treatment was excluded.\n\nWe included original prospective and retrospective studies that reported data on lipodystrophy. Studies that contained a definite description of body fat distribution consistent with that seen in lipodystrophy were selected."
+        ],
+        "negative_ctxs": [
+            13,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            25,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A comprehensive search of databases (Medline, Embase, Cochrane Central Register of Controlled Trials, Cochrane Database of Systematic Reviews, Scopus, and Medline In-Process and Other Non-Indexed Citations) was conducted in any language from the inception of each database through August 31, 2015"
+        ],
+        "negative_ctxs": [
+            29,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We identified additional candidate studies from the reference lists of the eligible primary studies and reviews, and we queried the content experts. We also obtained de-identified individual patient data from the National Institutes of Health (NIH) lipodystrophy database."
+        ],
+        "negative_ctxs": [
+            7,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We used the search terms \"lipodystrophy,\" \"congenital generalized lipodystrophy,\" and \"familial partial lipodystrophy.\""
+        ],
+        "negative_ctxs": [
+            11,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            31,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two reviewers working independently considered the potential eligibility of each abstract and title that resulted from the initial search."
+        ],
+        "negative_ctxs": [
+            27,
+            28
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two independent reviewers extracted data from each full-text report using a standardized form. Disagreements were harmonized by consensus and, if not possible, through arbitration by a third reviewer."
+        ],
+        "negative_ctxs": [
+            21,
+            15
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The original study design in 219 studies was case report (single patient), 111 were cohort studies (>=2 patients), and 21 studies reported data from the NIH database.\n\nWe identified 519 patients with CGL (Table 1). Most patients were white (32%), followed by Asian (24%), and black (17%). Of 286 patients for whom data were available, 174 (61%) had a history of parental consanguinity. The mean age at onset of fat loss was 0.3 year (range, 0.0 to 12 years). Fat loss from the face and neck, abdomen, thorax, and upper and lower limbs was explicitly reported for 89% to 93% of patients with CGL [Table 1; Fig. 2(A)]. Sixteen patients were specifically reported to have sparing of the palms and soles. DM (commonly without ketosis) was diagnosed in 222 patients (48%) with CGL, with a mean age at onset of 5.3 years (range, 0.1 to 34 years).\n\nWe identified 86 patients with AGL (Table 1). A female predominance (female/male ratio, 2.3) was noted. Most patients were white (72%). The mean age at the onset of fat loss was 5 years (range, 0.0 to 15 years). Progressive loss of fat occurred from the face and neck, abdomen, tho rax, and upper and lower limbs in 65% to 74% patients [Table 1; Fig. 2(B)]. Infectious illness preceding the onset of fat loss had occurred in 17 of 20 patients for whom these data were reported. The prevalence of DM was 70% (n = 46), and the mean age at the onset of DM was 16.2 years (range, 1.3 to 62 years).\n\nWe identified 124 patients with FPL (Table 1). White race (79%) and a female predominance (83%) were noted. The mean age at the onset of fat loss was 9.9 years (range, 0.0 to 16 years). Fat loss was prominent from the upper and lower limbs (66% and 73% patients, respectively), with sparing of the face and neck explicitly reported for 30 of 124 patients [Fig. 2(C)]. The prevalence of DM was 53%, with a mean age at onset of 24.2 years (range, 8 to 57 years)\n\nWe identified 124 patients with APL (Table 1). White race (73%) and a female predominance (83%) were noted. The mean age at the onset of fat loss was 8.2 years (range, 0.5 to 16 years).\n\nThe clinical and metabolic features of the other lipodystrophy syndromes are summarized in Supplemental Tables 4 and 5, respectively."
+        ],
+        "negative_ctxs": [
+            26,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Using a standardized web-based data extraction form, we extracted the following descriptive data from each study: demographic data (age, sex, ethnicity, and form of lipodystrophy), clinical features, interventions the patients had received, if any (type and duration), measures of outcome (specifically designed as an event or measure and period for the ascertainment of this outcome), and mortality data. We extracted the outcomes of interest at the longest point of complete follow-up. Owing to the heterogeneity in patient description, all clinical and metabolic features were not explicitly reported for each patient. We extracted and reported only unambiguously stated data. Data on clinical features were also extracted from the patient photographs included in a few studies. Evaluation of publication bias was not feasible because of heterogeneity and because most of the included studies were case reports and case series."
+        ],
+        "negative_ctxs": [
+            18,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "The systematic review included 1141 patients (219 from case re\u0002ports, 811 from cohort studies, and 111 from the NIH database). \n\nOf the total 1141 patients in our database, 744 were reported at <18 years of age and 397 at >=18 years of age .\n\nWe identified 519 patients with CGL (Table 1). \n\nWe identified 86 patients with AGL (Table 1). \n\nWe identified 124 patients with FPL (Table 1). \n\nWe identified 124 patients with APL (Table 1). \n\nThe clinical and metabolic features of the other lipodystrophy syndromes are summarized in Supplemental Tables 4 and 5, respectively."
+        ],
+        "negative_ctxs": [
+            0,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Descriptive analyses were used to present the patient characteristics.\n\nBecause of the limited number of patients included in each intervention and the lack of standardization of assays across the numerous laboratories included in our review, we were unable to statistically compare the changes in metabolic outcomes.\n\n\nOwing to the heterogeneity in the dose, route, and duration of treatment and the small sample size, it was difficult to draw statistically significant conclusions regarding the management of lipodystrophy in the included patients."
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Owing to the heterogeneity in the dose, route, and duration of treatment and the small sample size, it was difficult to draw statistically significant conclusions regarding the management of lipodystrophy in the included patients."
+        ],
+        "negative_ctxs": [
+            28,
+            3
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Evaluation of publication bias was not feasible because of heterogeneity and because most of the included studies were case reports and case series."
+        ],
+        "negative_ctxs": [
+            20,
+            7
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The major weakness of the present review resulted from biased reporting in the published studies, with likely underreporting of patients with milder manifestations of lipodystrophy. Also, the overall reporting in the included studies was likely biased toward more severe clinical and metabolic features. The features that were more likely to be reported, if present, included history of consanguinity, the sites of fat loss, the presence of prominent musculature, preceding infectious illness, reproductive data, and intellectual disability. Features less likely to be reported, if absent, were the sites of fat sparing, effects on appetite and growth, and associated autoimmune conditions. "
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The major weakness of the present review resulted from biased reporting in the published studies, with likely underreporting of patients with milder manifestations of lipodystrophy. \n\nUsing the GRADE (grades of recommendation, assessment, development, and evaluation) approach (64), the current direct evidence supporting the management of lipodystrophy in children warrants lower certainty owing to the methodologic limitations of the available studies (heterogeneity of the case reports and case series) and imprecision (i.e., small number of cases). Indirect evidence (i.e., evidence derived from other relevant conditions, such as evidence on the management of DM or dyslipidemia in children without lipodystrophy) warrants greater certainty and can be extrapolated for decision making, when appropriate. Metreleptin has been approved by the Food and Drug Administration for the treatment of children with CGL and AGL based on improvement in surrogate endpoint data (e.g., triglycerides and hemoglobin A1c) in small numbers of patients; ongoing data collection from pediatric patients treated with metreleptin is needed to determine metreleptin's effects on morbidity and mortality and its longterm safety and efficacy in this population.\n\n\n\nAdditionally, the inclusion of pediatric age range in our search strategy might have excluded some cases of lipodystrophy that were reported as adults but with an onset of symptom at <18 years old. Furthermore, because several patients with an\nonset at <18 years old were reported after they had reached adulthood, some complications of lipodystrophy, and the management of those complications, occurred in adulthood. However, because we restricted our review to patients with\nan age of onset of <18 years old  the ages at which various features of lipodystrophy occurred in our data set might have been systematically biased toward younger ages.\n\n\n\nFinally, considering the rarity of lipodystrophy syndromes, registry studies might facilitate comprehensive reporting of these patients and help to avoid publication bias and bias in phenotype\ndescription."
+        ],
+        "negative_ctxs": [
+            12,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The interventions reported in the included studies were metreleptin, diet, omega-3 polyunsaturated fatty acids and/or fish oil, insulin, metformin, oral hypoglycemic agents, statins, fibrates, nicotinic acid, and plasmapheresis. \n\nSearch terms included lipodystrophy, and age 0 to 18 years. Patients with unambiguous diagnosis of lipodystrophy were included. Lipodystrophy secondary to HIV treatment was excluded."
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            23,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "The search methods, eligibility criteria, and outcomes of interest were specified in advance in a protocol developed by the study investigators.\n\nAn expert reference librarian, following the protocol, conducted an electronic search strategy (Supplemental Table 1).\n\nThe strengths of the present review relate to the comprehensive nature of literature search and the measures undertaken to reduce the effect of bias and random error, including predefined protocol-driven work, duplicate data extraction and review, and expert contact."
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Search terms included lipodystrophy, and age 0 to 18 years. Patients with unambiguous diagnosis of lipodystrophy were included. Lipodystrophy secondary to HIV treatment was excluded.\n\nWe included original prospective and retrospective studies that reported data on lipodystrophy. Studies that contained a definite description of body fat distribution consistent with that seen in lipodystrophy were selected."
+        ],
+        "negative_ctxs": [
+            11,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A comprehensive search of databases (Medline, Embase, Cochrane Central Register of Controlled Trials, Cochrane Database of Systematic Reviews, Scopus, and Medline In-Process and Other Non-Indexed Citations) was conducted in any language from the inception of each database through August 31, 2015"
+        ],
+        "negative_ctxs": [
+            12,
+            30
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two reviewers working independently considered the potential eligibility of each abstract and title that resulted from the initial search."
+        ],
+        "negative_ctxs": [
+            18,
+            4
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two independent reviewers extracted data from each full-text report using a standardized form. Disagreements were harmonized by consensus and, if not possible, through arbitration by a third reviewer."
+        ],
+        "negative_ctxs": [
+            17,
+            14
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The original study design in 219 studies was case report (single patient), 111 were cohort studies (>=2 patients), and 21 studies reported data from the NIH database.\n\nWe identified 519 patients with CGL (Table 1). Most patients were white (32%), followed by Asian (24%), and black (17%). Of 286 patients for whom data were available, 174 (61%) had a history of parental consanguinity. The mean age at onset of fat loss was 0.3 year (range, 0.0 to 12 years). Fat loss from the face and neck, abdomen, thorax, and upper and lower limbs was explicitly reported for 89% to 93% of patients with CGL [Table 1; Fig. 2(A)]. Sixteen patients were specifically reported to have sparing of the palms and soles. DM (commonly without ketosis) was diagnosed in 222 patients (48%) with CGL, with a mean age at onset of 5.3 years (range, 0.1 to 34 years).\n\nWe identified 86 patients with AGL (Table 1). A female predominance (female/male ratio, 2.3) was noted. Most patients were white (72%). The mean age at the onset of fat loss was 5 years (range, 0.0 to 15 years). Progressive loss of fat occurred from the face and neck, abdomen, tho rax, and upper and lower limbs in 65% to 74% patients [Table 1; Fig. 2(B)]. Infectious illness preceding the onset of fat loss had occurred in 17 of 20 patients for whom these data were reported. The prevalence of DM was 70% (n = 46), and the mean age at the onset of DM was 16.2 years (range, 1.3 to 62 years).\n\nWe identified 124 patients with FPL (Table 1). White race (79%) and a female predominance (83%) were noted. The mean age at the onset of fat loss was 9.9 years (range, 0.0 to 16 years). Fat loss was prominent from the upper and lower limbs (66% and 73% patients, respectively), with sparing of the face and neck explicitly reported for 30 of 124 patients [Fig. 2(C)]. The prevalence of DM was 53%, with a mean age at onset of 24.2 years (range, 8 to 57 years)\n\nWe identified 124 patients with APL (Table 1). White race (73%) and a female predominance (83%) were noted. The mean age at the onset of fat loss was 8.2 years (range, 0.5 to 16 years).\n\nThe clinical and metabolic features of the other lipodystrophy syndromes are summarized in Supplemental Tables 4 and 5, respectively."
+        ],
+        "negative_ctxs": [
+            10,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Descriptive analyses were used to present the patient characteristics.\n\nBecause of the limited number of patients included in each intervention and the lack of standardization of assays across the numerous laboratories included in our review, we were unable to statistically compare the changes in metabolic outcomes.\n\n\nOwing to the heterogeneity in the dose, route, and duration of treatment and the small sample size, it was difficult to draw statistically significant conclusions regarding the management of lipodystrophy in the included patients."
+        ],
+        "negative_ctxs": [
+            20,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Owing to the heterogeneity in the dose, route, and duration of treatment and the small sample size, it was difficult to draw statistically significant conclusions regarding the management of lipodystrophy in the included patients."
+        ],
+        "negative_ctxs": [
+            4,
+            28
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Evaluation of publication bias was not feasible because of heterogeneity and because most of the included studies were case reports and case series."
+        ],
+        "negative_ctxs": [
+            31,
+            21
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The major weakness of the present review resulted from biased reporting in the published studies, with likely underreporting of patients with milder manifestations of lipodystrophy. Also, the overall reporting in the included studies was likely biased toward more severe clinical and metabolic features. The features that were more likely to be reported, if present, included history of consanguinity, the sites of fat loss, the presence of prominent musculature, preceding infectious illness, reproductive data, and intellectual disability. Features less likely to be reported, if absent, were the sites of fat sparing, effects on appetite and growth, and associated autoimmune conditions. "
+        ],
+        "negative_ctxs": [
+            30,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "This study was funded by the Pediatric Endocrine Society through an educational grant from Astra Zeneca; the investigators had no contact with Astra Zeneca. This publication was also supported by CTSA Grant UL1 TR000135 from the National Center for Advancing Translational Sciences, a component of the NIH. Its contents are solely the responsibility of the authors and do not necessarily represent the oficial views of the NIH. Disclosure Summary: The authors have nothing to disclose"
+        ],
+        "negative_ctxs": [
+            4,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The major weakness of the present review resulted from biased reporting in the published studies, with likely underreporting of patients with milder manifestations of lipodystrophy. \n\nUsing the GRADE (grades of recommendation, assessment, development, and evaluation) approach (64), the current direct evidence supporting the management of lipodystrophy in children warrants lower certainty owing to the methodologic limitations of the available studies (heterogeneity of the case reports and case series) and imprecision (i.e., small number of cases). Indirect evidence (i.e., evidence derived from other relevant conditions, such as evidence on the management of DM or dyslipidemia in children without lipodystrophy) warrants greater certainty and can be extrapolated for decision making, when appropriate. Metreleptin has been approved by the Food and Drug Administration for the treatment of children with CGL and AGL based on improvement in surrogate endpoint data (e.g., triglycerides and hemoglobin A1c) in small numbers of patients; ongoing data collection from pediatric patients treated with metreleptin is needed to determine metreleptin's effects on morbidity and mortality and its longterm safety and efficacy in this population.\n\n\n\nAdditionally, the inclusion of pediatric age range in our search strategy might have excluded some cases of lipodystrophy that were reported as adults but with an onset of symptom at <18 years old. Furthermore, because several patients with an\nonset at <18 years old were reported after they had reached adulthood, some complications of lipodystrophy, and the management of those complications, occurred in adulthood. However, because we restricted our review to patients with\nan age of onset of <18 years old  the ages at which various features of lipodystrophy occurred in our data set might have been systematically biased toward younger ages.\n\n\n\nFinally, considering the rarity of lipodystrophy syndromes, registry studies might facilitate comprehensive reporting of these patients and help to avoid publication bias and bias in phenotype\ndescription."
+        ],
+        "negative_ctxs": [
+            1,
+            20
+        ],
+        "positive_ctxs": []
+    }
+]

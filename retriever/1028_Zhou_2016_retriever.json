@@ -1,0 +1,459 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "All of the included studies had to meet all of the follow\u0002ing four criteria: (i) study design: clinical cohort, case-control study or cross-sectional study; (ii) study subject: relationship between IL-17 plasma levels and psoriasis;(iii) patients: had to met the diagnostic criteria for psoriasis; and (iv) inclusion of IL-17 plasma levels."
+        ],
+        "negative_ctxs": [
+            9,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "All of the included studies had to meet all of the follow\u0002ing four criteria: (i) study design: clinical cohort, case-control study or cross-sectional study; (ii) study subject: relationship between IL-17 plasma levels and psoriasis;(iii) patients: had to met the diagnostic criteria for psoriasis; and (iv) inclusion of IL-17 plasma levels."
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "FIGURE 1: 79 articles were excluded based on not provided sufficient date, not case-control, or cohort study or cross-sectional study\n\n\n\"All of the included studies had to meet all of the followingfour criteria: ....psoriasis; and (iv) inclusion of IL-17 plasma levels.\"\n\nSecond, we found during analysis that many of the articles used line charts and scatter plots to present the plasma levels of IL-17, without providing mean values and standard deviations, so that we could not extract more data from these articles\n\n\nSecond, we found during analysis that many of the articles used line charts and scatter plots to present the plasma levels of IL-17, without providing mean values and standard deviations, so that we could not extract more data from these articles"
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "FIGURE 1 flowchart: 79 articles were excluded based on not provided sufficient date (i.e. data), not case-control, or cohort study or cross-sectional study\n\n\n\"All of the included studies had to meet all of the followingfour criteria: ....psoriasis; and (iv) inclusion of IL-17 plasma levels.\"\n\n\nSecond, we found during analysis that many of the articles used line charts and scatter plots to present the plasma levels of IL-17, without providing mean values and standard deviations, so that we could not extract more data from these articles"
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Three investigators (ZX, BJ, HB) independently searched published studies indexed in PubMed, Web of Science and MEDLINE from their inception to 1 November 2015, using the search terms 'psoriasis', 'IL-17' and 'interleukin-17'. Details of our search strategy are described in Supplementary data online. ."
+        ],
+        "negative_ctxs": [
+            9,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "A manual search of the references of the retrieved articles meeting the inclusion criteria was also performed."
+        ],
+        "negative_ctxs": [
+            8,
+            4
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Three investigators (ZX, BJ, HB) independently searched published studies indexed in PubMed, Web of Science and MEDLINE from their inception to 1 November 2015, using the search terms 'psoriasis', 'IL-17' and 'interleukin-17'. Details of our search strategy are described in Supplementary data online. "
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "The three investigators extracted all data independently, complied with the selection criteria, and reached a consensus on all items."
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "The three investigators extracted all data independently, complied with the selection criteria, and reached a consensus on all items."
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Characteristics of studies included in this meta-analysis\" with \"Reference, Ethinicity, Number of patients, Age, years, Plasma level of IL-17,Psoriasis type, Sample type, Cases, Controls, PASI \n\n\nThe publication year of the included studies ranged from 2005 to 2015. Three studies were conducted in European populations and six studies in Asian populations."
+        ],
+        "negative_ctxs": [
+            9,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "FIGURE 1: 79 articles were excluded based on not provided sufficient date, not case-control, or cohort study or cross-sectional study\n\nSecond, we found during analysis that many of the articles used line charts and scatter plots to present the plasma levels of IL-17, without providing mean values and standard deviations, so that we could not extract more data from these articles"
+        ],
+        "negative_ctxs": [
+            5,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "The meta-analysis results revealed that the study from Xuan et al. on the mean levels of IL-17 plasma in patients with psoriasis and HCs was an outlier (Fig. S1). Upon further analysis, we found that the measurement method used in that study was flow cytometry while the other studies used ELISA, and this difference in methods might explain the difference in results. We therefore excluded this article, leaving us with eight studies on the association between the mean levels of IL-17 plasma and psoriasis for the final analysis."
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "1) Because there was obvious heterogeneity between the studies (I2 = 78.7, P < 0.001), a random-effects model was used.\n2) \"9 case-control studies1,6-13 were initially included in this meta-analysis,\" [so they did group similar study designs in the meta-analysis] and \"Nine cross-sectional study were included in this meta-analysis\"\n3) interventions were the same. They excluded one study that used a different measurement, which is appropriate \"The meta-analysis results revealed that the study from Xuan et al. on the mean levels of IL-17 plasma in patients with psoriasis and HCs was an outlier (Fig. S1). Upon further analysis, we found that the measurement method used in that study was flow cytometry while the other studies used ELISA, and this difference in methods might explain the difference in results\""
+        ],
+        "negative_ctxs": [
+            1,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The results of subgroup analysis by ethnicity revealed that there was no significant association with IL-17 plasma levels in either the European (SMD = 0.52, 95% CI 0.08 to 1.11, P = 0.03) or the Asian (SMD = 0.44, 95% CI 0.14 to 1.01, P < 0.001) populations studied.\nOf the nine articles we chose initially, we found that several did not classify by type or severity of psoriasis, which had a negative impact on our subgroup analysis to find the sources of the heterogeneity."
+        ],
+        "negative_ctxs": [
+            3,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Sensitivity analysis was performed to assess the influence of each individual study on the pooled estimates by omitting individual studies in turn. The results suggested that no individual study significantly affected the pooled estimates for the associations of plasma IL-17 levels with psoriasis risk, and that the results were stable and reliable (Fig. 3). \n\n\nSensitivity analysis was performed byomitting each study in turn to assess the quality andconsistency of the results. Begger funnel plots andEgger linear regression test were used to evaluate pub-lication bias.5Two-sidedP<0.05 was considered sta-tistically significant.\nAn Egger linear regression test was performed to assess the publication bias of included studies. The shapes of the funnel plots revealed that the data from Kanda et al. showed some evidence of asymmetry for the associations of plasma IL-17 levels with psoriasis risk (Fig. S3). This may have been due to their small sample size. The Egger test displayed strong statistical evidence (t = 2.94, P = 0.0) for publication bias in all of the studies.\n\n\nConsequently, detailed studies are still needed to support our conclusions. However, based on the sensitivity analyses, our results were robust."
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Therefore, the sample size was comparatively small and may not have had adequate statistical data to estimate the association between IL-17 and psoria\u0002sis risk. Thus, more studies with bigger sample sizes are needed for better statistical analysis. Third, because a meta-analysis is a cross-sectional study, it may include selection bias, which may have influenced the reliability of our findings.18 Fourth, the sta\u0002tistical heterogeneity was high for the whole analysis"
+        ],
+        "negative_ctxs": [
+            6,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            8,
+            7
+        ],
+        "positive_ctxs": [
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "All of the included studies had to meet all of the follow\u0002ing four criteria: (i) study design: clinical cohort, case-control study or cross-sectional study; (ii) study subject: relationship between IL-17 plasma levels and psoriasis;(iii) patients: had to met the diagnostic criteria for psoriasis; and (iv) inclusion of IL-17 plasma levels."
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Three investigators (ZX, BJ, HB) independently searched published studies indexed in PubMed, Web of Science and MEDLINE from their inception to 1 November 2015, using the search terms 'psoriasis', 'IL-17' and 'interleukin-17'. Details of our search strategy are described in Supplementary data online. ."
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "The three investigators extracted all data independently, complied with the selection criteria, and reached a consensus on all items."
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "The three investigators extracted all data independently, complied with the selection criteria, and reached a consensus on all items."
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Characteristics of studies included in this meta-analysis\" with \"Reference, Ethinicity, Number of patients, Age, years, Plasma level of IL-17,Psoriasis type, Sample type, Cases, Controls, PASI \n\n\nThe publication year of the included studies ranged from 2005 to 2015. Three studies were conducted in European populations and six studies in Asian populations."
+        ],
+        "negative_ctxs": [
+            7,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "1) Because there was obvious heterogeneity between the studies (I2 = 78.7, P < 0.001), a random-effects model was used.\n2) \"9 case-control studies1,6-13 were initially included in this meta-analysis,\" [so they did group similar study designs in the meta-analysis] and \"Nine cross-sectional study were included in this meta-analysis\"\n3) interventions were the same. They excluded one study that used a different measurement, which is appropriate \"The meta-analysis results revealed that the study from Xuan et al. on the mean levels of IL-17 plasma in patients with psoriasis and HCs was an outlier (Fig. S1). Upon further analysis, we found that the measurement method used in that study was flow cytometry while the other studies used ELISA, and this difference in methods might explain the difference in results\""
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The results of subgroup analysis by ethnicity revealed that there was no significant association with IL-17 plasma levels in either the European (SMD = 0.52, 95% CI 0.08 to 1.11, P = 0.03) or the Asian (SMD = 0.44, 95% CI 0.14 to 1.01, P < 0.001) populations studied.\nOf the nine articles we chose initially, we found that several did not classify by type or severity of psoriasis, which had a negative impact on our subgroup analysis to find the sources of the heterogeneity."
+        ],
+        "negative_ctxs": [
+            9,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Sensitivity analysis was performed to assess the influence of each individual study on the pooled estimates by omitting individual studies in turn. The results suggested that no individual study significantly affected the pooled estimates for the associations of plasma IL-17 levels with psoriasis risk, and that the results were stable and reliable (Fig. 3). \n\n\nSensitivity analysis was performed byomitting each study in turn to assess the quality andconsistency of the results. Begger funnel plots andEgger linear regression test were used to evaluate pub-lication bias.5Two-sidedP<0.05 was considered sta-tistically significant.\nAn Egger linear regression test was performed to assess the publication bias of included studies. The shapes of the funnel plots revealed that the data from Kanda et al. showed some evidence of asymmetry for the associations of plasma IL-17 levels with psoriasis risk (Fig. S3). This may have been due to their small sample size. The Egger test displayed strong statistical evidence (t = 2.94, P = 0.0) for publication bias in all of the studies.\n\n\nConsequently, detailed studies are still needed to support our conclusions. However, based on the sensitivity analyses, our results were robust."
+        ],
+        "negative_ctxs": [
+            10,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflict of interest: the authors declare that they have no conflicts of interest."
+        ],
+        "negative_ctxs": [
+            6,
+            8
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Therefore, the sample size was comparatively small and may not have had adequate statistical data to estimate the association between IL-17 and psoria\u0002sis risk. Thus, more studies with bigger sample sizes are needed for better statistical analysis. Third, because a meta-analysis is a cross-sectional study, it may include selection bias, which may have influenced the reliability of our findings.18 Fourth, the sta\u0002tistical heterogeneity was high for the whole analysis"
+        ],
+        "negative_ctxs": [
+            10,
+            7
+        ],
+        "positive_ctxs": []
+    }
+]

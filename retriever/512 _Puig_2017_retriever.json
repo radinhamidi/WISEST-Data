@@ -1,0 +1,478 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "The selection of databases, eligibility criteria, outcomes of the review and analyses methods were defined a priori in an internal protocol."
+        ],
+        "negative_ctxs": [
+            6,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Published articles were included if they investigated one of the following treatments: all disease-modifying anti-rheumatic drugs (DMARDs) including biologics used for psoriasis treatment. The comparisons had to be done either vs. a placebo or an active treatment. Study design included randomized clinical trials (RCTs) with any blinding status, non-RCTs and observational studies. There was no restriction on treatment duration. Patient population consisted of adults (>=18 years of age) of any gender/race with moderate-to-severe psoriasis. The inclusion criteria in the clinical trials and studies were in line with the definition of moderate-to-severe psoriasis. Studies had to report at least one outcome of interest, that is, PASI 75-89 (>=75-<90% improve\u0002ment (reduction) in PASI score with respect to baseline), PASI 90 (>=90% improvement (reduction) in PASI score), PASI 100 (complete clearance of psoriasis corresponds to absolute score PASI = 0) and their corresponding DLQI 0/1 response rates."
+        ],
+        "negative_ctxs": [
+            18,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Published articles were included if they investigated one of the following treatments: all disease-modifying anti-rheumatic drugs (DMARDs) including biologics used for psoriasis treatment. The comparisons had to be done either vs. a placebo or an active treatment. Study design included randomized clinical trials (RCTs) with any blinding status, non-RCTs and observational studies. There was no restriction on treatment duration. Patient population consisted of adults (>=18 years of age) of any gender/ race with moderate-to-severe psoriasis. The inclusion criteria in the clinical trials and studies were in line with the definition of moderate-to-severe psoriasis. Studies had to report at least one outcome of interest, that is, PASI 75-89 (>=75-<90% improvement (reduction) in PASI score with respect to baseline), PASI 90 (>=90% improvement (reduction) in PASI score), PASI 100 (complete clearance of psoriasis corresponds to absolute score PASI = 0) and their corresponding DLQI 0/1 response rates."
+        ],
+        "negative_ctxs": [
+            11,
+            18
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Exclusion criteria were as follows: use of conventional interventions, no sub-group analysis for disease of interest and studies not reporting secondary outcomes data (QoL) for the primary outcome of interest (PASI response)"
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Only articles in English language were included"
+        ],
+        "negative_ctxs": [
+            20,
+            19
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "MEDLINE (including Medline-in-Process), PubMed, EMBASE, the Cochrane Centre Register of Controlled Trials and National Health Service Economic Evaluation Database was carried out in Ovid"
+        ],
+        "negative_ctxs": [
+            4,
+            20
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Table 1: List of search terms used for retrieving relevant studies from various databases "
+        ],
+        "negative_ctxs": [
+            6,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "relevant articles for last 10 years (2004-2014)"
+        ],
+        "negative_ctxs": [
+            13,
+            2
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Study selection, data extraction and quality assessment were performed independently by two assessors. Any discrepancy was reconciled by a third independent reviewer"
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Study selection, data extraction and quality assessment were performed independently by two assessors. Any discrepancy was reconciled by a third independent reviewer"
+        ],
+        "negative_ctxs": [
+            17,
+            18
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 2: The demographics and disease characteristics of study participants at baseline\n\nHeadings: Interventions, Number of participants, Gender (%), Age (years), duration of psoriasis (years) "
+        ],
+        "negative_ctxs": [
+            9,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 2: The demographics and disease characteristics of study participants at baseline "
+        ],
+        "negative_ctxs": [
+            18,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Jadad scoring system was used to appraise adequacy of randomization, blinding and reporting of withdrawals/ discontinuations for RCTs, while the Downs and Black's checklist was used to appraise the non-RCTs"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Figure 1: PRISMA Flow for study inclusion. PRISMA, preferred reporting items for systematic reviews and meta analyses. \n\n\nTable 3: List of studies included in the anaysis of the primary efficacy endpoint at 10-16 weeks and meta-analysis\n\n\nFigure 4: Forest plot: DLQI change from baseline - PASI 90 vs. PASI 75-89. DLQI, dermatology life quality index; PASI, psoriasis area and severity index\n\n\nFigure 5: Forest plot: DLQI 0/1 response - PASI 90 vs. PASI 75-89. DLQI, dermatology life quality index; PASI, psoriasis area and severity index"
+        ],
+        "negative_ctxs": [
+            6,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Classical statistically significant differences between DLQI effect in PASI 75-89 and PASI 90 responders, at 0.05 level, were assessed using one-sided Bayesian P-values; these are the Bayesian probability that DLQI effect was greater in one responder group than the other. Metaanalysis of studies was conducted using OpenBUGS (version 3.2.2 rev 1063).\n\nTable 3: List of studies included in the anaysis of the primary efficacy endpoint at 10-16 weeks and meta-analysis\n\n\nFigure 4: Forest plot: DLQI change from baseline - PASI 90 vs. PASI 75-89. DLQI, dermatology life quality index; PASI, psoriasis area and severity index\n\n\nFigure 5: Forest plot: DLQI 0/1 response - PASI 90 vs. PASI 75-89. DLQI, dermatology life quality index; PASI, psoriasis area and severity index"
+        ],
+        "negative_ctxs": [
+            16,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Bayesian meta-analysis was used to combine estimates of DLQI improvement in PASI responder subgroups when three or more studies are available. If sufficient data were available to fit both, a choice between fixed and random effects models was made on the basis of lowest Deviance Information Criterion (DIC) and residual deviance.24,25\n\nUsing afixed effects model, the mean percentage reduction from base-line in DLQI scores, i.e. improvement, was greater (Bayesianprobability>99.99%)  in  PASI  90  responders  (90%  [95%Credible Intervals, CrI: 88%, 93%]) as compared with PASI75-89 responders (78% [95% CrI: 75%, 82%])\n\nUsing a fixed effects model, a greater proportion ofPASI 90 responders (Bayesian probability>99.99%) achieved aDLQI score of 0/1 (76% [95% CrI: 70%, 76%]) as comparedwith PASI 75-89 responders (45% [95% CrI: 41%, 50%]). "
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "It was not possible to perform a meta-analyses looking at correlation between PASI 75-89 and PASI 90 response and mean change DLQI and DLQI score of 0/1 in subgroups stratified by age, sex or other covariates due to the limited number of studies included in the analyses \n\n\nTable 3: List of studies included in the anaysis of the primary efficacy endpoint at 10-16 weeks and meta-analysis\n\n\nFigure 4: Forest plot: DLQI change from baseline - PASI 90 vs. PASI 75-89. DLQI, dermatology life quality index; PASI, psoriasis area and severity index\n\n\nFigure 5: Forest plot: DLQI 0/1 response - PASI 90 vs. PASI 75-89. DLQI, dermatology life quality index; PASI, psoriasis area and severity index"
+        ],
+        "negative_ctxs": [
+            16,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "certain limitations that should be considered while interpreting the results of this review. There were limited publications with relevant data corresponding to the spectrum of PASI improvement. Also, the study conclusion was based on studies that reported DLQI data; results of other HRQoL tools were not adequately reported. There was also insufficient evidence available for meta-analysis at the maintenance phase; so, longer-term effects are uncertain. There was also lack of real-world evidence to support the conclusions."
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Published articles were included if they investigated one of the following treatments: all disease-modifying anti-rheumatic drugs (DMARDs) including biologics used for psoriasis treatment. The comparisons had to be done either vs. a placebo or an active treatment. Study design included randomized clinical trials (RCTs) with any blinding status, non-RCTs and observational studies. There was no restriction on treatment duration. Patient population consisted of adults (>=18 years of age) of any gender/ race with moderate-to-severe psoriasis. The inclusion criteria in the clinical trials and studies were in line with the definition of moderate-to-severe psoriasis. Studies had to report at least one outcome of interest, that is, PASI 75-89 (>=75-<90% improvement (reduction) in PASI score with respect to baseline), PASI 90 (>=90% improvement (reduction) in PASI score), PASI 100 (complete clearance of psoriasis corresponds to absolute score PASI = 0) and their corresponding DLQI 0/1 response rates."
+        ],
+        "negative_ctxs": [
+            12,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "The selection of databases, eligibility criteria, outcomes of the review and analyses methods were defined a priori in an internal protocol."
+        ],
+        "negative_ctxs": [
+            10,
+            19
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Published articles were included if they investigated one of the following treatments: all disease-modifying anti-rheumatic drugs (DMARDs) including biologics used for psoriasis treatment. The comparisons had to be done either vs. a placebo or an active treatment. Study design included randomized clinical trials (RCTs) with any blinding status, non-RCTs and observational studies. There was no restriction on treatment duration. Patient population consisted of adults (>=18 years of age) of any gender/ race with moderate-to-severe psoriasis. The inclusion criteria in the clinical trials and studies were in line with the definition of moderate-to-severe psoriasis. Studies had to report at least one outcome of interest, that is, PASI 75-89 (>=75-<90% improvement (reduction) in PASI score with respect to baseline), PASI 90 (>=90% improvement (reduction) in PASI score), PASI 100 (complete clearance of psoriasis corresponds to absolute score PASI = 0) and their corresponding DLQI 0/1 response rates."
+        ],
+        "negative_ctxs": [
+            18,
+            10
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "MEDLINE (including Medline-in-Process), PubMed, EMBASE, the Cochrane Centre Register of Controlled Trials and National Health Service Economic Evaluation Database was carried out in Ovid"
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Study selection, data extraction and quality assessment were performed independently by two assessors. Any discrepancy was reconciled by a third independent reviewer"
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Study selection, data extraction and quality assessment were performed independently by two assessors. Any discrepancy was reconciled by a third independent reviewer"
+        ],
+        "negative_ctxs": [
+            19,
+            13
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 2: The demographics and disease characteristics of study participants at baseline\n\nHeadings: Interventions, Number of participants, Gender (%), Age (years), duration of psoriasis (years) "
+        ],
+        "negative_ctxs": [
+            8,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Jadad scoring system was used to appraise adequacy of randomization, blinding and reporting of withdrawals/ discontinuations for RCTs, while the Downs and Black's checklist was used to appraise the non-RCTs"
+        ],
+        "negative_ctxs": [
+            3,
+            2
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Classical statistically significant differences between DLQI effect in PASI 75-89 and PASI 90 responders, at 0.05 level, were assessed using one-sided Bayesian P-values; these are the Bayesian probability that DLQI effect was greater in one responder group than the other. Metaanalysis of studies was conducted using OpenBUGS (version 3.2.2 rev 1063).\n\nTable 3: List of studies included in the anaysis of the primary efficacy endpoint at 10-16 weeks and meta-analysis\n\n\nFigure 4: Forest plot: DLQI change from baseline - PASI 90 vs. PASI 75-89. DLQI, dermatology life quality index; PASI, psoriasis area and severity index\n\n\nFigure 5: Forest plot: DLQI 0/1 response - PASI 90 vs. PASI 75-89. DLQI, dermatology life quality index; PASI, psoriasis area and severity index"
+        ],
+        "negative_ctxs": [
+            3,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Bayesian meta-analysis was used to combine estimates of DLQI improvement in PASI responder subgroups when three or more studies are available. If sufficient data were available to fit both, a choice between fixed and random effects models was made on the basis of lowest Deviance Information Criterion (DIC) and residual deviance.24,25\n\nUsing afixed effects model, the mean percentage reduction from base-line in DLQI scores, i.e. improvement, was greater (Bayesianprobability>99.99%)  in  PASI  90  responders  (90%  [95%Credible Intervals, CrI: 88%, 93%]) as compared with PASI75-89 responders (78% [95% CrI: 75%, 82%])\n\nUsing a fixed effects model, a greater proportion ofPASI 90 responders (Bayesian probability>99.99%) achieved aDLQI score of 0/1 (76% [95% CrI: 70%, 76%]) as comparedwith PASI 75-89 responders (45% [95% CrI: 41%, 50%]). "
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "It was not possible to perform a meta-analyses looking at correlation between PASI 75-89 and PASI 90 response and mean change DLQI and DLQI score of 0/1 in subgroups stratified by age, sex or other covariates due to the limited number of studies included in the analyses \n\n\nTable 3: List of studies included in the anaysis of the primary efficacy endpoint at 10-16 weeks and meta-analysis\n\n\nFigure 4: Forest plot: DLQI change from baseline - PASI 90 vs. PASI 75-89. DLQI, dermatology life quality index; PASI, psoriasis area and severity index\n\n\nFigure 5: Forest plot: DLQI 0/1 response - PASI 90 vs. PASI 75-89. DLQI, dermatology life quality index; PASI, psoriasis area and severity index"
+        ],
+        "negative_ctxs": [
+            20,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Figure 1 Flowchart \"Data from studies conducted by Novartis for Secukinumab, N = 1\""
+        ],
+        "negative_ctxs": [
+            15,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "This study was sponsored by Novartis Pharma AG, Basel, Switzerland. Luis Puig- consultancy honoraria and participation in clinical trials sponsored by Novartis. Howard Thom- consultant for Novartis Pharma AG and Eli\u0002Lilly; Patrick Mollon and Haijun Tian are employees of Novartis Pharma AG, and Ramakrishna GS is employee of Novartis Healthcare Private Limited"
+        ],
+        "negative_ctxs": [
+            18,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "certain limitations that should be considered while interpreting the results of this review. There were limited publications with relevant data corresponding to the spectrum of PASI improvement. Also, the study conclusion was based on studies that reported DLQI data; results of other HRQoL tools were not adequately reported. There was also insufficient evidence available for meta-analysis at the maintenance phase; so, longer-term effects are uncertain. There was also lack of real-world evidence to support the conclusions."
+        ],
+        "negative_ctxs": [
+            8,
+            18
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    }
+]

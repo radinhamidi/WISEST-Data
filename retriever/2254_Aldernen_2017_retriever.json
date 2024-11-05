@@ -1,0 +1,491 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We adapted inclusion criteria based on the method employed by Coleman et al. (2013), to include (a) primary research; (b) adult sample; (c) ICU setting; (d) prospective cohort, retrospective record review, or controlled trial; and (e) identification of independent risk factors for pressure injury (multivariate analysis)"
+        ],
+        "negative_ctxs": [
+            3,
+            49
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We adapted inclusion criteria based on the method employed by Coleman et al. (2013), to include (a) primary research; (b) adult sample; (c) ICU setting; (d) prospective cohort, retrospective record review, or controlled trial; and (e) identification of independent risk factors for pressure injury (multivariate analysis)"
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "There was no language restriction.\n\nFig. 3. Decision Process"
+        ],
+        "negative_ctxs": [
+            38,
+            51
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched the medical subject headings pressure injury and intensive care units in addition to field-restricted keywords for the following databases: CINAHL (EBSCOhost), the Cochrane Library (Wilson), Dissertations & Theses Global (ProQuest), and PubMed (National Library of Medicine)."
+        ],
+        "negative_ctxs": [
+            14,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix A. Database Search Strategies\n"
+        ],
+        "negative_ctxs": [
+            41,
+            9
+        ],
+        "positive_ctxs": [
+            45
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Appendix A. Database Search Strategies\n"
+        ],
+        "negative_ctxs": [
+            15,
+            23
+        ],
+        "positive_ctxs": [
+            45
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two investigators (JA and LB) identified potentially eligible studies. Among those deemed potentially eligible, JA noted whether each study met inclusion criteria for this review (or stated the reason the study did not meet criteria) and LB checked JA's categorizations. Disagreements were addressed by a third researcher, JR, and agreement was determined by consensus."
+        ],
+        "negative_ctxs": [
+            40,
+            26
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "In addition, one investigator (JA) extracted data pertaining to study design, population, setting, analysis, and results, and a second investigator (JRB) reviewed the data for accuracy."
+        ],
+        "negative_ctxs": [
+            23,
+            34
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "3.3. Pressure injury outcome variable\n\nTable 3. Summary of Evidence for Risk Factor Domains and Subdomains."
+        ],
+        "negative_ctxs": [
+            37,
+            53
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1. Summary of Studies"
+        ],
+        "negative_ctxs": [
+            24,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two researchers conducted the quality appraisal and reached \"substantial\" agreement independently, as evidenced by Kappa = 0.72 (Viera and Garrett, 2005). After inter-rater reliability was calculated, the researchers reviewed any discrepancies and came to agreement. When possible, we contacted study authors for\nclarification purposes. Quality appraisal results are identified in Table 2. The included studies had between zero and two major sources of bias, and between one and six moderate sources of bias; overall, five studies were classified as high quality (Slowikowski and Funk, 2010; Cox and Roche, 2015; Suriadi et al., 2008; O'Brien et al., 2014; Cox, 2011), two were of moderate quality (Manzano et al., 2010; Nijs et al., 2009), nine were of low quality (Frankel et al., 2007; Kaitani et al., 2010; Sayar et al., 2009; Tayyib et al., 2015; Theaker et al., 2000; Ulker Efteli and Yapucu Gunes, 2013; Compton et al., 2008; Fife et al., 2001; Yepes et al., 2009), and two were of very low quality (Cremasco et al., 2013; Eachempati et al., 2001).\n\nTable 2. Study Quality: Potential Bias."
+        ],
+        "negative_ctxs": [
+            25,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two researchers conducted the quality appraisal and reached \"substantial\" agreement independently, as evidenced by Kappa = 0.72 (Viera and Garrett, 2005). After inter-rater reliability was calculated, the researchers reviewed any discrepancies and came to agreement. When possible, we contacted study authors for clarification purposes."
+        ],
+        "negative_ctxs": [
+            44,
+            33
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "3. Results"
+        ],
+        "negative_ctxs": [
+            25,
+            12
+        ],
+        "positive_ctxs": [
+            9,
+            29
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Meta-analysis was not feasible for this review because of a high degree of clinical heterogeneity related to population, predictor variable operationalization, preventive interventions, and different thresholds for the pressure injury outcome variable (new Category 1 and greater pressure injury vs. new Category 2 and greater)\naccording to the international National Pressure Ulcer Advisory Panel/European Pressure Ulcer Advisory Panel (NPUAP/EPUAP) classification system (National Pressure Ulcer Advisory Panel et al., 2014). The purpose of the review was to identify risk factors rather than to quantify the effect size of the relationship between a given factor and pressure injury development; therefore, we conducted a narrative synthesis."
+        ],
+        "negative_ctxs": [
+            47,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Meta-analysis was not feasible for this review because of a high degree of clinical heterogeneity related to population, predictor variable operationalization, preventive interventions, and different thresholds for the pressure injury outcome variable (new Category 1 and greater pressure injury vs. new Category 2 and greater)\naccording to the international National Pressure Ulcer Advisory Panel/European Pressure Ulcer Advisory Panel (NPUAP/EPUAP) classification system (National Pressure Ulcer Advisory Panel et al., 2014). The purpose of the review was to identify risk factors rather than to quantify the effect size of the relationship between a given factor and pressure injury development; therefore, we conducted a narrative synthesis."
+        ],
+        "negative_ctxs": [
+            50,
+            39
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Quality appraisal results are identified in Table 2. The included studies had between zero and two major sources of bias, and between one and six moderate sources of bias; overall, five studies were classified as high quality (Slowikowski and Funk, 2010; Cox and Roche, 2015; Suriadi et al., 2008; O'Brien et al., 2014; Cox, 2011), two were of moderate quality (Manzano et al., 2010; Nijs et al., 2009), nine were of low quality (Frankel et al., 2007; Kaitani et al., 2010; Sayar et al., 2009; Tayyib et al., 2015; Theaker et al., 2000; Ulker Efteli and Yapucu Gunes, 2013; Compton et al., 2008; Fife et al., 2001; Yepes et al., 2009), and two were of very low quality (Cremasco et al., 2013; Eachempati et al., 2001).\n\nOur findings reveal inconsistent results among studies, as well as marked variability in study quality, indicating that researchers should avoid overinterpretation of results from any single study. Each study was subjected to quality assessment, which will allow clinicians and researchers to take quality into consideration when\nevaluating results."
+        ],
+        "negative_ctxs": [
+            5,
+            52
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Our study was limited to critical care patients with in the ICU setting. Therefore, it is possible that we failed to include research that featured critically ill patients in other settings, or subgroup analysis of studies that featured various levels of acuity among hospitalized patients. Finally, our search strategy included data-bases that are primarily in the English language - CINAHL(EBSCOhost), the Cochrane Library (Wilson), Dissertations & Theses Global (ProQuest), PubMed (National Library of Medicine), and Scopus--which may have failed to identify some articles in languages other than English."
+        ],
+        "negative_ctxs": [
+            41,
+            6
+        ],
+        "positive_ctxs": [
+            43
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Table 1. Summary of Studies."
+        ],
+        "negative_ctxs": [
+            7,
+            43
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            1,
+            32
+        ],
+        "positive_ctxs": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20,
+            22,
+            25,
+            26,
+            28,
+            46,
+            47,
+            48
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            39,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We adapted inclusion criteria based on the method employed by Coleman et al. (2013), to include (a) primary research; (b) adult sample; (c) ICU setting; (d) prospective cohort, retrospective record review, or controlled trial; and (e) identification of independent risk factors for pressure injury (multivariate analysis)"
+        ],
+        "negative_ctxs": [
+            6,
+            52
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            48,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched the medical subject headings pressure injury and intensive care units in addition to field-restricted keywords for the following databases: CINAHL (EBSCOhost), the Cochrane Library (Wilson), Dissertations & Theses Global (ProQuest), and PubMed (National Library of Medicine)."
+        ],
+        "negative_ctxs": [
+            30,
+            53
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two investigators (JA and LB) identified potentially eligible studies. Among those deemed potentially eligible, JA noted whether each study met inclusion criteria for this review (or stated the reason the study did not meet criteria) and LB checked JA's categorizations. Disagreements were addressed by a third researcher, JR, and agreement was determined by consensus."
+        ],
+        "negative_ctxs": [
+            8,
+            44
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "In addition, one investigator (JA) extracted data pertaining to study design, population, setting, analysis, and results, and a second investigator (JRB) reviewed the data for accuracy."
+        ],
+        "negative_ctxs": [
+            10,
+            36
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "3.3. Pressure injury outcome variable\n\nTable 3. Summary of Evidence for Risk Factor Domains and Subdomains."
+        ],
+        "negative_ctxs": [
+            9,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two researchers conducted the quality appraisal and reached \"substantial\" agreement independently, as evidenced by Kappa = 0.72 (Viera and Garrett, 2005). After inter-rater reliability was calculated, the researchers reviewed any discrepancies and came to agreement. When possible, we contacted study authors for\nclarification purposes. Quality appraisal results are identified in Table 2. The included studies had between zero and two major sources of bias, and between one and six moderate sources of bias; overall, five studies were classified as high quality (Slowikowski and Funk, 2010; Cox and Roche, 2015; Suriadi et al., 2008; O'Brien et al., 2014; Cox, 2011), two were of moderate quality (Manzano et al., 2010; Nijs et al., 2009), nine were of low quality (Frankel et al., 2007; Kaitani et al., 2010; Sayar et al., 2009; Tayyib et al., 2015; Theaker et al., 2000; Ulker Efteli and Yapucu Gunes, 2013; Compton et al., 2008; Fife et al., 2001; Yepes et al., 2009), and two were of very low quality (Cremasco et al., 2013; Eachempati et al., 2001).\n\nTable 2. Study Quality: Potential Bias."
+        ],
+        "negative_ctxs": [
+            20,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Meta-analysis was not feasible for this review because of a high degree of clinical heterogeneity related to population, predictor variable operationalization, preventive interventions, and different thresholds for the pressure injury outcome variable (new Category 1 and greater pressure injury vs. new Category 2 and greater)\naccording to the international National Pressure Ulcer Advisory Panel/European Pressure Ulcer Advisory Panel (NPUAP/EPUAP) classification system (National Pressure Ulcer Advisory Panel et al., 2014). The purpose of the review was to identify risk factors rather than to quantify the effect size of the relationship between a given factor and pressure injury development; therefore, we conducted a narrative synthesis."
+        ],
+        "negative_ctxs": [
+            25,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Meta-analysis was not feasible for this review because of a high degree of clinical heterogeneity related to population, predictor variable operationalization, preventive interventions, and different thresholds for the pressure injury outcome variable (new Category 1 and greater pressure injury vs. new Category 2 and greater)\naccording to the international National Pressure Ulcer Advisory Panel/European Pressure Ulcer Advisory Panel (NPUAP/EPUAP) classification system (National Pressure Ulcer Advisory Panel et al., 2014). The purpose of the review was to identify risk factors rather than to quantify the effect size of the relationship between a given factor and pressure injury development; therefore, we conducted a narrative synthesis."
+        ],
+        "negative_ctxs": [
+            28,
+            51
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            36,
+            48
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Quality appraisal results are identified in Table 2. The included studies had between zero and two major sources of bias, and between one and six moderate sources of bias; overall, five studies were classified as high quality (Slowikowski and Funk, 2010; Cox and Roche, 2015; Suriadi et al., 2008; O'Brien et al., 2014; Cox, 2011), two were of moderate quality (Manzano et al., 2010; Nijs et al., 2009), nine were of low quality (Frankel et al., 2007; Kaitani et al., 2010; Sayar et al., 2009; Tayyib et al., 2015; Theaker et al., 2000; Ulker Efteli and Yapucu Gunes, 2013; Compton et al., 2008; Fife et al., 2001; Yepes et al., 2009), and two were of very low quality (Cremasco et al., 2013; Eachempati et al., 2001).\n\nOur findings reveal inconsistent results among studies, as well as marked variability in study quality, indicating that researchers should avoid overinterpretation of results from any single study. Each study was subjected to quality assessment, which will allow clinicians and researchers to take quality into consideration when\nevaluating results."
+        ],
+        "negative_ctxs": [
+            34,
+            51
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Disclosure statement\nThis publication was supported by the National Institute of Nursing Research of the National Institutes of Health under Award NumberT32NR01345 and F31NR014608."
+        ],
+        "negative_ctxs": [
+            1,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Our study was limited to critical care patients with in the ICU setting. Therefore, it is possible that we failed to include research that featured critically ill patients in other settings, or subgroup analysis of studies that featured various levels of acuity among hospitalized patients. Finally, our search strategy included data-bases that are primarily in the English language - CINAHL(EBSCOhost), the Cochrane Library (Wilson), Dissertations & Theses Global (ProQuest), PubMed (National Library of Medicine), and Scopus--which may have failed to identify some articles in languages other than English."
+        ],
+        "negative_ctxs": [
+            13,
+            9
+        ],
+        "positive_ctxs": [
+            43
+        ]
+    }
+]

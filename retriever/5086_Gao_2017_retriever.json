@@ -1,0 +1,469 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "\"The number of patients reaching the set percentage of the reduced scale of the lesion area. We included only RCTs involving patients with HMs or VMs. Trials were eligible if they evaluated polidocanol as the intervention of interest in adults or children and compared it to other conventional therapies. \"\n\n\"In addition, in most of the references, efficacy was defined as a reduced scale of >50%.\""
+        ],
+        "negative_ctxs": [
+            17,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "\"The number of patients reaching the set percentage of the reduced scale of the lesion area. We included only RCTs involving patients with HMs or VMs. Trials were eligible if they evaluated polidocanol as the intervention of interest in adults or children and compared it to other conventional therapies. \"\n\n\"In addition, in most of the references, efficacy was defined as a reduced scale of >50%.\""
+        ],
+        "negative_ctxs": [
+            4,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "The language was restricted to English and Chinese. In addition,\nonly published studies were taken into consideration."
+        ],
+        "negative_ctxs": [
+            12,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "The language was restricted to English and Chinese. In addition,\nonly published studies were taken into consideration."
+        ],
+        "negative_ctxs": [
+            6,
+            18
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched the Cochrane, Embase, PubMed, Web of Science, China National Knowledge Infrastructure (CNKI), Chinese Biomedical Literature (CBM), VIP, and Wan Fang databases for all literature from the database's date of launch up to March 5, 2017.\n\nIn addition, only published studies were taken into consideration."
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The retrieval of subject terms and free text was used. For PubMed, the\nfollowing search terms were used: \"(polidocanol [supplementary\nconcept] OR lauromacrogol OR polidocanol OR 'polyoxyethylene laurel\nether' OR aethoxysklerol) AND (Hemangioma[mh] OR 'vascular malformation'[mh] OR Hemangiom* OR angiom* OR malformatio*).\""
+        ],
+        "negative_ctxs": [
+            13,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "The language was restricted to English and  Chinese. In addition, only published studies were taken into consideration."
+        ],
+        "negative_ctxs": [
+            11,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two investigators (Zhi Gao and Yi Zhang) independently screened the\nsearch results, extracted the data using predefined forms and evaluated\nthe risk of bias; all disputes were resolved by consensus."
+        ],
+        "negative_ctxs": [
+            4,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two investigators (Zhi Gao and Yi Zhang) independently screened the\nsearch results, extracted the data using predefined forms and evaluated\nthe risk of bias; all disputes were resolved by consensus."
+        ],
+        "negative_ctxs": [
+            10,
+            19
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The following data were extracted from studies that met the\ninclusion criteria: characteristics of participants, intervention and regimen\ndetails, clinical endpoints, and follow-up period. For the analysis of\nefficacy, data on the reduced scale of the lesions were extracted. The\nsafety evaluation included the presence of any adverse events (AEs).\n\nTABLE 1 Characteristics of the RCTs included in the meta-analysis: Study\nSample\nsize (age) Location Intervention\nDose of PL\n(liquid or foam)\nDuration\n(week)\nFollow-up\n(month)\nNo. of efficacy\n(E/C)\nNo. ofAE\n(E/C)\nCriteria for effectiveness\n(the reduced scale of the\nlesion area)"
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The basic characteristics of the studies are\nshown in Table 1. Of these included trials, 10 trials compared the efficacy\nof polidocanol with intralesional pingyangmycin, two compared\nthe efficacy of polidocanol with intralesional ethanol, one trial compared\nthe efficacy of polidocanol with oral prednisone, four trials compared\nthe efficacy of a combination of intralesional polidocanol and\npingyangmycin with pingyangmycin used independently, and two compared\nthe efficacy of a combination of polidocanol and hemoclip with\nhemoclip used independently. Patients in 15 trials suffered from superficial\nHMs or VMs, such as those on the face, limbs, and abdomen, and\npatients in four trials suffered from deep sites, such as the digestive\ntract or liver. Among these included trials, 12 trials included HM cases,\nseven included VM cases in which five were venous malformations,\nand the remaining two were not described in detail. Three trials did not\ninclude statistical information regarding AEs."
+        ],
+        "negative_ctxs": [
+            16,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The methodological quality was assessed using the Cochrane Collaboration\ntool for the evaluation of risk of bias, which covers sequence\ngeneration, allocation concealment, blinding, incomplete data, selective\nreporting, and other biases. In assessing the risk of bias, \"1\" denotes\ncases of low risk of bias, \"-\" indicates a high risk of bias, whereas \"?\"\nindicates an unclear risk of bias."
+        ],
+        "negative_ctxs": [
+            11,
+            7
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two investigators (Zhi Gao and Yi Zhang) independently screened the search results, extracted the data using predefined forms and evaluated\r\nthe risk of bias; all disputes were resolved by consensus."
+        ],
+        "negative_ctxs": [
+            9,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "The basic characteristics of the studies are\nshown in Table 1. Of these included trials, 10 trials compared the efficacy\nof polidocanol with intralesional pingyangmycin, two compared\nthe efficacy of polidocanol with intralesional ethanol, one trial compared\nthe efficacy of polidocanol with oral prednisone, four trials compared\nthe efficacy of a combination of intralesional polidocanol and\npingyangmycin with pingyangmycin used independently, and two compared\nthe efficacy of a combination of polidocanol and hemoclip with\nhemoclip used independently. Patients in 15 trials suffered from superficial\nHMs or VMs, such as those on the face, limbs, and abdomen, and\npatients in four trials suffered from deep sites, such as the digestive\ntract or liver. Among these included trials, 12 trials included HM cases,\nseven included VM cases in which five were venous malformations,\nand the remaining two were not described in detail. Three trials did not\ninclude statistical information regarding AEs."
+        ],
+        "negative_ctxs": [
+            0,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "As shown in Figure 1, two trials showed the same number of effective events in the experimental and control groups, and thus, the ORs were not estimable.\n\nParticipant losses were reported in two trials: two participants in one trial were lost to follow-up and other unclear reasons, and four participants in the\nother trial were lost because of unclear reasons. These six patients were excluded from the analysis.\n\nIn the present meta-analysis, either a random effects model or a fixed-effects model (Mantel-Haenszel method) was used for analysis. Heterogeneity among the studies was evaluated using I2 statistics. I2 values of above 50% were defined as high heterogeneity.\n\nThere was low heterogeneity in all the statistical analyses (I2<50%), and therefore, a fixed-effect model was used to evaluate the data.\n\nFIGURE 1 Comparison of the efficacy of polidocanol with that of other conventional therapies in the treatment of hemangiomas and vascular malformations"
+        ],
+        "negative_ctxs": [
+            18,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Heterogeneity among the studies was evaluated\nusing I2 statistics. I2 values of above 50% were defined as high heterogeneity.\n"
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Funnel plot asymmetry was measured to assess publication\nbias. Probability values of<.05 were considered as statistically\nsignificant.\n\n\n3.5 | Publication bias\nThe funnel plot generated from the studies reporting efficacy and AEs\nwas asymmetric. This might be a result of the smaller sample sizes producing a smaller effect size."
+        ],
+        "negative_ctxs": [
+            19,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The quality of the included trials was relatively low. All trials were described as RCTs, but only three studies reported a specific method of randomized allocation. The others only mentioned randomization. Furthermore, none of the\narticles mentioned allocation concealment and blinding."
+        ],
+        "negative_ctxs": [
+            11,
+            22
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "However, there are several limitations that should be addressed. First, the quality of the included trials was relatively low. All trials were described as RCTs, but only three studies reported a specific method\nof randomized allocation, the others only mentioned randomization. Furthermore, none of the articles mentioned allocation concealment and blinding. Participant losses were reported in two trials: two participants in one trial were lost to follow-up and other unclear reasons, and four participants in the other trial were lost because of\nunclear reasons. Unreasonable losses may influence outcome. The analysis\nof additional high-quality studies will be required. Second, of these\n19 articles, 18 were published in Chinese, and 1 was in English. All of\nthe participants were from China, resulting in geographical limitations.\nThird, the outcome measurement varied across the studies, which\nweakened the strength of the identified associations. Several studies\nused different percentages to determine the reduced scale of the\nlesions, whereas others used objective methods such as doppler ultrasonography\nto evaluate the responses. This discrepancy may lead to\ninevitable bias. Fourth, different forms of polidocanol were used, which\nmay influence the efficacy. Many studies have shown that foam polidocanol\nhas the advantage of better and longer lasting contact of the\nsclerosing agent with the vessel wall, which leads to a more effective\ntreatment and a reduction of the necessary drug concentration (Rabe &\nPannier, 2013)."
+        ],
+        "negative_ctxs": [
+            16,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "\"The number of patients reaching the set percentage of the reduced scale of the lesion area. We included only RCTs involving patients with HMs or VMs. Trials were eligible if they evaluated polidocanol as the intervention of interest in adults or children and compared it to other conventional therapies. \"\n\n\"In addition, in most of the references, efficacy was defined as a reduced scale of >50%.\""
+        ],
+        "negative_ctxs": [
+            17,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            18,
+            7
+        ],
+        "positive_ctxs": [
+            0,
+            8,
+            12,
+            21
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "\"The number of patients reaching the set percentage of the reduced scale of the lesion area. We included only RCTs involving patients with HMs or VMs. Trials were eligible if they evaluated polidocanol as the intervention of interest in adults or children and compared it to other conventional therapies. \"\n\n\"In addition, in most of the references, efficacy was defined as a reduced scale of >50%.\""
+        ],
+        "negative_ctxs": [
+            4,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched the Cochrane, Embase, PubMed, Web of Science, China National Knowledge Infrastructure (CNKI), Chinese Biomedical Literature (CBM), VIP, and Wan Fang databases for all literature from the database's date of launch up to March 5, 2017.\n\nIn addition, only published studies were taken into consideration."
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two investigators (Zhi Gao and Yi Zhang) independently screened the\nsearch results, extracted the data using predefined forms and evaluated\nthe risk of bias; all disputes were resolved by consensus."
+        ],
+        "negative_ctxs": [
+            2,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two investigators (Zhi Gao and Yi Zhang) independently screened the\nsearch results, extracted the data using predefined forms and evaluated\nthe risk of bias; all disputes were resolved by consensus."
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The following data were extracted from studies that met the\ninclusion criteria: characteristics of participants, intervention and regimen\ndetails, clinical endpoints, and follow-up period. For the analysis of\nefficacy, data on the reduced scale of the lesions were extracted. The\nsafety evaluation included the presence of any adverse events (AEs).\n\nTABLE 1 Characteristics of the RCTs included in the meta-analysis: Study\nSample\nsize (age) Location Intervention\nDose of PL\n(liquid or foam)\nDuration\n(week)\nFollow-up\n(month)\nNo. of efficacy\n(E/C)\nNo. ofAE\n(E/C)\nCriteria for effectiveness\n(the reduced scale of the\nlesion area)"
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The methodological quality was assessed using the Cochrane Collaboration\ntool for the evaluation of risk of bias, which covers sequence\ngeneration, allocation concealment, blinding, incomplete data, selective\nreporting, and other biases. In assessing the risk of bias, \"1\" denotes\ncases of low risk of bias, \"-\" indicates a high risk of bias, whereas \"?\"\nindicates an unclear risk of bias."
+        ],
+        "negative_ctxs": [
+            2,
+            8
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "As shown in Figure 1, two trials showed the same number of effective events in the experimental and control groups, and thus, the ORs were not estimable.\n\nParticipant losses were reported in two trials: two participants in one trial were lost to follow-up and other unclear reasons, and four participants in the\nother trial were lost because of unclear reasons. These six patients were excluded from the analysis.\n\nIn the present meta-analysis, either a random effects model or a fixed-effects model (Mantel-Haenszel method) was used for analysis. Heterogeneity among the studies was evaluated using I2 statistics. I2 values of above 50% were defined as high heterogeneity.\n\nThere was low heterogeneity in all the statistical analyses (I2<50%), and therefore, a fixed-effect model was used to evaluate the data.\n\nFIGURE 1 Comparison of the efficacy of polidocanol with that of other conventional therapies in the treatment of hemangiomas and vascular malformations"
+        ],
+        "negative_ctxs": [
+            17,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Heterogeneity among the studies was evaluated\nusing I2 statistics. I2 values of above 50% were defined as high heterogeneity.\n"
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Funnel plot asymmetry was measured to assess publication\nbias. Probability values of<.05 were considered as statistically\nsignificant.\n\n\n3.5 | Publication bias\nThe funnel plot generated from the studies reporting efficacy and AEs\nwas asymmetric. This might be a result of the smaller sample sizes producing a smaller effect size."
+        ],
+        "negative_ctxs": [
+            12,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The quality of the included trials was relatively low. All trials were described as RCTs, but only three studies reported a specific method of randomized allocation. The others only mentioned randomization. Furthermore, none of the\narticles mentioned allocation concealment and blinding."
+        ],
+        "negative_ctxs": [
+            19,
+            18
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "However, there are several limitations that should be addressed. First, the quality of the included trials was relatively low. All trials were described as RCTs, but only three studies reported a specific method\nof randomized allocation, the others only mentioned randomization. Furthermore, none of the articles mentioned allocation concealment and blinding. Participant losses were reported in two trials: two participants in one trial were lost to follow-up and other unclear reasons, and four participants in the other trial were lost because of\nunclear reasons. Unreasonable losses may influence outcome. The analysis\nof additional high-quality studies will be required. Second, of these\n19 articles, 18 were published in Chinese, and 1 was in English. All of\nthe participants were from China, resulting in geographical limitations.\nThird, the outcome measurement varied across the studies, which\nweakened the strength of the identified associations. Several studies\nused different percentages to determine the reduced scale of the\nlesions, whereas others used objective methods such as doppler ultrasonography\nto evaluate the responses. This discrepancy may lead to\ninevitable bias. Fourth, different forms of polidocanol were used, which\nmay influence the efficacy. Many studies have shown that foam polidocanol\nhas the advantage of better and longer lasting contact of the\nsclerosing agent with the vessel wall, which leads to a more effective\ntreatment and a reduction of the necessary drug concentration (Rabe &\nPannier, 2013)."
+        ],
+        "negative_ctxs": [
+            22,
+            16
+        ],
+        "positive_ctxs": []
+    }
+]

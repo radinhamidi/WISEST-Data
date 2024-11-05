@@ -1,0 +1,473 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We did a meta-analysis to evaluate the outpatient VTE prevention's effectiveness and safety.\n\nWe searched for articles that included pharmacological primary thromboprophylaxis in patients with solid tumors receiving chemotherapy in ambulatory clinics. \n\nAnticoagulants used for prophylaxis could include unfractionated heparin (UFH), low molecular or ultra-low molecular heparin (ULMWH), direct factor Xa inhibitors or thrombin inhibitors. "
+        ],
+        "negative_ctxs": [
+            8,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We searched for articles that included pharmacological primary thromboprophylaxis in patients with solid tumors receiving chemotherapy in ambulatory clinics. Anticoagulants used for prophylaxis could include unfractionated heparin (UFH), low molecular or ultra-low molecular heparin (ULMWH), direct factor Xa inhibitors or thrombin inhibitors."
+        ],
+        "negative_ctxs": [
+            25,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Hematological malignancies including leukemia, lymphoma and multiple myeloma were excluded even if the chemotherapy was administered in the ambulatory setting.\n\nWe believe that the differences in prevalence and treatment regimens for solid tumor and hematologic malignancies warrant separate evaluation. "
+        ],
+        "negative_ctxs": [
+            12,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "With the assistance of a master librarian, we conducted a systematic search in the electronic databases of Ovid MEDLINE (from 1946), EMBASE (from 1947), EBM reviews-Cochrane database of systematic reviews (from 2005), EBM reviews-ACP journal club (from 1991), EBM reviews-Database of abstracts of reviews of effects for articles that met our criteria. We searched for articles until December 31st 2012 and reviewed the candidate abstracts and manuscripts following the Preferred Reporting Items for Systematic Reviews and Meta- Analyses [PRISMA] guidelines . In addition, we manually searched for unpublished abstracts corresponding with our inclusion criteria presented at main national and international thrombosis meetings from 2010 to 2012."
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "In addition, we manually searched for unpublished abstracts corresponding with our inclusion criteria presented at main national and international thrombosis meetings from 2010 to 2012."
+        ],
+        "negative_ctxs": [
+            14,
+            21
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The MESH terms searched were: \"venous thromboembolism\", thromboembolism, \"venous thrombosis\", \"thrombophlebitis\", \"neoplasms\", \"prevention\", \"prophylaxis\", \"cancer\" (example search strategy on appendix Table 1)."
+        ],
+        "negative_ctxs": [
+            1,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "The articles were abstracted by two reviewers at all stages and disagreements were resolved by consensus with the assistance of two other co-authors."
+        ],
+        "negative_ctxs": [
+            12,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The total number of patients included was 7,805, the experimental and control groups were evenly divided.\n\n The median ages of the participants in these trials ranged from 57 to 62 years, and were similar in the two groups.\n\nThere were 320 VTE. "
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The total number of patients included was 7,805, the experimental and control groups were evenly divided.\n\n The median ages of the participants in these trials ranged from 57 to 62 years, and were similar in the two groups.\n\nThere were 320 VTE.\n\nFig.2. a Fixed effect model of VTE prevention in patients with cancer. "
+        ],
+        "negative_ctxs": [
+            23,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "We summarized the study quality as high, medium or low likelihood of bias according to randomization technique, allocation concealment, comparability of groups at baseline, blinding, completeness of follow-up, assessment of incomplete data and validity of outcomes."
+        ],
+        "negative_ctxs": [
+            21,
+            6
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "After thorough review of these articles, 11 trials were included in our primary outcome meta-analysis. \n\nFig.2. a Fixed effect model of VTE prevention in patients with cancer."
+        ],
+        "negative_ctxs": [
+            8,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We included randomized and non-randomized controlled trials, prospective trials, and retrospective trials which met our primary requirements. \n\nThe odds ratio (OR) and risk difference (RD) estimates from each study were pooled by using the Mantel-Haenszel fixed-effects method, the inverse-variance method and the random-effects model by DerSimonian and Laird\n\n There was a significant reduction of VTE in the prophylaxis group with low, non-significant heterogeneity (OR 0.56; 95 % CI 0.45-0.71; I2: 18.3 %) "
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "There was a significant reduction of VTE in the prophylaxis group with low, non-significant heterogeneity (OR 0.56; 95 % CI 0.45-0.71; I2: 18.3 %)"
+        ],
+        "negative_ctxs": [
+            20,
+            19
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "We did not detect a relevant publication bias (Fig. 2b)."
+        ],
+        "negative_ctxs": [
+            13,
+            17
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Except for one (Young et al. ), the selected manuscripts were considered to be of low risk for bias.\n\nNo single study influenced the pooled estimate and the result of a sensitivity analysis using only manuscripts with low risk of bias was not different to the main result (OR 0.54; 95 % CI 0.4-0.73; I2: 15 %)."
+        ],
+        "negative_ctxs": [
+            22,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The total number of patients included was 7,805, the experimental and control groups were evenly divided. The median ages of the participants in these trials ranged from 57 to 62 years, and were similar in the two groups."
+        ],
+        "negative_ctxs": [
+            8,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            25,
+            13
+        ],
+        "positive_ctxs": [
+            2,
+            5,
+            7,
+            8,
+            14,
+            17
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We searched for articles that included pharmacological primary thromboprophylaxis in patients with solid tumors receiving chemotherapy in ambulatory clinics. Anticoagulants used for prophylaxis could include unfractionated heparin (UFH), low molecular or ultra-low molecular heparin (ULMWH), direct factor Xa inhibitors or thrombin inhibitors."
+        ],
+        "negative_ctxs": [
+            22,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "With the assistance of a master librarian, we conducted a systematic search in the electronic databases of Ovid MEDLINE (from 1946), EMBASE (from 1947), EBM reviews-Cochrane database of systematic reviews (from 2005), EBM reviews-ACP journal club (from 1991), EBM reviews-Database of abstracts of reviews of effects for articles that met our criteria. We searched for articles until December 31st 2012 and reviewed the candidate abstracts and manuscripts following the Preferred Reporting Items for Systematic Reviews and Meta- Analyses [PRISMA] guidelines . In addition, we manually searched for unpublished abstracts corresponding with our inclusion criteria presented at main national and international thrombosis meetings from 2010 to 2012."
+        ],
+        "negative_ctxs": [
+            9,
+            16
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "The articles were abstracted by two reviewers at all stages and disagreements were resolved by consensus with the assistance of two other co-authors."
+        ],
+        "negative_ctxs": [
+            12,
+            6
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The total number of patients included was 7,805, the experimental and control groups were evenly divided.\n\n The median ages of the participants in these trials ranged from 57 to 62 years, and were similar in the two groups.\n\nThere were 320 VTE. "
+        ],
+        "negative_ctxs": [
+            14,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "We summarized the study quality as high, medium or low likelihood of bias according to randomization technique, allocation concealment, comparability of groups at baseline, blinding, completeness of follow-up, assessment of incomplete data and validity of outcomes."
+        ],
+        "negative_ctxs": [
+            21,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We included randomized and non-randomized controlled trials, prospective trials, and retrospective trials which met our primary requirements. \n\nThe odds ratio (OR) and risk difference (RD) estimates from each study were pooled by using the Mantel-Haenszel fixed-effects method, the inverse-variance method and the random-effects model by DerSimonian and Laird\n\n There was a significant reduction of VTE in the prophylaxis group with low, non-significant heterogeneity (OR 0.56; 95 % CI 0.45-0.71; I2: 18.3 %) "
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "There was a significant reduction of VTE in the prophylaxis group with low, non-significant heterogeneity (OR 0.56; 95 % CI 0.45-0.71; I2: 18.3 %)"
+        ],
+        "negative_ctxs": [
+            20,
+            0
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "We did not detect a relevant publication bias (Fig. 2b)."
+        ],
+        "negative_ctxs": [
+            11,
+            4
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Except for one (Young et al. ), the selected manuscripts were considered to be of low risk for bias.\n\nNo single study influenced the pooled estimate and the result of a sensitivity analysis using only manuscripts with low risk of bias was not different to the main result (OR 0.54; 95 % CI 0.4-0.73; I2: 15 %)."
+        ],
+        "negative_ctxs": [
+            23,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            25,
+            6
+        ],
+        "positive_ctxs": []
+    }
+]
