@@ -107,7 +107,7 @@ This module is part of the WISEST project and is distributed under the [CC-BY-NC
 ## References
 
 For more details on the WISEST tool and its comprehensive functionalities, refer to:
-- **WISEST Annotation Platform**: [GitHub Repository]([https://github.com/radinhamidi/WISEST-Annotation-Platform](https://github.com/radinhamidi/WISEST-Annotation-Platform.git))
+- **WISEST Annotation Platform**: [GitHub Repository](https://github.com/radinhamidi/WISEST-Annotation-Platform.git).
 
 ---
 
