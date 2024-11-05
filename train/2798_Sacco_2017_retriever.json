@@ -1,0 +1,468 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The aim of the systematic review was to identify whether inpatient penicillin allergy testing affected clinical outcomes during hospitalization. Inpatients having a documented penicillin allergy that underwent penicillin allergy testing were included."
+        ],
+        "negative_ctxs": [
+            14,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We included case-cohort studies, interventional cohort studies, and randomized controlled trials that included an inpatient intervention to ascertain penicillin allergy in patient admitted with documented penicillin (PCN) allergy on their medical record. The intervention had to be performed during the index admission. Studies of pediatric populations (age <18 years) and perioperative or obstetric populations were excluded. We included and evaluated studies that implemented any intervention to rule out a penicillin allergy whether it was a consult service driven process, guideline-driven protocol, or standard (PST) for major and minor determinants with or without oral penicillin challenge."
+        ],
+        "negative_ctxs": [
+            19,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Blumenthal et al., 2015, reported an increase in BLA (beta lactam antibiotics) test doses and decrease in vancomycin and quinolone use following an inpatient guideline to rule out penicillin allergy. The study was omitted from pooled-cohort analysis as the primary outcome was to assess increase in BLA test doses rather than individual patient or population-based clinical outcomes."
+        ],
+        "negative_ctxs": [
+            26,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Limitations to the search strategies included the inclusion of only English-language publications and a publication date range of the last 15 years"
+        ],
+        "negative_ctxs": [
+            4,
+            15
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "An experienced medical research librarian developed and ran searches in the MEDLINE, Embase, Cochrane Database of Systematic Reviews, Cochrane Central Register of Controlled Trials (all via the Ovid interface), Web of Science, and Scopus databases. Abstracts, conference proceedings, and cross-checked references of selected studies were also reviewed by authors to identify additional studies that had not been identified by database searches."
+        ],
+        "negative_ctxs": [
+            6,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "cross-checked references of selected studies were also reviewed by authors to identify additional studies that had not been identified by database searches."
+        ],
+        "negative_ctxs": [
+            23,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The full search strategies are available in the Appendix S1. Search Strategy:"
+        ],
+        "negative_ctxs": [
+            30,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Limitations to the search strategies included the inclusion of only English-language publications and a publication date range of the last 15 years.\n\nAppendix S1  12. limit 11 to yr=\"2001 -Current\" "
+        ],
+        "negative_ctxs": [
+            8,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two review authors (K.A.S and A.B.) independently screened the  abstracts using prepiloted screening forms. Any disagreements were resolved by consensus or by consulting a third review author (M.C.B.)."
+        ],
+        "negative_ctxs": [
+            26,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Supplementary Table 1 Descriptive Analysis of Studies Included for Systematic Review"
+        ],
+        "negative_ctxs": [
+            17,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Supplementary Table 1 Descriptive Analysis of Studies Included for Systematic Review"
+        ],
+        "negative_ctxs": [
+            9,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "We assessed the risk of bias in included studies using the Newcastle-Ottawa Quality Assessment Scale for cohort studies and case control studies (Table S2 and S3)."
+        ],
+        "negative_ctxs": [
+            10,
+            29
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "FIGURE 3 Proportion of inpatient negative penicillin skin tests (PSTs) ranging between 79% and 100% in studies of exclusively inpatient (including intensive care unit) populations. Population-weighted mean of a negative PST in an inpatient setting is 95.1% (CI 93.8-96.1)"
+        ],
+        "negative_ctxs": [
+            24,
+            6
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We performed population-weighted analysis on cohort studies reporting a common clinical outcome after implementation of the same or consistently similar inpatient penicillin allergy test."
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The heterogeneity of results suggests that the persistence of a penicillin allergy on a medical record may be affected by local hospital practices and ease of navigation within the allergy section of the electronic medical record."
+        ],
+        "negative_ctxs": [
+            18,
+            27
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Publication bias may have also precluded reporting of negative clinical outcomes."
+        ],
+        "negative_ctxs": [
+            21,
+            11
+        ],
+        "positive_ctxs": [
+            22
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "We assessed the risk of bias in included studies using the Newcastle-Ottawa Quality Assessment Scale for cohort studies and case control studies (Table S2 and S3)."
+        ],
+        "negative_ctxs": [
+            17,
+            12
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "This systematic review and meta-analysis has a number of limitations  that are largely related to the quality of studies identified. The  level of evidence for such findings was obtained from one case-control study and observational cohort studies. Unfortunately, we could not identify higher levels of evidence (such as randomized controlled trials) to validate specific risk reductions associated with inpatient PST."
+        ],
+        "negative_ctxs": [
+            1,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Supplementary Table 1 Descriptive Analysis of Studies Included for Systematic Review\n\nFIGURE 2 Description of study interventions and outcomes described"
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            13,
+            17
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We included case-cohort studies, interventional cohort studies, and randomized controlled trials that included an inpatient intervention to ascertain penicillin allergy in patient admitted with documented penicillin (PCN) allergy on their medical record. The intervention had to be performed during the index admission. Studies of pediatric populations (age <18 years) and perioperative or obstetric populations were excluded. We included and evaluated studies that implemented any intervention to rule out a penicillin allergy whether it was a consult service driven process, guideline-driven protocol, or standard (PST) for major and minor determinants with or without oral penicillin challenge."
+        ],
+        "negative_ctxs": [
+            8,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Unfortunately, we could not identify higher levels of evidence (such as randomized controlled trials) to validate specific risk reductions associated with inpatient PST. Therefore, most studies were retrospective and observational and used convenience sampling. "
+        ],
+        "negative_ctxs": [
+            26,
+            23
+        ],
+        "positive_ctxs": [
+            22
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "An experienced medical research librarian developed and ran searches in the MEDLINE, Embase, Cochrane Database of Systematic Reviews, Cochrane Central Register of Controlled Trials (all via the Ovid interface), Web of Science, and Scopus databases. Abstracts, conference proceedings, and cross-checked references of selected studies were also reviewed by authors to identify additional studies that had not been identified by database searches."
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two review authors (K.A.S and A.B.) independently screened the  abstracts using prepiloted screening forms. Any disagreements were resolved by consensus or by consulting a third review author (M.C.B.)."
+        ],
+        "negative_ctxs": [
+            27,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Supplementary Table 1 Descriptive Analysis of Studies Included for Systematic Review"
+        ],
+        "negative_ctxs": [
+            3,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "We assessed the risk of bias in included studies using the Newcastle-Ottawa Quality Assessment Scale for cohort studies and case control studies (Table S2 and S3)."
+        ],
+        "negative_ctxs": [
+            10,
+            25
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We performed population-weighted analysis on cohort studies reporting a common clinical outcome after implementation of the same or consistently similar inpatient penicillin allergy test."
+        ],
+        "negative_ctxs": [
+            19,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The heterogeneity of results suggests that the persistence of a penicillin allergy on a medical record may be affected by local hospital practices and ease of navigation within the allergy section of the electronic medical record."
+        ],
+        "negative_ctxs": [
+            24,
+            11
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Publication bias may have also precluded reporting of negative clinical outcomes."
+        ],
+        "negative_ctxs": [
+            20,
+            19
+        ],
+        "positive_ctxs": [
+            22
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "We assessed the risk of bias in included studies using the Newcastle-Ottawa Quality Assessment Scale for cohort studies and case control studies (Table S2 and S3)."
+        ],
+        "negative_ctxs": [
+            2,
+            17
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "CONFLICT OF INTEREST  The authors declare no conflict of interest."
+        ],
+        "negative_ctxs": [
+            24,
+            19
+        ],
+        "positive_ctxs": [
+            25
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "This systematic review and meta-analysis has a number of limitations  that are largely related to the quality of studies identified. The  level of evidence for such findings was obtained from one case-control study and observational cohort studies. Unfortunately, we could not identify higher levels of evidence (such as randomized controlled trials) to validate specific risk reductions associated with inpatient PST."
+        ],
+        "negative_ctxs": [
+            21,
+            20
+        ],
+        "positive_ctxs": []
+    }
+]

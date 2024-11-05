@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "PURPOSE: Anticoagulant prophylaxis in patients with central venous catheters is controversial. We\nperformed a meta-analysis of randomized controlled trials of anticoagulant prophylaxis in patients with\ncentral venous catheters.\n\nObjective criteria for study inclusion were defined a priori. Included were studies that: enrolled adult patients, evaluated systemically administered anticoagulant prophylaxis other than flushing of catheters with heparin or saline, evaluated prophylaxis in patients with centralvenous catheters or peripherally inserted central catheters, objectively evaluated patients for deep vein thrombosis, and were randomized controlled trials.\n\nTable 1 (available online) shows the characteristics of 15 randomized controlled trials included for data extraction."
+        ],
+        "negative_ctxs": [
+            19,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Included were studies that: enrolled adult patients, evaluated systemically administered anticoagulant prophylaxis other than flushing of catheters with heparin or saline, evaluated prophylaxis in patients with centralvenous catheters or peripherally inserted central catheters, objectively evaluated patients for deep vein thrombosis, and were randomized controlled trials."
+        ],
+        "negative_ctxs": [
+            5,
+            11
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Limits were set for human subjects\nand English language."
+        ],
+        "negative_ctxs": [
+            20,
+            0
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "MEDLINE and EMBASE were searched up to May 2006, supplemented by manual searches\nof conference proceedings and bibliographies.\n\nWe searched MEDLINE (1964 to 2006), EMBASE, and conference proceedings from The American Society of Hematology (2002 to 2005), The American Society of Clinical\nOncology (1999 to 2006), and the International Society of Thrombosis and Haemostasis (2001 to 2005)\n\n Bibliographies were screened for relevant articles."
+        ],
+        "negative_ctxs": [
+            19,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            " Bibliographies were screened for relevant articles."
+        ],
+        "negative_ctxs": [
+            16,
+            21
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "\"Thromb:.mp or hypercoag:.mp or occlu: .mp\"; \"anticoag:.mp or anti-vitamin k.mp or thromb: prophylax:.mp or heparin:.mp\"; \"catheter:.mp or cannul:.mp or central lin:.mp or port:.mp or central venous:.mp or vascular access:.mp\"; as well as generic and trade names for anticoagulants and catheters. "
+        ],
+        "negative_ctxs": [
+            18,
+            10
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Limits were set for human subjects\nand English language."
+        ],
+        "negative_ctxs": [
+            8,
+            23
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Summary relative risks for each outcome were generated using the fixed effects\nmodel, which assumes that all studies estimate the same population effect size. Analyses were repeated using the\nmore conservative random effects model, which assumes the studies estimate different population effect sizes."
+        ],
+        "negative_ctxs": [
+            2,
+            23
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "We assessed the validity of combining results from individual studies using the Q statistic to assess\nfor heterogeneity.\n\nWe assessed the validity of combining results from individual studies using the Q statistic to assess\nfor heterogeneity.\n\nNo analysis demonstrated statistical evidence of heterogeneity. For studies comparing low-molecular-weight\nheparin to fixed low-dose vitamin-K antagonist the summary relative risk was 1.88 for low-molecular-weight\nheparin (95% CI, 1.28 to 2.75) with no statistical evidence of heterogeneity."
+        ],
+        "negative_ctxs": [
+            8,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Funnel plots were generated to determine whether unpublished studies with nonsignificant results were underrepresented in our analysis, leading to publication bias that may yield overly optimistic summary\nrelative risks\n\nFunnel plots of effect size versus precision show no evidence of publication bias\n\nAlthough our funnel plots did not suggest publication bias, the low number of trials makes definitive\ninterpretation difficult. "
+        ],
+        "negative_ctxs": [
+            2,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            16,
+            8
+        ],
+        "positive_ctxs": [
+            15,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Included were studies that: enrolled adult patients, evaluated systemically administered anticoagulant prophylaxis other than flushing of catheters with heparin or saline, evaluated prophylaxis in patients with centralvenous catheters or peripherally inserted central catheters, objectively evaluated patients for deep vein thrombosis, and were randomized controlled trials."
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "MEDLINE and EMBASE were searched up to May 2006, supplemented by manual searches\nof conference proceedings and bibliographies.\n\nWe searched MEDLINE (1964 to 2006), EMBASE, and conference proceedings from The American Society of Hematology (2002 to 2005), The American Society of Clinical\nOncology (1999 to 2006), and the International Society of Thrombosis and Haemostasis (2001 to 2005)\n\n Bibliographies were screened for relevant articles."
+        ],
+        "negative_ctxs": [
+            13,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Summary relative risks for each outcome were generated using the fixed effects\nmodel, which assumes that all studies estimate the same population effect size. Analyses were repeated using the\nmore conservative random effects model, which assumes the studies estimate different population effect sizes."
+        ],
+        "negative_ctxs": [
+            23,
+            21
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "We assessed the validity of combining results from individual studies using the Q statistic to assess\nfor heterogeneity.\n\nWe assessed the validity of combining results from individual studies using the Q statistic to assess\nfor heterogeneity.\n\nNo analysis demonstrated statistical evidence of heterogeneity. For studies comparing low-molecular-weight\nheparin to fixed low-dose vitamin-K antagonist the summary relative risk was 1.88 for low-molecular-weight\nheparin (95% CI, 1.28 to 2.75) with no statistical evidence of heterogeneity."
+        ],
+        "negative_ctxs": [
+            3,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Funnel plots were generated to determine whether unpublished studies with nonsignificant results were underrepresented in our analysis, leading to publication bias that may yield overly optimistic summary\nrelative risks\n\nFunnel plots of effect size versus precision show no evidence of publication bias\n\nAlthough our funnel plots did not suggest publication bias, the low number of trials makes definitive\ninterpretation difficult. "
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": []
+    }
+]

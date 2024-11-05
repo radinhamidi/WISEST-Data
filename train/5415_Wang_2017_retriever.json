@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "For inclusion in the meta-analysis, all the following criteria had to be met: (1) case-control, cohort, or cross-sectional studies with data on both patients diagnosed as having SLE and healthy age- and sex-matched controls and (2) provide detailed data about PWV level in both patients with SLE and healthy controls. All patients with SLE had to fulfill the standard accepted diagnostic criteria and healthy controls needed to be clearly described so as to be included in our study."
+        ],
+        "negative_ctxs": [
+            13,
+            11
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "For inclusion in the meta-analysis, all the following criteria had to be met: (1) case-control, cohort, or cross-sectional studies with data on both patients diagnosed as having SLE and healthy age- and sex-matched controls and (2) provide detailed data about PWV level in both patients with SLE and healthy controls. All patients with SLE had to fulfill the standard accepted diagnostic criteria and healthy controls needed to be clearly described so as to be included in our study. If any study was reported in more than 1 publication, we considered all publications for data abstraction, but only 1 was included in our study. Patients with a history of coronary diseases, infectious diseases, neoplasia, kidney or liver insufficiency, or symptoms suggestive of CVD (angina, arrhythmia, congestive heart failure, stroke, and peripheral arterial disease) were excluded."
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "If any study was reported in more than 1 publication, we considered all publications for data abstraction, but only 1 was included in our study. Patients with a history of coronary diseases, infectious diseases, neoplasia, kidney or liver insufficiency, or symptoms suggestive of CVD (angina, arrhythmia, congestive heart failure, stroke, and peripheral arterial disease) were excluded."
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "A search was performed in the following databases: PubMed, Embase, and The Cochrane Library database. No method or language restrictions were applied, and studies from all countries were eligible."
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We performed a prespecified search strategy to identify when\nPWV first appeared in the literature, including relevant studies\nin the following databases: PubMed, Embase, and The\nCochrane Library database."
+        ],
+        "negative_ctxs": [
+            3,
+            7
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The references in the identified or related articles\nwere manually scanned for other published articles."
+        ],
+        "negative_ctxs": [
+            10,
+            8
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The keywords were used in all fields: \"systemic lupus erythematosus\" OR \"SLE\" OR \"lupus\"\nAND \"carotid-femoral pulse wave velocity\" OR \"cf-PWV\" OR \"pulse wave velocity\" OR \"PWV\" OR \"aortic PWV\" OR \"aPWV.\" All keywords variants were used to increase the number of studies returned by the search."
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "No method or language restrictions were applied, and studies from all countries\r\nwere eligible"
+        ],
+        "negative_ctxs": [
+            3,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Characteristics of Abstracted Studies."
+        ],
+        "negative_ctxs": [
+            11,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Figure 2. Meta-analysis of 14 studies reporting on PWV in SLE compared with controls. PWV indicates pulse wave velocity; SLE, systemic lupus erythematosus."
+        ],
+        "negative_ctxs": [
+            1,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The quality of the included studies was independently assessed and scored by 2 investigators using the Newcastle-Ottawa quality assessment scale (NOS) for observational studies. Most studies provided high quality as a whole, in which the scores of included studies ranged from 5 to 8 stars."
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "The quality of the included studies was independently assessed and scored by 2 investigators using the Newcastle-Ottawa quality assessment scale (NOS) for observational studies. Most studies provided high quality as a whole, in which the scores of included studies ranged from 5 to 8 stars."
+        ],
+        "negative_ctxs": [
+            9,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "14 were finally incorporated in the meta-analysis according to the mentioned criteria. A total of 1752 participants (854 patients with SLE and 898 healthy controls) were ultimately included. The basic characteristics of the selected studies are summarized in Table 1"
+        ],
+        "negative_ctxs": [
+            2,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "among these studies, the fixed-effect model was used. Otherwise, a random-effect model was used for further analyses. Publication bias was visually estimated by a funnel plot, and Egger's regression asymmetry test was performed to explore asymmetry of the funnel plot."
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "the results showed that there was marked heterogeneity\namong the studies (I2 = 84.5%, P < .001; Figure 2). Subgroup\nanalysis was conducted to control the heterogeneity in our\nstudy."
+        ],
+        "negative_ctxs": [
+            8,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "In addition, no publication bias was detected indicating that the included results may be unbiased. Finally, sensitivity analyses showed that our results were robust.\n\nEgger's linear regression test was applied to assess the asymmetry of the funnel plot,35 and no significant publication bias was found as a whole (P > .05; Figure 4)"
+        ],
+        "negative_ctxs": [
+            11,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Most studies provided high quality as a whole, in which the scores of included studies ranged from 5 to 8 stars. A sensitivity analysis compared the meta-analysis results of the studies as a whole to the same meta-analysis with 1 study excluded in each round to determine how robust the findings were.Sensitivity analyses showed that our results were robust. "
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "There are several limitations in the current study. First, some of the studies did not have a systemic lupus erythematosus disease activity index (SLEDAI) reported, so we could not directly address aspects of the relationship between PWV and SLEDAI. Second, some studies had small samples from a clinical population or included individuals from only 1 ethnic population and are thus limited in their generalizability. Third, the partial data were approximation numbers; thus, this may be biased compared with the actuality. Fourth, this meta-analysis used a random-effect model which may lead to a more conservative conclusion. Furthermore, this meta-analysis is a retrospective study and could not prove causation which is susceptible to the methodological deficiencies of the pooled studies."
+        ],
+        "negative_ctxs": [
+            10,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "For inclusion in the meta-analysis, all the following criteria had to be met: (1) case-control, cohort, or cross-sectional studies with data on both patients diagnosed as having SLE and healthy age- and sex-matched controls and (2) provide detailed data about PWV level in both patients with SLE and healthy controls. All patients with SLE had to fulfill the standard accepted\ndiagnostic criteria and healthy controls needed to be clearly\ndescribed so as to be included in our study."
+        ],
+        "negative_ctxs": [
+            4,
+            11
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            6,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "For inclusion in the meta-analysis, all the following criteria had to be met: (1) case-control, cohort, or cross-sectional studies with data on both patients diagnosed as having SLE and healthy age- and sex-matched controls and (2) provide detailed data about PWV level in both patients with SLE and healthy controls. All patients with SLE had to fulfill the standard accepted diagnostic criteria and healthy controls needed to be clearly described so as to be included in our study. If any study was reported in more than 1 publication, we considered all publications for data abstraction, but only 1 was included in our study. Patients with a history of coronary diseases, infectious diseases, neoplasia, kidney or liver insufficiency, or symptoms suggestive of CVD (angina, arrhythmia, congestive heart failure, stroke, and peripheral arterial disease) were excluded."
+        ],
+        "negative_ctxs": [
+            9,
+            5
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We performed a prespecified search strategy to identify when\nPWV first appeared in the literature, including relevant studies\nin the following databases: PubMed, Embase, and The\nCochrane Library database."
+        ],
+        "negative_ctxs": [
+            10,
+            11
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Characteristics of Abstracted Studies."
+        ],
+        "negative_ctxs": [
+            12,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The quality of the included studies was independently assessed and scored by 2 investigators using the Newcastle-Ottawa quality assessment scale (NOS) for observational studies. Most studies provided high quality as a whole, in which the scores of included studies ranged from 5 to 8 stars."
+        ],
+        "negative_ctxs": [
+            3,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "among these studies, the fixed-effect model was used. Otherwise, a random-effect model was used for further analyses. Publication bias was visually estimated by a funnel plot, and Egger's regression asymmetry test was performed to explore asymmetry of the funnel plot."
+        ],
+        "negative_ctxs": [
+            13,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "the results showed that there was marked heterogeneity\namong the studies (I2 = 84.5%, P < .001; Figure 2). Subgroup\nanalysis was conducted to control the heterogeneity in our\nstudy."
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "In addition, no publication bias was detected indicating that the included results may be unbiased. Finally, sensitivity analyses showed that our results were robust.\n\nEgger's linear regression test was applied to assess the asymmetry of the funnel plot,35 and no significant publication bias was found as a whole (P > .05; Figure 4)"
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Most studies provided high quality as a whole, in which the scores of included studies ranged from 5 to 8 stars. A sensitivity analysis compared the meta-analysis results of the studies as a whole to the same meta-analysis with 1 study excluded in each round to determine how robust the findings were.Sensitivity analyses showed that our results were robust. "
+        ],
+        "negative_ctxs": [
+            3,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article. The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This work was supported by grants from the National Natural Science Foundation of China (81573222)."
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "There are several limitations in the current study. First, some of the studies did not have a systemic lupus erythematosus disease activity index (SLEDAI) reported, so we could not directly address aspects of the relationship between PWV and SLEDAI. Second, some studies had small samples from a clinical population or included individuals from only 1 ethnic population and are thus limited in their generalizability. Third, the partial data were approximation numbers; thus, this may be biased compared with the actuality. Fourth, this meta-analysis used a random-effect model which may lead to a more conservative conclusion. Furthermore, this meta-analysis is a retrospective study and could not prove causation which is susceptible to the methodological deficiencies of the pooled studies."
+        ],
+        "negative_ctxs": [
+            8,
+            5
+        ],
+        "positive_ctxs": []
+    }
+]

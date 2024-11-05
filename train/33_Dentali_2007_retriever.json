@@ -1,0 +1,455 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The aim of our study was to determine\nthe effects of treatment while patients were receiving\nanticoagulant prophylaxis and to assess to what extent,\nif any, these treatment effects were maintained after prophylaxis\nhad been stopped.\n\nWe included a study if it was a randomized,\r\ncontrolled trial that compared treatment with a\r\nprophylactic dose of anticoagulant (unfractionated heparin,\r\nlow-molecular-weight heparin, or fondaparinux) with\r\nno treatment (placebo or no intervention) in medical patients.\r\nIncluded studies also had to assess at least 1 of the\r\nfollowing outcomes: symptomatic PE, symptomatic DVT,\r\nmajor bleeding, or all-cause mortality. We excluded studies\r\nthat involved only patients with stroke, as this is a selected,\r\nhigh-risk subgroup (4), or if outcomes were not objectively\r\nconfirmed"
+        ],
+        "negative_ctxs": [
+            21,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We included a study if it was a randomized,\ncontrolled trial that compared treatment with a\nprophylactic dose of anticoagulant (unfractionated heparin,\nlow-molecular-weight heparin, or fondaparinux) with\nno treatment (placebo or no intervention) in medical patients.\nIncluded studies also had to assess at least 1 of the\nfollowing outcomes: symptomatic PE, symptomatic DVT,\nmajor bleeding, or all-cause mortality. We excluded studies\nthat involved only patients with stroke, as this is a selected,\nhigh-risk subgroup (4), or if outcomes were not objectively\nconfirmed.\n\nWe only considered objectively\r\ndocumented and independently adjudicated outcomes.\r\nWe accepted the reported definitions of major\r\nbleeding and did not attempt to reclassify these events. We\r\ndefined major bleeding as that which required transfusion\r\nof 2 or more units of packed red blood cells, involved a\r\ncritical site (for example, retroperitoneal), or was fatal."
+        ],
+        "negative_ctxs": [
+            15,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We included a study if it was a randomized,\ncontrolled trial that compared treatment with a\nprophylactic dose of anticoagulant (unfractionated heparin,\nlow-molecular-weight heparin, or fondaparinux) with\nno treatment (placebo or no intervention) in medical patients.\nIncluded studies also had to assess at least 1 of the\nfollowing outcomes: symptomatic PE, symptomatic DVT,\nmajor bleeding, or all-cause mortality. We excluded studies\nthat involved only patients with stroke, as this is a selected,\nhigh-risk subgroup (4), or if outcomes were not objectively\nconfirmed.\n\nWe only considered objectively\r\ndocumented and independently adjudicated outcomes.\r\nWe accepted the reported definitions of major\r\nbleeding and did not attempt to reclassify these events. We\r\ndefined major bleeding as that which required transfusion\r\nof 2 or more units of packed red blood cells, involved a\r\ncritical site (for example, retroperitoneal), or was fatal."
+        ],
+        "negative_ctxs": [
+            23,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We attempted to identify all published and unpublished\r\nrandomized, controlled trials, irrespective of language,\r\nthat described anticoagulant prophylaxis in medical\r\npatients\n\nIf outcome data could not be identified for extraction,\r\nwe contacted the study authors by e-mail to request these\r\ndata. If a response was not received after 15 days, we sent a\r\nsecond e-mail and contacted the secondary authors. We\nresolved disagreements about study data extraction by consensus\r\nor by discussion with a third reviewer"
+        ],
+        "negative_ctxs": [
+            0,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We attempted to identify all published and unpublished\r\nrandomized, controlled trials, irrespective of language,\r\nthat described anticoagulant prophylaxis in medical\r\npatients by using MEDLINE (1966 to September 2006,\r\nweek 3), EMBASE (1980 to September 2006, week 3),\r\nand Cochrane Central Register of Controlled Trials (2006,\r\nIssue 3) databases."
+        ],
+        "negative_ctxs": [
+            21,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We supplemented the strategy by manually reviewing reference lists\r\nand by contacting content experts."
+        ],
+        "negative_ctxs": [
+            7,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two reviewers independently performed study selection.\r\nDisagreements were resolved through discussion and\r\nby a third reviewer"
+        ],
+        "negative_ctxs": [
+            21,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "We extracted and presented data according to the\r\nQUORUM criteria (16). For each study, 2 reviewers, who\r\nwere blinded to the identity of the study authors and journal\r\nin which the studies were published, independently\r\nextracted data on study design, patient characteristics, and\r\nanticoagulant prophylaxis"
+        ],
+        "negative_ctxs": [
+            12,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 shows the characteristics of the included\r\nstudies.\n\nTable 1. Study Characteristics and Study Quality Assessment*"
+        ],
+        "negative_ctxs": [
+            6,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 2. Outcomes Examined (Total Number of Events per Total Number of Study Participants) during the Period When the\r\nIntervention Group Received Anticoagulant Prophylaxis*\n\nFigure 2. Any pulmonary embolism during anticoagulant prophylaxis.\n\nFigure 3. Fatal pulmonary embolism during anticoagulant prophylaxis.\n\nFigure 4. Symptomatic deep venous thrombosis during anticoagulant prophylaxis.\n\nFigure 5. All-cause mortality during anticoagulant prophylaxis.\n\nFigure 6. Major bleeding during anticoagulant prophylaxis."
+        ],
+        "negative_ctxs": [
+            18,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Study Quality Assessment\nTwo reviewers who were blinded to the identity of the\nstudy authors and the journals in which the studies were\npublished independently assessed study quality. The reviewers\nevaluated study quality by considering methods\nused to generate the randomization sequence, methods of\ndouble-blinding, and the description of patient withdrawals\nand dropouts."
+        ],
+        "negative_ctxs": [
+            19,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two reviewers who were blinded to the identity of the\r\nstudy authors and the journals in which the studies were\r\npublished independently assessed study quality. "
+        ],
+        "negative_ctxs": [
+            0,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Of the 22 retrieved studies, 13 were\nexcluded for the following reasons: 4 because they had\nduplicate data (24, 29, 31, 34); 4 because they did not\nhave an untreated control group (25, 27, 30, 36); 2 because\nthey did not contain original data (26, 28); 1 because\nit included medical and surgical patients (37); 1 because it\nwas not properly randomized (40); and 1 because it identified\nthe control group arbitrarily and not by randomization\n(39). Therefore, we included 9 studies in our systematic\nreview.\n\nIn 9 studies (22, 23, 32, 33, 35, 38, 41-43) that\nassessed any PE during anticoagulant prophylaxis, the outcome\noccurred in"
+        ],
+        "negative_ctxs": [
+            26,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We planned separate analyses\nfor treatment effects during prophylaxis and for treatment\neffects after prophylaxis had been stopped. For treatment \neffects that were statistically significant, we determined the\nabsolute risk reduction and number-needed-to-treat for\nbenefit (NNTB) to prevent an outcome. We pooled data\nby using the Mantel-Haenszel method (17), and we performed\na fixed-effects model by using Review Manager,\nversion 4.2.8 (RevMan, Cochrane Collaboration, Oxford,\nEngland). Because combining trials with extremely low or\nzero event rates can yield biased results, we repeated the\nanalyses using StatXact software, version 7 (Cytel Software\nCorporation, Cambridge, Massachusetts), which provides\nexact fixed-effect point and interval estimates for the odds\nratio (18). The appropriateness of pooling data across studies\nwas assessed using the I2 test for heterogeneity, which\nmeasures the inconsistency across study results and describes\nthe proportion of total variation in study estimates\nthat is due to heterogeneity rather than sampling error\n\nExcept for major bleeding, we found no heterogeneity\nacross studies for all outcomes assessed (I2 \u0001 0%)."
+        ],
+        "negative_ctxs": [
+            11,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Anticoagulant prophylaxis was associated\nwith a nonsignificant increase in major bleeding (relative\nrisk, 1.32 [CI, 0.73 to 2.37]). We found no\nheterogeneity for this outcome across studies (I2 \u0001\n29.7%).\nHeterogenity\nExcept for major bleeding, we found no heterogeneity\nacross studies for all outcomes assessed (I2 \u0001 0%)."
+        ],
+        "negative_ctxs": [
+            5,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "We repeated sensitivity analyses by using only studies\r\nthat satisfied each item of our prespecified quality evaluation\r\n(20). We created funnel plots of effect size versus\r\nstandard error to assess for publication bias\n\nSensitivity Analysis\nWe confirmed the results of the primary analyses by\nusing sensitivity analyses that considered only double-blind\nstudies. Adequate allocation concealment and description\nof withdrawals and dropouts did not change the results of\nthe primary analyses. Similarly, repeating our analyses with\nStatExact software did not change the results of the primary\nanalyses."
+        ],
+        "negative_ctxs": [
+            26,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Sensitivity Analysis\nWe confirmed the results of the primary analyses by\nusing sensitivity analyses that considered only double-blind\nstudies. Adequate allocation concealment and description\nof withdrawals and dropouts did not change the results of\nthe primary analyses. Similarly, repeating our analyses with\nStatExact software did not change the results of the primary\nanalyses."
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Limitations of our meta-analysis may affect the validity\r\nof our findings. First, because not all trials used a double-\r\nblind design, a lower threshold for diagnostic testing in\r\npatients who did not receive anticoagulant prophylaxis (diagnostic\r\nsuspicion bias) might exist, with the potential that\r\nmore symptomatic outcomes were detected in untreated\r\npatients enrolled in the unblinded trials. However, given\r\nthe clinical consequences of missed and untreated VTE,\r\nthe development of clinical features compatible with VTE\nin at-risk medical patients might trigger diagnostic testing\r\nirrespective of whether anticoagulant prophylaxis was administered.\r\nNonetheless, we cannot exclude the potential\r\nfor overdetection of outcomes in patients who did not receive\r\nprophylaxis. Second, our finding of an asymmetrical\r\nfunnel plot (Appendix Figure, available at www.annals\r\n.org) for the outcome of PE suggests that there may have\r\nbeen unpublished studies in which anticoagulant prophylaxis\r\nincreased the risk for PE. However, after excluding 3\r\nstudies with small sample sizes (bottom left of the plot),\r\nthe risk reduction for PE remained unchanged (relative\r\nrisk, 0.44 [CI, 0.24 to 0.79]). The validity of our findings\r\nis supported by our sensitivity analysis, which was consistent\r\nwith our findings from all pooled studies and was\r\nlimited to high-quality trials, in which the treatment effects\r\nof anticoagulant prophylaxis remained. Third, we acknowledge\r\nthat our pool of studies for the outcomes of fatal PE\r\nand DVT was small (5 or fewer) and caution is required in\r\ninterpreting findings pertaining to these outcomes.\n\nat least 5 of the 9 included studies were supported\r\nby pharmaceutical companies. However, because researchers\r\nmaintained adequate allocation concealment in\r\nalmost all studies and because we only considered outcomes\r\nevaluated in an objective manner, the funding\r\nsources for the studies probably did not systematically affect\r\nthe results. Finally, because no standardized definition\r\nfor major bleeding in medical patients has been adopted in\r\nclinical trials of antithrombotic treatments, the definition\r\nfor major bleeding varied across studies (49). This should\r\nnot affect our comparisons of bleeding in treated and nontreated\r\npatients but will affect estimates of absolute bleeding\r\nrates."
+        ],
+        "negative_ctxs": [
+            25,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The aim of our study was to determine\nthe effects of treatment while patients were receiving\nanticoagulant prophylaxis and to assess to what extent,\nif any, these treatment effects were maintained after prophylaxis\nhad been stopped\n\nTable 1. Study Characteristics and Study Quality Assessment*\n\nOur findings are relevant to numerous hospitalized\nmedical patients, many of whom are at risk for VTE and\nmay be eligible to receive anticoagulant prophylaxis"
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            12,
+            0
+        ],
+        "positive_ctxs": [
+            15,
+            16
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We included a study if it was a randomized,\ncontrolled trial that compared treatment with a\nprophylactic dose of anticoagulant (unfractionated heparin,\nlow-molecular-weight heparin, or fondaparinux) with\nno treatment (placebo or no intervention) in medical patients.\nIncluded studies also had to assess at least 1 of the\nfollowing outcomes: symptomatic PE, symptomatic DVT,\nmajor bleeding, or all-cause mortality. We excluded studies\nthat involved only patients with stroke, as this is a selected,\nhigh-risk subgroup (4), or if outcomes were not objectively\nconfirmed.\n\nWe only considered objectively\r\ndocumented and independently adjudicated outcomes.\r\nWe accepted the reported definitions of major\r\nbleeding and did not attempt to reclassify these events. We\r\ndefined major bleeding as that which required transfusion\r\nof 2 or more units of packed red blood cells, involved a\r\ncritical site (for example, retroperitoneal), or was fatal."
+        ],
+        "negative_ctxs": [
+            27,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We included a study if it was a randomized,\ncontrolled trial that compared treatment with a\nprophylactic dose of anticoagulant (unfractionated heparin,\nlow-molecular-weight heparin, or fondaparinux) with\nno treatment (placebo or no intervention) in medical patients.\nIncluded studies also had to assess at least 1 of the\nfollowing outcomes: symptomatic PE, symptomatic DVT,\nmajor bleeding, or all-cause mortality. We excluded studies\nthat involved only patients with stroke, as this is a selected,\nhigh-risk subgroup (4), or if outcomes were not objectively\nconfirmed."
+        ],
+        "negative_ctxs": [
+            24,
+            27
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We attempted to identify all published and unpublished\r\nrandomized, controlled trials, irrespective of language,\r\nthat described anticoagulant prophylaxis in medical\r\npatients by using MEDLINE (1966 to September 2006,\r\nweek 3), EMBASE (1980 to September 2006, week 3),\r\nand Cochrane Central Register of Controlled Trials (2006,\r\nIssue 3) databases."
+        ],
+        "negative_ctxs": [
+            17,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two reviewers independently performed study selection.\r\nDisagreements were resolved through discussion and\r\nby a third reviewer"
+        ],
+        "negative_ctxs": [
+            24,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "We extracted and presented data according to the\r\nQUORUM criteria (16). For each study, 2 reviewers, who\r\nwere blinded to the identity of the study authors and journal\r\nin which the studies were published, independently\r\nextracted data on study design, patient characteristics, and\r\nanticoagulant prophylaxis"
+        ],
+        "negative_ctxs": [
+            11,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Of the 22 retrieved studies, 13 were\r\nexcluded for the following reasons: 4 because they had\r\nduplicate data (24, 29, 31, 34); 4 because they did not\r\nhave an untreated control group (25, 27, 30, 36); 2 because\r\nthey did not contain original data (26, 28); 1 because\r\nit included medical and surgical patients (37); 1 because it\r\nwas not properly randomized (40); and 1 because it identified\r\nthe control group arbitrarily and not by randomization\r\n(39). Therefore, we included 9 studies in our systematic\r\nreview"
+        ],
+        "negative_ctxs": [
+            26,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 shows the characteristics of the included\r\nstudies.\n\nTable 1. Study Characteristics and Study Quality Assessment*"
+        ],
+        "negative_ctxs": [
+            19,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Study Quality Assessment\nTwo reviewers who were blinded to the identity of the\nstudy authors and the journals in which the studies were\npublished independently assessed study quality. The reviewers\nevaluated study quality by considering methods\nused to generate the randomization sequence, methods of\ndouble-blinding, and the description of patient withdrawals\nand dropouts."
+        ],
+        "negative_ctxs": [
+            28,
+            14
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We planned separate analyses\nfor treatment effects during prophylaxis and for treatment\neffects after prophylaxis had been stopped. For treatment \neffects that were statistically significant, we determined the\nabsolute risk reduction and number-needed-to-treat for\nbenefit (NNTB) to prevent an outcome. We pooled data\nby using the Mantel-Haenszel method (17), and we performed\na fixed-effects model by using Review Manager,\nversion 4.2.8 (RevMan, Cochrane Collaboration, Oxford,\nEngland). Because combining trials with extremely low or\nzero event rates can yield biased results, we repeated the\nanalyses using StatXact software, version 7 (Cytel Software\nCorporation, Cambridge, Massachusetts), which provides\nexact fixed-effect point and interval estimates for the odds\nratio (18). The appropriateness of pooling data across studies\nwas assessed using the I2 test for heterogeneity, which\nmeasures the inconsistency across study results and describes\nthe proportion of total variation in study estimates\nthat is due to heterogeneity rather than sampling error\n\nExcept for major bleeding, we found no heterogeneity\nacross studies for all outcomes assessed (I2 \u0001 0%)."
+        ],
+        "negative_ctxs": [
+            11,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Anticoagulant prophylaxis was associated\nwith a nonsignificant increase in major bleeding (relative\nrisk, 1.32 [CI, 0.73 to 2.37]). We found no\nheterogeneity for this outcome across studies (I2 \u0001\n29.7%).\nHeterogenity\nExcept for major bleeding, we found no heterogeneity\nacross studies for all outcomes assessed (I2 \u0001 0%)."
+        ],
+        "negative_ctxs": [
+            19,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "We repeated sensitivity analyses by using only studies\r\nthat satisfied each item of our prespecified quality evaluation\r\n(20). We created funnel plots of effect size versus\r\nstandard error to assess for publication bias\n\nSensitivity Analysis\nWe confirmed the results of the primary analyses by\nusing sensitivity analyses that considered only double-blind\nstudies. Adequate allocation concealment and description\nof withdrawals and dropouts did not change the results of\nthe primary analyses. Similarly, repeating our analyses with\nStatExact software did not change the results of the primary\nanalyses."
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Sensitivity Analysis\nWe confirmed the results of the primary analyses by\nusing sensitivity analyses that considered only double-blind\nstudies. Adequate allocation concealment and description\nof withdrawals and dropouts did not change the results of\nthe primary analyses. Similarly, repeating our analyses with\nStatExact software did not change the results of the primary\nanalyses."
+        ],
+        "negative_ctxs": [
+            19,
+            21
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Table 1. Study Characteristics and Study Quality Assessment*\n\nIn addition, at least 5 of the 9 included studies were supported\nby pharmaceutical companies. However, because researchers\nmaintained adequate allocation concealment in\nalmost all studies and because we only considered outcomes\nevaluated in an objective manner, the funding\nsources for the studies probably did not systematically affect\nthe results."
+        ],
+        "negative_ctxs": [
+            26,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Grant Support: Dr. Crowther is a Career Investigator of the Heart and\r\nStroke Foundation of Ontario. Dr. Lim holds a Mentorship award from\r\nthe Canadian Institutes of Health Research.\r\nPotential Financial Conflicts of Interest: Consultancies: J.D. Douketis\r\n(Agen Biomedical), M.A. Crowther (Sanofi-Aventis, Pfizer Inc., Leo Laboratories,\r\nGlaxoSmithKline, Organon, Artisian Therapeutics); Honoraria:\r\nJ.D. Douketis (Sanofi-Aventis, Pfizer Inc., Leo Pharma), M.A.\r\nCrowther (Sanofi-Aventis, Pfizer Inc., Leo Laboratories, GlaxoSmith-\r\nKline, Organon Artisian Therapeutics); Grants received: M.A. Crowther\r\n(Sanofi-Aventis, Pfizer Inc., Leo Laboratories, GlaxoSmithKline, Organon,\r\nArtisian Therapeutics)."
+        ],
+        "negative_ctxs": [
+            2,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Limitations of our meta-analysis may affect the validity\r\nof our findings. First, because not all trials used a double-\r\nblind design, a lower threshold for diagnostic testing in\r\npatients who did not receive anticoagulant prophylaxis (diagnostic\r\nsuspicion bias) might exist, with the potential that\r\nmore symptomatic outcomes were detected in untreated\r\npatients enrolled in the unblinded trials. However, given\r\nthe clinical consequences of missed and untreated VTE,\r\nthe development of clinical features compatible with VTE\nin at-risk medical patients might trigger diagnostic testing\r\nirrespective of whether anticoagulant prophylaxis was administered.\r\nNonetheless, we cannot exclude the potential\r\nfor overdetection of outcomes in patients who did not receive\r\nprophylaxis. Second, our finding of an asymmetrical\r\nfunnel plot (Appendix Figure, available at www.annals\r\n.org) for the outcome of PE suggests that there may have\r\nbeen unpublished studies in which anticoagulant prophylaxis\r\nincreased the risk for PE. However, after excluding 3\r\nstudies with small sample sizes (bottom left of the plot),\r\nthe risk reduction for PE remained unchanged (relative\r\nrisk, 0.44 [CI, 0.24 to 0.79]). The validity of our findings\r\nis supported by our sensitivity analysis, which was consistent\r\nwith our findings from all pooled studies and was\r\nlimited to high-quality trials, in which the treatment effects\r\nof anticoagulant prophylaxis remained. Third, we acknowledge\r\nthat our pool of studies for the outcomes of fatal PE\r\nand DVT was small (5 or fewer) and caution is required in\r\ninterpreting findings pertaining to these outcomes.\n\nat least 5 of the 9 included studies were supported\r\nby pharmaceutical companies. However, because researchers\r\nmaintained adequate allocation concealment in\r\nalmost all studies and because we only considered outcomes\r\nevaluated in an objective manner, the funding\r\nsources for the studies probably did not systematically affect\r\nthe results. Finally, because no standardized definition\r\nfor major bleeding in medical patients has been adopted in\r\nclinical trials of antithrombotic treatments, the definition\r\nfor major bleeding varied across studies (49). This should\r\nnot affect our comparisons of bleeding in treated and nontreated\r\npatients but will affect estimates of absolute bleeding\r\nrates."
+        ],
+        "negative_ctxs": [
+            28,
+            2
+        ],
+        "positive_ctxs": []
+    }
+]

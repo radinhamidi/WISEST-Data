@@ -1,0 +1,480 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "Protocol first published: Issue 4, 2009"
+        ],
+        "negative_ctxs": [
+            13,
+            47
+        ],
+        "positive_ctxs": [
+            46
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Types of participants: Children and adults with the common cold, defined by clinical diagnosis. Types of interventions\nOral or inhaled corticosteroids."
+        ],
+        "negative_ctxs": [
+            17,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Types of participants: Children and adults with the common cold, defined by clinical diagnosis. Types of interventions\n"
+        ],
+        "negative_ctxs": [
+            36,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            31,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "For this 2015 update we searched the Cochrane Central Register of Controlled Trials (CENTRAL 2015, Issue 4), which includes the Acute Respiratory Infections (ARI) Group's Specialised Register, MEDLINE (May 2012 to May week 3, 2015) and EMBASE (May 2012 to May 2015). We also searched the Database of Reviews of Effects (DARE) (2015, Issue 2 of 4) and the NHS Health Economics Database (NHS EED) (2015, Issue 2 of 4) from The Cochrane Library. We searched the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov trials registries"
+        ],
+        "negative_ctxs": [
+            36,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We searched the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov trials registries (latest search 19 May 2014). We searched the reference lists of all studies identified as relevant to increase the yield of relevant study references. \n\nWe attempted to contact trial authors to ask for unpublished results."
+        ],
+        "negative_ctxs": [
+            35,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix 1. MEDLINE and CENTRAL search strategy\n1 Common Cold/ (3092)\n2 common cold*.tw. (2266)\n3 coryza.tw. (333)\n4 Respiratory Tract Infections/ (27457)\n5 upper respiratory tract infection*.tw. (3093)\n6 upper respiratory infection*.tw. (1605)\n7 (uri or urti).tw. (795)\n8 Epiglottitis/ (826)\n9 epiglottitis.tw. (1100)\n10 Rhinitis/ (7046)\n11 rhinitis.tw. (15548)\n12 Nasopharyngitis/ (227)\n13 (rhinopharyngitis or nasopharyngitis).tw. (354)\n14 Nasal Obstruction/ (2895)\n15 Sneezing/ (674)\n16 (rhinorrhoea or rhinorrhoea).tw. (2839)\n17 ((nasal or nose*) adj2 (runny or running or congest* or blocked or discharg*)).tw. (2790)"
+        ],
+        "negative_ctxs": [
+            15,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "For this 2015 update we searched the Cochrane Central Register of Controlled Trials (CENTRAL 2015, Issue 4), which includes the Acute Respiratory Infections (ARI) Group's Specialised Register, MEDLINE (May 2012 to May week 3, 2015) and EMBASE (May 2012 to May 2015). We also searched the Database of Reviews of Effects (DARE) (2015, Issue 2 of 4) and the NHS Health Economics Database (NHS EED) (2015, Issue 2 of 4) from The Cochrane Library."
+        ],
+        "negative_ctxs": [
+            45,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two review authors (GH, CDM) independently reviewed the titles and abstracts of the electronic search results to select relevant articles. One review author (GH) obtained the full text of these articles. Two review authors (GH, CDM) independently reviewed full-text articles for their inclusion in the review. A third review author (CH) resolved any disagreements by discussion."
+        ],
+        "negative_ctxs": [
+            11,
+            32
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two review authors (GH, MT, CDM) independently extracted data from included trials, entering data into an extraction template and checking agreement. A third review author (CH) assisted with resolving any disagreements. A statistician (RP) independently reviewed all data extracted from original publications to verify the quality of methods and analysis used. We wrote to the trial authors for clarification of data where information was lacking."
+        ],
+        "negative_ctxs": [
+            28,
+            43
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Characteristics of included studies [ordered by study ID]\n\nTwo of our included studies involved 199 and 54 adult participants respectively, suffering from naturally developed colds (Puhakka 1998; Qvarnberg 2001). Both studies were performed in Finland and recruited from the general population (Puhakka 1998), or hospital staff (Qvarnberg 2001), and the majority were female (190/254). Participants received intranasal fluticasone propionate 200 mg four times daily (Puhakka 1998), or beclomethasone dipropionate 400 mg once daily (Qvarnberg 2001), for six or 14 days, respectively. The third included study involved 100 children aged two to 14 years attending the paediatric hospital in Bandar Abbas, Iran (Rahmati 2013). Participants received either amoxicillin 80 to 100 mg/kg alone for 14 days or amoxicillin and fluticasone nasal spray, one puff twice a day, for 14 days. This study aimed to recruit children with acute sinusitis. However, the eligibility criteria included children with symptoms of common cold for less than 10 days with purulent nasal discharge and three days of fever over 39 degrees celsius; criteria compatible with a diagnosis of common cold. "
+        ],
+        "negative_ctxs": [
+            37,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The data extracted from the studies did not provide comparable outcome measures and we were unable to obtain further comparable data directly from the trial authors. Therefore, we have described the results of each trial according to our stated outcome measures."
+        ],
+        "negative_ctxs": [
+            38,
+            10
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two review authors (GH, MT) independently assessed the methodological quality of the included studies, with disagreements documented and resolved by discussion with a third review author (CH). The specific aspects of methodological quality assessed included random sequence generation (selection bias), allocation concealment (selection bias), blinding (performance bias and detection bias), incomplete outcome data (attrition bias), selective reporting (reporting bias), treatment adherence, percentageparticipationandcomparabilityofgroupsonbaseline characteristics. We used the Cochrane 'Risk of bias' tool to perform the assessment (Higgins 2011).\n"
+        ],
+        "negative_ctxs": [
+            16,
+            39
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two review authors (GH, MT) independently assessed the methodological quality of the included studies, with disagreements documented and resolved by discussion with a third review author (CH)."
+        ],
+        "negative_ctxs": [
+            20,
+            7
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Only three trials of intranasal corticosteroids met the inclusion criteria for this review. One of these was a pilot study including only 54 participants (Qvarnberg 2001), and one was of very poor quality, with inadequate reporting of outcome measures (Rahmati 2013). This limits the conclusions that can be drawn."
+        ],
+        "negative_ctxs": [
+            29,
+            10
+        ],
+        "positive_ctxs": [
+            24
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Difference between protocol and review: We have added an additional exclusion criterion as follows: \"We also excluded trials where the common cold was experimentally induced if the intervention was initiated before the cold was induced.\" We made this decision once the range of eligible papers was established as we had not anticipated trials using experimentally induced infections.\n"
+        ],
+        "negative_ctxs": [
+            35,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The data extracted from the studies did not provide comparable outcome measures and we were unable to obtain further comparable data directly from the trial authors. Therefore, we have described the results of each trial according to our stated outcome measures."
+        ],
+        "negative_ctxs": [
+            19,
+            28
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "As our data were not amenable to meta-analysis, we addressed our primary outcomes using a narrative description of the available evidence."
+        ],
+        "negative_ctxs": [
+            25,
+            7
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "The small number of studies meant that the use of funnel plots was inappropriate. We attempted to contact trial authors to ask for unpublished results."
+        ],
+        "negative_ctxs": [
+            39,
+            8
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The risk of bias overall was low or unclear in these two trials. \n\nThe overall risk of bias was high for this trial. \n\nThe only trial to assess complete resolution of symptoms, Rahmati 2013, was of very poor quality and the outcome reporting was insufficient to allow us to report these data. Although they did demonstrate a significantly greater reduction in mean symptom severity score, this result must be interpreted in the context of a methodologically flawed trial performed in a population of patients that also included children with acute sinusitis. "
+        ],
+        "negative_ctxs": [
+            40,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The single-blind trial retrieved from our update of this review was at high risk of selection, performance and reporting bias, and results were not clearly presented (Rahmati 2013). Potential biases in the review process \nNo potential biases are expected in this review process."
+        ],
+        "negative_ctxs": [
+            13,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "We included three trials (353 participants). Two trials compared intranasal corticosteroids to placebo and one trial compared intranasal corticosteroids to usual care; no trials studied oral corticosteroids"
+        ],
+        "negative_ctxs": [
+            29,
+            15
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            9,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "Protocol first published: Issue 4, 2009"
+        ],
+        "negative_ctxs": [
+            31,
+            10
+        ],
+        "positive_ctxs": [
+            46
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Types of participants: Children and adults with the common cold, defined by clinical diagnosis. Types of interventions\n"
+        ],
+        "negative_ctxs": [
+            46,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We included trials reporting combined interventions if they allowed a direct comparison between corticosteroids and usual care for the common cold and were unconfounded. By unconfounded, we mean studies where the two groups were not treated differently, except for the provision of steroids to one group. Confounding can occur by the use of a different medication regime (for example, analgesics) for one of the two groups. We excluded them if the two groups were treated unequally apart from the corticosteroids."
+        ],
+        "negative_ctxs": [
+            4,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "For this 2015 update we searched the Cochrane Central Register of Controlled Trials (CENTRAL 2015, Issue 4), which includes the Acute Respiratory Infections (ARI) Group's Specialised Register, MEDLINE (May 2012 to May week 3, 2015) and EMBASE (May 2012 to May 2015). We also searched the Database of Reviews of Effects (DARE) (2015, Issue 2 of 4) and the NHS Health Economics Database (NHS EED) (2015, Issue 2 of 4) from The Cochrane Library. We searched the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov trials registries"
+        ],
+        "negative_ctxs": [
+            34,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two review authors (GH, CDM) independently reviewed the titles and abstracts of the electronic search results to select relevant articles. One review author (GH) obtained the full text of these articles. Two review authors (GH, CDM) independently reviewed full-text articles for their inclusion in the review. A third review author (CH) resolved any disagreements by discussion."
+        ],
+        "negative_ctxs": [
+            25,
+            14
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two review authors (GH, MT, CDM) independently extracted data from included trials, entering data into an extraction template and checking agreement. A third review author (CH) assisted with resolving any disagreements. A statistician (RP) independently reviewed all data extracted from original publications to verify the quality of methods and analysis used. We wrote to the trial authors for clarification of data where information was lacking."
+        ],
+        "negative_ctxs": [
+            18,
+            12
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "We excluded 11 studies.\n\nSee Characteristics of included studies and Characteristics of excluded studies tables."
+        ],
+        "negative_ctxs": [
+            3,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Characteristics of included studies [ordered by study ID]\n\nTwo of our included studies involved 199 and 54 adult participants respectively, suffering from naturally developed colds (Puhakka 1998; Qvarnberg 2001). Both studies were performed in Finland and recruited from the general population (Puhakka 1998), or hospital staff (Qvarnberg 2001), and the majority were female (190/254). Participants received intranasal fluticasone propionate 200 mg four times daily (Puhakka 1998), or beclomethasone dipropionate 400 mg once daily (Qvarnberg 2001), for six or 14 days, respectively. The third included study involved 100 children aged two to 14 years attending the paediatric hospital in Bandar Abbas, Iran (Rahmati 2013). Participants received either amoxicillin 80 to 100 mg/kg alone for 14 days or amoxicillin and fluticasone nasal spray, one puff twice a day, for 14 days. This study aimed to recruit children with acute sinusitis. However, the eligibility criteria included children with symptoms of common cold for less than 10 days with purulent nasal discharge and three days of fever over 39 degrees celsius; criteria compatible with a diagnosis of common cold. "
+        ],
+        "negative_ctxs": [
+            5,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two review authors (GH, MT) independently assessed the methodological quality of the included studies, with disagreements documented and resolved by discussion with a third review author (CH). The specific aspects of methodological quality assessed included random sequence generation (selection bias), allocation concealment (selection bias), blinding (performance bias and detection bias), incomplete outcome data (attrition bias), selective reporting (reporting bias), treatment adherence, percentageparticipationandcomparabilityofgroupsonbaseline characteristics. We used the Cochrane 'Risk of bias' tool to perform the assessment (Higgins 2011).\n"
+        ],
+        "negative_ctxs": [
+            16,
+            0
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The data extracted from the studies did not provide comparable outcome measures and we were unable to obtain further comparable data directly from the trial authors. Therefore, we have described the results of each trial according to our stated outcome measures."
+        ],
+        "negative_ctxs": [
+            41,
+            9
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "As our data were not amenable to meta-analysis, we addressed our primary outcomes using a narrative description of the available evidence."
+        ],
+        "negative_ctxs": [
+            31,
+            45
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "The small number of studies meant that the use of funnel plots was inappropriate. We attempted to contact trial authors to ask for unpublished results."
+        ],
+        "negative_ctxs": [
+            10,
+            37
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The risk of bias overall was low or unclear in these two trials. \n\nThe overall risk of bias was high for this trial. \n\nThe only trial to assess complete resolution of symptoms, Rahmati 2013, was of very poor quality and the outcome reporting was insufficient to allow us to report these data. Although they did demonstrate a significantly greater reduction in mean symptom severity score, this result must be interpreted in the context of a methodologically flawed trial performed in a population of patients that also included children with acute sinusitis. "
+        ],
+        "negative_ctxs": [
+            47,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "The Puhakka 1998 trial was supported by GlaxoWellcome Ltd and one trial author was employed by GlaxoWellcome Ltd. "
+        ],
+        "negative_ctxs": [
+            19,
+            41
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "S O U R C E S O F S U PP O R T Internal sources\n* Nosourcesofsupportsupplied External sources\n* BritishSocietyforAntimicrobialChemotherapy,UK.\nFunding for this work was provided in part by a Systematic Review Grant (GA722SRG) from the British Society for Antimicrobial\nChemotherapy\n\nGail Hayward: none known Matthew J Thompson: none known Rafael Perera: none known\nChris B Del Mar: none known\nPaul P Glasziou: none known\nCarl J Heneghan: none known"
+        ],
+        "negative_ctxs": [
+            26,
+            40
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The single-blind trial retrieved from our update of this review was at high risk of selection, performance and reporting bias, and results were not clearly presented (Rahmati 2013). Potential biases in the review process \nNo potential biases are expected in this review process."
+        ],
+        "negative_ctxs": [
+            43,
+            32
+        ],
+        "positive_ctxs": []
+    }
+]

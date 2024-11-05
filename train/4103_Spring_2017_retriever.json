@@ -1,0 +1,461 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Question - What is the evidence behind the medical dictum prohibiting procedural interventions in the setting of isotretinoin therapy?\n\npatients regarding the known risk of cutaneous surgical procedures in the setting of systemic isotretinoin treatment."
+        ],
+        "negative_ctxs": [
+            17,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "patients who are currently taking or have recently completed isotretinoin therapy.\n\nevaluate the body of literature to provide evidence-based recommendations regarding the safety of procedural interventions performed either concurrently with, or immediately following the cessation of systemic isotretinoin therapy."
+        ],
+        "negative_ctxs": [
+            21,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "A PubMed review of published data from 1982 to 2017"
+        ],
+        "negative_ctxs": [
+            15,
+            20
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "The search was limited to publications in the English language."
+        ],
+        "negative_ctxs": [
+            10,
+            5
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A PubMed review of published data from 1982 to 2017 was performed using the following search terms"
+        ],
+        "negative_ctxs": [
+            17,
+            8
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "using the following search terms: isotretinoin, 13-cisretinoic acid, Accutane, retinoids, acitretin, surgery, surgical, laser, ablative laser, nonablative laser, laser hair removal, chemical peel, dermabrasion, wound healing, safety, scarring, hypertrophic scar, and keloid."
+        ],
+        "negative_ctxs": [
+            7,
+            19
+        ],
+        "positive_ctxs": [
+            1,
+            3
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "A PubMed review of published data from 1982 to 2017 was performed using the following search terms: isotretinoin, 13-cisretinoic acid, Accutane, retinoids, acitretin, surgery, surgical, laser, ablative laser, nonablative laser, laser hair removal, chemical peel, dermabrasion, wound healing, safety, scarring, hypertrophic scar, and keloid. The search was limited to publications in the English language."
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Summary of Evidence of Dermatologic Procedures in the Setting of Isotretinoin Use"
+        ],
+        "negative_ctxs": [
+            5,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 3. Summary of Evidence of Surgery in the Setting of Isotretinoin Use"
+        ],
+        "negative_ctxs": [
+            1,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Thirty-two clinically oriented publications in English provided details of 1485 procedures in the setting of systemic isotretinoin treatment"
+        ],
+        "negative_ctxs": [
+            24,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The search was limited to publications in the English language. Five major topics were identified: dermabrasion, chemical peel, cutaneous surgery, laser hair removal, and ablative/nonablative laser. The literature was assessed using the Oxford Centre for Evidence-Based Medicine's Levels of Evidence and Grades of Recommendation. A panel of national experts in pediatric dermatology, procedural/cosmetic dermatology, plastic surgery, scars, wound healing, acne, and isotretinoin was convened at the 74th Annual Meeting of the American Academy of Dermatology in March 2016. Each topic was assigned to a team of at least 2 reviewers (including a pediatric dermatologist and a procedural dermatologist), and each topic was independently reviewed by at least 2 different teams. Each team presented their findings to the group for discussion. Evidence-based recommendations were proposed and group consensus was obtained."
+        ],
+        "negative_ctxs": [
+            26,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "A Systematic Review With Consensus Recommendations"
+        ],
+        "negative_ctxs": [
+            14,
+            5
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "\"Question - What is the evidence behind the medical dictum prohibiting procedural interventions in the setting of isotretinoin therapy?\n\npatients regarding the known risk of cutaneous surgical procedures in the setting of systemic isotretinoin treatment.\""
+        ],
+        "negative_ctxs": [
+            12,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            4,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "patients who are currently taking or have recently completed isotretinoin therapy.\n\nevaluate the body of literature to provide evidence-based recommendations regarding the safety of procedural interventions performed either concurrently with, or immediately following the cessation of systemic isotretinoin therapy."
+        ],
+        "negative_ctxs": [
+            13,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A PubMed review of published data from 1982 to 2017 was performed using the following search terms"
+        ],
+        "negative_ctxs": [
+            14,
+            28
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Summary of Evidence of Dermatologic Procedures in the Setting of Isotretinoin Use"
+        ],
+        "negative_ctxs": [
+            5,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The search was limited to publications in the English language. Five major topics were identified: dermabrasion, chemical peel, cutaneous surgery, laser hair removal, and ablative/nonablative laser. The literature was assessed using the Oxford Centre for Evidence-Based Medicine's Levels of Evidence and Grades of Recommendation. A panel of national experts in pediatric dermatology, procedural/cosmetic dermatology, plastic surgery, scars, wound healing, acne, and isotretinoin was convened at the 74th Annual Meeting of the American Academy of Dermatology in March 2016. Each topic was assigned to a team of at least 2 reviewers (including a pediatric dermatologist and a procedural dermatologist), and each topic was independently reviewed by at least 2 different teams. Each team presented their findings to the group for discussion. Evidence-based recommendations were proposed and group consensus was obtained."
+        ],
+        "negative_ctxs": [
+            25,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "A Systematic Review With Consensus Recommendations"
+        ],
+        "negative_ctxs": [
+            25,
+            16
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflict of Interest Disclosures: Dr Alam serves as a consultant to Amway. Dr Cohen serves on the advisory board of Allergan, Galderma, Merz, and Sciton; and as a clinical researcher for Allergan, Galderma, Merz, Leo, Valeant, and Lutronic. Dr Del Rosso is a consultant, researcher, and speaker for Sun Pharma, and a consultant, researcher, and speaker for Promius Pharmaceuticals. Dr Dover serves on the advisory board and as a consultant for Lumenis, Cynosure, Candela, and Cutera. Dr Kelly serves as a researcher for Syneron Candela, and received clinic equipment from Thermi and Sciton. Dr Leyden serves on the advisory board of Allergan, Galderma, Avon, PhotoSonix, and Sienna, and as a consultant for Unilever, Rodan Fields, Foamix, and Cutanea. Dr Zaenglein serves as a PI and consultant for Sun Pharma/Ranbaxy, and as a consultant for Dr Reddy. No other disclosures are reported.\n\nDisclaimer: The views expressed in this article are those of the authors and do not necessarily reflect the official policy or position of the Department of the Navy, Department of Defense, nor the US Government. Drs Spring and Shumaker are military service members; this work was prepared as part of their official duties and as such is not eligible for copyright protection."
+        ],
+        "negative_ctxs": [
+            3,
+            28
+        ],
+        "positive_ctxs": [
+            23
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            24
+        ],
+        "positive_ctxs": []
+    }
+]

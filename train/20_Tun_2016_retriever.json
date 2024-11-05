@@ -1,0 +1,482 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Studies that were eligible for inclusion in the metaanalysis had to fulfil all of the following criteria: RCTs of patients who were receiving chemotherapy for locally advanced or metastatic pancreatic cancer; RCTs comparing anticoagulation therapy and a control group; and symptomatic VTE events (sVTE) during the anticoagulation therapy as a primary or secondary efficacy endpoint of the RCT."
+        ],
+        "negative_ctxs": [
+            0,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Studies that were eligible for inclusion in the metaanalysis had to fulfil all of the following criteria: RCTs of patients who were receiving chemotherapy for locally advanced or metastatic pancreatic cancer; RCTs comparing anticoagulation therapy and a control group; and symptomatic VTE events (sVTE) during the anticoagulation therapy as a primary or secondary efficacy endpoint of the RCT."
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Studies that were eligible for inclusion in the metaanalysis had to fulfil all of the following criteria: RCTs of patients who were receiving chemotherapy for locally advanced or metastatic pancreatic cancer; RCTs comparing anticoagulation therapy and a control group; and symptomatic VTE events (sVTE) during the anticoagulation therapy as a primary or secondary efficacy endpoint of the RCT."
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Studies written in both English and non-English languages were searched."
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We undertook a systematic literature search using MEDLINE and EMBASE databases up to 20 May 2015. Both databases were accessed through www.embase.com using the keywords 'thromboprophylaxis OR anticoagulation OR warfarin OR heparin AND ('cancer'/exp OR cancer)' using mapping options"
+        ],
+        "negative_ctxs": [
+            13,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "References of the potential studies and clinical guidelines on thromboprophylaxis in cancer patients were also reviewed for any additional relevant studies."
+        ],
+        "negative_ctxs": [
+            11,
+            8
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We undertook a systematic literature search using MEDLINE and EMBASE databases up to 20 May 2015. Both databases were accessed through www.embase.com using the keywords 'thromboprophylaxis OR anticoagulation OR warfarin OR heparin AND ('cancer'/exp OR cancer)' using mapping options"
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Studies written in both English and non-English languages were searched."
+        ],
+        "negative_ctxs": [
+            2,
+            4
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two authors (N.M.T. and E.G.) independently conducted data extraction from each eligible study.\n\nAny discrepancies were addressed by a joint re-evaluation with the third author."
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The characteristics of the included studies are depicted in Table 1. Anticoagulants used in these trials were nadroparin (prophylactic dose), semuloparin (prophylactic dose), enoxaparin (semi-therapeutic dose) and dalteparin (therapeutic dose). PTP was given for the duration of chemotherapy, that is mostly around 3 months."
+        ],
+        "negative_ctxs": [
+            3,
+            4
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The characteristics of the included studies are depicted in Table 1. Anticoagulants used in these trials were nadroparin (prophylactic dose), semuloparin (prophylactic dose), enoxaparin (semi-therapeutic dose) and dalteparin (therapeutic dose). PTP was given for the duration of chemotherapy, that is mostly around 3 months."
+        ],
+        "negative_ctxs": [
+            1,
+            12
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The quality of the included studies was independently evaluated by two authors (N.M.T. and E.G.) using the Newcastle-Ottawa Scale (NOS) . The NOS assigns a maximum of four points for selection, two points for comparability and three points for exposure/outcome, and thus nine points on the NOS indicate the highest study quality."
+        ],
+        "negative_ctxs": [
+            14,
+            12
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "The quality of the included studies was independently evaluated by two authors (N.M.T. and E.G.) using the Newcastle-Ottawa Scale (NOS) . "
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Two RCTs and a subgroup of another two RCTs, comprising a total of 738 patients with advanced pancreatic cancer, were eligible for inclusion in our metaanalysis."
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Fixed effects model was applied because there was no significant heterogeneity among the included studies.\n\nOur study has several limitations that should be acknowledged. The studies included used different anticoagulants as well as differing dose regimens (Table 1)."
+        ],
+        "negative_ctxs": [
+            9,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "There was mild between-study heterogeneity for risk ratio and risk difference analysis for VTE events (I2 1/434 and 38%, respectively). No heterogeneity was observed for risk ratio analysis for major bleeding events (I2 1/40%).\n\nOur study has several limitations that should be acknowledged. The studies included used different anticoagulants as well as differing dose regimens (Table 1)."
+        ],
+        "negative_ctxs": [
+            15,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "There was no evidence of publication bias detected for risk ratio or risk difference analysis by either the Begg and Mazumdar rank correlation test or the Egger's test of the intercept."
+        ],
+        "negative_ctxs": [
+            14,
+            5
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Our study has several limitations that should be acknowledged. The studies included used different anticoagulants as well as differing dose regimens (Table 1); it is unclear regarding the equivalency of the efficacy and safety of therapeutic dose vs. those of semi-therapeutic or prophylactic dose of anticoagulants with regard to sVTE prevention."
+        ],
+        "negative_ctxs": [
+            3,
+            10
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Studies that were eligible for inclusion in the metaanalysis had to fulfil all of the following criteria: RCTs of patients who were receiving chemotherapy for locally advanced or metastatic pancreatic cancer; RCTs comparing anticoagulation therapy and a control group; and symptomatic VTE events (sVTE) during the anticoagulation therapy as a primary or secondary efficacy endpoint of the RCT."
+        ],
+        "negative_ctxs": [
+            9,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Studies that were eligible for inclusion in the metaanalysis had to fulfil all of the following criteria: RCTs of patients who were receiving chemotherapy for locally advanced or metastatic pancreatic cancer; RCTs comparing anticoagulation therapy and a control group; and symptomatic VTE events (sVTE) during the anticoagulation therapy as a primary or secondary efficacy endpoint of the RCT."
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We undertook a systematic literature search using MEDLINE and EMBASE databases up to 20 May 2015. Both databases were accessed through www.embase.com using the keywords 'thromboprophylaxis OR anticoagulation OR warfarin OR heparin AND ('cancer'/exp OR cancer)' using mapping options"
+        ],
+        "negative_ctxs": [
+            8,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two authors (N.M.T. and E.G.) independently conducted data extraction from each eligible study.\n\nAny discrepancies were addressed by a joint re-evaluation with the third author."
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The characteristics of the included studies are depicted in Table 1. Anticoagulants used in these trials were nadroparin (prophylactic dose), semuloparin (prophylactic dose), enoxaparin (semi-therapeutic dose) and dalteparin (therapeutic dose). PTP was given for the duration of chemotherapy, that is mostly around 3 months."
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The quality of the included studies was independently evaluated by two authors (N.M.T. and E.G.) using the Newcastle-Ottawa Scale (NOS) . The NOS assigns a maximum of four points for selection, two points for comparability and three points for exposure/outcome, and thus nine points on the NOS indicate the highest study quality."
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Fixed effects model was applied because there was no significant heterogeneity among the included studies.\n\nOur study has several limitations that should be acknowledged. The studies included used different anticoagulants as well as differing dose regimens (Table 1)."
+        ],
+        "negative_ctxs": [
+            1,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "There was mild between-study heterogeneity for risk ratio and risk difference analysis for VTE events (I2 1/434 and 38%, respectively). No heterogeneity was observed for risk ratio analysis for major bleeding events (I2 1/40%).\n\nOur study has several limitations that should be acknowledged. The studies included used different anticoagulants as well as differing dose regimens (Table 1)."
+        ],
+        "negative_ctxs": [
+            14,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "There was no evidence of publication bias detected for risk ratio or risk difference analysis by either the Begg and Mazumdar rank correlation test or the Egger's test of the intercept."
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "There are no conflicts of interest."
+        ],
+        "negative_ctxs": [
+            9,
+            3
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Our study has several limitations that should be acknowledged. The studies included used different anticoagulants as well as differing dose regimens (Table 1); it is unclear regarding the equivalency of the efficacy and safety of therapeutic dose vs. those of semi-therapeutic or prophylactic dose of anticoagulants with regard to sVTE prevention."
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    }
+]

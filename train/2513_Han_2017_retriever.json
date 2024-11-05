@@ -1,0 +1,478 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "This study is a meta-analysis evaluating the efficacy and safety of dupilumab for the treatment of AD.\n\nThe inclusion criteria were as follows: (1) patients given a diagnosis of AD and treated with dupilumab; (2) double-blind, randomized, placebo-controlled studies; (3) outcome measures including EASI, IGA, and pruritus numericalrating scale (NRS) score, as well as rates of patients with AEs and the percentage of study discontinuation."
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The inclusion criteria were as follows: (1) patients given a diagnosis of AD and treated with dupilumab; (2) double-blind, randomized, placebo-controlled studies; (3) outcome measures including EASI, IGA, and pruritus numericalrating scale (NRS) score, as well as rates of patients with AEs and the percentage of study discontinuation."
+        ],
+        "negative_ctxs": [
+            4,
+            11
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "published between May 1, 2000, and December 1, 2016\n\nThe inclusion criteria were as follows: (1) patients given a diagnosis of AD and treated with dupilumab; (2) double-blind, randomized, placebo-controlled studies; (3) outcome measures including EASI, IGA, and pruritus numericalrating scale (NRS) score, as well as rates of patients with AEs and the percentage of study discontinuation"
+        ],
+        "negative_ctxs": [
+            4,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "we conducted a systematic search of PubMed, MEDLINE, Embase, and Web of Science databases for RCTs (published between May 1, 2000, and December 1, 2016; English publication only)"
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "we conducted a systematic search of PubMed, MEDLINE, Embase, and Web of Science databases"
+        ],
+        "negative_ctxs": [
+            4,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "using the search terms ''dupilumab'' and ''atopic dermatitis'' or ''atopic eczema.''"
+        ],
+        "negative_ctxs": [
+            7,
+            14
+        ],
+        "positive_ctxs": [
+            3,
+            13
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "(published between May 1, 2000, and December 1, 2016; English publication only)"
+        ],
+        "negative_ctxs": [
+            15,
+            4
+        ],
+        "positive_ctxs": [
+            3,
+            13
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "A 2-step approach was applied, and all the studies selected using the strategy were reviewed independently by 2 researchers (H.Y. and C.Y.X.);"
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "TABLE I. Characteristics of studies included in the meta-analysis\n\nAll patients were adults (>18 years old), had eczema area and severity index (EASI) score of more than 16, investigator's global assessment (IGA) score of more than 3, body surface area affected of more than 10%, and a diagnosis of AD for more than 3 years."
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "FIG 1. Meta-analysis of efficacy outcomes of 7 RCTs with dupilumab- and placebo treated patients with AD. A, The EASI score. B, The IGA score. C, Pruritus numerical rating scale (NRS) score. D, Body surface area (BSA) score. Horizontal lines stand for 95% Cls of the RR estimates. Green dots represent the SMD. Blue dots represent the RR, and diamonds represent the meta-analysis summary effect estimate"
+        ],
+        "negative_ctxs": [
+            2,
+            12
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Moreover, we analyzed the methodological quality of the included studies and the risk of bias using Cochrane collaboration tool"
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Moreover, we analyzed the methodological quality of the included studies and the risk of bias using Cochrane collaboration tool"
+        ],
+        "negative_ctxs": [
+            8,
+            4
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "In the pooled analysis of all 7 trials, significant improvement in efficacy of dupilumab for the treatment of AD was observed in various clinical indexes.\n\nFIG 1. Meta-analysis of efficacy outcomes of 7 RCTs with dupilumab- and placebo-treated patients with AD."
+        ],
+        "negative_ctxs": [
+            5,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The overall summary effect sizes were estimated using a random-effects model."
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The Galbraith plot was applied to indicate studies that caused heterogeneity. Each study was described as a single dot with a central regression line through the plot.\n\nThe group receiving 100 mg every 4 week (100q4w) in phase IIb study was found to be the main cause of the heterogeneity."
+        ],
+        "negative_ctxs": [
+            5,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Begg funnel plot and Egger test showed that there did not seem to be bias in the publication"
+        ],
+        "negative_ctxs": [
+            2,
+            5
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "All 7 studies showed a low risk of bias"
+        ],
+        "negative_ctxs": [
+            12,
+            5
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Limitations of this meta-analysis included the limited number of clinical trials (only 7) in this study and the risks of bias, for example, funding from pharmaceutical industry, might exist."
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "TABLE I. Characteristics of studies included in the meta-analysis\n\nThis study is a meta-analysis evaluating the efficacy and safety of dupilumab for the treatment of AD.\n\nThe inclusion criteria were as follows: (1) patients given a diagnosis of AD and treated with dupilumab; (2) double-blind, randomized, placebo-controlled studies; (3) outcome measures including EASI, IGA, and pruritus numerical rating scale (NRS) score, as well as rates of patients with AEs and the percentage of study discontinuation."
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            15,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The inclusion criteria were as follows: (1) patients given a diagnosis of AD and treated with dupilumab; (2) double-blind, randomized, placebo-controlled studies; (3) outcome measures including EASI, IGA, and pruritus numericalrating scale (NRS) score, as well as rates of patients with AEs and the percentage of study discontinuation."
+        ],
+        "negative_ctxs": [
+            15,
+            2
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "we conducted a systematic search of PubMed, MEDLINE, Embase, and Web of Science databases"
+        ],
+        "negative_ctxs": [
+            4,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "A 2-step approach was applied, and all the studies selected using the strategy were reviewed independently by 2 researchers (H.Y. and C.Y.X.);"
+        ],
+        "negative_ctxs": [
+            5,
+            14
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "TABLE I. Characteristics of studies included in the meta-analysis\n\nAll patients were adults (>18 years old), had eczema area and severity index (EASI) score of more than 16, investigator's global assessment (IGA) score of more than 3, body surface area affected of more than 10%, and a diagnosis of AD for more than 3 years."
+        ],
+        "negative_ctxs": [
+            0,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Moreover, we analyzed the methodological quality of the included studies and the risk of bias using Cochrane collaboration tool"
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The overall summary effect sizes were estimated using a random-effects model."
+        ],
+        "negative_ctxs": [
+            11,
+            3
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The Galbraith plot was applied to indicate studies that caused heterogeneity. Each study was described as a single dot with a central regression line through the plot.\n\nThe group receiving 100 mg every 4 week (100q4w) in phase IIb study was found to be the main cause of the heterogeneity."
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Begg funnel plot and Egger test showed that there did not seem to be bias in the publication"
+        ],
+        "negative_ctxs": [
+            9,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "All 7 studies showed a low risk of bias"
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Disclosure of potential conflict of interest: The authors declare that they have no relevant conflicts of interest."
+        ],
+        "negative_ctxs": [
+            11,
+            12
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Limitations of this meta-analysis included the limited number of clinical trials (only 7) in this study and the risks of bias, for example, funding from pharmaceutical industry, might exist."
+        ],
+        "negative_ctxs": [
+            6,
+            16
+        ],
+        "positive_ctxs": []
+    }
+]

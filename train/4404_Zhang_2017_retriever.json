@@ -1,0 +1,456 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "the aim of the present study was\nto summarize the available evidence to investigate whether\nserum/plasma levels of Hcy were associated with SSc using\nmeta-analysis, and summarize recent literature data regarding\nthe reasons for the increased Hcy and the supposed\nmechanisms involved in SSc.\n\nStudies meeting the following\r\ncriteria were considered to be included in this meta-analysis:\r\n(a) case-control study, clinical cohort or cross-sectional\r\nstudy design; (b) human subjects with SSc; (c) detailed data\r\nabout plasma/serum level of Hcy in both patients and\r\nhealthy controls were accessible. If a study was reported in\r\nmore than one publication, the latest paper was considered\r\nin our meta-analysis."
+        ],
+        "negative_ctxs": [
+            19,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Studies meeting the following\r\ncriteria were considered to be included in this meta-analysis:\r\n(a) case-control study, clinical cohort or cross-sectional\r\nstudy design; (b) human subjects with SSc; (c) detailed data\r\nabout plasma/serum level of Hcy in both patients and\r\nhealthy controls were accessible. If a study was reported in\r\nmore than one publication, the latest paper was considered\r\nin our meta-analysis."
+        ],
+        "negative_ctxs": [
+            17,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Studies meeting the following\r\ncriteria were considered to be included in this meta-analysis:\r\n(a) case-control study, clinical cohort or cross-sectional\r\nstudy design; (b) human subjects with SSc; (c) detailed data\r\nabout plasma/serum level of Hcy in both patients and\r\nhealthy controls were accessible. If a study was reported in\r\nmore than one publication, the latest paper was considered\r\nin our meta-analysis."
+        ],
+        "negative_ctxs": [
+            15,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Studies meeting the following\r\ncriteria were considered to be included in this meta-analysis:\r\n(a) case-control study, clinical cohort or cross-sectional\r\nstudy design; (b) human subjects with SSc; (c) detailed data\r\nabout plasma/serum level of Hcy in both patients and\r\nhealthy controls were accessible. If a study was reported in\r\nmore than one publication, the latest paper was considered\r\nin our meta-analysis."
+        ],
+        "negative_ctxs": [
+            22,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A systematic literature search was performed using the\nPubMed, Elsevier ScienceDirect and Cochrane Library databases"
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "A systematic literature search was performed using the\nPubMed, Elsevier ScienceDirect and Cochrane Library databases\nto locate all relevant publications that documented the\nassociation of serum levels of Hcy in SSc. Search terms\nand key words were used as follows: Systemic sclerosis OR\nscleroderma OR SSc individually with each of the\nfollowing key descriptors of Hcy: homocysteine, hcy;\nhyperhomocysteinemia, HHcy. Studies meeting the following\ncriteria were considered to be included in this meta-analysis:\n(a) case-control study, clinical cohort or cross-sectional\nstudy design; (b) human subjects with SSc; (c) detailed data\nabout plasma/serum level of Hcy in both patients and\nhealthy controls were accessible. If a study was reported in\nmore than one publication, the latest paper was considered\nin our meta-analysis"
+        ],
+        "negative_ctxs": [
+            12,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Search terms\nand key words were used as follows: Systemic sclerosis OR\nscleroderma OR SSc individually with each of the\nfollowing key descriptors of Hcy: homocysteine, hcy; hyperhomocysteinemia, HHcy."
+        ],
+        "negative_ctxs": [
+            6,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Search terms\nand key words were used as follows: Systemic sclerosis OR\nscleroderma OR SSc individually with each of the\nfollowing key descriptors of Hcy: homocysteine, hcy; hyperhomocysteinemia, HHcy."
+        ],
+        "negative_ctxs": [
+            10,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "A systematic literature search was performed using the\nPubMed, Elsevier ScienceDirect and Cochrane Library databases\nto locate all relevant publications that documented the\nassociation of serum levels of Hcy in SSc. Search terms\nand key words were used as follows: Systemic sclerosis OR\nscleroderma OR SSc individually with each of the\nfollowing key descriptors of Hcy: homocysteine, hcy;\nhyperhomocysteinemia, HHcy. Studies meeting the following\ncriteria were considered to be included in this meta-analysis:\n(a) case-control study, clinical cohort or cross-sectional\nstudy design; (b) human subjects with SSc; (c) detailed data\nabout plasma/serum level of Hcy in both patients and\nhealthy controls were accessible. If a study was reported in\nmore than one publication, the latest paper was considered\nin our meta-analysis"
+        ],
+        "negative_ctxs": [
+            6,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "All the data were extracted by two independent reviewers\naccording to the inclusion criteria."
+        ],
+        "negative_ctxs": [
+            5,
+            21
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Association between serum Hcy level and SSc"
+        ],
+        "negative_ctxs": [
+            15,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nine articles [12-18,20,21] with abstracts in total were selected in\nthis systematic review (Table 1). However, in one study ,\nonly the median was reported. Finally, only eight eligible\nstudies including 475 cases and 265 controls were merged\nby us\n\nTable 1. Association between serum Hcy level and SSc"
+        ],
+        "negative_ctxs": [
+            1,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "2.2. Data extraction\nAll the data were extracted by two independent reviewers\naccording to the inclusion criteria. The extracted information\nfor each eligible papers included the first author's\nname, publication year, study subjects (cases and controls),\nassay methods of serum Hcy levels measured, mean Hcy levels\n(+-standard deviation) or median (95%CI/quartiles)."
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "2.2. Data extraction\nAll the data were extracted by two independent reviewers\naccording to the inclusion criteria. The extracted information\nfor each eligible papers included the first author's\nname, publication year, study subjects (cases and controls),\nassay methods of serum Hcy levels measured, mean Hcy levels\n(+-standard deviation) or median (95%CI/quartiles)."
+        ],
+        "negative_ctxs": [
+            5,
+            14
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "after carefully reading the title and abstract, nine\r\narticles [12-18,20,21] with abstracts in total were selected in\r\nthis systematic review (Table 1). However, in one study ,\r\nonly the median was reported. Finally, only eight eligible\r\nstudies including 475 cases and 265 controls were merged\r\nby us."
+        ],
+        "negative_ctxs": [
+            12,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Studies meeting the following\r\ncriteria were considered to be included in this meta-analysis:\r\n(a) case-control study, clinical cohort or cross-sectional\r\nstudy design;\n\nI2 statistics and Q-test were used to\r\nassess the degree of heterogeneity between studies. If p<.05\r\nfor the Q2 test or I2>50%, a random-effects model was\r\nselected to pool the data. Otherwise, a fixed-effect model\r\nwas used.\n\nWe found significant between-study heterogeneity\r\nand conducted analyses using random-effects models"
+        ],
+        "negative_ctxs": [
+            13,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "No significant association was found between the serum levels\r\nof Hcy and SSc (pooled SMD 1/41.382lmol/L,\r\n95%CI 1/4\u00030.442 to 3.206, p  1/4.137; I2 1/498.7%, p 1/4.000), but t\nthere are two outlier studies [12,18] that deviate significantly\nfrom most other studies, which made it difficult to generalize\nthese results. Therefore, we excluded two studies in sensitivity\nanalysis. After excluding these two studies, six\nstudies were included in the meta-analysis\n\nFirst, significant heterogeneity was observed in this meta-analysis.\nThe heterogeneity of the population probably originates in\nthe differences in the characteristics of patients, such as age,\ngender, region, study type and other residual confounding\neffect. Indeed, the different measurement used to define Hcy\nplasma level may also play a role in high heterogeneity."
+        ],
+        "negative_ctxs": [
+            2,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Finally, only eight eligible\r\nstudies including 475 cases and 265 controls were merged\r\nby us."
+        ],
+        "negative_ctxs": [
+            6,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "2.2. Data extraction\r\nAll the data were extracted by two independent reviewers\r\naccording to the inclusion criteria. The extracted information\r\nfor each eligible papers included the first author's\r\nname, publication year, study subjects (cases and controls),\r\nassay methods of serum Hcy levels measured, mean Hcy levels\r\n(+-standard deviation) or median (95%CI/quartiles)."
+        ],
+        "negative_ctxs": [
+            4,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "In conclusion, this is the first preliminary meta-analysis\r\nto assess the relationship of Hcy serum levels with SSc.\r\nHowever, several limitations should be acknowledged. First,\r\nsignificant heterogeneity was observed in this meta-analysis.\r\nThe heterogeneity of the population probably originates in\r\nthe differences in the characteristics of patients, such as age,\r\ngender, region, study type and other residual confounding\r\neffect. Indeed, the different measurement used to define Hcy\r\nplasma level may also play a role in high heterogeneity.\r\nMoreover, many factors have an effect on Hcy levels, such\r\nas blood folate and vitamin B12 levels and polymorphisms\r\nof genes involved in the metabolism of Hcy. Unfortunately,\r\ndue to the insufficient information of these factors, a comprehensive\r\nmeta-regression or subgroup analysis was not\r\nsuccessfully conducted. Thus, the results of meta-analysis\r\nshould be interpreted with caution. Therefore, it needs to be\r\ndemonstrated by well-designed prospective studies whether\r\nHcy was higher in SSc."
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "the aim of the present study was\r\nto summarize the available evidence to investigate whether\r\nserum/plasma levels of Hcy were associated with SSc using\r\nmeta-analysis,\n\nTable 1. Association between serum Hcy level and SSc."
+        ],
+        "negative_ctxs": [
+            18,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            8,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Studies meeting the following\r\ncriteria were considered to be included in this meta-analysis:\r\n(a) case-control study, clinical cohort or cross-sectional\r\nstudy design; (b) human subjects with SSc; (c) detailed data\r\nabout plasma/serum level of Hcy in both patients and\r\nhealthy controls were accessible. If a study was reported in\r\nmore than one publication, the latest paper was considered\r\nin our meta-analysis."
+        ],
+        "negative_ctxs": [
+            17,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Studies meeting the following\r\ncriteria were considered to be included in this meta-analysis:\r\n(a) case-control study, clinical cohort or cross-sectional\r\nstudy design;"
+        ],
+        "negative_ctxs": [
+            16,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A systematic literature search was performed using the\nPubMed, Elsevier ScienceDirect and Cochrane Library databases"
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "A systematic literature search was performed using the\nPubMed, Elsevier ScienceDirect and Cochrane Library databases\nto locate all relevant publications that documented the\nassociation of serum levels of Hcy in SSc. Search terms\nand key words were used as follows: Systemic sclerosis OR\nscleroderma OR SSc individually with each of the\nfollowing key descriptors of Hcy: homocysteine, hcy;\nhyperhomocysteinemia, HHcy. Studies meeting the following\ncriteria were considered to be included in this meta-analysis:\n(a) case-control study, clinical cohort or cross-sectional\nstudy design; (b) human subjects with SSc; (c) detailed data\nabout plasma/serum level of Hcy in both patients and\nhealthy controls were accessible. If a study was reported in\nmore than one publication, the latest paper was considered\nin our meta-analysis"
+        ],
+        "negative_ctxs": [
+            22,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "All the data were extracted by two independent reviewers\naccording to the inclusion criteria."
+        ],
+        "negative_ctxs": [
+            1,
+            2
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "We firstly retrieved 31 relevant references from PubMed,\r\nElsevier ScienceDirect and Cochrane Library databases.\r\nHowever, after carefully reading the title and abstract, nine\r\narticles [12-18,20,21] with abstracts in total were selected in\r\nthis systematic review ("
+        ],
+        "negative_ctxs": [
+            17,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Association between serum Hcy level and SSc"
+        ],
+        "negative_ctxs": [
+            18,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "2.2. Data extraction\nAll the data were extracted by two independent reviewers\naccording to the inclusion criteria. The extracted information\nfor each eligible papers included the first author's\nname, publication year, study subjects (cases and controls),\nassay methods of serum Hcy levels measured, mean Hcy levels\n(+-standard deviation) or median (95%CI/quartiles)."
+        ],
+        "negative_ctxs": [
+            10,
+            5
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Studies meeting the following\r\ncriteria were considered to be included in this meta-analysis:\r\n(a) case-control study, clinical cohort or cross-sectional\r\nstudy design;\n\nI2 statistics and Q-test were used to\r\nassess the degree of heterogeneity between studies. If p<.05\r\nfor the Q2 test or I2>50%, a random-effects model was\r\nselected to pool the data. Otherwise, a fixed-effect model\r\nwas used.\n\nWe found significant between-study heterogeneity\r\nand conducted analyses using random-effects models"
+        ],
+        "negative_ctxs": [
+            9,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "No significant association was found between the serum levels\r\nof Hcy and SSc (pooled SMD 1/41.382lmol/L,\r\n95%CI 1/4\u00030.442 to 3.206, p  1/4.137; I2 1/498.7%, p 1/4.000), but t\nthere are two outlier studies [12,18] that deviate significantly\nfrom most other studies, which made it difficult to generalize\nthese results. Therefore, we excluded two studies in sensitivity\nanalysis. After excluding these two studies, six\nstudies were included in the meta-analysis\n\nFirst, significant heterogeneity was observed in this meta-analysis.\nThe heterogeneity of the population probably originates in\nthe differences in the characteristics of patients, such as age,\ngender, region, study type and other residual confounding\neffect. Indeed, the different measurement used to define Hcy\nplasma level may also play a role in high heterogeneity."
+        ],
+        "negative_ctxs": [
+            9,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Finally, only eight eligible\r\nstudies including 475 cases and 265 controls were merged\r\nby us."
+        ],
+        "negative_ctxs": [
+            21,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "2.2. Data extraction\r\nAll the data were extracted by two independent reviewers\r\naccording to the inclusion criteria. The extracted information\r\nfor each eligible papers included the first author's\r\nname, publication year, study subjects (cases and controls),\r\nassay methods of serum Hcy levels measured, mean Hcy levels\r\n(+-standard deviation) or median (95%CI/quartiles)."
+        ],
+        "negative_ctxs": [
+            16,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Acknowledgements\r\nThis work was partly supported by grants from the Anhui provincial\r\nmajor project of quality engineering teaching research in 2016 (code:\r\n2016jyxm0378), Key Project of the Education Department of Anhui\r\nProvince Natural Science Research (code: KJ2017A164, KJ2017A686),\r\nproject of visiting study overseas of the excellent youth backbone in\r\nthe universities of education department of Anhui Province in 2017\r\n(code:gxfx2017008) and Anhui provincial laboratory of population\r\nhealth and major disease screening and diagnosis.\r\nConflict of interest\r\nNone."
+        ],
+        "negative_ctxs": [
+            22,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "In conclusion, this is the first preliminary meta-analysis\r\nto assess the relationship of Hcy serum levels with SSc.\r\nHowever, several limitations should be acknowledged. First,\r\nsignificant heterogeneity was observed in this meta-analysis.\r\nThe heterogeneity of the population probably originates in\r\nthe differences in the characteristics of patients, such as age,\r\ngender, region, study type and other residual confounding\r\neffect. Indeed, the different measurement used to define Hcy\r\nplasma level may also play a role in high heterogeneity.\r\nMoreover, many factors have an effect on Hcy levels, such\r\nas blood folate and vitamin B12 levels and polymorphisms\r\nof genes involved in the metabolism of Hcy. Unfortunately,\r\ndue to the insufficient information of these factors, a comprehensive\r\nmeta-regression or subgroup analysis was not\r\nsuccessfully conducted. Thus, the results of meta-analysis\r\nshould be interpreted with caution. Therefore, it needs to be\r\ndemonstrated by well-designed prospective studies whether\r\nHcy was higher in SSc."
+        ],
+        "negative_ctxs": [
+            14,
+            0
+        ],
+        "positive_ctxs": []
+    }
+]

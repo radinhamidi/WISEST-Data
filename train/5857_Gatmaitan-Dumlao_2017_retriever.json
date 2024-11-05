@@ -1,0 +1,478 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Types of Studies: The authors included randomized controlled trials (RCT) comparing oral preparations of retinoids with placebo, as chemoprevention for subsequent development of NMSC.\n Types of Participants: Participants must have had a biopsy-proven NMSC (basal cell carcinoma or squamous cell carcinoma, or both), must be over 18 years of age, whether male or female, with no exclusion of other demographic characteristics.\n Types of Intervention: The authors included all types of systemic retinoids, with no restriction on the dosage.\n Types of Outcome Measures: Primary outcome: Percentage of participants who developed a new biopsy-proven NMSC within the study duration \n Secondary outcome: Percentage of participants who developed any adverse event (AE), clinically defined as any new symptoms experienced by the participants during treatment and results also expressed in NNT, RR, CI, p-values."
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Types of Studies: The authors included randomized controlled trials (RCT) comparing oral preparations of retinoids with placebo, as chemoprevention for subsequent development of NMSC.\n Types of Participants: Participants must have had a biopsy-proven NMSC (basal cell carcinoma or squamous cell carcinoma, or both), must be over 18 years of age, whether male or female, with no exclusion of other demographic characteristics.\n Types of Intervention: The authors included all types of systemic retinoids, with no restriction on the dosage.\n Types of Outcome Measures: Primary outcome: Percentage of participants who developed a new biopsy-proven NMSC within the study duration \n Secondary outcome: Percentage of participants who developed any adverse event (AE), clinically defined as any new symptoms experienced by the participants during treatment and results also expressed in NNT, RR, CI, p-values."
+        ],
+        "negative_ctxs": [
+            16,
+            20
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "No language restrictions were imposed."
+        ],
+        "negative_ctxs": [
+            10,
+            19
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The authors conducted the electronic literature search in the following databases: the Cochrane Skin Group's Specialized Register, the Cochrane Central Register of Controlled Trials, MEDLINE (OVID), EMBASE, and Health Research and Development Information Network (HERDIN) database. Reference lists of articles were also used in the search.\n \n \nOther relevant journals were hand-searched. The authors also contacted pharmaceutical companies, trial authors, and organizations for potential articles and unpublished studies."
+        ],
+        "negative_ctxs": [
+            20,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Reference lists of articles were also used in the search.\n \n \nOther relevant journals were hand-searched. The authors also contacted pharmaceutical companies, trial authors, and organizations for potential articles and unpublished studies."
+        ],
+        "negative_ctxs": [
+            18,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Search terms used were chemoprevention, prevention, retinoids, skin cancer, NMSC, BCC, SCC."
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "No language restrictions were imposed."
+        ],
+        "negative_ctxs": [
+            4,
+            0
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two authors (JKG, FMS) checked the titles and abstracts identified from the literature search, and independently assessed the full-text of all the articles that satisfied the inclusion criteria. A pre-tested eligibility form was used. \n \n \n Differences in opinion between reviewers were resolved by consensus with the adviser."
+        ],
+        "negative_ctxs": [
+            18,
+            13
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two authors performed the data extraction using a pre-tested form, and disagreements were resolved with the adviser."
+        ],
+        "negative_ctxs": [
+            7,
+            14
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Results of Individual Studies"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Figure 2. Forest plot of primary outcome of development of at least 1 NMSC (SCC/BCC), and subgroup analysis for develop-ment of SCC and BCC\r"
+        ],
+        "negative_ctxs": [
+            7,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The quality of the studies and the risk of bias were assessed independently by the authors, based on the cochrane handbook for systematic reviews of interventions."
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "The quality of the studies and the risk of bias were assessed independently by the authors, based on the cochrane handbook for systematic reviews of interventions."
+        ],
+        "negative_ctxs": [
+            8,
+            18
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Meta-analysis on all studies (3,873 participants) produced a risk ratio of 0.94 (95% CI, 0.89-1.00) with noted moderate heterogeneity at 34%"
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Where subgroup analysis was possible, a calculated treatment effect was calculated using the fixed effects model\n\nHeterogeneity was tested via I2 statistics, and was interpreted as no heterogeneity (I2 = 0%), low heterogeneity (I2 = 25%), moderate heterogeneity (I2 = 50%), and high heterogeneity.17"
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Heterogeneity may be attributed to the difference in the interventions used\n\nThere was high heterogeneity in the studies, which may be attributed to the differences in reporting of adverse events"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "All of the studies had moderate methodological quality"
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "In the study by Tangrea et al18, 10.0 mg isotretinoin (~0.14 mg/kg/day) was used as chemoprevention for BCC\n\nThe study by Moon et al 20 utilized retinol 25,000 IU daily for fivw years for SCC and BCC\n\nThere are two interventions in the study by Levine et al. 19, which compared isotretinoin 10.0 mg daily and retinol 25,000 IU daily with placebo for prevention of NMSC"
+        ],
+        "negative_ctxs": [
+            11,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            6,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Types of Studies: The authors included randomized controlled trials (RCT) comparing oral preparations of retinoids with placebo, as chemoprevention for subsequent development of NMSC.\n Types of Participants: Participants must have had a biopsy-proven NMSC (basal cell carcinoma or squamous cell carcinoma, or both), must be over 18 years of age, whether male or female, with no exclusion of other demographic characteristics.\n Types of Intervention: The authors included all types of systemic retinoids, with no restriction on the dosage.\n Types of Outcome Measures: Primary outcome: Percentage of participants who developed a new biopsy-proven NMSC within the study duration \n Secondary outcome: Percentage of participants who developed any adverse event (AE), clinically defined as any new symptoms experienced by the participants during treatment and results also expressed in NNT, RR, CI, p-values."
+        ],
+        "negative_ctxs": [
+            1,
+            6
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The authors conducted the electronic literature search in the following databases: the Cochrane Skin Group's Specialized Register, the Cochrane Central Register of Controlled Trials, MEDLINE (OVID), EMBASE, and Health Research and Development Information Network (HERDIN) database. Reference lists of articles were also used in the search.\n \n \nOther relevant journals were hand-searched. The authors also contacted pharmaceutical companies, trial authors, and organizations for potential articles and unpublished studies."
+        ],
+        "negative_ctxs": [
+            9,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two authors (JKG, FMS) checked the titles and abstracts identified from the literature search, and independently assessed the full-text of all the articles that satisfied the inclusion criteria. A pre-tested eligibility form was used. \n \n \n Differences in opinion between reviewers were resolved by consensus with the adviser."
+        ],
+        "negative_ctxs": [
+            17,
+            5
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two authors performed the data extraction using a pre-tested form, and disagreements were resolved with the adviser."
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Five studies were excluded because of the different population\n \n \n Two studies were excluded because the interventions used were topical retinoids"
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Results of Individual Studies"
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The quality of the studies and the risk of bias were assessed independently by the authors, based on the cochrane handbook for systematic reviews of interventions."
+        ],
+        "negative_ctxs": [
+            13,
+            19
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Where subgroup analysis was possible, a calculated treatment effect was calculated using the fixed effects model\n\nHeterogeneity was tested via I2 statistics, and was interpreted as no heterogeneity (I2 = 0%), low heterogeneity (I2 = 25%), moderate heterogeneity (I2 = 50%), and high heterogeneity.17"
+        ],
+        "negative_ctxs": [
+            13,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Heterogeneity may be attributed to the difference in the interventions used\n\nThere was high heterogeneity in the studies, which may be attributed to the differences in reporting of adverse events"
+        ],
+        "negative_ctxs": [
+            12,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "All of the studies had moderate methodological quality"
+        ],
+        "negative_ctxs": [
+            22,
+            13
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            15
+        ],
+        "positive_ctxs": []
+    }
+]

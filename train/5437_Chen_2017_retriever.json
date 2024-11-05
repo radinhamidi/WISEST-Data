@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "we performed\na meta-analysis to evaluate the correlation of the\nclinical manifestations and laboratory disorders in\npatients with familial and sporadic-onset SLE.\n\nStudies meeting the following criteria were\nincluded in this review: (a) studies evaluating the\ndifferences between familial lupus and sporadic\nlupus with clinical and serological manifestations;\n(b) cohort studies designed with familial lupus; and\n(c) studies with genetic epidemiology sufficient data\navailable to calculate the odds ratio (OR) with 95%\nconfidence interval (95% CI). Studies were\nexcluded in any of the following cases: (a) not a\nhuman study; (b) not an original study; (c) cohort\ndesigns leading to outcome of interest and (d) study\nnot pertaining to the clinical or immunologic features\nof familial SLE."
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Studies meeting the following criteria were\nincluded in this review: (a) studies evaluating the\ndifferences between familial lupus and sporadic\nlupus with clinical and serological manifestations;\n(b) cohort studies designed with familial lupus; and\n(c) studies with genetic epidemiology sufficient data\navailable to calculate the odds ratio (OR) with 95%\nconfidence interval (95% CI). Studies were\nexcluded in any of the following cases: (a) not a\nhuman study; (b) not an original study; (c) cohort\ndesigns leading to outcome of interest and (d) study\nnot pertaining to the clinical or immunologic features\nof familial SLE."
+        ],
+        "negative_ctxs": [
+            1,
+            4
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Studies were excluded in any of the following cases: (a) not a\nhuman study; (b) not an original study; (c) cohort\ndesigns leading to outcome of interest and (d) study\nnot pertaining to the clinical or immunologic features\nof familial SLE\n\nIf several articles\nwere published by the same authors using the\nsame patients' data, only studies with the largest\nsample size or the most recent study were included.\n\nThe remaining 40 articles underwent a full\ntext review, and an additional 34 articles were\nexcluded: Twenty-five had no comparative data on\nfamilial and sporadic SLE, eight focused on a specialized\nsubset of patients (only female patients or\npatients with kidney diseases), and one utilized the\nsame study population."
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "were searched without language restrictions"
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The literature databases\nof PubMed, EMBASE, Web of Science and China\nNational Knowledge Infrastructure (CNKI)"
+        ],
+        "negative_ctxs": [
+            11,
+            6
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The references in the identified or related articles\nwere then manually reviewed to search other relevant\ncitations"
+        ],
+        "negative_ctxs": [
+            12,
+            0
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The search strategies were based on the following\r\nterms: ''lupus,'' ''SLE,'' or ''systemic lupus erythematosus,''\r\ncombined with ''familial,'' ''sporadic,''\r\n''familial history,'' ''families,'' or ''genetic epidemiology.''\r\nThesaurus terms and free texts were used"
+        ],
+        "negative_ctxs": [
+            1,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "were searched without language restrictions"
+        ],
+        "negative_ctxs": [
+            8,
+            5
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two reviewers separately included papers using\nthe inclusion and exclusion criteria"
+        ],
+        "negative_ctxs": [
+            10,
+            6
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Relevant data\r\nfrom each eligible article was extracted independently\r\nby two authors using a standardized data\r\nextraction form: the first author's name, publication\r\ndate, location, total number of SLE patients,\r\nsex ratio, the mean age at inclusion, the mean age\r\nonset, clinical manifestations (expressed as either\r\nthe number or percentage of familial and sporadic\r\npatients). Discrepancies were resolved by group\r\ndiscussion."
+        ],
+        "negative_ctxs": [
+            6,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 lists the demographics of patients included\nin the retrieved studies. The gender ratio\n(female:male) varied from 7:1 to 15:1 among studies\nwith no difference between familial and sporadic\nSLE as reported by four of six studies.15,16,18,19\nThe mean ages at inclusion and the onset ages listed\nin three studies were comparable between patients\nwith and without family history of SLE. In addition,\nAbutiban et al. analyzed disease duration\nand found no difference between the two groups.1"
+        ],
+        "negative_ctxs": [
+            5,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Figure 2 Forest plot of the association of familial SLE history with the clinical and laboratory parameters."
+        ],
+        "negative_ctxs": [
+            11,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The quality assessment of included studies was\nbased on the Newcastle-Ottawa assessment (NOS)\nscale.7 The criteria for selection assessment were\nmodified according to the Critical Appraisal Skills\nProgram (CASP)8 and Quality Assessment Tool for\nSystematic Reviews of Observational Studies\n(QATSO)9 to make the subcategories more applicable\nto grouped cohort studies. Total score varies\nfrom 0 to nine points, with nine representing the\nhighest quality."
+        ],
+        "negative_ctxs": [
+            10,
+            9
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Six studies with 733 familial\r\nSLE cases and 1405 sporadic cases investigated\r\nthe association of familial history with mucocutaneous\r\ndisorders. The overall meta-analyses showed\r\nthat"
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Both the chi-square-based Q-statistic test and I2\r\nwere used to assess the heterogeneity among studies.\r\nThe I2 value represented the proportion of\r\nvariation due to heterogeneities in studies. The heterogeneity\r\nlevel was classified into four categories:\r\nunimportant (0-40%), moderate (30-60%),\r\nsubstantial (50-90%) and considerable (75-100%)\r\nheterogeneity.11 If the p value of the heterogeneity\r\nQ-statistic\u00020.10 or I2\u000350%, the random-effects\r\nmodel was selected.12 Otherwise, a fixed-effects\r\nmodel was adopted."
+        ],
+        "negative_ctxs": [
+            9,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The overall meta-analyses showed\r\nthat familial SLE was negatively associated with\r\nphotosensitivity (OR 0.73, 95% CI 0.60-0.89,\r\np 1/40.002) but with a moderate heterogeneity\r\n(I2 1/435%, pHeterogeneity 1/40.17) (Figure 2(a))."
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Publication bias was investigated\r\nby funnel plot if there were more than\r\n10 studies involved"
+        ],
+        "negative_ctxs": [
+            6,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Of the six\r\nstudies, one scored six points, and two scored seven\r\npoints, and the other scored nine points. All studies\r\ndefined SLE cases with the American College of\r\nRheumatology (ACR) criteria (1982 or 1997 revision)\r\nand described the characteristics of patients in\r\nthat context. Data from all of SLE patients and their\r\naffected relatives were collected by reviewing their\r\nmedical records if available or by personal interview\r\nand blood collection if the data were missing."
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "First, with respect to the genetic component, the\nconcordance rate was higher in monozygotic\ntwins (>20%) than in dizygotic twins and other\nfull siblings (2-5%), indicating a linkage between\nthe degree of relatives and genetic factors.25-27 In\nthis meta-analysis, there were not enough data to\nanalysis whether the lupus-related parameters\nvaried with the degree of relatives. Second, the\nsex ratios were different in the included articles.\nSexual hormones are critical for SLE development\nand associated with SLE manifestations. It was\nreported that female patients were highly associated\nwith alopecia, photosensitivity, oral ulcers, arthritis,\nmalar rash, lupus anticoagulant level, and\nlow level of C3, while male patients were more\nlikely to have renal involvement, serositis and\npleurisies, thrombocytopenia, and serum level of\nanti-dsDNA antibody.28 Thus, the varied sexual\nratios in each study could cause some bias. Third,\nthe mean onset ages were not specified in three articles.\nThe age of onset has been reported to be\nrelated to clinical manifestations. Patients with\nchildhood-onset lupus were commonly found to\nhave fever, malar rash, hematologic disorders\n(hemolytic anemia and thrombocytopenia), renal\ninvolvement and lymphadenopathy.29 Last, it is\nimportant to note that a couple of the largest studies\nhad lower quality but they would count as\nhigher weight because of the large sizes."
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Thus, to better understand the\nassociation of genetic factors with the manifestations\nand the pathogenesis of SLE, we performed\na meta-analysis to evaluate the correlation of the\nclinical manifestations and laboratory disorders in\npatients with familial and sporadic-onset SLE\n\nTable 1 Characteristics of included studies\n\nAll studies\ndefined SLE cases with the American College of\nRheumatology (ACR) criteria (1982 or 1997 revision)\nand described the characteristics of patients in\nthat context. Data from all of SLE patients and their\naffected relatives were collected by reviewing their\nmedical records if available or by personal interview\nand blood collection if the data were missing."
+        ],
+        "negative_ctxs": [
+            3,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            4,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Studies meeting the following criteria were\nincluded in this review: (a) studies evaluating the\ndifferences between familial lupus and sporadic\nlupus with clinical and serological manifestations;\n(b) cohort studies designed with familial lupus; and\n(c) studies with genetic epidemiology sufficient data\navailable to calculate the odds ratio (OR) with 95%\nconfidence interval (95% CI). Studies were\nexcluded in any of the following cases: (a) not a\nhuman study; (b) not an original study; (c) cohort\ndesigns leading to outcome of interest and (d) study\nnot pertaining to the clinical or immunologic features\nof familial SLE."
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The literature databases\nof PubMed, EMBASE, Web of Science and China\nNational Knowledge Infrastructure (CNKI)"
+        ],
+        "negative_ctxs": [
+            3,
+            4
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two reviewers separately included papers using\nthe inclusion and exclusion criteria"
+        ],
+        "negative_ctxs": [
+            3,
+            12
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Relevant data\r\nfrom each eligible article was extracted independently\r\nby two authors using a standardized data\r\nextraction form: the first author's name, publication\r\ndate, location, total number of SLE patients,\r\nsex ratio, the mean age at inclusion, the mean age\r\nonset, clinical manifestations (expressed as either\r\nthe number or percentage of familial and sporadic\r\npatients). Discrepancies were resolved by group\r\ndiscussion."
+        ],
+        "negative_ctxs": [
+            4,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 lists the demographics of patients included\nin the retrieved studies. The gender ratio\n(female:male) varied from 7:1 to 15:1 among studies\nwith no difference between familial and sporadic\nSLE as reported by four of six studies.15,16,18,19\nThe mean ages at inclusion and the onset ages listed\nin three studies were comparable between patients\nwith and without family history of SLE. In addition,\nAbutiban et al. analyzed disease duration\nand found no difference between the two groups.1"
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The quality assessment of included studies was\nbased on the Newcastle-Ottawa assessment (NOS)\nscale.7 The criteria for selection assessment were\nmodified according to the Critical Appraisal Skills\nProgram (CASP)8 and Quality Assessment Tool for\nSystematic Reviews of Observational Studies\n(QATSO)9 to make the subcategories more applicable\nto grouped cohort studies. Total score varies\nfrom 0 to nine points, with nine representing the\nhighest quality."
+        ],
+        "negative_ctxs": [
+            0,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Both the chi-square-based Q-statistic test and I2\r\nwere used to assess the heterogeneity among studies.\r\nThe I2 value represented the proportion of\r\nvariation due to heterogeneities in studies. The heterogeneity\r\nlevel was classified into four categories:\r\nunimportant (0-40%), moderate (30-60%),\r\nsubstantial (50-90%) and considerable (75-100%)\r\nheterogeneity.11 If the p value of the heterogeneity\r\nQ-statistic\u00020.10 or I2\u000350%, the random-effects\r\nmodel was selected.12 Otherwise, a fixed-effects\r\nmodel was adopted."
+        ],
+        "negative_ctxs": [
+            5,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The overall meta-analyses showed\r\nthat familial SLE was negatively associated with\r\nphotosensitivity (OR 0.73, 95% CI 0.60-0.89,\r\np 1/40.002) but with a moderate heterogeneity\r\n(I2 1/435%, pHeterogeneity 1/40.17) (Figure 2(a))."
+        ],
+        "negative_ctxs": [
+            11,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Publication bias was investigated\r\nby funnel plot if there were more than\r\n10 studies involved"
+        ],
+        "negative_ctxs": [
+            2,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Of the six\r\nstudies, one scored six points, and two scored seven\r\npoints, and the other scored nine points. All studies\r\ndefined SLE cases with the American College of\r\nRheumatology (ACR) criteria (1982 or 1997 revision)\r\nand described the characteristics of patients in\r\nthat context. Data from all of SLE patients and their\r\naffected relatives were collected by reviewing their\r\nmedical records if available or by personal interview\r\nand blood collection if the data were missing."
+        ],
+        "negative_ctxs": [
+            6,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Declaration of Conflicting Interests\r\nThe authors declared no potential conflicts of interest\r\nwith respect to the research, authorship, and/or\r\npublication of this article.\r\nFunding\r\nThe authors disclosed receipt of the following\r\nfinancial support for the research, authorship,\r\nand/or publication of this article: This work was\r\nsupported by the National Natural Science\r\nFoundation of China under grant numbers\r\n81673063, 81472887 and 81402608"
+        ],
+        "negative_ctxs": [
+            12,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "First, with respect to the genetic component, the\nconcordance rate was higher in monozygotic\ntwins (>20%) than in dizygotic twins and other\nfull siblings (2-5%), indicating a linkage between\nthe degree of relatives and genetic factors.25-27 In\nthis meta-analysis, there were not enough data to\nanalysis whether the lupus-related parameters\nvaried with the degree of relatives. Second, the\nsex ratios were different in the included articles.\nSexual hormones are critical for SLE development\nand associated with SLE manifestations. It was\nreported that female patients were highly associated\nwith alopecia, photosensitivity, oral ulcers, arthritis,\nmalar rash, lupus anticoagulant level, and\nlow level of C3, while male patients were more\nlikely to have renal involvement, serositis and\npleurisies, thrombocytopenia, and serum level of\nanti-dsDNA antibody.28 Thus, the varied sexual\nratios in each study could cause some bias. Third,\nthe mean onset ages were not specified in three articles.\nThe age of onset has been reported to be\nrelated to clinical manifestations. Patients with\nchildhood-onset lupus were commonly found to\nhave fever, malar rash, hematologic disorders\n(hemolytic anemia and thrombocytopenia), renal\ninvolvement and lymphadenopathy.29 Last, it is\nimportant to note that a couple of the largest studies\nhad lower quality but they would count as\nhigher weight because of the large sizes."
+        ],
+        "negative_ctxs": [
+            2,
+            4
+        ],
+        "positive_ctxs": []
+    }
+]

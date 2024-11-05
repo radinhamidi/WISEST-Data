@@ -1,0 +1,479 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The purpose of our study was to determine the efficacy and safety of heparin on survival in\npatients with lung cancer."
+        ],
+        "negative_ctxs": [
+            13,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We included RCTs that compared the addition of LMWH or unfractionated heparin (UFH) to standard chemotherapy in lung cancer patients without a concurrent diagnosis of VTE as primary thromboprophylaxis. To ensure an adequate amount of therapeutic time, LWMH or UFH had to be given for at least 4 weeks without interruption. The primary efficacy outcome was survival outcome. Other outcomes also evaluated were (1) symptomatic DVT, symptomatic pulmonary embolism, and all reported thromboembolic events, (2) adverse effects including major bleeding, minor bleeding, and thrombocytopenia."
+        ],
+        "negative_ctxs": [
+            17,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We included RCTs that compared the addition of LMWH or unfractionated heparin (UFH) to standard chemotherapy in lung cancer patients without a concurrent diagnosis of VTE as primary thromboprophylaxis. To ensure an adequate amount of therapeutic time, LWMH or UFH had to be given for at least 4 weeks without interruption. The primary efficacy outcome was survival outcome. Other outcomes also evaluated were (1) symptomatic DVT, symptomatic pulmonary embolism, and all reported thromboembolic events, (2) adverse effects including major bleeding, minor bleeding, and thrombocytopenia."
+        ],
+        "negative_ctxs": [
+            17,
+            10
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We performed a comprehensive literature search in the PubMed,\nEmbase, and The Cochrane Central Register of Controlled\nTrials databases.\nWe scanned references of all included trials and reviews for\r\nadditional studies. In addition, we searched databases of ongoing\r\nand unpublished trials on line ("
+        ],
+        "negative_ctxs": [
+            1,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We performed a comprehensive literature search in the PubMed, Embase, and The Cochrane Central Register of Controlled\nTrials databases. The terms (tumor OR malign * OR carcinoma\n* OR cancer OR SCLC OR non-SCLC OR NSCLC OR neoplasm*)\nAND (heparin OR low molecular weight heparin OR LMWH\nOR enoxaparin OR dalteparin OR reviparin OR certoparin OR\ntinzaparin OR bemiparin OR nadroparin OR * parin) were used.\nWe scanned references of all included trials and reviews for\nadditional studies. In addition, we searched databases of ongoing\nand unpublished trials on line ("
+        ],
+        "negative_ctxs": [
+            17,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We scanned references of all included trials and reviews for additional studies. In addition, we searched databases of ongoing and unpublished trials on line ("
+        ],
+        "negative_ctxs": [
+            14,
+            10
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We performed a comprehensive literature search in the PubMed,\r\nEmbase, and The Cochrane Central Register of Controlled\r\nTrials databases. The terms (tumor OR malign * OR carcinoma\r\n* OR cancer OR SCLC OR non-SCLC OR NSCLC OR neoplasm*)\r\nAND (heparin OR low molecular weight heparin OR LMWH\r\nOR enoxaparin OR dalteparin OR reviparin OR certoparin OR\r\ntinzaparin OR bemiparin OR nadroparin OR * parin) were used.\r\nWe scanned references of all included trials and reviews for\r\nadditional studies. In addition, we searched databases of ongoing\r\nand unpublished trials on line ("
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two reviewers (Y. Yu and F. Lan) independently extracted the\ndata on basic study design, patient characteristics, study\noutcomes, and measures of study quality. A third investigator\nwas consulted in case of disagreement (B. Zhang). Data for\nanalysis were abstracted systematically from the published\nreports and included: (1) authors and year of publication, (2) the\nnumber of patients included in the study, (3) type and stage of\nlung cancer and other patient characteristics, (4) types, doses,\nand duration of anticoagulation therapy, (5) clinical outcomes,\nand (6) study design and Jadad score."
+        ],
+        "negative_ctxs": [
+            11,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "A total number of 1393 participants were included,\n753 patients in the heparin group, and 640 patients in the\ncontrol group. The intervention was UFH in one study and\nLMWH in 5 studies.[14-16,22,23] Four studies reported survival\noutcomes. The details of the study characteristics are described\nin Table 1. \nThere were 19 thromboembolic events among the 529 patients\r\nwho received heparin therapy and 34 events in 404 patients\r\nin the control group.\nBased on four studies,[14,15,22,23] bleeding occurred in 42 of\r\n534 (7.9%) patients in the heparin group versus 25 of 413 (6.1%)\r\npatients in the control group. In the fixed-effects model, LMWH\r\nuse did not increase either bleeding (RR 1.53; 95% CI, 0.96-2.45;\r\nI2 = 6.2%; Table 2) or major bleeding complications (RR 1.43;\r\n95% CI, 0.59-3.45; I2 = 0%; Table 2). Major bleeding was\r\ndefined as bleeding which was fatal, requiring transfusion of\r\ntwo units of packed red cells, or associated with a decrease in\r\nhemoglobin of 20 g/L (e.g., retroperitoneal, intracranial, and\r\nhemoptysis).\nIn the three studies that reported thrombocytopenia, 78\r\nof 335 (23.3%) patients in heparin group experienced a\r\nthrombocytopenia complication, compared with 95 of\r\n332 (28.6%) in control group. According to a fixed-effects\r\nmodel, no significant difference was seen (RR 0.86; 95% CI,\r\n0.66-1.12; I2 = 13.7%; Table 2)."
+        ],
+        "negative_ctxs": [
+            2,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The intervention was UFH in one study and\nLMWH in 5 studies.[14-16,22,23] Four studies reported survival\noutcomes. The details of the study characteristics are described\nin Table 1. The Begger's funnel plot and Begger's test were\nconducted to assess the publication bias. Statistical results did\nnot demonstrate publication bias (P > 0.05 for all).\nAcross all eligible studies, according to a fixed-effects model,\nheparin had a discernible effect on survival in lung cancer\npatients with a calculated HR of 0.71 (95% CI 0.60-0.84;\nI2 = 42.0%) as described in Figure 2. A further pool estimate\nof the SCLC subgroup showed significant survival benefit (HR\n0.72; 95% CI 0.59-0.87; I2 = 47.4%). We also performed a\nsubgroup analysis of the limited-stage SCLC group in the\nfixed-effects model and identified substantially improvement\nin survival (HR 0.57; 95% CI 0.43-0.77; I2 = 0; Figure 3).\nIn the fixed-effects model, LMWH\nuse did not increase either bleeding (RR 1.53; 95% CI, 0.96-2.45;\nI2 = 6.2%; Table 2) or major bleeding complications (RR 1.43;\n95% CI, 0.59-3.45; I2 = 0%; Table 2).\nIn the three studies that reported thrombocytopenia, 78\nof 335 (23.3%) patients in heparin group experienced a\nthrombocytopenia complication, compared with 95 of\n332 (28.6%) in control group. According to a fixed-effects\nmodel, no significant difference was seen (RR 0.86; 95% CI,\n0.66-1.12; I2 = 13.7%; Table 2)."
+        ],
+        "negative_ctxs": [
+            11,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The methodological quality of each trial was evaluated by using the Jadad score,[17,18] a validated quality assessment instrument which incorporates randomization, blinding, and attrition to derive a score of 0 (very poor) to 5 (rigorous). Two reviewers independently assessed the quality of the included\ntrials. Any divergence was resolved by discussion with a third reviewer to reach an agreement."
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two reviewers independently assessed the quality of the included\ntrials. Any divergence was resolved by discussion with a third\nreviewer to reach an agreement."
+        ],
+        "negative_ctxs": [
+            13,
+            18
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "We found 9076 articles by search, and finally identified six\nstudies eligible for our meta-analysis. The process of study\nselection was illustrated in Figure 1.\nA total number of 1393 participants were included,\n753 patients in the heparin group, and 640 patients in the\ncontrol group. The intervention was UFH in one study and\nLMWH in 5 studies.[14-16,22,23] Four studies reported survival\noutcomes.\nWe also performed a subgroup analysis of the limited-stage SCLC group in the\nfixed-effects model and identified substantially improvement\nin survival (HR 0.57; 95% CI 0.43-0.77; I2 = 0; Figure 3)."
+        ],
+        "negative_ctxs": [
+            13,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The HRs or RRs were pooled using a random effects model when I2 was >50% or a fixed effects model when I2 was <50%.\nAcross all eligible studies, according to a fixed-effects model, heparin had a discernible effect on survival in lung cancer patients with a calculated HR of 0.71 (95% CI 0.60-0.84; I2 = 42.0%) as described in Figure 2. A further pool estimate of the SCLC subgroup showed significant survival benefit (HR 0.72; 95% CI 0.59-0.87; I2 = 47.4%). We also performed a subgroup analysis of the limited-stage SCLC group in the fixed-effects model and identified substantially improvement in survival (HR 0.57; 95% CI 0.43-0.77; I2 = 0; Figure 3).\nAccording to a fixed-effects model, there was a significant difference in thromboembolic events\nbetween the two groups (RR 0.46; 95% CI 0.27-0.80; I2 = 0%;\nTable 2).\nIn the fixed-effects model, LMWH use did not increase either bleeding (RR 1.53; 95% CI, 0.96-2.45;\nI2 = 6.2%; Table 2) or major bleeding complications (RR 1.43; 95% CI, 0.59-3.45; I2 = 0%; Table 2). \nIn the three studies that reported thrombocytopenia, 78 of 335 (23.3%) patients in heparin group experienced a\nthrombocytopenia complication, compared with 95 of\n332 (28.6%) in control group. According to a fixed-effects model, no significant difference was seen (RR 0.86; 95% CI,\n0.66-1.12; I2 = 13.7%; Table 2)."
+        ],
+        "negative_ctxs": [
+            18,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The I2 statistics was used to quantify the heterogeneity across the  studies, with I2 <25%, 25-75%, and >75% to represent the low, moderate, and high degree of heterogeneity, respectively. The HRs or RRs were pooled using a random effects model when I2 was >50% or a fixed effects model when I2 was <50%. \n\nAcross all eligible studies, according to a fixed-effects model, heparin had a discernible effect on survival in lung cancer patients with a calculated HR of 0.71 (95% CI 0.60-0.84; I2 = 42.0%) as described in Figure 2. A further pool estimate of the SCLC subgroup showed significant survival benefit (HR 0.72; 95% CI 0.59-0.87; I2 = 47.4%). We also performed a subgroup analysis of the limited-stage SCLC group in the fixed-effects model and identified substantially improvement in survival (HR 0.57; 95% CI 0.43-0.77; I2 = 0; Figure 3).\nAccording to a fixed-effects model, there was a significant difference in thromboembolic events between the two groups (RR 0.46; 95% CI 0.27-0.80; I2 = 0%; Table 2).\nIn the fixed-effects model, LMWH use did not increase either bleeding (RR 1.53; 95% CI, 0.96-2.45;\nI2 = 6.2%; Table 2) or major bleeding complications (RR 1.43; 95% CI, 0.59-3.45; I2 = 0%; Table 2). \nIn the three studies that reported thrombocytopenia, 78 of 335 (23.3%) patients in heparin group experienced a\nthrombocytopenia complication, compared with 95 of\n332 (28.6%) in control group. According to a fixed-effects model, no significant difference was seen (RR 0.86; 95% CI,\n0.66-1.12; I2 = 13.7%; Table 2).\n\nA further pool estimate of the SCLC subgroup showed significant survival benefit (HR 0.72; 95% CI 0.59-0.87; I2= 47.4%). We also performed a subgroup analysis of the limited-stage SCLC group in the fixed-effects model and identified substantially improvement in survival (HR 0.57; 95% CI 0.43-0.77; I2= 0; Figure 3)."
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Publication bias was estimated by the funnel plot for the primary outcome.  The Begger's funnel plot and Begger's test were conducted to assess the publication bias. Statistical results did not demonstrate publication bias (P > 0.05 for all)."
+        ],
+        "negative_ctxs": [
+            17,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The methodological quality of each trial was evaluated by\nusing the Jadad score,[17,18] a validated quality assessment instrument which incorporates randomization, blinding, and\nattrition to derive a score of 0 (very poor) to 5 (rigorous).\nIn our meta-analysis, only one included study was eligible for the analysis of NSCLC. Hence, the data were insufficient to reveal a statistically significant potential benefit. Further powered studies are required. Second, we cannot rule out that different dose, duration, and type of heparin may have different effects as no adequate information was available."
+        ],
+        "negative_ctxs": [
+            7,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Several limitations of our study should be noted. First of all, it is still not known whether the addition of heparin has similar effects in different lung cancer type due to a rather small number of studies. In our meta-analysis, only one included study was eligible for the analysis of NSCLC. Hence, the data were insufficient to reveal a statistically significant potential benefit. Further powered studies are required. Second, we cannot rule out that different dose, duration, and type of heparin may have different effects as no adequate information\nwas available. Third, the number of patients included in the analyzed studies was relatively small, so the inclusion of future trials might change the results. These limits decreased powerfulness of our results."
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The purpose of our study was to determine the efficacy and safety of heparin on survival in\npatients with lung cancer.\nFour studies reported survival outcomes. The details of the study characteristics are described\nin Table 1. "
+        ],
+        "negative_ctxs": [
+            17,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            3,
+            1
+        ],
+        "positive_ctxs": [
+            0,
+            2,
+            12,
+            15
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We included RCTs that compared the addition of LMWH or unfractionated heparin (UFH) to standard chemotherapy in lung cancer patients without a concurrent diagnosis of VTE as primary thromboprophylaxis. To ensure an adequate amount of therapeutic time, LWMH or UFH had to be given for at least 4 weeks without interruption. The primary efficacy outcome was survival outcome. Other outcomes also evaluated were (1) symptomatic DVT, symptomatic pulmonary embolism, and all reported thromboembolic events, (2) adverse effects including major bleeding, minor bleeding, and thrombocytopenia."
+        ],
+        "negative_ctxs": [
+            16,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We scanned references of all included trials and reviews for additional studies. In addition, we searched databases of ongoing and unpublished trials on line (\nWe included RCTs that compared the addition of LMWH or\nunfractionated heparin (UFH) to standard chemotherapy in lung cancer patients without a concurrent diagnosis of VTE as primary thromboprophylaxis. To ensure an adequate amount\nof therapeutic time, LWMH or UFH had to be given for at least 4 weeks without interruption."
+        ],
+        "negative_ctxs": [
+            12,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We performed a comprehensive literature search in the PubMed, Embase, and The Cochrane Central Register of Controlled\nTrials databases. The terms (tumor OR malign * OR carcinoma\n* OR cancer OR SCLC OR non-SCLC OR NSCLC OR neoplasm*)\nAND (heparin OR low molecular weight heparin OR LMWH\nOR enoxaparin OR dalteparin OR reviparin OR certoparin OR\ntinzaparin OR bemiparin OR nadroparin OR * parin) were used.\nWe scanned references of all included trials and reviews for\nadditional studies. In addition, we searched databases of ongoing\nand unpublished trials on line ("
+        ],
+        "negative_ctxs": [
+            3,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two reviewers (Y. Yu and F. Lan) independently extracted the\ndata on basic study design, patient characteristics, study\noutcomes, and measures of study quality. A third investigator\nwas consulted in case of disagreement (B. Zhang). Data for\nanalysis were abstracted systematically from the published\nreports and included: (1) authors and year of publication, (2) the\nnumber of patients included in the study, (3) type and stage of\nlung cancer and other patient characteristics, (4) types, doses,\nand duration of anticoagulation therapy, (5) clinical outcomes,\nand (6) study design and Jadad score."
+        ],
+        "negative_ctxs": [
+            7,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "A total number of 1393 participants were included,\n753 patients in the heparin group, and 640 patients in the\ncontrol group. The intervention was UFH in one study and\nLMWH in 5 studies.[14-16,22,23] Four studies reported survival\noutcomes. The details of the study characteristics are described\nin Table 1. \nThere were 19 thromboembolic events among the 529 patients\r\nwho received heparin therapy and 34 events in 404 patients\r\nin the control group.\nBased on four studies,[14,15,22,23] bleeding occurred in 42 of\r\n534 (7.9%) patients in the heparin group versus 25 of 413 (6.1%)\r\npatients in the control group. In the fixed-effects model, LMWH\r\nuse did not increase either bleeding (RR 1.53; 95% CI, 0.96-2.45;\r\nI2 = 6.2%; Table 2) or major bleeding complications (RR 1.43;\r\n95% CI, 0.59-3.45; I2 = 0%; Table 2). Major bleeding was\r\ndefined as bleeding which was fatal, requiring transfusion of\r\ntwo units of packed red cells, or associated with a decrease in\r\nhemoglobin of 20 g/L (e.g., retroperitoneal, intracranial, and\r\nhemoptysis).\nIn the three studies that reported thrombocytopenia, 78\r\nof 335 (23.3%) patients in heparin group experienced a\r\nthrombocytopenia complication, compared with 95 of\r\n332 (28.6%) in control group. According to a fixed-effects\r\nmodel, no significant difference was seen (RR 0.86; 95% CI,\r\n0.66-1.12; I2 = 13.7%; Table 2)."
+        ],
+        "negative_ctxs": [
+            16,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The methodological quality of each trial was evaluated by using the Jadad score,[17,18] a validated quality assessment instrument which incorporates randomization, blinding, and attrition to derive a score of 0 (very poor) to 5 (rigorous). Two reviewers independently assessed the quality of the included\ntrials. Any divergence was resolved by discussion with a third reviewer to reach an agreement."
+        ],
+        "negative_ctxs": [
+            14,
+            0
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The HRs or RRs were pooled using a random effects model when I2 was >50% or a fixed effects model when I2 was <50%.\nAcross all eligible studies, according to a fixed-effects model, heparin had a discernible effect on survival in lung cancer patients with a calculated HR of 0.71 (95% CI 0.60-0.84; I2 = 42.0%) as described in Figure 2. A further pool estimate of the SCLC subgroup showed significant survival benefit (HR 0.72; 95% CI 0.59-0.87; I2 = 47.4%). We also performed a subgroup analysis of the limited-stage SCLC group in the fixed-effects model and identified substantially improvement in survival (HR 0.57; 95% CI 0.43-0.77; I2 = 0; Figure 3).\nAccording to a fixed-effects model, there was a significant difference in thromboembolic events\nbetween the two groups (RR 0.46; 95% CI 0.27-0.80; I2 = 0%;\nTable 2).\nIn the fixed-effects model, LMWH use did not increase either bleeding (RR 1.53; 95% CI, 0.96-2.45;\nI2 = 6.2%; Table 2) or major bleeding complications (RR 1.43; 95% CI, 0.59-3.45; I2 = 0%; Table 2). \nIn the three studies that reported thrombocytopenia, 78 of 335 (23.3%) patients in heparin group experienced a\nthrombocytopenia complication, compared with 95 of\n332 (28.6%) in control group. According to a fixed-effects model, no significant difference was seen (RR 0.86; 95% CI,\n0.66-1.12; I2 = 13.7%; Table 2)."
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The I2 statistics was used to quantify the heterogeneity across the  studies, with I2 <25%, 25-75%, and >75% to represent the low, moderate, and high degree of heterogeneity, respectively. The HRs or RRs were pooled using a random effects model when I2 was >50% or a fixed effects model when I2 was <50%. \n\nAcross all eligible studies, according to a fixed-effects model, heparin had a discernible effect on survival in lung cancer patients with a calculated HR of 0.71 (95% CI 0.60-0.84; I2 = 42.0%) as described in Figure 2. A further pool estimate of the SCLC subgroup showed significant survival benefit (HR 0.72; 95% CI 0.59-0.87; I2 = 47.4%). We also performed a subgroup analysis of the limited-stage SCLC group in the fixed-effects model and identified substantially improvement in survival (HR 0.57; 95% CI 0.43-0.77; I2 = 0; Figure 3).\nAccording to a fixed-effects model, there was a significant difference in thromboembolic events between the two groups (RR 0.46; 95% CI 0.27-0.80; I2 = 0%; Table 2).\nIn the fixed-effects model, LMWH use did not increase either bleeding (RR 1.53; 95% CI, 0.96-2.45;\nI2 = 6.2%; Table 2) or major bleeding complications (RR 1.43; 95% CI, 0.59-3.45; I2 = 0%; Table 2). \nIn the three studies that reported thrombocytopenia, 78 of 335 (23.3%) patients in heparin group experienced a\nthrombocytopenia complication, compared with 95 of\n332 (28.6%) in control group. According to a fixed-effects model, no significant difference was seen (RR 0.86; 95% CI,\n0.66-1.12; I2 = 13.7%; Table 2).\n\nA further pool estimate of the SCLC subgroup showed significant survival benefit (HR 0.72; 95% CI 0.59-0.87; I2= 47.4%). We also performed a subgroup analysis of the limited-stage SCLC group in the fixed-effects model and identified substantially improvement in survival (HR 0.57; 95% CI 0.43-0.77; I2= 0; Figure 3)."
+        ],
+        "negative_ctxs": [
+            14,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Publication bias was estimated by the funnel plot for the primary outcome.  The Begger's funnel plot and Begger's test were conducted to assess the publication bias. Statistical results did not demonstrate publication bias (P > 0.05 for all)."
+        ],
+        "negative_ctxs": [
+            12,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The methodological quality of each trial was evaluated by\nusing the Jadad score,[17,18] a validated quality assessment instrument which incorporates randomization, blinding, and\nattrition to derive a score of 0 (very poor) to 5 (rigorous).\nIn our meta-analysis, only one included study was eligible for the analysis of NSCLC. Hence, the data were insufficient to reveal a statistically significant potential benefit. Further powered studies are required. Second, we cannot rule out that different dose, duration, and type of heparin may have different effects as no adequate information was available."
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Financial support and sponsorship\nNil."
+        ],
+        "negative_ctxs": [
+            1,
+            10
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "There are no conflicts of interest."
+        ],
+        "negative_ctxs": [
+            7,
+            10
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Several limitations of our study should be noted. First of all, it is still not known whether the addition of heparin has similar effects in different lung cancer type due to a rather small number of studies. In our meta-analysis, only one included study was eligible for the analysis of NSCLC. Hence, the data were insufficient to reveal a statistically significant potential benefit. Further powered studies are required. Second, we cannot rule out that different dose, duration, and type of heparin may have different effects as no adequate information\nwas available. Third, the number of patients included in the analyzed studies was relatively small, so the inclusion of future trials might change the results. These limits decreased powerfulness of our results."
+        ],
+        "negative_ctxs": [
+            5,
+            10
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    }
+]

@@ -1,0 +1,460 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            29,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Fig. 1: PRISMA 2009 flow diagram used to illustrate the study selection process for the systematic review. This shows the process of searching for records, removing duplicates, screening titles and abstracts, assessing full texts for eligibility and selecting which studies would be used in the analysis"
+        ],
+        "negative_ctxs": [
+            8,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Fig. 1: PRISMA 2009 flow diagram used to illustrate the study selection process for the systematic review. This shows the process of searching for records, removing duplicates, screening titles and abstracts, assessing full texts for eligibility and selecting which studies would be used in the analysis"
+        ],
+        "negative_ctxs": [
+            11,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "No grey literature was used in this review and some data were unavailable for us to\r\nuse."
+        ],
+        "negative_ctxs": [
+            7,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Each database was searched with the term'(ige or immunoglobulin e) and (bullous pemphigoid or bp)' on 15 October 2016."
+        ],
+        "negative_ctxs": [
+            26,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Fig. 1: PRISMA 2009 flow diagram used to illustrate the study selection process for the systematic review. This shows the process of searching for records, removing duplicates, screening titles and abstracts, assessing full texts for eligibility and selecting which studies would be used in the analysis"
+        ],
+        "negative_ctxs": [
+            23,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1: Summary of the data extracted from the primary full articles used in assessing the association of IgE with the severity and clinical phenotype of BP\" contains the following headings \"First author, year, journal, type of study, study desing, setting details, simple size, patients demographic, description of BP diagnosis criterai present, and comorbidities. "
+        ],
+        "negative_ctxs": [
+            27,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Moreover, procedural errors could lead to bias as well. For instance, several studies have reported an uncertain degree of sensitivity of the methods used in determining IgE autoantibody concentrations, and blinding of the scientists conducting the experiments is not often mentioned, raising possible detection bias. The diversity in the scales used to assess the disease severity of BP contributes further to procedural inaccuracies. The lack of healthy controls and disease comparisons in numerous studies poses a risk of yielding results of questionable reliability. Furthermore, most studies included in this review are retrospective studies, which pose an increased risk of recall bias and the influence of confounding factors compared to prospective studies. "
+        ],
+        "negative_ctxs": [
+            24,
+            16
+        ],
+        "positive_ctxs": [
+            25
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "This yielded 33 studies of which 19 were used to document the chronological development of the occurrence of IgE autoantibodies in BP, and 16 provided information to assess the contribution of IgE autoantibodies to the severity and/or clinical phenotype of BP (2 studies provided information relevant to both parts of the review)."
+        ],
+        "negative_ctxs": [
+            22,
+            29
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Moreover, procedural errors could lead to bias as well. For instance, several studies have reported an uncertain degree of sensitivity of the methods used in determining IgE autoantibody concentrations, and blinding of the scientists conducting the experiments is not often mentioned, raising possible detection bias."
+        ],
+        "negative_ctxs": [
+            21,
+            26
+        ],
+        "positive_ctxs": [
+            25
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Limitations of this systematic review. As shown in Table 1, the studies used in this review were subject to several limitations. Most were conducted in a single-centre fashion, and only a few countries (notably, the USA, Japan, China and Germany) have been conducting the majority of research in this area. As a result, it is not known whether the conclusions of these studies are generalizable to all ethnicities. In addition, most of the studies used sample sizes that are small--this problem may arise because of the relative rarity of BP. In general, little information has been given about the subjects involved, other than sex and age; for example, about their overall health and any comorbidities they have that could constitute confounding factors, or about the methods whereby they were recruited. Lack of such information could be a warning for selection, exclusion and sampling bias. Another potential problem is the ambiguity in the full spectrum of signs, symptoms and phenotypes of BP, leading to a vague consensus on the manifestations of the disease. This poses a risk of classification bias when selecting patients for a study. Moreover, procedural errors could lead to bias as well. For instance, several studies have reported an uncertain degree of sensitivity of the methods used in determining IgE autoantibody concentrations, and blinding of the scientists conducting the experiments is not often mentioned, raising possible detection bias. The diversity in the scales used to assess the disease severity of BP contributes further to procedural inaccuracies. The lack of healthy controls and disease comparisons in numerous studies poses a risk of yielding results of questionable reliability. Furthermore, most studies included in this review are retrospective studies, which pose an increased risk of recall bias and the influence of confounding factors compared to prospective studies. As with all systematic reviews, there is inevitably a risk of publication bias as the conclusions of the review are based on published data, which can be a problem since positive outcomes are three times more likely to be published than are negative outcomes. No grey literature was used in this review and some data were unavailable for us to use. Furthermore, there is a high degree of heterogeneity in the studies used, particularly with respect to the sample sizes and characteristics, the criteria for diagnosing BP, the type of variables investigated and the methods used for measuring the variables, the use of control/comparison groups and the actual outcomes."
+        ],
+        "negative_ctxs": [
+            9,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            28,
+            30
+        ],
+        "positive_ctxs": [
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            28,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "No grey literature was used in this review and some data were unavailable for us to\r\nuse."
+        ],
+        "negative_ctxs": [
+            12,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1: Summary of the data extracted from the primary full articles used in assessing the association of IgE with the severity and clinical phenotype of BP\" contains the following headings \"First author, year, journal, type of study, study desing, setting details, simple size, patients demographic, description of BP diagnosis criterai present, and comorbidities. "
+        ],
+        "negative_ctxs": [
+            19,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Moreover, procedural errors could lead to bias as well. For instance, several studies have reported an uncertain degree of sensitivity of the methods used in determining IgE autoantibody concentrations, and blinding of the scientists conducting the experiments is not often mentioned, raising possible detection bias. The diversity in the scales used to assess the disease severity of BP contributes further to procedural inaccuracies. The lack of healthy controls and disease comparisons in numerous studies poses a risk of yielding results of questionable reliability. Furthermore, most studies included in this review are retrospective studies, which pose an increased risk of recall bias and the influence of confounding factors compared to prospective studies. "
+        ],
+        "negative_ctxs": [
+            16,
+            17
+        ],
+        "positive_ctxs": [
+            25
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Moreover, procedural errors could lead to bias as well. For instance, several studies have reported an uncertain degree of sensitivity of the methods used in determining IgE autoantibody concentrations, and blinding of the scientists conducting the experiments is not often mentioned, raising possible detection bias."
+        ],
+        "negative_ctxs": [
+            19,
+            27
+        ],
+        "positive_ctxs": [
+            25
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding. No funding was received."
+        ],
+        "negative_ctxs": [
+            10,
+            7
+        ],
+        "positive_ctxs": [
+            26
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Limitations of this systematic review. As shown in Table 1, the studies used in this review were subject to several limitations. Most were conducted in a single-centre fashion, and only a few countries (notably, the USA, Japan, China and Germany) have been conducting the majority of research in this area. As a result, it is not known whether the conclusions of these studies are generalizable to all ethnicities. In addition, most of the studies used sample sizes that are small--this problem may arise because of the relative rarity of BP. In general, little information has been given about the subjects involved, other than sex and age; for example, about their overall health and any comorbidities they have that could constitute confounding factors, or about the methods whereby they were recruited. Lack of such information could be a warning for selection, exclusion and sampling bias. Another potential problem is the ambiguity in the full spectrum of signs, symptoms and phenotypes of BP, leading to a vague consensus on the manifestations of the disease. This poses a risk of classification bias when selecting patients for a study. Moreover, procedural errors could lead to bias as well. For instance, several studies have reported an uncertain degree of sensitivity of the methods used in determining IgE autoantibody concentrations, and blinding of the scientists conducting the experiments is not often mentioned, raising possible detection bias. The diversity in the scales used to assess the disease severity of BP contributes further to procedural inaccuracies. The lack of healthy controls and disease comparisons in numerous studies poses a risk of yielding results of questionable reliability. Furthermore, most studies included in this review are retrospective studies, which pose an increased risk of recall bias and the influence of confounding factors compared to prospective studies. As with all systematic reviews, there is inevitably a risk of publication bias as the conclusions of the review are based on published data, which can be a problem since positive outcomes are three times more likely to be published than are negative outcomes. No grey literature was used in this review and some data were unavailable for us to use. Furthermore, there is a high degree of heterogeneity in the studies used, particularly with respect to the sample sizes and characteristics, the criteria for diagnosing BP, the type of variables investigated and the methods used for measuring the variables, the use of control/comparison groups and the actual outcomes."
+        ],
+        "negative_ctxs": [
+            21,
+            10
+        ],
+        "positive_ctxs": []
+    }
+]

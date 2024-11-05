@@ -1,0 +1,486 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "Inclusion criteria for the review were pre-established by the\n investigator team."
+        ],
+        "negative_ctxs": [
+            8,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We included full reports of RCTs  comparing ceftaroline against any active comparator in  human patients with CAP or cSSSI.   ...   The primary outcome was clinical cure as defined for each  indication in the original studies. For CAP, clinical cure  was defined as total resolution of all signs and symptoms of  pneumonia or improvement of signs and symptoms to such an extent that no further antimicrobial therapy was necessary. For cSSSIs, clinical cure was defined as resolution of all signs and symptoms or improvement of signs and symptoms to such an extent that no further anti microbial therapy was necessary."
+        ],
+        "negative_ctxs": [
+            10,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "To compare the efficacy and safety of ceftaroline with standard antibiotic regimens for both community-acquired pneumonia (CAP) and complicated skin and skin structure infections (cSSSI). We included full reports of RCTs comparing ceftaroline against any active comparator in  human patients with CAP or cSSSI."
+        ],
+        "negative_ctxs": [
+            6,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "For this systematic review with meta-analysis we searched MEDLINE (PubMed, U.S. National Library of Medicine, National Institutes of Health), EBSCO and Embase database from inception to August 2016 for reports of randomized controlled trials (RCTs) reported in the English language."
+        ],
+        "negative_ctxs": [
+            13,
+            16
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "For this systematic review with meta-analysis we searched MEDLINE (PubMed, U.S. National Library of Medicine, National Institutes of Health), EBSCO and Embase database from inception to August 2016 for reports of randomized controlled trials (RCTs) reported in the English language. We combined the following keyword terms: ceftaroline, ceftaroline fosamil, PPI-0903, and TAK-599, with the subject headings pneumonia, soft tissue infections, cSSSI (complicated skin and skin structure infections), cSSTI (complicated skin and soft tissue infections) and ABSSSI (acute bacterial skin and skin structure infections). Additionally, we searched clinicaltrials.gov up to June 2016 for unpublished or ongoing studies, and we manually screened reference lists of relevant articles. We attempted to contact authors of relevant papers (via email) to request additional unpublished data."
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "we manually screened reference lists of relevant articles. We attempted to contact authors of relevant papers (via email) to request  additional unpublished data."
+        ],
+        "negative_ctxs": [
+            6,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We combined the following keyword terms:  ceftaroline, ceftaroline fosamil, PPI-0903, and TAK-599, with the subject headings pneumonia, soft tissue infections, cSSSI (complicated skin and skin structure infections), cSSTI (complicated skin and soft tissue infections) and ABSSSI (acute bacterial skin and skin structure infections)."
+        ],
+        "negative_ctxs": [
+            10,
+            16
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "For this systematic review with meta-analysis we searched  MEDLINE (PubMed, U.S. National Library of Medicine, National Institutes of Health), EBSCO and Embase database from inception to August 2016 for reports of randomized\n controlled trials (RCTs) reported in the English language.   ...   Additionally, we searched clinicaltrials.gov up to June\n 2016 for unpublished or ongoing studies, and we manually screened reference lists of relevant articles. We attempted \nto contact authors of relevant papers (via email) to request additional unpublished data."
+        ],
+        "negative_ctxs": [
+            1,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two reviewers independently  screened all studies by title or abstract for eligibility.\n (Discrepancies were resolved through discussion.)"
+        ],
+        "negative_ctxs": [
+            9,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two reviewers (MH and KJW) independently extracted \ninformation from each study in an electronic spreadsheet \nand resolved any discrepancies through discussion and with \ninput from a third reviewer (RT)."
+        ],
+        "negative_ctxs": [
+            3,
+            10
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Supplementary data Table 1 "
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Supplementary Table 1 "
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Both reviewers independently assessed studies for risk of bias as described in\n the Cochrane Handbook ."
+        ],
+        "negative_ctxs": [
+            16,
+            6
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Both reviewers independently assessed studies for risk of bias as described in\n the Cochrane Handbook ."
+        ],
+        "negative_ctxs": [
+            14,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Supplementary Table 1"
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We performed all statistical analyses using Review Manager Version 5.3.  ...   When meta-analysis was possible because of acceptable clinical and methodological heterogeneity, we report the fixed-effects model summary estimate for I2 < 25% and the random-effects model summary estimatefor I2 > 25%."
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "For CAP, there was moderate statistical heterogeneity (I2 = 47%), primarily explained by the trial by Zhong et al.   ...   In cSSSI, there was no statistically significant difference in clinical cure between ceftaroline and vancomycin plus aztreonam (RR 1.01, 95% CI 0.97-1.05, I2 = 0%)."
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "We intended to assess for publication bias by visual \ninspection of the funnel plot, but we could not as this test is  considered to be of little value in a meta-analysis with fewer than 10 trials "
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The included studies had high or unclear risk of bias in at least one domain that may have influenced results and authors' original conclusions. First, intent to treat (ITT) was not used for the primary analysis and conclusions were largely made on only the clinically evaluable populations. Fortunately, reports included sufficient information for us to extract ITT numbers and determine relative risks based on this more conservative and appropriate measure.  ...   For each indication, we performed one pre-defined subgroup analysis of the primary outcome."
+        ],
+        "negative_ctxs": [
+            1,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "These bias concerns call for more conservative conclusions regarding ceftaroline's place in therapy"
+        ],
+        "negative_ctxs": [
+            7,
+            10
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Supplementary Table 1"
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            5,
+            14
+        ],
+        "positive_ctxs": [
+            1,
+            7,
+            10,
+            12,
+            13
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "Inclusion criteria for the review were pre-established by the\n investigator team."
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "To compare the efficacy and safety of ceftaroline with standard antibiotic regimens for both community-acquired pneumonia (CAP) and complicated skin and skin structure infections (cSSSI). We included full reports of RCTs comparing ceftaroline against any active comparator in  human patients with CAP or cSSSI."
+        ],
+        "negative_ctxs": [
+            8,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "For this systematic review with meta-analysis we searched MEDLINE (PubMed, U.S. National Library of Medicine, National Institutes of Health), EBSCO and Embase database from inception to August 2016 for reports of randomized controlled trials (RCTs) reported in the English language. We combined the following keyword terms: ceftaroline, ceftaroline fosamil, PPI-0903, and TAK-599, with the subject headings pneumonia, soft tissue infections, cSSSI (complicated skin and skin structure infections), cSSTI (complicated skin and soft tissue infections) and ABSSSI (acute bacterial skin and skin structure infections). Additionally, we searched clinicaltrials.gov up to June 2016 for unpublished or ongoing studies, and we manually screened reference lists of relevant articles. We attempted to contact authors of relevant papers (via email) to request additional unpublished data."
+        ],
+        "negative_ctxs": [
+            10,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two reviewers independently  screened all studies by title or abstract for eligibility.\n (Discrepancies were resolved through discussion.)"
+        ],
+        "negative_ctxs": [
+            13,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two reviewers (MH and KJW) independently extracted \ninformation from each study in an electronic spreadsheet \nand resolved any discrepancies through discussion and with \ninput from a third reviewer (RT)."
+        ],
+        "negative_ctxs": [
+            4,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Supplementary data Table 1 "
+        ],
+        "negative_ctxs": [
+            7,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Both reviewers independently assessed studies for risk of bias as described in\n the Cochrane Handbook ."
+        ],
+        "negative_ctxs": [
+            16,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We performed all statistical analyses using Review Manager Version 5.3.  ...   When meta-analysis was possible because of acceptable clinical and methodological heterogeneity, we report the fixed-effects model summary estimate for I2 < 25% and the random-effects model summary estimatefor I2 > 25%."
+        ],
+        "negative_ctxs": [
+            12,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "For CAP, there was moderate statistical heterogeneity (I2 = 47%), primarily explained by the trial by Zhong et al.   ...   In cSSSI, there was no statistically significant difference in clinical cure between ceftaroline and vancomycin plus aztreonam (RR 1.01, 95% CI 0.97-1.05, I2 = 0%)."
+        ],
+        "negative_ctxs": [
+            5,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "We intended to assess for publication bias by visual \ninspection of the funnel plot, but we could not as this test is  considered to be of little value in a meta-analysis with fewer than 10 trials "
+        ],
+        "negative_ctxs": [
+            2,
+            8
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The included studies had high or unclear risk of bias in at least one domain that may have influenced results and authors' original conclusions. First, intent to treat (ITT) was not used for the primary analysis and conclusions were largely made on only the clinically evaluable populations. Fortunately, reports included sufficient information for us to extract ITT numbers and determine relative risks based on this more conservative and appropriate measure.  ...   For each indication, we performed one pre-defined subgroup analysis of the primary outcome."
+        ],
+        "negative_ctxs": [
+            0,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflicts of interest: All authors report no conflicts of interest."
+        ],
+        "negative_ctxs": [
+            10,
+            6
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "These bias concerns call for more conservative conclusions regarding ceftaroline's place in therapy"
+        ],
+        "negative_ctxs": [
+            6,
+            4
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    }
+]

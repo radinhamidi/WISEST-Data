@@ -1,0 +1,468 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The aim of this study was to assess the relationship between length of surgery (LOS) and pressure ulcer (PU) risk in cardiovascular surgery patients.\n\noutcome was the incidence of SRPU during the cardiovascular perioperative period; "
+        ],
+        "negative_ctxs": [
+            2,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Figure 1 \n\nThe following eligibility criteria had to be fulfilled: (i) observational studies (cross-sectional, case-control or cohort study) that permitted assessment of LOS and SRPU risk; (ii) outcome was the incidence of SRPU during the cardiovascular perioperative period; (iii) study reported the sample size, mean and standard deviation of LOS both in the SRPU group and the no SRPU group; and (iv) study divided LOS into three or more quantitative categorised levels and reported the number of cases and controls for each LOS category. The eligibility criteria was described as: (i) AND (ii) AND ((iii) OR (iv))."
+        ],
+        "negative_ctxs": [
+            10,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched MEDLINE and Web of Science up to 20 September 2016.\n\nWe supplemented our searches by manually reviewing the references of all relevant studies."
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We supplemented our searches by manually reviewing the references of all relevant studies."
+        ],
+        "negative_ctxs": [
+            1,
+            5
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We searched MEDLINE and Web of Science up to 20 September 2016. The search terms included 'pressure ulcer', 'cardiac surgery', 'cardiovascular surgery' and 'cardiothoracic surgery'. The search detail in MEDLINE was 'pressure ulcer'[MeSH Terms] AND [cardiac (Title/abstract) OR cardiovascular (Title/abstract) OR cardiothoracic (Title/abstract)]. In Web of Science, the search detail used was as follows: (Ts = pressure ulcer*) AND (Ts = cardiac OR Ts = cardiovascular OR Ts = cardiothoracic). We supplemented our searches by manually reviewing the references of all relevant studies."
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We searched MEDLINE and Web of Science up to 20 September 2016."
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 showed the characteristics of the eight identified studies"
+        ],
+        "negative_ctxs": [
+            11,
+            8
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1 showed the characteristics of the eight identified studies"
+        ],
+        "negative_ctxs": [
+            7,
+            2
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The quality of the case-control and cohort studies was assessed according to the Newcastle-Ottawa Scale (NOS) (9). The quality of the cross-sectional study was also assessed by the NOS. The NOS contains eight items, categorised into three dimensions, including selection, comparability and exposure. The NOS ranges between zero and nine"
+        ],
+        "negative_ctxs": [
+            9,
+            5
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Six studies (7,8,13-16) with 976 patients were included in this comparison. \n\nTable 1 and Figure 2 showed the comparison of LOS between the two\nSRPU groups of the eight identified studies."
+        ],
+        "negative_ctxs": [
+            6,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "In the absence of significant heterogeneity, the LOS of the included studies were pooled for weighted mean difference (WMD) using a fixed-effect model. If heterogeneity was observed, a random-effects model was used. Overall effects were determined using the Z test. Meta-regression was conducted for the source of heterogeneity by SRPU incidence."
+        ],
+        "negative_ctxs": [
+            7,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The meta-analysis model was chosen by the heterogeneity between included studies. Statistical heterogeneity was explored by 2 and inconsistency (I2) statistics; P < 005 for 2 or I2 value of 25% or more represented heterogeneity.\n\nThere was moderate heterogeneity between the included studies (2 = 838, P = 0137; I2 = 403%)\n\nHeterogeneity may come from different study designs, ethnicity and/or SRPU stage."
+        ],
+        "negative_ctxs": [
+            9,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "We identified eight studies (6-8,13-17) that met our inclusion criteria for meta-analysis. "
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The quality rating of theincluded studies ranged from seven to eight on a scale of nine.Table 1 showed the characteristics of the eight identified studies.\n\nSome of the included studies were retrospective case-control studies, which were more prone to bias."
+        ],
+        "negative_ctxs": [
+            12,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "There are some limitations in this meta-analysis. First, some f the included studies were retrospective case-control studies,\nwhich were more prone to bias. Second, there was moderate heterogeneity between the included studies. Meta-regression\nanalysis of heterogeneity was not obtained from SRPU incidence. Heterogeneity may come from different study designs,\nethnicity and/or SRPU stage. These two limitations need to be considered when evaluating the conclusion"
+        ],
+        "negative_ctxs": [
+            9,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            12,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The aim of this study was to assess the relationship between length of surgery (LOS) and pressure ulcer (PU) risk in cardiovascular surgery patients.\n\noutcome was the incidence of SRPU during the cardiovascular perioperative period; "
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Figure 1 \n\nThe following eligibility criteria had to be fulfilled: (i) observational studies (cross-sectional, case-control or cohort study) that permitted assessment of LOS and SRPU risk; (ii)"
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched MEDLINE and Web of Science up to 20 September 2016.\n\nWe supplemented our searches by manually reviewing the references of all relevant studies."
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 showed the characteristics of the eight identified studies"
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The quality of the case-control and cohort studies was assessed according to the Newcastle-Ottawa Scale (NOS) (9). The quality of the cross-sectional study was also assessed by the NOS. The NOS contains eight items, categorised into three dimensions, including selection, comparability and exposure. The NOS ranges between zero and nine"
+        ],
+        "negative_ctxs": [
+            2,
+            1
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "In the absence of significant heterogeneity, the LOS of the included studies were pooled for weighted mean difference (WMD) using a fixed-effect model. If heterogeneity was observed, a random-effects model was used. Overall effects were determined using the Z test. Meta-regression was conducted for the source of heterogeneity by SRPU incidence."
+        ],
+        "negative_ctxs": [
+            4,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The meta-analysis model was chosen by the heterogeneity between included studies. Statistical heterogeneity was explored by 2 and inconsistency (I2) statistics; P < 005 for 2 or I2 value of 25% or more represented heterogeneity.\n\nThere was moderate heterogeneity between the included studies (2 = 838, P = 0137; I2 = 403%)\n\nHeterogeneity may come from different study designs, ethnicity and/or SRPU stage."
+        ],
+        "negative_ctxs": [
+            3,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "We identified eight studies (6-8,13-17) that met our inclusion criteria for meta-analysis. "
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The quality rating of theincluded studies ranged from seven to eight on a scale of nine.Table 1 showed the characteristics of the eight identified studies.\n\nSome of the included studies were retrospective case-control studies, which were more prone to bias."
+        ],
+        "negative_ctxs": [
+            10,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The authors have no competing interests."
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "There are some limitations in this meta-analysis. First, some f the included studies were retrospective case-control studies,\nwhich were more prone to bias. Second, there was moderate heterogeneity between the included studies. Meta-regression\nanalysis of heterogeneity was not obtained from SRPU incidence. Heterogeneity may come from different study designs,\nethnicity and/or SRPU stage. These two limitations need to be considered when evaluating the conclusion"
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": []
+    }
+]

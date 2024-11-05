@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Published articles evaluating the use of UE within human, cutaneous or subcutaneous-adi- pose tissues were included in the review, in order to evaluate the potential application in assessing burn scars."
+        ],
+        "negative_ctxs": [
+            7,
+            12
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Published articles evaluating the use of UE within human, cutaneous or subcutaneous-adi- pose tissues were included in the review, in order to evaluate the potential application in assessing burn scars. All study designs were included to ensure all relevant evidence was reviewed, and any novel findings often described in case reports were not omitted. Only studies that evaluated a commercially available, fully integrated UE system capable of measuring both skin and subcutaneous tissues were included to allow for potential replication of study designs. "
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            31,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            33,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A systematic search of the literature was conducted independently by two authors (H.D and S.A.) in August 2016 using the electronic databases Medline, Web of Science, and Scopus."
+        ],
+        "negative_ctxs": [
+            25,
+            31
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Lastly the reference lists of all papers included in the review were manually searched to ensure all related publications were included in this comprehensive review."
+        ],
+        "negative_ctxs": [
+            17,
+            23
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Searches were performed of titles, abstracts and keywords to maximise article retrieval. The keywords for the search included: 'skin', 'derma*', 'dermis', 'cutaneous', 'cutis', 'subcutaneous', 'subcutis', 'fat', 'adipose', 'fascia', 'elastography', sono- elastography, and the mesh term 'elasticity imaging techniques'. Various combinations of the above terms were included in the searches of the various data bases and refinement tools were utilized within each database (Table 1)."
+        ],
+        "negative_ctxs": [
+            20,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "The search was limited to peer reviewed papers published in English after 2003, the year UE was first commercialized . "
+        ],
+        "negative_ctxs": [
+            19,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "A systematic search of the literature was conducted independently by two authors (H.D and S.A.) in August 2016 using the electronic databases Medline, Web of Science, and Scopus. "
+        ],
+        "negative_ctxs": [
+            24,
+            12
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 2. Summary of Findings"
+        ],
+        "negative_ctxs": [
+            27,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The papers included for review were assessed for risks of bias using the Quality Assessment of Diagnostic Accuracy Studies - 2 (QUADAS-2) tool ( ty-medicine/projects/quadas/quadas-2/) whi- ch is a validated and reliable tool to assess the study's methodological level of bias in four cat- egories: 1) patient selection, 2) index test, 3) reference standard and 4) flow and timing, by using signaling questions to identify areas of either high risk, low risk, unclear or not appli- cable ."
+        ],
+        "negative_ctxs": [
+            14,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "The data bases were searched independently (Table 1). Medline yielded 234, Web of Science 262, and Scopus yielded 192 potential papers for inclusion. These papers were then further screened by titles, keywords and abstracts, with 54 papers identified in Medline, and after duplicates were removed a further 14 were identified in Web of Science and an additional 8 in Scopus. A total of 76 papers underwent a full text screen and a further 52 were removed for not meeting the inclusion criteria, leaving a total of 23 for critical review. Following critical review one paper , was excluded as the UE component was used to measure tissue thick- ness rather than tissue stiffness, three papers using the Tissue Ultrasound Palpation System (TUPS) were excluded as the system is no lon- ger commercially available [45-47], an addi- tional three papers were excluded as they did not document the UE system they used [48-50] and finally one paper used video elastography (not commercially available) which was also excluded . "
+        ],
+        "negative_ctxs": [
+            12,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "A total of fifteen papers published between 2009 and August 2016 were included in the full critical review (Table 2). Eleven papers studied the efficacy of SI and four studied SWEI. Five diagnostic groups were identified including cutaneous/subcutaneous lesions (N=6), sys- temic sclerosis (N=5), lymphedema (N=2), skin abscess (N=1), and post-irradiation neck fibro- sis (N=1). Six studies evaluated the clinimetric properties of their assessment protocols, including interrater reliability (N=4), intra-rater reliability (N=2) and/or test-retest reliability (N=3) whilst others tested criterion validity (N=2), convergent validity (N=6), and/or dis- criminate validity (N=7)."
+        ],
+        "negative_ctxs": [
+            28,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "A total of fifteen papers published between 2009 and August 2016 were included in the full critical review (Table 2). Eleven papers studied the efficacy of SI and four studied SWEI. Five diagnostic groups were identified including cutaneous/subcutaneous lesions (N=6), sys- temic sclerosis (N=5), lymphedema (N=2), skin abscess (N=1), and post-irradiation neck fibro- sis (N=1). Six studies evaluated the clinimetric properties of their assessment protocols, including interrater reliability (N=4), intra-rater reliability (N=2) and/or test-retest reliability (N=3) whilst others tested criterion validity (N=2), convergent validity (N=6), and/or dis- criminate validity (N=7)."
+        ],
+        "negative_ctxs": [
+            32,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Quality assessment (Tables 2 and 4) demonstrated all studies had at least one risk of bias. The primary area of bias was with patient selection, whereby none of the studies justified their sample size or provided power calculations to test their hypothesis. Most stud- ies could be considered exploratory, feasibility or pilot studies for which sample size calcula- tions are not required . However, this means all results regarding validity are taken with cau- tion until larger studies with adequate power calculations are completed. In addition, with only two studies providing adequate interrater reliability, it is uncertain whether the protocols provided consistent results, which can produce a risk of index test bias."
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "This research was limited to published abstracts and studies conducted on cutaneous and subcutaneous-adipose conditions. However, many studies conducted do not result in publication , therefore additional unpublished research may have been conducted yielding results contrary to that presented in this study. In addition, research methodologies conducted in other tissue, organ or diagnostic groups could generate high quality methodolo- gies suitable for the application in cutaneous research, which has been unexplored in this review."
+        ],
+        "negative_ctxs": [
+            17,
+            12
+        ],
+        "positive_ctxs": [
+            28
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Published articles evaluating the use of UE within human, cutaneous or subcutaneous-adi- pose tissues were included in the review, in order to evaluate the potential application in assessing burn scars."
+        ],
+        "negative_ctxs": [
+            34,
+            13
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            4,
+            29
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            28,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Published articles evaluating the use of UE within human, cutaneous or subcutaneous-adi- pose tissues were included in the review, in order to evaluate the potential application in assessing burn scars. All study designs were included to ensure all relevant evidence was reviewed, and any novel findings often described in case reports were not omitted. Only studies that evaluated a commercially available, fully integrated UE system capable of measuring both skin and subcutaneous tissues were included to allow for potential replication of study designs. "
+        ],
+        "negative_ctxs": [
+            4,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "All study designs were included to ensure all relevant evidence was reviewed, and any novel findings often described in case reports were not omitted."
+        ],
+        "negative_ctxs": [
+            27,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A systematic search of the literature was conducted independently by two authors (H.D and S.A.) in August 2016 using the electronic databases Medline, Web of Science, and Scopus."
+        ],
+        "negative_ctxs": [
+            28,
+            4
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "A systematic search of the literature was conducted independently by two authors (H.D and S.A.) in August 2016 using the electronic databases Medline, Web of Science, and Scopus. "
+        ],
+        "negative_ctxs": [
+            21,
+            34
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The papers included for review were assessed for risks of bias using the Quality Assessment of Diagnostic Accuracy Studies - 2 (QUADAS-2) tool ( ty-medicine/projects/quadas/quadas-2/) whi- ch is a validated and reliable tool to assess the study's methodological level of bias in four cat- egories: 1) patient selection, 2) index test, 3) reference standard and 4) flow and timing, by using signaling questions to identify areas of either high risk, low risk, unclear or not appli- cable ."
+        ],
+        "negative_ctxs": [
+            13,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "A total of fifteen papers published between 2009 and August 2016 were included in the full critical review (Table 2). Eleven papers studied the efficacy of SI and four studied SWEI. Five diagnostic groups were identified including cutaneous/subcutaneous lesions (N=6), sys- temic sclerosis (N=5), lymphedema (N=2), skin abscess (N=1), and post-irradiation neck fibro- sis (N=1). Six studies evaluated the clinimetric properties of their assessment protocols, including interrater reliability (N=4), intra-rater reliability (N=2) and/or test-retest reliability (N=3) whilst others tested criterion validity (N=2), convergent validity (N=6), and/or dis- criminate validity (N=7)."
+        ],
+        "negative_ctxs": [
+            21,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "A total of fifteen papers published between 2009 and August 2016 were included in the full critical review (Table 2). Eleven papers studied the efficacy of SI and four studied SWEI. Five diagnostic groups were identified including cutaneous/subcutaneous lesions (N=6), sys- temic sclerosis (N=5), lymphedema (N=2), skin abscess (N=1), and post-irradiation neck fibro- sis (N=1). Six studies evaluated the clinimetric properties of their assessment protocols, including interrater reliability (N=4), intra-rater reliability (N=2) and/or test-retest reliability (N=3) whilst others tested criterion validity (N=2), convergent validity (N=6), and/or dis- criminate validity (N=7)."
+        ],
+        "negative_ctxs": [
+            13,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Quality assessment (Tables 2 and 4) demonstrated all studies had at least one risk of bias. The primary area of bias was with patient selection, whereby none of the studies justified their sample size or provided power calculations to test their hypothesis. Most stud- ies could be considered exploratory, feasibility or pilot studies for which sample size calcula- tions are not required . However, this means all results regarding validity are taken with cau- tion until larger studies with adequate power calculations are completed. In addition, with only two studies providing adequate interrater reliability, it is uncertain whether the protocols provided consistent results, which can produce a risk of index test bias."
+        ],
+        "negative_ctxs": [
+            27,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Brendan Kennedy is a founder and shareholder in OncoRes Medical (Perth, Western Australia, Australia), a start-up company developing optical-based elastography for surgical applications. In addition, he performs funded research for this company."
+        ],
+        "negative_ctxs": [
+            1,
+            20
+        ],
+        "positive_ctxs": [
+            28
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "This research was limited to published abstracts and studies conducted on cutaneous and subcutaneous-adipose conditions. However, many studies conducted do not result in publication , therefore additional unpublished research may have been conducted yielding results contrary to that presented in this study. In addition, research methodologies conducted in other tissue, organ or diagnostic groups could generate high quality methodolo- gies suitable for the application in cutaneous research, which has been unexplored in this review."
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": [
+            28
+        ]
+    }
+]

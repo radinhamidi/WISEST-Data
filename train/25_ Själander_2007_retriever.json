@@ -1,0 +1,468 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The criteria for study selection were:\n* Published and abstracted randomized trials\n* Acutely ill medical inpatients\n* Comparison of fixed dose UFH, LMWH or fondaparinux with placebo\n* Outcomes confirmed by objective diagnostic testing\n* At least 1 week of prophylaxis and follow-up for VTE"
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "* Published and abstracted randomized trials\n* Acutely ill medical inpatients\n* Comparison of fixed dose UFH, LMWH or fondaparinux with placebo\n* Outcomes confirmed by objective diagnostic testing\n* At least 1 week of prophylaxis and follow-up for VTE"
+        ],
+        "negative_ctxs": [
+            11,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A literature search was performed to identify all published blinded randomized controlled trials on prophylaxis against VTE with UFH, LMWH or fondaparinux in acutely ill medical inpatients. The electronic databases MEDLINE, EMBASE and Cochrane database of clinical trials from 1980 to present were used.\nManual search was performed regarding abstracts from major meetings: International Society of Thrombosis and Haemostasis, American Society of Hematology, International Congress of Thrombosis and International Stroke Conference. Reference lists of identified publications were also scrutinized."
+        ],
+        "negative_ctxs": [
+            0,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Manual search was performed regarding abstracts from major meetings\nReference lists of identified publications were also scrutinized."
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Three independent investigators performed the study selection. Disagreements were resolved through discussion in the group."
+        ],
+        "negative_ctxs": [
+            10,
+            1
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "For each study, three independent investigators extracted data"
+        ],
+        "negative_ctxs": [
+            4,
+            12
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The study characteristics are presented in Table 1.\nthree independent investigators extracted data regarding study quality, population, intervention and outcome."
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 2 All seven studies using low-molecular weight heparin (LMWH) or fondaparinux as prophylaxis [6-8, 10-13]. Events per included persons, frequency of symptomatic pulmonary embolism (PE), asymptomatic and symptomatic deep vein thrombosis (DVT), bleeding or death (%), absolute risk reduction (ARR) and numbers needed to treat / harm (NNT / NNH) are reported"
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "investigators extracted data regarding study quality"
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "The meta-analysis was performed only on the seven blinded randomized controlled clin\u0002ical trials"
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The fixed model was used for calculations. A random-effects model was tested but showed similar results."
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The P-value for heterogeneity was above 0.10 in all analyses.\nThe meta-analysis was performed only on the seven blinded randomized controlled clinical trials in nonsurgical patients using LMWH or fondaparinux to avoid selection bias or heterogeneity in the results due to different treatment regimens."
+        ],
+        "negative_ctxs": [
+            5,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The criteria for study selection were:\n* Published and abstracted randomized trials\n* Acutely ill medical inpatients\n* Comparison of fixed dose UFH, LMWH or fondaparinux with placebo\n* Outcomes confirmed by objective diagnostic testing\n* At least 1 week of prophylaxis and follow-up for VTE"
+        ],
+        "negative_ctxs": [
+            9,
+            10
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "* Published and abstracted randomized trials\n* Acutely ill medical inpatients\n* Comparison of fixed dose UFH, LMWH or fondaparinux with placebo\n* Outcomes confirmed by objective diagnostic testing\n* At least 1 week of prophylaxis and follow-up for VTE"
+        ],
+        "negative_ctxs": [
+            7,
+            12
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A literature search was performed to identify all published blinded randomized controlled trials on prophylaxis against VTE with UFH, LMWH or fondaparinux in acutely ill medical inpatients. The electronic databases MEDLINE, EMBASE and Cochrane database of clinical trials from 1980 to present were used.\nManual search was performed regarding abstracts from major meetings: International Society of Thrombosis and Haemostasis, American Society of Hematology, International Congress of Thrombosis and International Stroke Conference. Reference lists of identified publications were also scrutinized."
+        ],
+        "negative_ctxs": [
+            13,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Three independent investigators performed the study selection. Disagreements were resolved through discussion in the group."
+        ],
+        "negative_ctxs": [
+            2,
+            5
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "For each study, three independent investigators extracted data"
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "The study using UFH  also included patients who had recently undergone surgery, and was therefore excluded. The remaining two studies [15, 16] were not blinded and compared UFH prophylaxis with no treatment."
+        ],
+        "negative_ctxs": [
+            7,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The study characteristics are presented in Table 1.\nthree independent investigators extracted data regarding study quality, population, intervention and outcome."
+        ],
+        "negative_ctxs": [
+            13,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "investigators extracted data regarding study quality"
+        ],
+        "negative_ctxs": [
+            2,
+            4
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The fixed model was used for calculations. A random-effects model was tested but showed similar results."
+        ],
+        "negative_ctxs": [
+            7,
+            3
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The P-value for heterogeneity was above 0.10 in all analyses.\nThe meta-analysis was performed only on the seven blinded randomized controlled clinical trials in nonsurgical patients using LMWH or fondaparinux to avoid selection bias or heterogeneity in the results due to different treatment regimens."
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding This research was sponsored by Shanghai Leading Talent Projects (No. 036,2010).\n\nCompeting interests None."
+        ],
+        "negative_ctxs": [
+            6,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            4
+        ],
+        "positive_ctxs": []
+    }
+]

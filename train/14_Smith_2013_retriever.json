@@ -1,0 +1,110 @@
+import os
+from pathlib import Path
+import torch
+import logging
+import json
+
+from langchain_community.llms import LlamaCpp  # Updated import
+from langchain_community.document_loaders import PyPDFLoader  # Updated import
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.embeddings import HuggingFaceEmbeddings  # Updated import
+from langchain.vectorstores import Chroma  # Using Chroma for vector store
+from langchain.chains import RetrievalQA
+from langchain.schema import Document  # Import Document class for compatibility
+
+def main():
+    logging.basicConfig(level=logging.INFO)
+    
+    # Define file paths for model and PDF
+    pdf_path = Path("/mnt/data/14_Smith_2013.pdf")
+    model_path = Path("/mnt/data/naser/gguf_model/merged_model.gguf.q8_0/Meta-Llama-3.1-8B-Q8_0.gguf")
+    output_json_path = Path("/mnt/data/response_output.json")
+
+    # Check if PDF and model paths exist
+    if not pdf_path.is_file():
+        logging.error(f"PDF file not found at {pdf_path}")
+        return
+    if not model_path.is_file():
+        logging.error(f"Model file not found at {model_path}")
+        return
+
+    # Load PDF and check content
+    pdf_loader = PyPDFLoader(str(pdf_path))
+    raw_documents = pdf_loader.load()
+
+    if not raw_documents:
+        logging.warning("No raw documents loaded from the PDF.")
+        return
+
+    logging.info("Content of the first raw document:")
+    logging.info(repr(raw_documents[0].page_content[:500]))
+
+    # Split text into smaller chunks to avoid exceeding context window
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=500,  # Reduced chunk size for smaller input per document
+        chunk_overlap=100,
+    )
+    split_texts = text_splitter.split_documents(raw_documents)
+    documents = [Document(page_content=chunk.page_content) for chunk in split_texts]
+
+    logging.info(f"Number of documents after splitting: {len(documents)}")
+    if not documents:
+        logging.warning("No documents were created after splitting.")
+        return
+
+    embeddings = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-mpnet-base-v2",
+        model_kwargs={"device": "cuda:3" if torch.cuda.is_available() else "cpu"}
+    )
+
+    # Create vector store with Chroma
+    vectorstore = Chroma.from_documents(documents, embeddings)
+    logging.info("Vector store created successfully.")
+
+    # Set up retriever with a smaller `k` value to fit context window
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 5})
+
+    # Initialize LlamaCpp model with increased context and max tokens for detailed responses
+    llm = LlamaCpp(
+        model_path=str(model_path),
+        n_ctx=2048,  # Max context window
+        n_gpu_layers=30 if torch.cuda.is_available() else 0,
+        n_batch=256,  # Batch size for faster processing
+        max_tokens=1200,  # Reduced max tokens to fit within context window
+        verbose=False
+    )
+
+    # Set up QA chain with verbosity for detailed responses
+    qa_chain = RetrievalQA.from_chain_type(
+        llm=llm,
+        chain_type="stuff",
+        retriever=retriever,
+        return_source_documents=True,
+        verbose=True  # Enable verbose output for more detail
+    )
+
+    # Concise query example to avoid exceeding context
+    question = (
+        "Were there any restrictions in eligibility criteria, like publication status or language? "
+        "Please provide details with examples if available."
+    )
+
+    # Run the QA chain and retrieve the result
+    result = qa_chain({"query": question})
+    answer = result['result']
+    print("Detailed Answer:", answer)
+
+    # Prepare JSON data
+    output_data = {
+        "query": question,
+        "answer": answer
+    }
+
+    # Write to JSON file
+    with open(output_json_path, 'w') as json_file:
+        json.dump(output_data, json_file, indent=4)
+
+    logging.info(f"Output saved to {output_json_path}")
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,463 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We performed a systematic review of randomized controlled trials (RCTs) to examine the safety and efficacy of LMWH in acute ischemic stroke.\n\nThe objectives of this systematic review were to assess the safety and efficacy of LMWHs in acute ischemic stroke. We included trials that studied patients with acute ischemic stroke, intervened with an LMWH, and recorded 1 or more outcomes relevant to stroke patients, including case fatality, combined death and disability, venous thromboembolism, and symptomatic bleeding.\n\nIncluded trials had to be randomized, placebo or open controlled, and completed by the end of 1998. Adult patients had to have been included within 7 days of stroke and had to have CT exclusion of primary intracerebral hemorrhage. Trials were excluded if they were pseudorandomized or confounded (ie, LMWH was tested against another active treatment)."
+        ],
+        "negative_ctxs": [
+            19,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We performed a systematic review of randomized controlled trials (RCTs) to examine the safety and efficacy of LMWH in acute ischemic stroke.\n\nThe objectives of this systematic review were to assess the safety and efficacy of LMWHs in acute ischemic stroke. We included trials that studied patients with acute ischemic stroke, intervened with an LMWH, and recorded 1 or more outcomes relevant to stroke patients, including case fatality, combined death and disability, venous thromboembolism, and symptomatic bleeding.\n\nIncluded trials had to be randomized, placebo or open controlled, and completed by the end of 1998. Adult patients had to have been included within 7 days of stroke and had to have CT exclusion of primary intracerebral hemorrhage. Trials were excluded if they were pseudorandomized or confounded (ie, LMWH was tested against another active treatment)."
+        ],
+        "negative_ctxs": [
+            15,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Eleven completed trials were identified that fulfilled the inclusion criteria (Table 1); 1 phase II study of danaparoid (Organon, Netherlands) was unpublished, and data were not made available by the pharmaceutical company (Table 2). Nine studies (7 in English, 1 in French, and 1 in Italian) had been published in full or abstract form; 1991 data on the remaining trial were obtained from Dr E. Lindenstrom of Leo Pharmaceuticals. The available 10 trials had studied 2855 patients. Another 11 studies ('3400 patients) involving an LMWH were excluded, 3 because they were not randomized, 7 because they were confounded (LMWH was compared with another active therapy, either UFH 23 or aspirin), and 1 because there was no control untreated group (Table 2)."
+        ],
+        "negative_ctxs": [
+            13,
+            9
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Eleven completed trials were identified that fulfilled the inclusion criteria (Table 1); 1 phase II study of danaparoid (Organon, Netherlands) was unpublished, and data were not made available by the pharmaceutical company (Table 2). Nine studies (7 in English, 1 in French, and 1 in Italian) had been published in full or abstract form; 1991 data on the remaining trial were obtained from Dr E. Lindenstrom of Leo Pharmaceuticals. The available 10 trials had studied 2855 patients. Another 11 studies ('3400 patients) involving an LMWH were excluded, 3 because they were not randomized, 7 because they were confounded (LMWH was compared with another active therapy, either UFH 23 or aspirin), and 1 because there was no control untreated group (Table 2).\n\nPublication language other than English was not an exclusion criteria."
+        ],
+        "negative_ctxs": [
+            8,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We identified studies through searches of the Cochrane Stroke Group database of trials in acute stroke, the Cochrane Library (version 2, 1999), published reviews18-21 and systematic reviews12,22-24 of anticoagulant treatment in acute stroke, and a recent study of publication quality of acute stroke RCTs.25 The 2 Cochrane databases are the largest and most comprehensive listings of RCTs and are based on trials present in MEDLINE and EMBASE and the results of manual journal searching."
+        ],
+        "negative_ctxs": [
+            21,
+            17
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The reference lists of identified publications were also checked for additional trials. Publication language other than English was not an exclusion criteria."
+        ],
+        "negative_ctxs": [
+            12,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Publication language other than English was not an exclusion criteria.\n\nNine studies (7 in English, 1 in French, and 1 in Italian) had been published in full or abstract form"
+        ],
+        "negative_ctxs": [
+            2,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "The authors independently extracted the following trial information and data by treatment group"
+        ],
+        "negative_ctxs": [
+            22,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Each of the studies was randomized, and all recruited patients after CT exclusion of primary intracerebral hemorrhage. The primary aims of each of the studies fell into 3 groups: (1) 5 small trials prospectively assessed the effect of LMWH on the development of DVT (Dr E. Lindenstrom, unpublished data, 1991, and References 28-31; (2) 2 small phase II studies assessed safety, tolerability, and feasibility of LMWH32,33; and (3) 3 medium-sized phase III trials assessed the safety and efficacy of LMWH.16,17,34 LMWHs were administered intravenously in 2 studies,16,28 intramuscularly in 1,32 and subcutaneously in the remaining studies (Table 1). Treatment was started within 24 to 72 hours in all but 1 study28 and was given for between 7 and 30 days (median and mode 14 days). Follow-up ranged between 2 weeks and 6 months. Four studies explicitly excluded patients with presumed cardioembolic stroke (Dr E. Lindenstrom, unpublished data, 1991, and References 28, 30, and 31; the remaining trials recruited between 14.0% and 29.8% (median 20.9%) of subjects with presumed cardioembolic stroke.\n\nTABLE 1. Completed Randomized Placebo or Open Controlled Trials of LMWH in Acute Ischemic Stroke"
+        ],
+        "negative_ctxs": [
+            5,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "TABLE 1. Completed Randomized Placebo or Open Controlled Trials of LMWH in Acute Ischemic Stroke\n\nFigure 1. The effect of LMWHs on (A) end-of-trial death, (B) end-of-trial death and disability, (C) SICH, and (D) DVT. Expt indicates experimental treatment; Ctrl, control; and Leo 1991, unpublished data obtained from Leo Pharmaceuticals (Dr E. Lindenstrom).\n\nFigure 2. The effect of LMWHs on death and disability when assessed by stroke subtype: large-vessel disease, cardioembolic stroke, small-vessel disease, and other types."
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Eleven completed trials were identified that fulfilled the inclusion criteria (Table 1); 1 phase II study of danaparoid (Organon, Netherlands) was unpublished, and data were not made available by the pharmaceutical company (Table 2). Nine studies (7 in English, 1 in French, and 1 in Italian) had been published in full or abstract form; 1991 data on the remaining trial were obtained from Dr E. Lindenstrom of Leo Pharmaceuticals. The available 10 trials had studied 2855 patients.\n\nEach of the studies was randomized, and all recruited patients after CT exclusion of primary intracerebral hemorrhage. The primary aims of each of the studies fell into 3 groups: (1) 5 small trials prospectively assessed the effect of LMWH on the development of DVT (Dr E. Lindenstrom, unpublished data, 1991, and References 28-31; (2) 2 small phase II studies assessed safety, tolerability, and feasibility of LMWH32,33; and (3) 3 medium-sized phase III trials assessed the safety and efficacy of LMWH. \n\nTABLE 1. Completed Randomized Placebo or Open Controlled Trials of LMWH in Acute Ischemic Stroke\n\nTABLE 3. Effect of LMWH on Case Fatality, Combined Death and Disability, Recurrent Stroke, Intracranial Hemorrhage, Extracranial Bleeding, DVT, PE, and Myocardial Infarction\n\nFigure 1. The effect of LMWHs on (A) end-of-trial death, (B) end-of-trial death and disability, (C) SICH, and (D) DVT. Expt indicates experimental treatment; Ctrl, control; and Leo 1991, unpublished data obtained from Leo Pharmaceuticals (Dr E. Lindenstrom).\n\nFigure 2. The effect of LMWHs on death and disability when assessed by stroke subtype: large-vessel disease, cardioembolic stroke, small-vessel disease, and other types.\n\nTABLE 4. Effect of LMWH on Case Fatality, and Death and Disability, by Subgroups Including Aim of Trial to Treatment, Route of Administration, Inclusion of Subjects With Presumed Cardioembolic Stroke, and Drug Class\n\nFive trials prospectively assessed the incidence of intracranial hemorrhage by performing a second CT scan at the end of the treatment period; LMWH had no effect on the rate of all intracranial hemorrhages (Table 3). Other studies only performed a second CT scan if patients deteriorated and there was clinical suspicion of SICH.\n\nLMWH significantly reduced the incidence of DVT in those 5 trials that prospectively assessed this outcome using venography (Dr E. Lindenstrom, unpublished data, 1991, and Reference 30) or fibrinogen-labeled imaging28,29,31 during or at the end of treatment (Table 3). A nonsignificant reduction in proximal thrombi was also observed with LMWH therapy. The remaining studies diagnosed DVT on the basis of clinical suspicion confirmed by an imaging modality; DVT rates tended to be lower in patients receiving LMWH, an effect that was not significant owing to the FISS bis study.17 When assessed across all trials, LMWH more than halved DVT events (Table 3)\n\nAlthough no studies prospectively examined the incidence of PE, all 10 trials recorded the incidence of events diagnosed clinically and confirmed by pulmonary angiography or ventilation-perfusion scanning. "
+        ],
+        "negative_ctxs": [
+            20,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Included trials had to be randomized, placebo or open controlled, and completed by the end of 1998.\n\nTrials were excluded if they were pseudorandomized or confounded (ie, LMWH was tested against another active treatment). \n\nTrial data were entered by LMWH dose with an arbitrary cutoff of #100 IU z kg21 z d21 anti-Xa for low dose and .100 IU z kg21 z d21 anti-Xa for high dose, to approximate to venous and arterial doses as defined in the International Stroke Trial.1 This cutoff level allowed the 2 dosing arms of the FISS and FISS bis trials to be analyzed separately.\n\nOdds ratios (ORs) and the 95% confidence intervals (CIs) around the ORs were calculated with a random-effects model because heterogeneity was expected among the trials. \n\nFigure 1. The effect of LMWHs on (A) end-of-trial death, (B) end-of-trial death and disability, (C) SICH, and (D) DVT. Expt indicates experimental treatment; Ctrl, control; and Leo 1991, unpublished data obtained from Leo Pharmaceuticals (Dr E. Lindenstrom).\n\nFigure 2. The effect of LMWHs on death and disability when assessed by stroke subtype: large-vessel disease, cardioembolic stroke, small-vessel disease, and other types."
+        ],
+        "negative_ctxs": [
+            2,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Heterogeneity was assessed with respect to protocol differences by grouping studies by their aim (phase II or III, or DVT prophylaxis), time to treatment (within 24 hours, or longer), route of drug administration (intravenous, intramuscular, or subcutaneous), inclusion or exclusion of subjects with presumed cardioembolic stroke, and type of drug used (heparin or heparinoid). Statistical heterogeneity among trials was also assessed. \n\nThere was no evidence of heterogeneity among the trials for death or death and disability, and no dose-dependent effects of LMWH were observed. When assessed by stroke subtype, no particular group of patients appeared to benefit with respect to death and disability (Figure 2).\n\n\nThere were no significant differences in the ORs for death when assessed by the type of trial (phase II or III or DVT prophylaxis), time to treatment (within 24 hours, or longer), route of drug administration (intravenous, intramuscular, or subcutaneous), inclusion or exclusion of subjects with presumed cardioembolic stroke, and the drug class used (heparin or heparinoid) (Table 4). Similarly, ORs were not dissimilar for combined death and disability, apart from the analysis for time to treatment, for which LMWH appeared to be effective when given in trials with a wider recruitment window than 24 hours. To further explore this finding, the effects of LMWH on SICH and disability by time of administration were assessed; LMWH significantly increased SICH in trials that provided treatment within 24 hours (3 trials, 2082 subjects; OR 2.06, 95% CI 1.01 to 4.22) but not in those studies that provided treatment later than 24 hours (5 trials, 601 subjects; OR 1.69, 95% CI 0.43 to 6.67). Similarly, LMWH significantly reduced disability in trials that recruited patients beyond 24 hours (3 trials, 483 subjects; OR 0.62, 95% CI 0.42 to 0.91) but not in those that recruited only within 24 hours (2 trials, 2037 subjects; OR 0.92, 95% CI 0.75 to 1.14).\n\n\nThe trials did not show significant heterogeneity for outcomes other than DVT, and a funnel plot analysis did not suggest that trials had not been identified (although data on 1 small trial of danaparoid involving 180 subjects were unavailable for analysis). Statistical heterogeneity was present for DVT and was largely due to the FISS bis trial, which found, surprisingly, that nadroparin had no effect in preventing DVT, although it did reduce PE events; this contradictory observation is inconsistent with other LMWH trials both within and without stroke and is probably due to chance.  "
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "We performed sensitivity analyses by excluding trials on quality grounds, eg, the effect of LMWH on the incidence of DVT was studied for all trials and then separately for those trials that prospectively assessed DVT by imaging at the end of treatment. Lack of identification and inclusion of trials through publication or location bias26 was assessed by a quantitative analysis of the asymmetry of funnel plots according to Egger et al.27\n\nAnalysis of a funnel plot did not reveal asymmetry (P=0.2), which suggests that few, if any, trials were missed by the search process.\n\na funnel plot analysis did not suggest that trials had not been identified (although data on 1 small trial of danaparoid involving 180 subjects were unavailable for analysis).\n\nIn spite of the absence of statistical heterogeneity in most of the results, considerable differences existed in the trial aims and protocols, and our \"mixing\" of apparently very different studies can be questioned. Nevertheless, analyses did not suggest that these differences altered the overall message of the findings. (However, such comparisons of\ntrials are nonrandomized and are therefore subject to confounding as well as being underpowered.) In particular, the inclusion or exclusion of patients with presumed cardioembolic stroke, use of heparin or heparinoids, route of drug administration, and study aim did not alter the results. However, differences were present when outcome was assessed by the time at which treatment was started; LMWH appeared to reduce the rate of disability and combined death and disability in those trials in which treatment was initiated beyond 24 hours, whereas SICH rates were higher when LMWH was started early.  "
+        ],
+        "negative_ctxs": [
+            2,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The objectives of this systematic review were to assess the safety and efficacy of LMWHs in acute ischemic stroke.\n\nEach of the studies was randomized, and all recruited patients\nafter CT exclusion of primary intracerebral hemorrhage. The\nprimary aims of each of the studies fell into 3 groups: (1) 5\nsmall trials prospectively assessed the effect of LMWH on\nthe development of DVT (Dr E. Lindenstrom, unpublished\ndata, 1991, and References 28-31; (2) 2 small phase II\nstudies assessed safety, tolerability, and feasibility of\nLMWH32,33; and (3) 3 medium-sized phase III trials assessed\nthe safety and efficacy of LMWH"
+        ],
+        "negative_ctxs": [
+            21,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            19,
+            4
+        ],
+        "positive_ctxs": [
+            1,
+            3,
+            9,
+            10,
+            11,
+            14,
+            17,
+            18
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We performed a systematic review of randomized controlled trials (RCTs) to examine the safety and efficacy of LMWH in acute ischemic stroke.\n\nThe objectives of this systematic review were to assess the safety and efficacy of LMWHs in acute ischemic stroke. We included trials that studied patients with acute ischemic stroke, intervened with an LMWH, and recorded 1 or more outcomes relevant to stroke patients, including case fatality, combined death and disability, venous thromboembolism, and symptomatic bleeding.\n\nIncluded trials had to be randomized, placebo or open controlled, and completed by the end of 1998. Adult patients had to have been included within 7 days of stroke and had to have CT exclusion of primary intracerebral hemorrhage. Trials were excluded if they were pseudorandomized or confounded (ie, LMWH was tested against another active treatment)."
+        ],
+        "negative_ctxs": [
+            4,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We identified studies through searches of the Cochrane Stroke Group database of trials in acute stroke, the Cochrane Library (version 2, 1999), published reviews18-21 and systematic reviews12,22-24 of anticoagulant treatment in acute stroke, and a recent study of publication quality of acute stroke RCTs.25 The 2 Cochrane databases are the largest and most comprehensive listings of RCTs and are based on trials present in MEDLINE and EMBASE and the results of manual journal searching."
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "The authors independently extracted the following trial information and data by treatment group"
+        ],
+        "negative_ctxs": [
+            16,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Eleven completed trials were identified that fulfilled the inclusion criteria (Table 1); 1 phase II study of danaparoid (Organon, Netherlands) was unpublished, and data were not made available by the pharmaceutical company (Table 2). Nine studies (7 in English, 1 in French, and 1 in Italian) had been published in full or abstract form; 1991 data on the remaining trial were obtained from Dr E. Lindenstrom of Leo Pharmaceuticals. The available 10 trials had studied 2855 patients. Another 11 studies ('3400 patients) involving an LMWH were excluded, 3 because they were not randomized, 7 because they were confounded (LMWH was compared with another active therapy, either UFH 23 or aspirin), and 1 because there was no control untreated group (Table 2).\n\nTABLE 2. Excluded Trials Involving LMWH in Acute Ischemic Stroke"
+        ],
+        "negative_ctxs": [
+            7,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Each of the studies was randomized, and all recruited patients after CT exclusion of primary intracerebral hemorrhage. The primary aims of each of the studies fell into 3 groups: (1) 5 small trials prospectively assessed the effect of LMWH on the development of DVT (Dr E. Lindenstrom, unpublished data, 1991, and References 28-31; (2) 2 small phase II studies assessed safety, tolerability, and feasibility of LMWH32,33; and (3) 3 medium-sized phase III trials assessed the safety and efficacy of LMWH.16,17,34 LMWHs were administered intravenously in 2 studies,16,28 intramuscularly in 1,32 and subcutaneously in the remaining studies (Table 1). Treatment was started within 24 to 72 hours in all but 1 study28 and was given for between 7 and 30 days (median and mode 14 days). Follow-up ranged between 2 weeks and 6 months. Four studies explicitly excluded patients with presumed cardioembolic stroke (Dr E. Lindenstrom, unpublished data, 1991, and References 28, 30, and 31; the remaining trials recruited between 14.0% and 29.8% (median 20.9%) of subjects with presumed cardioembolic stroke.\n\nTABLE 1. Completed Randomized Placebo or Open Controlled Trials of LMWH in Acute Ischemic Stroke"
+        ],
+        "negative_ctxs": [
+            15,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Included trials had to be randomized, placebo or open controlled, and completed by the end of 1998.\n\nTrials were excluded if they were pseudorandomized or confounded (ie, LMWH was tested against another active treatment). \n\nTrial data were entered by LMWH dose with an arbitrary cutoff of #100 IU z kg21 z d21 anti-Xa for low dose and .100 IU z kg21 z d21 anti-Xa for high dose, to approximate to venous and arterial doses as defined in the International Stroke Trial.1 This cutoff level allowed the 2 dosing arms of the FISS and FISS bis trials to be analyzed separately.\n\nOdds ratios (ORs) and the 95% confidence intervals (CIs) around the ORs were calculated with a random-effects model because heterogeneity was expected among the trials. \n\nFigure 1. The effect of LMWHs on (A) end-of-trial death, (B) end-of-trial death and disability, (C) SICH, and (D) DVT. Expt indicates experimental treatment; Ctrl, control; and Leo 1991, unpublished data obtained from Leo Pharmaceuticals (Dr E. Lindenstrom).\n\nFigure 2. The effect of LMWHs on death and disability when assessed by stroke subtype: large-vessel disease, cardioembolic stroke, small-vessel disease, and other types."
+        ],
+        "negative_ctxs": [
+            8,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Heterogeneity was assessed with respect to protocol differences by grouping studies by their aim (phase II or III, or DVT prophylaxis), time to treatment (within 24 hours, or longer), route of drug administration (intravenous, intramuscular, or subcutaneous), inclusion or exclusion of subjects with presumed cardioembolic stroke, and type of drug used (heparin or heparinoid). Statistical heterogeneity among trials was also assessed. \n\nThere was no evidence of heterogeneity among the trials for death or death and disability, and no dose-dependent effects of LMWH were observed. When assessed by stroke subtype, no particular group of patients appeared to benefit with respect to death and disability (Figure 2).\n\n\nThere were no significant differences in the ORs for death when assessed by the type of trial (phase II or III or DVT prophylaxis), time to treatment (within 24 hours, or longer), route of drug administration (intravenous, intramuscular, or subcutaneous), inclusion or exclusion of subjects with presumed cardioembolic stroke, and the drug class used (heparin or heparinoid) (Table 4). Similarly, ORs were not dissimilar for combined death and disability, apart from the analysis for time to treatment, for which LMWH appeared to be effective when given in trials with a wider recruitment window than 24 hours. To further explore this finding, the effects of LMWH on SICH and disability by time of administration were assessed; LMWH significantly increased SICH in trials that provided treatment within 24 hours (3 trials, 2082 subjects; OR 2.06, 95% CI 1.01 to 4.22) but not in those studies that provided treatment later than 24 hours (5 trials, 601 subjects; OR 1.69, 95% CI 0.43 to 6.67). Similarly, LMWH significantly reduced disability in trials that recruited patients beyond 24 hours (3 trials, 483 subjects; OR 0.62, 95% CI 0.42 to 0.91) but not in those that recruited only within 24 hours (2 trials, 2037 subjects; OR 0.92, 95% CI 0.75 to 1.14).\n\n\nThe trials did not show significant heterogeneity for outcomes other than DVT, and a funnel plot analysis did not suggest that trials had not been identified (although data on 1 small trial of danaparoid involving 180 subjects were unavailable for analysis). Statistical heterogeneity was present for DVT and was largely due to the FISS bis trial, which found, surprisingly, that nadroparin had no effect in preventing DVT, although it did reduce PE events; this contradictory observation is inconsistent with other LMWH trials both within and without stroke and is probably due to chance.  "
+        ],
+        "negative_ctxs": [
+            21,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "We performed sensitivity analyses by excluding trials on quality grounds, eg, the effect of LMWH on the incidence of DVT was studied for all trials and then separately for those trials that prospectively assessed DVT by imaging at the end of treatment. Lack of identification and inclusion of trials through publication or location bias26 was assessed by a quantitative analysis of the asymmetry of funnel plots according to Egger et al.27\n\nAnalysis of a funnel plot did not reveal asymmetry (P=0.2), which suggests that few, if any, trials were missed by the search process.\n\na funnel plot analysis did not suggest that trials had not been identified (although data on 1 small trial of danaparoid involving 180 subjects were unavailable for analysis).\n\nIn spite of the absence of statistical heterogeneity in most of the results, considerable differences existed in the trial aims and protocols, and our \"mixing\" of apparently very different studies can be questioned. Nevertheless, analyses did not suggest that these differences altered the overall message of the findings. (However, such comparisons of\ntrials are nonrandomized and are therefore subject to confounding as well as being underpowered.) In particular, the inclusion or exclusion of patients with presumed cardioembolic stroke, use of heparin or heparinoids, route of drug administration, and study aim did not alter the results. However, differences were present when outcome was assessed by the time at which treatment was started; LMWH appeared to reduce the rate of disability and combined death and disability in those trials in which treatment was initiated beyond 24 hours, whereas SICH rates were higher when LMWH was started early.  "
+        ],
+        "negative_ctxs": [
+            4,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "P.M.W.B. was a local investigator in the International Stroke Trial and is principal investigator of the Tinzaparin in Acute Ischaemic Stroke Trial, funded by Leo Pharmaceuticals.\n\nP.M.W.B. is Stroke Association Professor of Stroke Medicine. F.J.B. was supported by National Health Service Executive (Trent) grant No. SPGS 236. The study received no funding from the pharmaceutical\nindustry.   "
+        ],
+        "negative_ctxs": [
+            3,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            5
+        ],
+        "positive_ctxs": []
+    }
+]

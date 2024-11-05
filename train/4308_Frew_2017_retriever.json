@@ -1,0 +1,456 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "This systematic review was registered with PROSPERO15 (registration\r\nnumber CRD42016041425) and was conducted in\r\nline with the PRISMA statement.16 Eligibility criteria for this\r\nreview included published case reports, case series and reviews\r\nthat (i) included patients with clinically diagnosed HS1 and\r\n(ii) included identified sequence variants from patients with\r\nHS or contained protein functional studies based on previously\r\nidentified sequence variants from patients with HS. No restrictions\r\non patient age, sex or ethnicity, or language restrictions\r\nwere applied."
+        ],
+        "negative_ctxs": [
+            11,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "This systematic review aims to identify all published reports\nof genetic polymorphisms in both familial and sporadic HS. It\nwill also collate any protein or functional studies pertaining to\nthese identified variants. The identified sequence variants will\nbe critically evaluated using the ACMG standards and guidelines\nfor the interpretation of sequence variants12 using predefined\nobjective criteria.\n\nEligibility criteria for this\r\nreview included published case reports, case series and reviews\r\nthat (i) included patients with clinically diagnosed HS1 and\r\n(ii) included identified sequence variants from patients with\r\nHS or contained protein functional studies based on previously\r\nidentified sequence variants from patients with HS. No restrictions\r\non patient age, sex or ethnicity, or language restrictions\r\nwere applied"
+        ],
+        "negative_ctxs": [
+            7,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Eligibility criteria for this\nreview included published case reports, case series and reviews\nthat (i) included patients with clinically diagnosed HS1 and\n(ii) included identified sequence variants from patients with\nHS or contained protein functional studies based on previously\nidentified sequence variants from patients with HS. No restrictions\non patient age, sex or ethnicity, or language restrictions\nwere applied\n\nthe principal\noutcome of interest being identified sequence variants."
+        ],
+        "negative_ctxs": [
+            18,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "No restrictions\non patient age, sex or ethnicity"
+        ],
+        "negative_ctxs": [
+            20,
+            21
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Eligibility criteria for this\r\nreview included published case reports, case series and reviews\n\nNo restrictions\non patient age, sex or ethnicity, or language restrictions\nwere applied."
+        ],
+        "negative_ctxs": [
+            28,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Information sources for this review encompassed MEDLINE\r\n(1946 to week 42 of 2016), Embase (1980 to week 42 of\r\n2016) and 'Epub ahead of print, and nonindexed citations', as\r\nshown in Figure 1"
+        ],
+        "negative_ctxs": [
+            18,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "No restrictions\r\non patient age, sex or ethnicity, or language restrictions\r\nwere applied"
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Data collection was performed independently by two\r\nauthors, with any disagreements regarding inclusion of citations\r\nbeing referred to a third author for mediation. Information\r\nwas collected using a standardized data collection form\r\n(Appendix S2; see Supporting Information), with the principal\r\noutcome of interest being identified sequence variants."
+        ],
+        "negative_ctxs": [
+            0,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data collection was performed independently by two\r\nauthors, with any disagreements regarding inclusion of citations\r\nbeing referred to a third author for mediation. Information\r\nwas collected using a standardized data collection form\r\n(Appendix S2; see Supporting Information), with the principal\r\noutcome of interest being identified sequence variants."
+        ],
+        "negative_ctxs": [
+            27,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The identified sequence variants and their associated protein\nand functional study data are summarized in Table 2.\n\nTable 2 Genetic sequence variants identified in this systematic review associated with hidradenitis suppurativa (HS), along with functional protein studies undertaken and familial or sporadic inheritance"
+        ],
+        "negative_ctxs": [
+            6,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Sixty-two\r\narticles reported a total of 41 sequence variants, with 18\r\nsequence variants having associated protein functional studies.\n\nTable 1 American College of Medical Genetics and Genomics (ACMG) classification of identified genetic variants in hidradenitis suppurativa. The criteria are described in full in Table S1 (see Supporting\n\n"
+        ],
+        "negative_ctxs": [
+            25,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Potential sources of bias in collating cases were acknowledged,\nincluding publications bias and reporting bias regarding\nthe incidence of specific mutations and the rate of HS\nkindred with no identified mutation."
+        ],
+        "negative_ctxs": [
+            23,
+            22
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Data collection was performed independently by two\r\nauthors, with any disagreements regarding inclusion of citations\r\nbeing referred to a third author for mediation. Information\r\nwas collected using a standardized data collection form\r\n(Appendix S2; see Supporting Information), with the principal\r\noutcome of interest being identified sequence variants.\r\nPotential sources of bias in collating cases were acknowledged,\r\nincluding publications bias and reporting bias regarding\r\nthe incidence of specific mutations and the rate of HS\r\nkindred with no identified mutation."
+        ],
+        "negative_ctxs": [
+            19,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Sixty-two\narticles reported a total of 41 sequence variants, with 18\nsequence variants having associated protein functional studies\n\nForty-one individual sequence variants were identified encompassing\r\nthe NCSTN, PSEN1, PSENEN and PSTPIP1 genes, coding for nicastrin,\r\npresenilin 1, presenilin enhancer 2 and proline-serine-\r\nthreonine phosphatase-interacting protein 1, respectively.\n\nThe evaluation of each identified sequence variant against the\r\nACMG criteria12 is summarized in Table 1, with the criteria\r\nexplained fully in Table S1 (see Supporting Information).\r\nTwenty-three variants were assessed as likely\r\npathogenic,11,17,18,20,23,28-36 17 were of uncertain significance11,19-\r\n22,24-26,28,31,35 and one was benign.2"
+        ],
+        "negative_ctxs": [
+            14,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "The identified sequence variants will\r\nbe critically evaluated using the ACMG standards and guidelines\r\nfor the interpretation of sequence variants12 using predefined\r\nobjective criteria."
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Two authors independently\r\nanalysed each sequence variant using the collated data available\r\nagainst the ACMG guidelines (Table 1). Any disagreement was\r\nreferred to a third independent author for mediation."
+        ],
+        "negative_ctxs": [
+            28,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Two authors independently\nanalysed each sequence variant using the collated data available\nagainst the ACMG guidelines (Table 1). Any disagreement was\nreferred to a third independent author for mediation."
+        ],
+        "negative_ctxs": [
+            11,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Two authors independently\nanalysed each sequence variant using the collated data available\nagainst the ACMG guidelines (Table 1). Any disagreement was\nreferred to a third independent author for mediation."
+        ],
+        "negative_ctxs": [
+            29,
+            18
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Potential sources of bias in collating cases were acknowledged,\r\nincluding publications bias and reporting bias regarding\r\nthe incidence of specific mutations and the rate of HS\r\nkindred with no identified mutation. Therefore no attempts\r\nwere made to quantify the most common sequence variants or\r\nthe proportion of kindreds without identified mutations due\r\nto this bias being present"
+        ],
+        "negative_ctxs": [
+            2,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "This systematic review aims to identify all published reports\nof genetic polymorphisms in both familial and sporadic HS. It\nwill also collate any protein or functional studies pertaining to\nthese identified variants.\n\nOf the 41 discrete sequence variants, 18 had associated protein\r\nor functional studies, including mRNA studies (eight variants),\r\n10,23,26,30,32-35 transcribed protein studies (four\r\nvariants),10,20,26,30 functional studies of Notch activation (four\r\nvariants)11,17,22,38 and in silico predictive algorithms (two variants).\r\n25,32,33 Twenty-seven variants were associated with\r\nfamilial HS,9-11,17,19-23,25,27-30,32-35,37 six with sporadic\r\nHS10,18,29,30,33 and one (presumed nonsignificant) with both\r\nfamilial and sporadic cases of HS (NCSTN c.1180-5C>G).22,27\r\nThe inheritance of the remaining seven variants was not\r\nreported.24,26,29,31"
+        ],
+        "negative_ctxs": [
+            24,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            21,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "This systematic review was registered with PROSPERO15 (registration\r\nnumber CRD42016041425) and was conducted in\r\nline with the PRISMA statement.16 Eligibility criteria for this\r\nreview included published case reports, case series and reviews\r\nthat (i) included patients with clinically diagnosed HS1 and\r\n(ii) included identified sequence variants from patients with\r\nHS or contained protein functional studies based on previously\r\nidentified sequence variants from patients with HS. No restrictions\r\non patient age, sex or ethnicity, or language restrictions\r\nwere applied."
+        ],
+        "negative_ctxs": [
+            25,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Eligibility criteria for this\nreview included published case reports, case series and reviews\nthat (i) included patients with clinically diagnosed HS1 and\n(ii) included identified sequence variants from patients with\nHS or contained protein functional studies based on previously\nidentified sequence variants from patients with HS. No restrictions\non patient age, sex or ethnicity, or language restrictions\nwere applied\n\nthe principal\noutcome of interest being identified sequence variants."
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Eligibility criteria for this\r\nreview included published case reports, case series and reviews"
+        ],
+        "negative_ctxs": [
+            18,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Information sources for this review encompassed MEDLINE\r\n(1946 to week 42 of 2016), Embase (1980 to week 42 of\r\n2016) and 'Epub ahead of print, and nonindexed citations', as\r\nshown in Figure 1"
+        ],
+        "negative_ctxs": [
+            3,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Data collection was performed independently by two\r\nauthors, with any disagreements regarding inclusion of citations\r\nbeing referred to a third author for mediation. Information\r\nwas collected using a standardized data collection form\r\n(Appendix S2; see Supporting Information), with the principal\r\noutcome of interest being identified sequence variants."
+        ],
+        "negative_ctxs": [
+            21,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data collection was performed independently by two\r\nauthors, with any disagreements regarding inclusion of citations\r\nbeing referred to a third author for mediation. Information\r\nwas collected using a standardized data collection form\r\n(Appendix S2; see Supporting Information), with the principal\r\noutcome of interest being identified sequence variants."
+        ],
+        "negative_ctxs": [
+            18,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Of the 533 citations screened, 135 articles were identified for\r\nfull-text retrieval and review. Of these 135 full-text articles,\r\n70 were excluded due to not pertaining to gene studies or\r\nfunctional analysis, with three articles being duplicate reports\r\nof included cases either in abstract or review form."
+        ],
+        "negative_ctxs": [
+            17,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The identified sequence variants and their associated protein\nand functional study data are summarized in Table 2.\n\nTable 2 Genetic sequence variants identified in this systematic review associated with hidradenitis suppurativa (HS), along with functional protein studies undertaken and familial or sporadic inheritance"
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Potential sources of bias in collating cases were acknowledged,\nincluding publications bias and reporting bias regarding\nthe incidence of specific mutations and the rate of HS\nkindred with no identified mutation."
+        ],
+        "negative_ctxs": [
+            7,
+            19
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Two authors independently\r\nanalysed each sequence variant using the collated data available\r\nagainst the ACMG guidelines (Table 1). Any disagreement was\r\nreferred to a third independent author for mediation."
+        ],
+        "negative_ctxs": [
+            18,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Two authors independently\nanalysed each sequence variant using the collated data available\nagainst the ACMG guidelines (Table 1). Any disagreement was\nreferred to a third independent author for mediation."
+        ],
+        "negative_ctxs": [
+            19,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Two authors independently\nanalysed each sequence variant using the collated data available\nagainst the ACMG guidelines (Table 1). Any disagreement was\nreferred to a third independent author for mediation."
+        ],
+        "negative_ctxs": [
+            2,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Potential sources of bias in collating cases were acknowledged,\r\nincluding publications bias and reporting bias regarding\r\nthe incidence of specific mutations and the rate of HS\r\nkindred with no identified mutation. Therefore no attempts\r\nwere made to quantify the most common sequence variants or\r\nthe proportion of kindreds without identified mutations due\r\nto this bias being present"
+        ],
+        "negative_ctxs": [
+            3,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding sources\r\nNone.\r\nConflicts of interest\r\nNone declared."
+        ],
+        "negative_ctxs": [
+            25,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            28
+        ],
+        "positive_ctxs": []
+    }
+]

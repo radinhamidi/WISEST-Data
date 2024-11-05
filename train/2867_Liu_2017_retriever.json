@@ -1,0 +1,472 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            28,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Therefore, we sought to systematically review treatments for BMS (burning mouth syndrome) in the adult population"
+        ],
+        "negative_ctxs": [
+            5,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The PICO (Patient, Intervention, Control, Outcome) question for this study was, \"In patients with BMS (burning mouth syndrome), which interventions are effective in improving pain and/or relieving associated symptoms compared to no intervention or placebo?\""
+        ],
+        "negative_ctxs": [
+            15,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "randomized control trials published between 1/1/1950 to 5/1/2016\n\nFigure 1 - Study flow"
+        ],
+        "negative_ctxs": [
+            9,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "with the results restricted to English language, randomized control trials published"
+        ],
+        "negative_ctxs": [
+            7,
+            23
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Literature searches were conducted through PubMed, Web of Science, and Cochrane Library databases,"
+        ],
+        "negative_ctxs": [
+            26,
+            14
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            31,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "A query of PubMed/MEDLINE from 1/1/1950 to 5/1/2016 was conducted using the MeSH terms \"burning mouth syndrome\" and \"glossalgia\" with the subheadings \"drug therapy,\" \"prevention and control,\" and \"therapy.\""
+        ],
+        "negative_ctxs": [
+            23,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "A search of Web of Science (WoS) was conducted using the terms \"burning mouth syndrome\" and \"glossalgia,\" with the results restricted to English language, randomized control trials published between 1/1/1950 to 5/1/2016 listed under the WoS categories \"Dentistry Oral Surgery Medicine\" and \"Otorhinolaryngology.\""
+        ],
+        "negative_ctxs": [
+            15,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Initially, studies were excluded based on assessment of relevance of title and abstract conducted by three authors independently. The remaining studies were evaluated in their entirety by the same authors"
+        ],
+        "negative_ctxs": [
+            11,
+            30
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "TABLE I. Summary of studies reviewed sorted by year and author."
+        ],
+        "negative_ctxs": [
+            6,
+            11
+        ],
+        "positive_ctxs": [
+            28
+        ]
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "For interventions tested in 2 or more studies, a combined mean VAS score or RR is reported with pooled 95% CIs when appropriate. Forest plots were constructed to show these effects. However, formal meta-analyses and network meta-analyses were not deemed suitable for this systematic review due to significant heterogeneity in data."
+        ],
+        "negative_ctxs": [
+            29,
+            30
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Usng the Cochrane Collaboration tool for assessing risk of bias in RCTs, the following domains were evaluated for each study included in the review:"
+        ],
+        "negative_ctxs": [
+            28,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "The same 3 authors who performed the study selection also performed the bias assessment.\nUsing the Cochrane Collaboration tool for assessing risk of bias in RCTs, the following domains\nwere evaluated for each study included in the review: selection bias (e.g. inappropriate\nrandomization), performance bias (e.g. not blinding researchers giving treatment), detection bias\n(e.g. not blinding researchers assessing outcome), attrition bias (e.g. patient withdrawals from\nstudy), and reporting bias (e.g. selective presentation of data) (Higgins et al, 2011). Each domain\nwas assigned either high, low, or unclear risk. Disagreements were resolved with input from the\nsenior author (J.I.)."
+        ],
+        "negative_ctxs": [
+            14,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "A summary of each study reviewed is shown in TABLE I. Forest plots were constructed for both mean difference in pain scores versus placebo (FIGURE 2) and for relative risk of improvement in pain/burning type symptoms associated with BMS (FIGURE 3)."
+        ],
+        "negative_ctxs": [
+            9,
+            7
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "A summary of each study reviewed is shown in TABLE I. Forest plots were constructed for both mean difference in pain scores versus placebo (FIGURE 2) and for relative risk of improvement in pain/burning type symptoms associated with BMS (FIGURE 3).\n\nformal meta-analyses and network meta-analyses were not deemed suitable for this systematic review due to significant heterogeneity in data (i.e. different VAS scales used with various scoring systems, different time points for assessing outcomes after treatment, different types of treatments"
+        ],
+        "negative_ctxs": [
+            14,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "formal meta-analyses and network meta-analyses were not deemed suitable for this systematic review due to significant heterogeneity in data.\n\nThere was an overall lack of uniformity in study methodology, which makes data pooling difficult and dampens the ability to perform meta-analyses on efficacy of treatments. "
+        ],
+        "negative_ctxs": [
+            31,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "formal meta-analyses and network meta-analyses were not deemed suitable for this systematic review due to significant heterogeneity in data "
+        ],
+        "negative_ctxs": [
+            0,
+            26
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Twenty percent of studies suffered from attrition bias. There was a high rate of possible reporting bias (40-60%), as many studies reported either mean pain score changes or improvement, but not both."
+        ],
+        "negative_ctxs": [
+            17,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "methodological differences make comparisons difficult. Furthermore, all studies had fewer than 50 patients in the treatment group, with most having between 10 and 30 subjects"
+        ],
+        "negative_ctxs": [
+            24,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "TABLE I. Summary of studies reviewed sorted by year and author.\n\ndiagnosis of BMS based on the International Association for the Study of Pain (IASP) definition."
+        ],
+        "negative_ctxs": [
+            28,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            15,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The PICO (Patient, Intervention, Control, Outcome) question for this study was, \"In patients with BMS (burning mouth syndrome), which interventions are effective in improving pain and/or relieving associated symptoms compared to no intervention or placebo?\""
+        ],
+        "negative_ctxs": [
+            25,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "with the results restricted to English language, randomized control trials published"
+        ],
+        "negative_ctxs": [
+            1,
+            20
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Literature searches were conducted through PubMed, Web of Science, and Cochrane Library databases,"
+        ],
+        "negative_ctxs": [
+            11,
+            3
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Initially, studies were excluded based on assessment of relevance of title and abstract conducted by three authors independently. The remaining studies were evaluated in their entirety by the same authors"
+        ],
+        "negative_ctxs": [
+            19,
+            29
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "TABLE I. Summary of studies reviewed sorted by year and author."
+        ],
+        "negative_ctxs": [
+            3,
+            16
+        ],
+        "positive_ctxs": [
+            28
+        ]
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Usng the Cochrane Collaboration tool for assessing risk of bias in RCTs, the following domains were evaluated for each study included in the review:"
+        ],
+        "negative_ctxs": [
+            17,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "A summary of each study reviewed is shown in TABLE I. Forest plots were constructed for both mean difference in pain scores versus placebo (FIGURE 2) and for relative risk of improvement in pain/burning type symptoms associated with BMS (FIGURE 3).\n\nformal meta-analyses and network meta-analyses were not deemed suitable for this systematic review due to significant heterogeneity in data (i.e. different VAS scales used with various scoring systems, different time points for assessing outcomes after treatment, different types of treatments"
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "formal meta-analyses and network meta-analyses were not deemed suitable for this systematic review due to significant heterogeneity in data.\n\nThere was an overall lack of uniformity in study methodology, which makes data pooling difficult and dampens the ability to perform meta-analyses on efficacy of treatments. "
+        ],
+        "negative_ctxs": [
+            30,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "formal meta-analyses and network meta-analyses were not deemed suitable for this systematic review due to significant heterogeneity in data "
+        ],
+        "negative_ctxs": [
+            11,
+            4
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Twenty percent of studies suffered from attrition bias. There was a high rate of possible reporting bias (40-60%), as many studies reported either mean pain score changes or improvement, but not both."
+        ],
+        "negative_ctxs": [
+            27,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflicts of interest: none\n\nNo financial support."
+        ],
+        "negative_ctxs": [
+            20,
+            24
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "methodological differences make comparisons difficult. Furthermore, all studies had fewer than 50 patients in the treatment group, with most having between 10 and 30 subjects"
+        ],
+        "negative_ctxs": [
+            7,
+            9
+        ],
+        "positive_ctxs": []
+    }
+]

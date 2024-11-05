@@ -1,0 +1,470 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Objective: To evaluate the effect of LMWH as compared with placebo or no anticoagulant on the overall survival in patients with solid cancers.\n\nThis aim of this systematic review and meta-analysis was\nto evaluate the effect of prophylactic LMWH on overall\nsurvival in patients with cancer. In our meta-analysis, we\nincluded randomized controlled trials that compared\nLMWH with placebo or no treatment in patients with\nsolid malignancies without active VTE. Our primary\noutcome was 1-year mortality\n\nOur inclusion criteron was as follows: randomized controlled trials comparing LMWH with placebo or no treatment in patients with solid cancer without VTE. We excluded studies if they included patients with acute VTE or hematologic malignancies. Our primary outcome was mortality at 1 year"
+        ],
+        "negative_ctxs": [
+            19,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Objective: To evaluate the effect of LMWH as compared with placebo or no anticoagulant on the overall survival in patients with solid cancers.\n\nThis aim of this systematic review and meta-analysis was\nto evaluate the effect of prophylactic LMWH on overall\nsurvival in patients with cancer. In our meta-analysis, we\nincluded randomized controlled trials that compared\nLMWH with placebo or no treatment in patients with\nsolid malignancies without active VTE. Our primary\noutcome was 1-year mortality\n\nOur inclusion criteron was as follows: randomized controlled trials comparing LMWH with placebo or no treatment in patients with solid cancer without VTE. We excluded studies if they included patients with acute VTE or hematologic malignancies. Our primary outcome was mortality at 1 year"
+        ],
+        "negative_ctxs": [
+            11,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We did not considerany limitations on the languages or dates of articles. "
+        ],
+        "negative_ctxs": [
+            14,
+            17
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We did not consider any limitations on the languages or dates of articles."
+        ],
+        "negative_ctxs": [
+            20,
+            13
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The search was initially conducted in May 2013, and was updated in February 2014 with the OVID interface and including MEDLINE, EMBASE, and HealthSTAR.\n\nWe also searched online databases of conference abstracts for the annual meetings of the American Society of Hematology, the American Society of Cancer and Oncology, and the ISTH."
+        ],
+        "negative_ctxs": [
+            18,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We cross-referenced from the reference lists of retrieved articles."
+        ],
+        "negative_ctxs": [
+            17,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We searched with the terms (cancer or tumor or malignancy).\ntw, (heparin or low-molecular weight heparin or enoxaparin or dalteparin or reviparin or bemiparin or certoparin\nor tinzaparin or nadroparin or semuloparin).tw,\nand Random$.tw, where the suffix .tw indicates a text-word\nsearch."
+        ],
+        "negative_ctxs": [
+            3,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We did not consider any limitations on the languages or dates of articles."
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Assessment of study quality and data extraction\nArticles that met our inclusion criteria were retrieved for full data extraction. This was performed by one reviewer (A.N. or N.A.), and verified independently by a second reviewer (D.S.)."
+        ],
+        "negative_ctxs": [
+            19,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Characteristics of included studies\nAll of the nine studies included in the meta-analysis were randomized controlled trials with either a placebo arm or a no-treatment arm (Table 1). Seven of nine were conducted with double blinding at the outset, although one of these  was changed to an open-label trial midway\nthrough, owing to difficulties with recruitment. Two studies were conducted as open-label trials from the outset [16,28]. Allocation concealment was adequate in five of the studies, but in four this was unclear. Jadad's score ranged between 2 and 5 for the included studies.\nA summary of the patient characteristics of included trials is shown in Table 2. The studies included 5987 patients, 3188 of whom received LMWH. Six of the studies included only patients with locally advanced or metastatic solid malignancy, and 98.4% of the included\npatients had stage III or IV disease [4,5,23,24,26,27].\nThese studies included patients with a range of different tumor histologies and primary sites, including: gastrointestinal cancer, lung cancer, gynecologic cancer, urologic cancer, prostate cancer, breast cancer, and head and neck\ncancers. The treatment approach for these six trials was also heterogeneous, with patients receiving a range of treatments with chemotherapy or radiotherapy or no\ntreatment according to the discretion of the treating physician and individual patient preference. Two of the studies included only patients with previously untreated\nsmall cell lung cancer, and had a standardized approach to chemotherapy and radiation therapy for all patients [16,28]. Another study enrolled only patients with malignant glioma, and a proportion of these patients had been\nsubjected to an initial attempt at surgical resection, and some had also received radiation therapy . There was wide variation in the type of LMWH used, and the onset and duration of treatment with LMWH.\nFour of the trials used dalteparin at a dose of 5000 units daily [16,23,25,26], three used nadroparin [4,24,27], one used semuloparin , and one used bemiparin . The LMWH was administered daily in all trials, and the duration of treatment ranged from 6 weeks to 2 years."
+        ],
+        "negative_ctxs": [
+            1,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The number of participants and event rates for the nine\nincluded trials are shown in Fig. 2A,B.\n\nFig. 2. Forest plots for overall 1-year mortality in cancer patients randomized to low molecular weight heparin (LMWH) vs. placebo/no intervention.\n(A) Pooled odds ratio of death obtained using a random-effects model. (B) Pooled risk ratio of death obtained using a random-effects model. CI, confidence interval; d.f., degrees of freedom; M-H, Mantel-Haenszel.\n\nCharacteristics of included studies\nAll of the nine studies included in the meta-analysis were randomized controlled trials with either a placebo arm or a no-treatment arm (Table 1). Seven of nine were conducted with double blinding at the outset, although one of these  was changed to an open-label trial midway\nthrough, owing to difficulties with recruitment. Two studies were conducted as open-label trials from the outset [16,28]. Allocation concealment was adequate in five of the studies, but in four this was unclear. Jadad's score ranged between 2 and 5 for the included studies.\nA summary of the patient characteristics of included trials is shown in Table 2. The studies included 5987 patients, 3188 of whom received LMWH. Six of the studies included only patients with locally advanced or metastatic solid malignancy, and 98.4% of the included\npatients had stage III or IV disease [4,5,23,24,26,27].\nThese studies included patients with a range of different tumor histologies and primary sites, including: gastrointestinal cancer, lung cancer, gynecologic cancer, urologic cancer, prostate cancer, breast cancer, and head and neck\ncancers. The treatment approach for these six trials was also heterogeneous, with patients receiving a range of treatments with chemotherapy or radiotherapy or no\ntreatment according to the discretion of the treating physician and individual patient preference. Two of the studies included only patients with previously untreated\nsmall cell lung cancer, and had a standardized approach to chemotherapy and radiation therapy for all patients [16,28]. Another study enrolled only patients with malignant glioma, and a proportion of these patients had been\nsubjected to an initial attempt at surgical resection, and some had also received radiation therapy . There was wide variation in the type of LMWH used, and the onset and duration of treatment with LMWH.\nFour of the trials used dalteparin at a dose of 5000 units daily [16,23,25,26], three used nadroparin [4,24,27], one used semuloparin , and one used bemiparin . The LMWH was administered daily in all trials, and the duration of treatment ranged from 6 weeks to 2 years."
+        ],
+        "negative_ctxs": [
+            8,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "We assessed the quality of the studies according to the criteria proposed by Jadad et al. , and we defined allocation concealment according to the criteria proposed by Schulz and Grimes ."
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Our search strategy resulted in the identification of 724\nreferences, and 715 of these were ultimately excluded\n(Fig. 1). Nine studies were included in the meta-analysis\n[4,5,16,23-28]. We fully evaluated 28 studies that met the criterion for inclusion in our meta-analysis, but excluded\n19 of these because of unavailable data on 1-year survival\noutcomes [29-47]. For one of the studies, the 1-year survival\ndata were extracted from the Kaplan-Meier survival\ncurves .\n\nResults of the meta-analysis on overall mortality\nThe number of participants and event rates for the nine\nincluded trials are shown in Fig. 2A,B. The pooled OR\nfor overall 1-year mortality was 0.87 (95% confidence\ninterval [CI] 0.70-1.08, P = 0.21) (Fig. 2A). The pooled\nRR was 0.94 (95% CI 0.86-1.04, P = 0.24) (Fig. 2B).\n\nResults of the meta-analysis on VTE\nWe were able to extract data on VTE for the nine trials\nthat we included in the meta-analysis on overall mortality\n(Fig. S1A,B). The trials all reported the total number\nof thrombotic events over the study period, which was\ndifferent for each trial.\n\nResults of the meta-analysis on major bleeding\nWe extracted data on major bleeding events from the nine\ntrials that we included in the meta-analysis on overall\nmortality (Fig. S2A,B)."
+        ],
+        "negative_ctxs": [
+            18,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "In our meta-analysis, we included randomized controlled trials that compared LMWH with placebo or no treatment in patients with solid malignancies without active VTE.\n\nWe conducted our meta-analysis with a random-effects\nmodel, as previously described by DerSimonian and Laird\n."
+        ],
+        "negative_ctxs": [
+            2,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "For both analyses, there was statistical heterogeneity (X2 P <= 0.1; Higgins I2 59% and 53% for OR and RR respectively). We had planned to conduct a survival\nmeta-analysis and a meta-analysis of size effects by using pooled HRs; unfortunately, the data required to conduct these analyses were unavailable for many of the studies, and they were not performed.\n\nSensitivity and influence analyses\nWe estimated overall mortality for six of the studies\nwhen excluding the three studies that enrolled patients\nwith only a single type of primary cancer [16,25,28]. This\ndid not change the results of our meta-analysis, and the\npooled OR was 0.93 (95% CI 0.81-1.07, P = 0.33). We also estimated the pooled OR after excluding five of the\nstudies with lower estimated methodological quality\n(Jadad score of < 4) [16,25-28], and we found an OR\nfor the four remaining studies of 0.91 (95% CI 0.75- 1.12, P = 0.37). We also performed an influence analysis,\nexcluding individual studies from the meta-analysis, and\nthis suggested that no single study dominated the combined\nresults. The results of this are shown in Table 3."
+        ],
+        "negative_ctxs": [
+            19,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Sensitivity and influence analyses\nWe estimated overall mortality for six of the studies when excluding the three studies that enrolled patients with only a single type of primary cancer [16,25,28]. This did not change the results of our meta-analysis, and the pooled OR was 0.93 (95% CI 0.81-1.07, P = 0.33). We also estimated the pooled OR after excluding five of the\nstudies with lower estimated methodological quality\n(Jadad score of < 4) [16,25-28], and we found an OR\nfor the four remaining studies of 0.91 (95% CI 0.75- 1.12, P = 0.37). We also performed an influence analysis,\nexcluding individual studies from the meta-analysis, and\nthis suggested that no single study dominated the combined\nresults. The results of this are shown in Table 3."
+        ],
+        "negative_ctxs": [
+            18,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Seven of nine were con-ducted with double blinding at the outset, although oneof these  was changed to an open-label trial midwaythrough, owing to difficulties with recruitment. Two studies were conducted as open-label trials from the outset[16,28]. Allocation concealment was adequate in five ofthe studies, but in four this was unclear. Jadad's scoreranged between 2 and 5 for the included studies.\n\nWe also estimated the pooled OR after excluding five of thestudies  with  lower  estimated  methodological  quality(Jadad score of<4) [16,25-28], and we found an OR for the four remaining studies of 0.91 (95% CI 0.75-1.12,P=0.37)."
+        ],
+        "negative_ctxs": [
+            24,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "As in our previous study, data available from individual studies lacked uniformity, and information was missing. Nineteen of the studies that we retrieved for data extraction did not report 1-year mortality, and we were unable to include these in our meta-analysis [29-47]. We attempted to contact the corresponding authors of these studies to obtain 1-year mortality data, but either these were unavailable or we received no response. We are uncertain of the effect that these\nstudies may have had on our results had these data been available. As only one of these studies reported improved\noverall survival with LMWH, we can only speculate that the overall results would have been unchanged. We were\nnot able to include data from the TOPIC 1 and TOPIC 2 trials, two of the larger and more recent trials in this area\n. These trials tested the effect of prophylactic certoparin\non VTE occurrence in patients with metastatic breast cancer and advanced non-small cell lung cancer, respectively.\nNeither of these trials reported a mortality difference at 6 months, although longer-term mortality\ndata were unavailable. Additionally, we cannot determine the effect of LMWH on survival among different cancer\ntypes, as information for individual groups was not available."
+        ],
+        "negative_ctxs": [
+            5,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "This aim of this systematic review and meta-analysis was\nto evaluate the effect of prophylactic LMWH on overall\nsurvival in patients with cancer. In our meta-analysis, we\nincluded randomized controlled trials that compared\nLMWH with placebo or no treatment in patients with\nsolid malignancies without active VTE. Our primary\noutcome was 1-year mortality\n\nOur inclusion criteron was as follows: randomized controlled trials comparing LMWH with placebo or no treatment in patients with solid cancer without VTE. We excluded studies if they included patients with acute VTE or hematologic malignancies. Our primary outcome was mortality at 1 year\n\nCharacteristics of included studies\nAll of the nine studies included in the meta-analysis were randomized controlled trials with either a placebo arm or a no-treatment arm (Table 1). Seven of nine were conducted with double blinding at the outset, although one of these  was changed to an open-label trial midway\nthrough, owing to difficulties with recruitment. Two studies were conducted as open-label trials from the outset [16,28]. Allocation concealment was adequate in five of the studies, but in four this was unclear. Jadad's score ranged between 2 and 5 for the included studies.\nA summary of the patient characteristics of included trials is shown in Table 2. The studies included 5987 patients, 3188 of whom received LMWH. Six of the studies included only patients with locally advanced or metastatic solid malignancy, and 98.4% of the included\npatients had stage III or IV disease [4,5,23,24,26,27].\nThese studies included patients with a range of different tumor histologies and primary sites, including: gastrointestinal cancer, lung cancer, gynecologic cancer, urologic cancer, prostate cancer, breast cancer, and head and neck\ncancers. The treatment approach for these six trials was also heterogeneous, with patients receiving a range of treatments with chemotherapy or radiotherapy or no\ntreatment according to the discretion of the treating physician and individual patient preference. Two of the studies included only patients with previously untreated\nsmall cell lung cancer, and had a standardized approach to chemotherapy and radiation therapy for all patients [16,28]. Another study enrolled only patients with malignant glioma, and a proportion of these patients had been\nsubjected to an initial attempt at surgical resection, and some had also received radiation therapy . There was wide variation in the type of LMWH used, and the onset and duration of treatment with LMWH.\nFour of the trials used dalteparin at a dose of 5000 units daily [16,23,25,26], three used nadroparin [4,24,27], one used semuloparin , and one used bemiparin . The LMWH was administered daily in all trials, and the duration of treatment ranged from 6 weeks to 2 years."
+        ],
+        "negative_ctxs": [
+            18,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            25,
+            8
+        ],
+        "positive_ctxs": [
+            4,
+            6,
+            9,
+            10,
+            11,
+            12,
+            15,
+            18,
+            21,
+            23,
+            24
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Objective: To evaluate the effect of LMWH as compared with placebo or no anticoagulant on the overall survival in patients with solid cancers.\n\nThis aim of this systematic review and meta-analysis was\nto evaluate the effect of prophylactic LMWH on overall\nsurvival in patients with cancer. In our meta-analysis, we\nincluded randomized controlled trials that compared\nLMWH with placebo or no treatment in patients with\nsolid malignancies without active VTE. Our primary\noutcome was 1-year mortality\n\nOur inclusion criteron was as follows: randomized controlled trials comparing LMWH with placebo or no treatment in patients with solid cancer without VTE. We excluded studies if they included patients with acute VTE or hematologic malignancies. Our primary outcome was mortality at 1 year"
+        ],
+        "negative_ctxs": [
+            5,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The search was initially conducted in May 2013, and was updated in February 2014 with the OVID interface and including MEDLINE, EMBASE, and HealthSTAR.\n\nWe also searched online databases of conference abstracts for the annual meetings of the American Society of Hematology, the American Society of Cancer and Oncology, and the ISTH."
+        ],
+        "negative_ctxs": [
+            23,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Assessment of study quality and data extraction\nArticles that met our inclusion criteria were retrieved for full data extraction. This was performed by one reviewer (A.N. or N.A.), and verified independently by a second reviewer (D.S.)."
+        ],
+        "negative_ctxs": [
+            6,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Our search strategy resulted in the identification of 724 references, and 715 of these were ultimately excluded (Fig. 1). Nine studies were included in the meta-analysis [4,5,16,23-28]. We fully evaluated 28 studies that met the\ncriterion for inclusion in our meta-analysis, but excluded 19 of these because of unavailable data on 1-year survival outcomes [29-47]."
+        ],
+        "negative_ctxs": [
+            25,
+            19
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Characteristics of included studies\nAll of the nine studies included in the meta-analysis were randomized controlled trials with either a placebo arm or a no-treatment arm (Table 1). Seven of nine were conducted with double blinding at the outset, although one of these  was changed to an open-label trial midway\nthrough, owing to difficulties with recruitment. Two studies were conducted as open-label trials from the outset [16,28]. Allocation concealment was adequate in five of the studies, but in four this was unclear. Jadad's score ranged between 2 and 5 for the included studies.\nA summary of the patient characteristics of included trials is shown in Table 2. The studies included 5987 patients, 3188 of whom received LMWH. Six of the studies included only patients with locally advanced or metastatic solid malignancy, and 98.4% of the included\npatients had stage III or IV disease [4,5,23,24,26,27].\nThese studies included patients with a range of different tumor histologies and primary sites, including: gastrointestinal cancer, lung cancer, gynecologic cancer, urologic cancer, prostate cancer, breast cancer, and head and neck\ncancers. The treatment approach for these six trials was also heterogeneous, with patients receiving a range of treatments with chemotherapy or radiotherapy or no\ntreatment according to the discretion of the treating physician and individual patient preference. Two of the studies included only patients with previously untreated\nsmall cell lung cancer, and had a standardized approach to chemotherapy and radiation therapy for all patients [16,28]. Another study enrolled only patients with malignant glioma, and a proportion of these patients had been\nsubjected to an initial attempt at surgical resection, and some had also received radiation therapy . There was wide variation in the type of LMWH used, and the onset and duration of treatment with LMWH.\nFour of the trials used dalteparin at a dose of 5000 units daily [16,23,25,26], three used nadroparin [4,24,27], one used semuloparin , and one used bemiparin . The LMWH was administered daily in all trials, and the duration of treatment ranged from 6 weeks to 2 years."
+        ],
+        "negative_ctxs": [
+            4,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "We assessed the quality of the studies according to the criteria proposed by Jadad et al. , and we defined allocation concealment according to the criteria proposed by Schulz and Grimes ."
+        ],
+        "negative_ctxs": [
+            25,
+            24
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "In our meta-analysis, we included randomized controlled trials that compared LMWH with placebo or no treatment in patients with solid malignancies without active VTE.\n\nWe conducted our meta-analysis with a random-effects\nmodel, as previously described by DerSimonian and Laird\n."
+        ],
+        "negative_ctxs": [
+            14,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "For both analyses, there was statistical heterogeneity (X2 P <= 0.1; Higgins I2 59% and 53% for OR and RR respectively). We had planned to conduct a survival\nmeta-analysis and a meta-analysis of size effects by using pooled HRs; unfortunately, the data required to conduct these analyses were unavailable for many of the studies, and they were not performed.\n\nSensitivity and influence analyses\nWe estimated overall mortality for six of the studies\nwhen excluding the three studies that enrolled patients\nwith only a single type of primary cancer [16,25,28]. This\ndid not change the results of our meta-analysis, and the\npooled OR was 0.93 (95% CI 0.81-1.07, P = 0.33). We also estimated the pooled OR after excluding five of the\nstudies with lower estimated methodological quality\n(Jadad score of < 4) [16,25-28], and we found an OR\nfor the four remaining studies of 0.91 (95% CI 0.75- 1.12, P = 0.37). We also performed an influence analysis,\nexcluding individual studies from the meta-analysis, and\nthis suggested that no single study dominated the combined\nresults. The results of this are shown in Table 3."
+        ],
+        "negative_ctxs": [
+            19,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Sensitivity and influence analyses\nWe estimated overall mortality for six of the studies when excluding the three studies that enrolled patients with only a single type of primary cancer [16,25,28]. This did not change the results of our meta-analysis, and the pooled OR was 0.93 (95% CI 0.81-1.07, P = 0.33). We also estimated the pooled OR after excluding five of the\nstudies with lower estimated methodological quality\n(Jadad score of < 4) [16,25-28], and we found an OR\nfor the four remaining studies of 0.91 (95% CI 0.75- 1.12, P = 0.37). We also performed an influence analysis,\nexcluding individual studies from the meta-analysis, and\nthis suggested that no single study dominated the combined\nresults. The results of this are shown in Table 3."
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Seven of nine were con-ducted with double blinding at the outset, although oneof these  was changed to an open-label trial midwaythrough, owing to difficulties with recruitment. Two studies were conducted as open-label trials from the outset[16,28]. Allocation concealment was adequate in five ofthe studies, but in four this was unclear. Jadad's scoreranged between 2 and 5 for the included studies.\n\nWe also estimated the pooled OR after excluding five of thestudies  with  lower  estimated  methodological  quality(Jadad score of<4) [16,25-28], and we found an OR for the four remaining studies of 0.91 (95% CI 0.75-1.12,P=0.37)."
+        ],
+        "negative_ctxs": [
+            2,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "A. Lazo-Langner has received honoraria from Pfizer, Leo\r\nPharma, and Boehringer Ingelheim, research support\r\nfrom Alexion, and has participated in studies sponsored\r\nby Pfizer, Leo Pharma, Bayer, Daiichi-Sankyo, Novartis,\r\nand Celgene. None of these entities were involved in any\r\naspect of this study. All other authors state that they have\r\nno conflict of interest."
+        ],
+        "negative_ctxs": [
+            24,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "As in our previous study, data available from individual studies lacked uniformity, and information was missing. Nineteen of the studies that we retrieved for data extraction did not report 1-year mortality, and we were unable to include these in our meta-analysis [29-47]. We attempted to contact the corresponding authors of these studies to obtain 1-year mortality data, but either these were unavailable or we received no response. We are uncertain of the effect that these\nstudies may have had on our results had these data been available. As only one of these studies reported improved\noverall survival with LMWH, we can only speculate that the overall results would have been unchanged. We were\nnot able to include data from the TOPIC 1 and TOPIC 2 trials, two of the larger and more recent trials in this area\n. These trials tested the effect of prophylactic certoparin\non VTE occurrence in patients with metastatic breast cancer and advanced non-small cell lung cancer, respectively.\nNeither of these trials reported a mortality difference at 6 months, although longer-term mortality\ndata were unavailable. Additionally, we cannot determine the effect of LMWH on survival among different cancer\ntypes, as information for individual groups was not available."
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": []
+    }
+]

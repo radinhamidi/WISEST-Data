@@ -1,0 +1,466 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Here, we provide the first extensive and comprehensive\r\nevaluation of the prevalence of AIDs in patients with CSU and vice\r\nversa.\nIn studies identified, we did a search for the prevalence of autoantibodies\r\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\r\nanti-smooth muscle, anti-mitochondrial, anti- SSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\r\nAIDs. The term \"urticarial rash\" was used for studies where CSU\r\nwas not clearly differentiated from acute urticaria, chronic inducible\r\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            4,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Here, we provide the first extensive and comprehensive\r\nevaluation of the prevalence of AIDs in patients with CSU and vice\r\nversa\n\nIn studies identified, we did a search for the prevalence of autoantibodies\r\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\r\nanti-smooth muscle, anti-mitochondrial, anti-\r\nSSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\r\nAIDs. The term \"urticarial rash\" was used for studies where CSU\r\nwas not clearly differentiated from acute urticaria, chronic inducible\r\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            4,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "A Pubmed searchwas performed to identify studies published before\nApril 2017 with the keywords \"urticaria\" and \"chronic urticaria\"\nin combination with the terms that are listed in Table 1. No language\nfilter was applied.\n\nIn studies identified, we did a search for the prevalence of autoantibodies (antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase, anti-smooth muscle, anti-mitochondrial, anti-SSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of AIDs. The term \"urticarial rash\" was used for studies where CSU was not clearly differentiated from acute urticaria, chronic inducible urticaria and/or urticarial vasculitis.\n\nTable 1\nStudies investigating the comorbidity of CSU and AIDs included in the review\na Excluded or added in the Table 6."
+        ],
+        "negative_ctxs": [
+            23,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "A Pubmed searchwas performed to identify studies published before\r\nApril 2017 with the keywords \"urticaria\" and \"chronic urticaria\"\r\nin combination with the terms that are listed in Table 1. No language\r\nfilter was applied."
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A Pubmed search was performed to identify studies published before\r\nApril 2017"
+        ],
+        "negative_ctxs": [
+            1,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We also examined the reference lists of the retrieved\r\narticles and we searched Google Scholar with the same keywords\r\nto identify additional studies"
+        ],
+        "negative_ctxs": [
+            0,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "with the keywords \"urticaria\" and \"chronic urticaria\" in combination with the terms that are listed in Table 1"
+        ],
+        "negative_ctxs": [
+            23,
+            25
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "with the keywords \"urticaria\" and \"chronic urticaria\" in combination with the terms that are listed in Table 1"
+        ],
+        "negative_ctxs": [
+            19,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "A Pubmed searchwas performed to identify studies published before\r\nApril 2017 with the keywords \"urticaria\" and \"chronic urticaria\"\r\nin combination with the terms that are listed in Table 1. No language\r\nfilter was applied. We also examined the reference lists of the retrieved\r\narticles and we searched Google Scholar with the same keywords\r\nto identify additional studies. In total, 64 studies were\r\nincluded in this systematic review. Most of these studies looked at\r\nwhether or not the patients included had AID at the time they were\r\nassessed (point prevalence). A few studies reported whether patients\r\nhad a history of AID or not. In some studies, itwas not specified\r\nif the patients still had the AID at the time they had their urticaria.\r\nSome studies evaluated the prevalence ofmore than one AID. The selection\r\nprocess of relevant studies is summarized in Table 1. In studies\r\nidentified, we did a search for the prevalence of autoantibodies\r\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\r\nanti-smooth muscle, anti-mitochondrial, anti-\r\nSSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\r\nAIDs. The term \"urticarial rash\" was used for studies where CSU\r\nwas not clearly differentiated from acute urticaria, chronic inducible\r\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 2 The prevalence of autoimmune diseases in CSU\n\nTable 3 The prevalence of AID-associated antibodies in CSU.\n\nTable 4 The prevalence of urticarial rash in autoimmune diseases.\n\nTable 6 Polyautoimmunity in CSU.\n\nTable 7 The prevalence of a positive family history for autoimmune diseases in CSU patients"
+        ],
+        "negative_ctxs": [
+            22,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 2 The prevalence of autoimmune diseases in CSU\n\nTable 3 The prevalence of AID-associated antibodies in CSU.\n\nTable 4 The prevalence of urticarial rash in autoimmune diseases.\n\nTable 6 Polyautoimmunity in CSU.\n\nTable 7 The prevalence of a positive family history for autoimmune diseases in CSU patients"
+        ],
+        "negative_ctxs": [
+            18,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            28,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "In total, 64 studies were\nincluded in this systematic review"
+        ],
+        "negative_ctxs": [
+            24,
+            18
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "A Pubmed search was performed to identify studies published before\nApril 2017 with the keywords \"urticaria\" and \"chronic urticaria\"\nin combination with the terms that are listed in Table 1. No language\nfilter was applied. We also examined the reference lists of the retrieved\narticles and we searched Google Scholar with the same keywords\nto identify additional studies. In total, 64 studies were\nincluded in this systematic review. Most of these studies looked at\nwhether or not the patients included had AID at the time they were\nassessed (point prevalence). A few studies reported whether patients\nhad a history of AID or not. In some studies, itwas not specified\nif the patients still had the AID at the time they had their urticaria.\nSome studies evaluated the prevalence ofmore than one AID. The selection\nprocess of relevant studies is summarized in Table 1. In studies\nidentified, we did a search for the prevalence of autoantibodies\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\nanti-smooth muscle, anti-mitochondrial, anti-\nSSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\nAIDs. The term \"urticarial rash\" was used for studies where CSU\nwas not clearly differentiated from acute urticaria, chronic inducible\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            14,
+            23
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "There is considerable heterogeneity in the design of the studies\nwe analyzed as well as in the patient demographics they included.\nMany studies were small, some were uncontrolled for referral bias\nand did not clearly differentiate CSU from acute urticaria, chronic inducible\nurticaria and/or urticarial vasculitis. Furthermore, in many\nstudies the diagnostic criteria for AIDs were not described. The evaluation\nof CSU prevalence in AIDs or vice versa was not the main aim\nin many studies."
+        ],
+        "negative_ctxs": [
+            16,
+            13
+        ],
+        "positive_ctxs": [
+            23
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "A Pubmed search was performed to identify studies published before\nApril 2017 with the keywords \"urticaria\" and \"chronic urticaria\"\nin combination with the terms that are listed in Table 1. No language\nfilter was applied. We also examined the reference lists of the retrieved\narticles and we searched Google Scholar with the same keywords\nto identify additional studies. In total, 64 studies were\nincluded in this systematic review. Most of these studies looked at\nwhether or not the patients included had AID at the time they were\nassessed (point prevalence). A few studies reported whether patients\nhad a history of AID or not. In some studies, itwas not specified\nif the patients still had the AID at the time they had their urticaria.\nSome studies evaluated the prevalence ofmore than one AID. The selection\nprocess of relevant studies is summarized in Table 1. In studies\nidentified, we did a search for the prevalence of autoantibodies\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\nanti-smooth muscle, anti-mitochondrial, anti-\nSSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\nAIDs. The term \"urticarial rash\" was used for studies where CSU\nwas not clearly differentiated from acute urticaria, chronic inducible\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            7,
+            18
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "A Pubmed search was performed to identify studies published before\nApril 2017 with the keywords \"urticaria\" and \"chronic urticaria\"\nin combination with the terms that are listed in Table 1. No language\nfilter was applied. We also examined the reference lists of the retrieved\narticles and we searched Google Scholar with the same keywords\nto identify additional studies. In total, 64 studies were\nincluded in this systematic review. Most of these studies looked at\nwhether or not the patients included had AID at the time they were\nassessed (point prevalence). A few studies reported whether patients\nhad a history of AID or not. In some studies, itwas not specified\nif the patients still had the AID at the time they had their urticaria.\nSome studies evaluated the prevalence ofmore than one AID. The selection\nprocess of relevant studies is summarized in Table 1. In studies\nidentified, we did a search for the prevalence of autoantibodies\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\nanti-smooth muscle, anti-mitochondrial, anti-\nSSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\nAIDs. The term \"urticarial rash\" was used for studies where CSU\nwas not clearly differentiated from acute urticaria, chronic inducible\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            4,
+            17
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "There is considerable heterogeneity in the design of the studies\r\nwe analyzed as well as in the patient demographics they included.\r\nMany studies were small, some were uncontrolled for referral bias\r\nand did not clearly differentiate CSU from acute urticaria, chronic inducible\r\nurticaria and/or urticarial vasculitis. Furthermore, in many\r\nstudies the diagnostic criteria for AIDs were not described. The evaluation\r\nof CSU prevalence in AIDs or vice versa was not the main aim\r\nin many studies. Therefore, the number of patients with CSU or AIDs\r\nincluded in such studies may not be exhaustive. Some AIDs, for example\r\nsarcoidosis, ulcerative colitis, Behcet's disease and Crohn's\r\ndisease, currently discussed as disorders with autoinflammatory features.\r\nOur systematic review revealed a high variability in the prevalence\r\nof AIDs in CSU between the studies. This imprecision is\r\nlikely to be due to design-specific issues or a variability in the baseline\r\npatient characteristics. The study period (before 2017) is likely\r\nto include studies of varying stringency of the diagnostic criteria for AIDs."
+        ],
+        "negative_ctxs": [
+            29,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            1,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Here, we provide the first extensive and comprehensive\r\nevaluation of the prevalence of AIDs in patients with CSU and vice\r\nversa\n\nIn studies identified, we did a search for the prevalence of autoantibodies\r\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\r\nanti-smooth muscle, anti-mitochondrial, anti-\r\nSSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\r\nAIDs. The term \"urticarial rash\" was used for studies where CSU\r\nwas not clearly differentiated from acute urticaria, chronic inducible\r\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            10,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "A Pubmed searchwas performed to identify studies published before\nApril 2017 with the keywords \"urticaria\" and \"chronic urticaria\"\nin combination with the terms that are listed in Table 1. No language\nfilter was applied. We also examined the reference lists of the retrieved\narticles and we searched Google Scholar with the same keywords\nto identify additional studies. In total, 64 studies were\nincluded in this systematic review. Most of these studies looked at\nwhether or not the patients included had AID at the time they were\nassessed (point prevalence). A few studies reported whether patients\nhad a history of AID or not. In some studies, itwas not specified\nif the patients still had the AID at the time they had their urticaria.\nSome studies evaluated the prevalence ofmore than one AID. The selection\nprocess of relevant studies is summarized in Table 1. In studies\nidentified, we did a search for the prevalence of autoantibodies\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\nanti-smooth muscle, anti-mitochondrial, anti-\nSSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\nAIDs. The term \"urticarial rash\" was used for studies where CSU\nwas not clearly differentiated from acute urticaria, chronic inducible\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            24,
+            4
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A Pubmed search was performed to identify studies published before\r\nApril 2017"
+        ],
+        "negative_ctxs": [
+            14,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "A Pubmed searchwas performed to identify studies published before\r\nApril 2017 with the keywords \"urticaria\" and \"chronic urticaria\"\r\nin combination with the terms that are listed in Table 1. No language\r\nfilter was applied. We also examined the reference lists of the retrieved\r\narticles and we searched Google Scholar with the same keywords\r\nto identify additional studies. In total, 64 studies were\r\nincluded in this systematic review. Most of these studies looked at\r\nwhether or not the patients included had AID at the time they were\r\nassessed (point prevalence). A few studies reported whether patients\r\nhad a history of AID or not. In some studies, itwas not specified\r\nif the patients still had the AID at the time they had their urticaria.\r\nSome studies evaluated the prevalence ofmore than one AID. The selection\r\nprocess of relevant studies is summarized in Table 1. In studies\r\nidentified, we did a search for the prevalence of autoantibodies\r\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\r\nanti-smooth muscle, anti-mitochondrial, anti-\r\nSSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\r\nAIDs. The term \"urticarial rash\" was used for studies where CSU\r\nwas not clearly differentiated from acute urticaria, chronic inducible\r\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            15,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 2 The prevalence of autoimmune diseases in CSU\n\nTable 3 The prevalence of AID-associated antibodies in CSU.\n\nTable 4 The prevalence of urticarial rash in autoimmune diseases.\n\nTable 6 Polyautoimmunity in CSU.\n\nTable 7 The prevalence of a positive family history for autoimmune diseases in CSU patients"
+        ],
+        "negative_ctxs": [
+            18,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "A Pubmed search was performed to identify studies published before\nApril 2017 with the keywords \"urticaria\" and \"chronic urticaria\"\nin combination with the terms that are listed in Table 1. No language\nfilter was applied. We also examined the reference lists of the retrieved\narticles and we searched Google Scholar with the same keywords\nto identify additional studies. In total, 64 studies were\nincluded in this systematic review. Most of these studies looked at\nwhether or not the patients included had AID at the time they were\nassessed (point prevalence). A few studies reported whether patients\nhad a history of AID or not. In some studies, itwas not specified\nif the patients still had the AID at the time they had their urticaria.\nSome studies evaluated the prevalence ofmore than one AID. The selection\nprocess of relevant studies is summarized in Table 1. In studies\nidentified, we did a search for the prevalence of autoantibodies\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\nanti-smooth muscle, anti-mitochondrial, anti-\nSSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\nAIDs. The term \"urticarial rash\" was used for studies where CSU\nwas not clearly differentiated from acute urticaria, chronic inducible\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "There is considerable heterogeneity in the design of the studies\nwe analyzed as well as in the patient demographics they included.\nMany studies were small, some were uncontrolled for referral bias\nand did not clearly differentiate CSU from acute urticaria, chronic inducible\nurticaria and/or urticarial vasculitis. Furthermore, in many\nstudies the diagnostic criteria for AIDs were not described. The evaluation\nof CSU prevalence in AIDs or vice versa was not the main aim\nin many studies."
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": [
+            23
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "A Pubmed search was performed to identify studies published before\nApril 2017 with the keywords \"urticaria\" and \"chronic urticaria\"\nin combination with the terms that are listed in Table 1. No language\nfilter was applied. We also examined the reference lists of the retrieved\narticles and we searched Google Scholar with the same keywords\nto identify additional studies. In total, 64 studies were\nincluded in this systematic review. Most of these studies looked at\nwhether or not the patients included had AID at the time they were\nassessed (point prevalence). A few studies reported whether patients\nhad a history of AID or not. In some studies, itwas not specified\nif the patients still had the AID at the time they had their urticaria.\nSome studies evaluated the prevalence ofmore than one AID. The selection\nprocess of relevant studies is summarized in Table 1. In studies\nidentified, we did a search for the prevalence of autoantibodies\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\nanti-smooth muscle, anti-mitochondrial, anti-\nSSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\nAIDs. The term \"urticarial rash\" was used for studies where CSU\nwas not clearly differentiated from acute urticaria, chronic inducible\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            25,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "A Pubmed search was performed to identify studies published before\nApril 2017 with the keywords \"urticaria\" and \"chronic urticaria\"\nin combination with the terms that are listed in Table 1. No language\nfilter was applied. We also examined the reference lists of the retrieved\narticles and we searched Google Scholar with the same keywords\nto identify additional studies. In total, 64 studies were\nincluded in this systematic review. Most of these studies looked at\nwhether or not the patients included had AID at the time they were\nassessed (point prevalence). A few studies reported whether patients\nhad a history of AID or not. In some studies, itwas not specified\nif the patients still had the AID at the time they had their urticaria.\nSome studies evaluated the prevalence ofmore than one AID. The selection\nprocess of relevant studies is summarized in Table 1. In studies\nidentified, we did a search for the prevalence of autoantibodies\n(antinuclear, rheumatoid factor, anti-dsDNA, anti-parietal cell, antitransglutaminase,\nanti-smooth muscle, anti-mitochondrial, anti-\nSSA, anti-SSB, anti-Sm, anti-cardiolipin) and a family history of\nAIDs. The term \"urticarial rash\" was used for studies where CSU\nwas not clearly differentiated from acute urticaria, chronic inducible\nurticaria and/or urticarial vasculitis."
+        ],
+        "negative_ctxs": [
+            7,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The authors declare that they have no relevant conflicts of interest.\n\nThis study benefitted from the support of the GA2LEN UCARE network (www.ga2len-ucare.com)."
+        ],
+        "negative_ctxs": [
+            17,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "There is considerable heterogeneity in the design of the studies\r\nwe analyzed as well as in the patient demographics they included.\r\nMany studies were small, some were uncontrolled for referral bias\r\nand did not clearly differentiate CSU from acute urticaria, chronic inducible\r\nurticaria and/or urticarial vasculitis. Furthermore, in many\r\nstudies the diagnostic criteria for AIDs were not described. The evaluation\r\nof CSU prevalence in AIDs or vice versa was not the main aim\r\nin many studies. Therefore, the number of patients with CSU or AIDs\r\nincluded in such studies may not be exhaustive. Some AIDs, for example\r\nsarcoidosis, ulcerative colitis, Behcet's disease and Crohn's\r\ndisease, currently discussed as disorders with autoinflammatory features.\r\nOur systematic review revealed a high variability in the prevalence\r\nof AIDs in CSU between the studies. This imprecision is\r\nlikely to be due to design-specific issues or a variability in the baseline\r\npatient characteristics. The study period (before 2017) is likely\r\nto include studies of varying stringency of the diagnostic criteria for AIDs."
+        ],
+        "negative_ctxs": [
+            21,
+            18
+        ],
+        "positive_ctxs": []
+    }
+]

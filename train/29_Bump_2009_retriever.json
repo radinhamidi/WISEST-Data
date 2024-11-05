@@ -1,0 +1,479 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We sought to determine whether prophylaxis decreases clinically significant events and to answer whether unfractionated heparin (UFH) or low molecular weight heparin (LMWH) is either more effective or safer.\n\nStudies were required to be prospective randomized controlled trials comparing UFH or LMWH to mechanical prophylaxis, placebo, or no intervention. We also included randomized head-to-head comparisons of UFH and LMWH. Eligible studies enrolled general medical patients. Trials including predominantly intensive care unit (ICU) patients; stroke, spinal cord, or acute myocardial infarction patients were excluded. We excluded trials focused on these populations because the risk for VTE may differ from that for general medical patients and because patients in these groups already commonly receive anticoagulants as a preventive measure or as active treatment (eg, for acute myocardial in\u0002farction [MI] care). Trials assessing thrombosis in patients with long-term central venous access/catheters were also excluded. Articles focusing on long-term rehabilitation patients were excluded.\nStudies had to employ objective criteria for diagnosing VTE. For DVT these included duplex ultrasonography, venography, fibrinogen uptake scanning, impedance plethysmography, or autopsy as a primary or secondary outcome. Studies utilizing thermographic techniques were excluded.9 Eligible diagnostic modalities for PE consisted of pulmonary arteriogram, ventilation/perfusion scan, CT angiography, and autopsy."
+        ],
+        "negative_ctxs": [
+            20,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Studies were required to be prospective randomized controlled trials comparing UFH or LMWH to mechanical prophylaxis, placebo, or no intervention. We also included randomized head-to-head comparisons of UFH and LMWH. Eligible studies enrolled general medical patients. Trials including predominantly intensive care unit (ICU) patients; stroke, spinal cord, or acute myocardial infarction patients were excluded. We excluded trials focused on these populations because the risk for VTE may differ from that for general medical patients and because patients in these groups already commonly receive anticoagulants as a preventive measure or as active treatment (eg, for acute myocardial in\u0002farction [MI] care). Trials assessing thrombosis in patients with long-term central venous access/catheters were also excluded. Articles focusing on long-term rehabilitation patients were excluded.\nStudies had to employ objective criteria for diagnosing VTE. For DVT these included duplex ultrasonography, venography, fibrinogen uptake scanning, impedance plethysmography, or autopsy as a primary or secondary outcome. Studies utilizing thermographic techniques were excluded.9 Eligible diagnostic modalities for PE consisted of pulmonary arteriogram, ventilation/perfusion scan, CT angiography, and autopsy."
+        ],
+        "negative_ctxs": [
+            17,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We conducted an extensive search that included reviewing electronic databases (MEDLINE, EMBASE, and CINAHL) through June 2008, reviewing conference proceedings, and contacting drug manufacturers.\n\nThe proceedings of annual meetings from the American Thoracic Society, the American Society of Hematology, and the Society for General Internal Medicine from 1994 to 2008 were hand-searched for reports on DVT or PE prevention published in abstract form only. (Note: the American Society of Hematology was only available through 2007). We contacted the 3 main manufacturers of LMWH--Pfizer (dalteparin), Aventis (enoxaparin), Glaxo Smith Kline (nadoparin)--and requested information on unpublished pharmaceutical sponsored trials. First authors from the trials included in this meta-analysis were also contacted to determine if they knew of additional published or unpublished trials.\n\nWe limited the search results using the filter for randomized controlled trials in PubMed. Similar strategies (available on request) were used to search EMBASE, CINAHL, and the Cochrane Central Register of Controlled Trials."
+        ],
+        "negative_ctxs": [
+            10,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The proceedings of annual meetings from the American Thoracic Society, the American Society of Hematology, and the Society for General Internal Medicine from 1994 to 2008 were hand-searched for reports on DVT or PE prevention published in abstract form only. (Note: the American Society of Hematology was only available through 2007). We contacted the 3 main manufacturers of LMWH--Pfizer (dalteparin), Aventis (enoxaparin), Glaxo Smith Kline (nadoparin)--and requested information on unpublished pharmaceutical sponsored trials. First authors from the trials included in this meta-analysis were also contacted to determine if they knew of additional published or unpublished trials."
+        ],
+        "negative_ctxs": [
+            12,
+            1
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The MEDLINE search combined the key words ''deep venous thrombosis,'' ''thromboembolism,'' AND ''pulmonary embolism'' with the terms ''primary prevention,'' ''prophylaxis,'' OR ''prevention.'' We limited the search results using the filter for randomized controlled trials in PubMed. Similar strategies (available on request) were used to search EMBASE, CINAHL, and the Cochrane Central Register of Controlled Trials."
+        ],
+        "negative_ctxs": [
+            21,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "After an initial review of article titles and abstracts, the full texts of all articles that potentially met our inclusion criteria were independently reviewed for eligibility by 2 authors (G.M.B., M.D.)."
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "For all included articles, 2 reviewers independently abstracted data on key study features"
+        ],
+        "negative_ctxs": [
+            4,
+            7
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Two trials exclusively enrolled patients with either congestive heart failure or severe respiratory disease,14,15 while 12 trials enrolled mixed populations. In 8 trials a period of immobility was necessary for study entry,14,16-21 while in 2 trials immobility was not required.22,23 In the 4 remaining trials immobility was not explicitly discussed.15,24-26 One-half of the trials required a length of stay greater than 3 days.17-19,22-25 While minimum age for study entry varied, the patient population predominantly ranged from 65 to 85 years of age. Many of the trials reported expected, not actual, treatment duration. The range of expected treatment was 7 to 21 days, with 10 days of treatment the most frequently mentioned. In the 8 trials14-16,21,22,24,25,27 that reported actual treatment duration, the range was 8 to 13.4 days. Most trials did not report number of VTE risk factors per patient, nor\nwas there uniform acceptance of risk factors across trials."
+        ],
+        "negative_ctxs": [
+            15,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Each study was assessed for quality using the Jadad scale."
+        ],
+        "negative_ctxs": [
+            2,
+            9
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "The 14 trials eligible for inclusion in the analysis consisted of 8 comparisons of UFH or LMWH vs. control (Table 1) and 6 head-to-head comparisons of UFH and LMWH\n\nTABLE 1. Summary of Randomized Controlled Trials Comparing Either LMWH or UFH to Control\n\nAcross 7 trials comparing either UFH or LMWH to control, heparin products significantly decreased the risk of all DVT (RR = 0.55; 95% CI: 0.36-0.83) \n\nIn 6 trials comparing LMWH to UFH given either twice a day (BID) or 3 times a day (TID), there was no statistically significant difference in all DVT (RR = 0.90; 95% CI: 0.57-1.43)."
+        ],
+        "negative_ctxs": [
+            1,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The trials were divided into 4 groups based on the prophylaxis agent used and the method of comparison (UFH vs. control, LMWH vs. control, LMWH vs. UFH, and LMWH/UFH combined vs. control). After combining trials for each group, we calculated a pooled relative risk (RR) and a 95% confidence interval (CI) based on both fixed and a random effects model using the DerSimonian and Laird method."
+        ],
+        "negative_ctxs": [
+            14,
+            17
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "No statistically significant heterogeneity was identified between trials for any outcomes."
+        ],
+        "negative_ctxs": [
+            1,
+            12
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "We tested for publication bias using the methods developed by Egger et al. and Begg and Mazumdar. There was evidence of bias only for the outcome of PE when prophylaxis was compared to control, as the results for both tests were significant (Begg and Mazumdar: P = 0.035; Egger et al.: P = 0.010). For other outcomes tested, including all DVT (prophylaxis compared to control, and LMWH vs. UFH) as well as PE (LMWH vs. UFH), the P-values were not significant.\n\nAn additional limitation of the literature is publication bias. We assessed the possibility of publication bias by a variety of means. We did find statistical evidence of publication bias for the outcome of PE when prophylaxis was compared to control. Importantly, two meta-analyses on thromboembolism prophylaxis for general medicine patients suggested publication bias is present and our finding supports this conclusion. While no test for publication bias is foolproof, the best protection against publication bias, which we pursued in our study, consists of a thorough search for unpublished studies, including a search of conference proceedings, contact with experts in the field, and manufacturers of LMWH."
+        ],
+        "negative_ctxs": [
+            8,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Sensitivity analyses were performed and included repeating all analyses using high-quality studies only (Jadad score 3 or higher)."
+        ],
+        "negative_ctxs": [
+            20,
+            4
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Studies were required to be prospective randomized controlled trials comparing UFH or LMWH to mechanical prophylaxis, placebo, or no intervention. We also included randomized head-to-head comparisons of UFH and LMWH. Eligible studies enrolled general medical patients. Trials including predominantly intensive care unit (ICU) patients; stroke, spinal cord, or acute myocardial infarction patients were excluded. We excluded trials focused on these populations because the risk for VTE may differ from that for general medical patients and because patients in these groups already commonly receive anticoagulants as a preventive measure or as active treatment (eg, for acute myocardial in\u0002farction [MI] care). Trials assessing thrombosis in patients with long-term central venous access/catheters were also excluded. Articles focusing on long-term rehabilitation patients were excluded.\nStudies had to employ objective criteria for diagnosing VTE. For DVT these included duplex ultrasonography, venography, fibrinogen uptake scanning, impedance plethysmography, or autopsy as a primary or secondary outcome. Studies utilizing thermographic techniques were excluded.9 Eligible diagnostic modalities for PE consisted of pulmonary arteriogram, ventilation/perfusion scan, CT angiography, and autopsy.\n\nTABLE 1. Summary of Randomized Controlled Trials Comparing Either LMWH or UFH to Control"
+        ],
+        "negative_ctxs": [
+            15,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            2,
+            14
+        ],
+        "positive_ctxs": [
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Studies were required to be prospective randomized controlled trials comparing UFH or LMWH to mechanical prophylaxis, placebo, or no intervention. We also included randomized head-to-head comparisons of UFH and LMWH. Eligible studies enrolled general medical patients. Trials including predominantly intensive care unit (ICU) patients; stroke, spinal cord, or acute myocardial infarction patients were excluded. We excluded trials focused on these populations because the risk for VTE may differ from that for general medical patients and because patients in these groups already commonly receive anticoagulants as a preventive measure or as active treatment (eg, for acute myocardial in\u0002farction [MI] care). Trials assessing thrombosis in patients with long-term central venous access/catheters were also excluded. Articles focusing on long-term rehabilitation patients were excluded.\nStudies had to employ objective criteria for diagnosing VTE. For DVT these included duplex ultrasonography, venography, fibrinogen uptake scanning, impedance plethysmography, or autopsy as a primary or secondary outcome. Studies utilizing thermographic techniques were excluded.9 Eligible diagnostic modalities for PE consisted of pulmonary arteriogram, ventilation/perfusion scan, CT angiography, and autopsy."
+        ],
+        "negative_ctxs": [
+            20,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We conducted an extensive search that included reviewing electronic databases (MEDLINE, EMBASE, and CINAHL) through June 2008, reviewing conference proceedings, and contacting drug manufacturers.\n\nThe proceedings of annual meetings from the American Thoracic Society, the American Society of Hematology, and the Society for General Internal Medicine from 1994 to 2008 were hand-searched for reports on DVT or PE prevention published in abstract form only. (Note: the American Society of Hematology was only available through 2007). We contacted the 3 main manufacturers of LMWH--Pfizer (dalteparin), Aventis (enoxaparin), Glaxo Smith Kline (nadoparin)--and requested information on unpublished pharmaceutical sponsored trials. First authors from the trials included in this meta-analysis were also contacted to determine if they knew of additional published or unpublished trials.\n\nWe limited the search results using the filter for randomized controlled trials in PubMed. Similar strategies (available on request) were used to search EMBASE, CINAHL, and the Cochrane Central Register of Controlled Trials."
+        ],
+        "negative_ctxs": [
+            3,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "After an initial review of article titles and abstracts, the full texts of all articles that potentially met our inclusion criteria were independently reviewed for eligibility by 2 authors (G.M.B., M.D.)."
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "For all included articles, 2 reviewers independently abstracted data on key study features"
+        ],
+        "negative_ctxs": [
+            19,
+            9
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "FIGURE 1. Reasons for exclusion of retrieved trials. Several studies were excluded for multiple reasons, but only 1 exclusion criteria was documented. For the 2 articles published in preliminary and final results only the final results were abstracted."
+        ],
+        "negative_ctxs": [
+            18,
+            5
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Two trials exclusively enrolled patients with either congestive heart failure or severe respiratory disease,14,15 while 12 trials enrolled mixed populations. In 8 trials a period of immobility was necessary for study entry,14,16-21 while in 2 trials immobility was not required.22,23 In the 4 remaining trials immobility was not explicitly discussed.15,24-26 One-half of the trials required a length of stay greater than 3 days.17-19,22-25 While minimum age for study entry varied, the patient population predominantly ranged from 65 to 85 years of age. Many of the trials reported expected, not actual, treatment duration. The range of expected treatment was 7 to 21 days, with 10 days of treatment the most frequently mentioned. In the 8 trials14-16,21,22,24,25,27 that reported actual treatment duration, the range was 8 to 13.4 days. Most trials did not report number of VTE risk factors per patient, nor\nwas there uniform acceptance of risk factors across trials."
+        ],
+        "negative_ctxs": [
+            13,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Each study was assessed for quality using the Jadad scale."
+        ],
+        "negative_ctxs": [
+            8,
+            2
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The trials were divided into 4 groups based on the prophylaxis agent used and the method of comparison (UFH vs. control, LMWH vs. control, LMWH vs. UFH, and LMWH/UFH combined vs. control). After combining trials for each group, we calculated a pooled relative risk (RR) and a 95% confidence interval (CI) based on both fixed and a random effects model using the DerSimonian and Laird method."
+        ],
+        "negative_ctxs": [
+            14,
+            1
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "No statistically significant heterogeneity was identified between trials for any outcomes."
+        ],
+        "negative_ctxs": [
+            0,
+            19
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "We tested for publication bias using the methods developed by Egger et al. and Begg and Mazumdar. There was evidence of bias only for the outcome of PE when prophylaxis was compared to control, as the results for both tests were significant (Begg and Mazumdar: P = 0.035; Egger et al.: P = 0.010). For other outcomes tested, including all DVT (prophylaxis compared to control, and LMWH vs. UFH) as well as PE (LMWH vs. UFH), the P-values were not significant.\n\nAn additional limitation of the literature is publication bias. We assessed the possibility of publication bias by a variety of means. We did find statistical evidence of publication bias for the outcome of PE when prophylaxis was compared to control. Importantly, two meta-analyses on thromboembolism prophylaxis for general medicine patients suggested publication bias is present and our finding supports this conclusion. While no test for publication bias is foolproof, the best protection against publication bias, which we pursued in our study, consists of a thorough search for unpublished studies, including a search of conference proceedings, contact with experts in the field, and manufacturers of LMWH."
+        ],
+        "negative_ctxs": [
+            12,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Sensitivity analyses were performed and included repeating all analyses using high-quality studies only (Jadad score 3 or higher)."
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Dr. Shojania is supported by a Government of Canada Research Chair in Patient Safety and Quality Improvement. This project was supported in part by the Blue Cross Blue Shield of Michigan Foundation's Hospitalists as Emerging Leaders in Patient Safety (HELPS) program (793.RFP.ME4).\nGregory M. Bump and Madhavi Dandu contributed equally to this work.\nFinancial Disclosures: None."
+        ],
+        "negative_ctxs": [
+            9,
+            17
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            12
+        ],
+        "positive_ctxs": []
+    }
+]

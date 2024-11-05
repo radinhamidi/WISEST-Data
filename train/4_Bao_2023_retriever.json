@@ -1,0 +1,446 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "The register number in the International Prospective Register of Systematic Reviews (PROSPERO) is CRD42020179688"
+        ],
+        "negative_ctxs": [
+            9,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Studies on the effectiveness of MT for functional outcomes in patients with thumb CMC OA were considered eligible for inclusion if the following criteria were fulfilled: 1) Population - Subjects with a history of repetitive use of their dominant hand, and the diagnosis of thumb CMC OA according to clinical and radiographic findings; 2) Type of Intervention - Subjects treated with MT techni- ques applied in the thumb joint or in other areas that included joint mobilization or neural mobilization with or without other therapeutic interventions; 3) Type of Comparison - Subjects treated with other MT interven- tions, physical therapy modalities (laser therapy and ultra- sound), exercise programs, placebo or sham interventions; 4) Types of Outcomes - Functional out- comes, such as thumb and/or hand function question- naires, pinch and/or grip strength, thumb and/or hand range of motion, and pain intensity or pressure pain threshold; and 5) Types of Studies - Randomized clinical trials or controlled clinical trials published in English or Spanish."
+        ],
+        "negative_ctxs": [
+            4,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "1) Population - Subjects with a history of repetitive use of their dominant hand, and the diagnosis of thumb CMC OA according to clinical and radiographic findings; 2) Type of Intervention - Subjects treated with MT techni- ques applied in the thumb joint or in other areas that included joint mobilization or neural mobilization with or without other therapeutic interventions"
+        ],
+        "negative_ctxs": [
+            18,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "5) Types of Studies - Randomized clinical trials or controlled clinical trials published in English or Spanish"
+        ],
+        "negative_ctxs": [
+            20,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We systematically searched MEDLINE (via PubMed), the Cochrane Central Register of Controlled Trials (Central), EMBASE, the Physiotherapy Evidence Database (PEDro), the Latin American and the Caribbean Literature in Health Sciences (LILACS), the Cumulative Index to Nursing and Allied Health Literature (CINAHL), SPORTDiscus, and Web of Science databases"
+        ],
+        "negative_ctxs": [
+            21,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The search strategy used included a combination of the following medical subject heading (MeSH) terms: \"carpometacarpal joints\"; \"hand joints\"; \"musculoskeletal manipulations\"; and \"osteoarthritis\". These were combined with the following free-text terms: \"thumb carpometacarpal\"; \"manual therapy\"; \"joint mobilization\"; \"thumb joint mobilization\"; \"neural mobiliza- tion\"; and \"thumb carpometacarpal osteoarthritis\""
+        ],
+        "negative_ctxs": [
+            8,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Randomized clinical trials or controlled clinical trials published in English or Spanish"
+        ],
+        "negative_ctxs": [
+            17,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two authors (HGE and JCA) independently screened the titles and abstracts of references retrieved from the searches"
+        ],
+        "negative_ctxs": [
+            22,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two authors (HGE and PRP) independently extracted data on the outcomes of each trial"
+        ],
+        "negative_ctxs": [
+            6,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "A summary of the included studies is presented in Table 1. The overall population included 237 patients (118 in the MT group and 119 in the sham interventions group). The mean age was 81.7 years (SD 1.1), and the mean follow-up was 6.4 weeks (range 2 to 12)"
+        ],
+        "negative_ctxs": [
+            20,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The following data were extracted from the original reports: 1) authors and year of publication; 2) country; 3) sample characteristics (i.e. sam- ple size, age, distribution, and sex); 4) characteristics of MT interventions; 5) characteristics of other therapeutic inter- ventions; 6) length of follow-up and main outcomes; and 7) main results."
+        ],
+        "negative_ctxs": [
+            21,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The risk of bias (RoB) assessment was performed using\nthe Cochrane RoB tool (Higgins et al., 2011). This tool\nassesses the RoB according to the following seven\n2 H. GUTIERREZ ESPINOZA ET AL.\ndomains: generation of the random sequence, concealment\nof the randomization sequence, blinding of participants\nand treatments, blinding of the evaluation of the\nresults, incomplete results, selective reporting of results,\nand other sources of bias. Each domain could be considered\nas \"low,\" \"unclear,\" or \"high\" RoB."
+        ],
+        "negative_ctxs": [
+            3,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Data extrac- tion and quality assessment were independently performed by two reviewers (FAQ and JCA). We involved a third reviewer (HGE) if a consensus could not be reached. The agreement rate between the reviewers was calculated using kappa statistics"
+        ],
+        "negative_ctxs": [
+            10,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Three studies included data to perform the meta-analysis for grip strength at two to four weeks"
+        ],
+        "negative_ctxs": [
+            20,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "in the planning stages, we intended to conduct subgroup analyses based on the type of MT and severity grades of thumb CMC OA, although the results of stratified analysis in the individual trials were not available"
+        ],
+        "negative_ctxs": [
+            19,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The DerSimonian and Laird random effect or Mantel- Haenszel fixed effect methods were used, depending on the heterogeneity, to compute a pooled estimate of mean difference (MD) and respective 95% confidence intervals (CIs)\n\nThe heterogeneity of results across studies was evaluated\nusing the I2 statistic (Higgins and Thompson,\n2002), which considers 0-40% as may not be important\nand 30-60% to represent moderate, 50-90% substantial,\nand 75-100% considerable heterogeneity (Higgins and\nGreen, 2011). Also, the corresponding p-values were\nconsidered.\n"
+        ],
+        "negative_ctxs": [
+            24,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The overall pooled MD estimate showed a significant difference for grip strength between MT and sham interventions at two to four weeks (MD = 0.87 kg, 95% CI = 0.29-1.44, p = .003), with no important heterogeneity (I2 = 0%, p = .79) (Figure 4)."
+        ],
+        "negative_ctxs": [
+            4,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Publication bias was evaluated through a visual inspection of funnel plots and using the method proposed by Sterne, Egger, and Smith\n\nPublication bias was not evaluated, since only five articles were included in this systematic review and meta-analysis (Sterne et al., 2011)"
+        ],
+        "negative_ctxs": [
+            17,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The limitations of our study are as follows: 1) metho- dological limitations, such as the lack of an adequate sam- ple size, unclear concealed allocation, and the lack of blinding of the assessors, could overestimate the effect size of the interventions studied; 2) due to all included studies are by the same author, there could be some pub- lication bias; 3) due to the limited number of included studies, publication bias could not be assessed; and 4) in the planning stages, we intended to conduct subgroup analyses based on the type of MT and severity grades of thumb CMC OA, although the results of stratified analysis in the individual trials were not available"
+        ],
+        "negative_ctxs": [
+            7,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The limitations of our study are as follows: 1) metho- dological limitations, such as the lack of an adequate sam- ple size, unclear concealed allocation, and the lack of blinding of the assessors, could overestimate the effect size of the interventions studied; 2) due to all included studies are by the same author, there could be some pub- lication bias; 3) due to the limited number of included studies, publication bias could not be assessed; and 4) in the planning stages, we intended to conduct subgroup analyses based on the type of MT and severity grades of thumb CMC OA, although the results of stratified analysis in the individual trials were not available"
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "1) Population - Subjects with a history of repetitive use of their dominant hand, and the diagnosis of thumb CMC OA according to clinical and radiographic findings; 2) Type of Intervention - Subjects treated with MT techni- ques applied in the thumb joint or in other areas that included joint mobilization or neural mobilization with or without other therapeutic interventions; 3) Type of Comparison - Subjects treated with other MT interven- tions, physical therapy modalities (laser therapy and ultra- sound), exercise programs, placebo or sham interventions; 4) Types of Outcomes - Functional out- comes, such as thumb and/or hand function question- naires, pinch and/or grip strength, thumb and/or hand range of motion, and pain intensity or pressure pain threshold; and 5) Types of Studies - Randomized clinical trials or controlled clinical trials published in English or Spanish"
+        ],
+        "negative_ctxs": [
+            12,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            17,
+            20
+        ],
+        "positive_ctxs": [
+            0,
+            4,
+            9
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "The register number in the International Prospective Register of Systematic Reviews (PROSPERO) is CRD42020179688"
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "1) Population - Subjects with a history of repetitive use of their dominant hand, and the diagnosis of thumb CMC OA according to clinical and radiographic findings; 2) Type of Intervention - Subjects treated with MT techni- ques applied in the thumb joint or in other areas that included joint mobilization or neural mobilization with or without other therapeutic interventions"
+        ],
+        "negative_ctxs": [
+            22,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We systematically searched MEDLINE (via PubMed), the Cochrane Central Register of Controlled Trials (Central), EMBASE, the Physiotherapy Evidence Database (PEDro), the Latin American and the Caribbean Literature in Health Sciences (LILACS), the Cumulative Index to Nursing and Allied Health Literature (CINAHL), SPORTDiscus, and Web of Science databases"
+        ],
+        "negative_ctxs": [
+            13,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two authors (HGE and JCA) independently screened the titles and abstracts of references retrieved from the searches"
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two authors (HGE and PRP) independently extracted data on the outcomes of each trial"
+        ],
+        "negative_ctxs": [
+            5,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "A summary of the included studies is presented in Table 1. The overall population included 237 patients (118 in the MT group and 119 in the sham interventions group). The mean age was 81.7 years (SD 1.1), and the mean follow-up was 6.4 weeks (range 2 to 12)"
+        ],
+        "negative_ctxs": [
+            14,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The risk of bias (RoB) assessment was performed using\nthe Cochrane RoB tool (Higgins et al., 2011). This tool\nassesses the RoB according to the following seven\n2 H. GUTIERREZ ESPINOZA ET AL.\ndomains: generation of the random sequence, concealment\nof the randomization sequence, blinding of participants\nand treatments, blinding of the evaluation of the\nresults, incomplete results, selective reporting of results,\nand other sources of bias. Each domain could be considered\nas \"low,\" \"unclear,\" or \"high\" RoB."
+        ],
+        "negative_ctxs": [
+            15,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The DerSimonian and Laird random effect or Mantel- Haenszel fixed effect methods were used, depending on the heterogeneity, to compute a pooled estimate of mean difference (MD) and respective 95% confidence intervals (CIs)\n\nThe heterogeneity of results across studies was evaluated\nusing the I2 statistic (Higgins and Thompson,\n2002), which considers 0-40% as may not be important\nand 30-60% to represent moderate, 50-90% substantial,\nand 75-100% considerable heterogeneity (Higgins and\nGreen, 2011). Also, the corresponding p-values were\nconsidered.\n"
+        ],
+        "negative_ctxs": [
+            5,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The overall pooled MD estimate showed a significant difference for grip strength between MT and sham interventions at two to four weeks (MD = 0.87 kg, 95% CI = 0.29-1.44, p = .003), with no important heterogeneity (I2 = 0%, p = .79) (Figure 4)."
+        ],
+        "negative_ctxs": [
+            7,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Publication bias was evaluated through a visual inspection of funnel plots and using the method proposed by Sterne, Egger, and Smith\n\nPublication bias was not evaluated, since only five articles were included in this systematic review and meta-analysis (Sterne et al., 2011)"
+        ],
+        "negative_ctxs": [
+            13,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The limitations of our study are as follows: 1) metho- dological limitations, such as the lack of an adequate sam- ple size, unclear concealed allocation, and the lack of blinding of the assessors, could overestimate the effect size of the interventions studied; 2) due to all included studies are by the same author, there could be some pub- lication bias; 3) due to the limited number of included studies, publication bias could not be assessed; and 4) in the planning stages, we intended to conduct subgroup analyses based on the type of MT and severity grades of thumb CMC OA, although the results of stratified analysis in the individual trials were not available"
+        ],
+        "negative_ctxs": [
+            12,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "No potential competing interest was reported by the author(s)."
+        ],
+        "negative_ctxs": [
+            9,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The limitations of our study are as follows: 1) metho- dological limitations, such as the lack of an adequate sam- ple size, unclear concealed allocation, and the lack of blinding of the assessors, could overestimate the effect size of the interventions studied; 2) due to all included studies are by the same author, there could be some pub- lication bias; 3) due to the limited number of included studies, publication bias could not be assessed; and 4) in the planning stages, we intended to conduct subgroup analyses based on the type of MT and severity grades of thumb CMC OA, although the results of stratified analysis in the individual trials were not available"
+        ],
+        "negative_ctxs": [
+            23,
+            9
+        ],
+        "positive_ctxs": []
+    }
+]

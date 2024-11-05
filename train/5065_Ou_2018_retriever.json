@@ -1,0 +1,479 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Randomised controlled trials (RCTs) that compared dupilumab with a placebo for patients with moderate-to-severe AD were searched in the MEDLINE, EMBASE, Web of Science and Cochrane databases. The outcome of the study was the incidence of adverse events during the observation period."
+        ],
+        "negative_ctxs": [
+            0,
+            6
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Randomised controlled trials (RCTs) that compared dupilumab with a placebo for patients with moderate-to-severe AD were searched in the MEDLINE, EMBASE, Web of Science and Cochrane databases. The outcome of the study was the incidence of adverse events during the observation period."
+        ],
+        "negative_ctxs": [
+            6,
+            11
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "the studies must have been randomised controlled trials; outcomes of these studies must contain adverse events."
+        ],
+        "negative_ctxs": [
+            5,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "the language was limited to English"
+        ],
+        "negative_ctxs": [
+            5,
+            13
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Two researchers (Z.Z.O. and C.C.) performed independent and comprehensive searches of the MEDLINE, EMBASE, Web of Science and the Cochrane Library from inception to December 2017"
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "A combination of MESH terms such as \"dermatitis, atopic\" and \"SAR231893\" and words like \"atopic dermatitides\" and \"dupilumab\" were used to search, the language was limited to English and there was no limit to study design."
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Two researchers (Z.Z.O. and C.C.) performed independent and comprehensive searches of the MEDLINE, EMBASE, Web of Science and the Cochrane Library from inception to December 2017. A combination of MESH terms such as \"dermatitis, atopic\" and \"SAR231893\" and words like \"atopic dermatitides\" and \"dupilumab\" were used to search, the language was limited to English and there was no limit to study design."
+        ],
+        "negative_ctxs": [
+            8,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Appropriate literature was assessed independently by two reviewers (Z.Z.O. and C.C.) according to the criteria stated previously, and discrepancies resolved through discussion."
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "The two researchers independently and carefully read the full text and supplementary appendix of the studies included (protocols were read if necessary). Study type, character of participants, method and duration of interventions, adverse events, as well as the assessment time-points were extracted from these studies separately, and dis- crepancies resolved through discussion."
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Characteristics of trials included in the work."
+        ],
+        "negative_ctxs": [
+            10,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1. Characteristics of trials included in the work\n\nA fixed-effect model pooling the results showed that the incidence of skin infection was 6.7% (120/1790) in the dupilumab group and 13.3% (121/912) in the placebo group (RR 0.54, 95% CI 0.42-0.69, p < 0.00001, pkh2 = 0.62, I2 = 0%; Fig. 3)"
+        ],
+        "negative_ctxs": [
+            14,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The two researchers assessed the risk of bias of each trial by using the Cochrane Collaboration's Risk of Bias tool independently."
+        ],
+        "negative_ctxs": [
+            2,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            " The two researchers assessed the risk of bias of each trial by using the Cochrane Collaboration's Risk of Bias tool independently."
+        ],
+        "negative_ctxs": [
+            5,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Fig. 1. Flow diagram of study selection.  \n\nTable 1. Characteristics of trials included in the work."
+        ],
+        "negative_ctxs": [
+            1,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "A fixed-effects model was used to perform the meta-analysis if I2 was < 0.5; otherwise, a random-effects model was chosen."
+        ],
+        "negative_ctxs": [
+            7,
+            13
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "In this meta-analysis, we observed high heterogeneity in the entire group, but in the subgroup in which there was no interval between the end of the experiment and the end of assessment, heterogeneity (I2) was 0%, so we consider that the Phase IIb trial  was the main source of heterogeneity."
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Publication bias was evaluated qualitatively by constructing a funnel plot when there were at least 10 trials for an outcome."
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The two researchers assessed the risk of bias of each trial by using the Cochrane Collaboration's Risk of Bias tool independently.\n\nFig. 2. Risk-of-bias summary. Our judgment of each risk-of-bias item for each included study."
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Table 1. Characteristics of trials included in the work"
+        ],
+        "negative_ctxs": [
+            7,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            7,
+            16
+        ],
+        "positive_ctxs": [
+            2,
+            3,
+            4,
+            9
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Randomised controlled trials (RCTs) that compared dupilumab with a placebo for patients with moderate-to-severe AD were searched in the MEDLINE, EMBASE, Web of Science and Cochrane databases. The outcome of the study was the incidence of adverse events during the observation period."
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Two researchers (Z.Z.O. and C.C.) performed independent and comprehensive searches of the MEDLINE, EMBASE, Web of Science and the Cochrane Library from inception to December 2017"
+        ],
+        "negative_ctxs": [
+            3,
+            16
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Appropriate literature was assessed independently by two reviewers (Z.Z.O. and C.C.) according to the criteria stated previously, and discrepancies resolved through discussion."
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "The two researchers independently and carefully read the full text and supplementary appendix of the studies included (protocols were read if necessary). Study type, character of participants, method and duration of interventions, adverse events, as well as the assessment time-points were extracted from these studies separately, and dis- crepancies resolved through discussion."
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Two authors screened these articles and excluded 107 records based on title and abstract information. Finally, four articles (eight trials) were included for full analysis (Fig. 1). A total of 27 studies were excluded because they were duplicate reports/subanalyses (n = 20) or were only published in conference abstracts (n = 7)."
+        ],
+        "negative_ctxs": [
+            3,
+            11
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Characteristics of trials included in the work."
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The two researchers assessed the risk of bias of each trial by using the Cochrane Collaboration's Risk of Bias tool independently."
+        ],
+        "negative_ctxs": [
+            9,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "A fixed-effects model was used to perform the meta-analysis if I2 was < 0.5; otherwise, a random-effects model was chosen."
+        ],
+        "negative_ctxs": [
+            13,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "In this meta-analysis, we observed high heterogeneity in the entire group, but in the subgroup in which there was no interval between the end of the experiment and the end of assessment, heterogeneity (I2) was 0%, so we consider that the Phase IIb trial  was the main source of heterogeneity."
+        ],
+        "negative_ctxs": [
+            13,
+            12
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Publication bias was evaluated qualitatively by constructing a funnel plot when there were at least 10 trials for an outcome."
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding: This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sector."
+        ],
+        "negative_ctxs": [
+            14,
+            9
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The two researchers assessed the risk of bias of each trial by using the Cochrane Collaboration's Risk of Bias tool independently.\n\nFig. 2. Risk-of-bias summary. Our judgment of each risk-of-bias item for each included study."
+        ],
+        "negative_ctxs": [
+            11,
+            8
+        ],
+        "positive_ctxs": []
+    }
+]

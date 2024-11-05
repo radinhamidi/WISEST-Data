@@ -1,0 +1,452 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "D I F F E R E N C E S \u0003 B E T W E E N \u0003 P R O T O C O L \u0003 A N D \u0003 R E V I E W\nMention of for-profit bias was included under \"other biases\" in the section on Assessment of risk of bias in included studies, in accordance with the rest of the protocol."
+        ],
+        "negative_ctxs": [
+            19,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "O B J E C T I V E S\nTo assess the benefits and harms of non-invasive positive pressure ventilation (NPPV) as an add-on therapy to usual care (e.g. bronchodilators and corticosteroids) in children with acute asthma.\n\nTypes of participants\nWe included children (aged < 18 years) hospitalised for an asthma attack (as defined by the trialists). We excluded children with a primary diagnosis of pneumonia, acute aspiration, bronchiolitis, cystic fibrosis or any ciliary dyskinetic syndrome.\nTypes of interventions\nAny type of NPPV (including continuous positive airway pressure\n(CPAP) and bilevel positive airway pressure (BiPAP)). We included\ntrials comparing NPPV as an add-on therapy to usual care versus\nusual care.\nWe excluded trials that examined weaning off invasive ventilation\nand trials in which NPPV or invasive ventilation preceded\nenrolment of children into the trial.\nTypes of outcome measures\nPrimary outcomes\n* All-cause mortality\n* Proportion of participants with a serious adverse event defined\nas any untoward medical occurrence that resulted in death, was\nlife threatening, jeopardised the participant, was persistent or\nled to significant disability or prolonged hospitalisation (ICHGCP\n1997)\n* Symptom score in the acute phase (e.g. Pediatric Asthma\nSeverity Score (PASS), Pediatric Respiratory Assessment\nMeasure (PRAM))\nSecondary outcomes\n* Non-serious adverse events (ICH-GCP 1997)\n* Health-related quality-of-life measures for long-term followup\nin children aPer major trauma, such as DISABKIDS,\nKIDSCREEN-52 and PedsQL\n* Arterial blood gases and pH\n* Pneumonia diagnosed aPer randomisation (as defined by\ntrialists)\n* Cost"
+        ],
+        "negative_ctxs": [
+            54,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "O B J E C T I V E S\nTo assess the benefits and harms of non-invasive positive pressure ventilation (NPPV) as an add-on therapy to usual care (e.g. bronchodilators and corticosteroids) in children with acute asthma.\n\nTypes of participants\nWe included children (aged < 18 years) hospitalised for an asthma attack (as defined by the trialists). We excluded children with a primary diagnosis of pneumonia, acute aspiration, bronchiolitis, cystic fibrosis or any ciliary dyskinetic syndrome.\nTypes of interventions\nAny type of NPPV (including continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BiPAP)). We included trials comparing NPPV as an add-on therapy to usual care versus usual care.\nWe excluded trials that examined weaning oF invasive ventilation and trials in which NPPV or invasive ventilation preceded enrolment of children into the trial."
+        ],
+        "negative_ctxs": [
+            38,
+            66
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Excluded studies\nWe assessed 31 trials as relevant upon review of the abstract,\nbut later excluded them upon review of the full publication.\nEighteen of the excluded studies involved adult participants only\n(Anderson 1982; Branscomb 1982; Webber 1982; Frischknecht\n1991; Christensen 1993; Aron 1999; Cross 2003; Soroksky 2003;\nde Miranda 2004; Bahera 2007; Soma 2008; Brandao 2009;\nBrandao 2009a; Chaudhry 2010; Sutherasan 2011; Hanekom 2012;\nSutherasan 2013; Rondinel 2015). Three trials did not report\nthe age of participants and did not mention inclusion of any\nchildren (Andersen 1982; Ferrari 2007; Filho 2009). We excluded\nfour trials because the children were not hospitalised (Parkes 1997;\nEdwards 2003; Edwards 2004; Holbrook 2016). Three trials were\nnot randomised (Thill 1998; Soma 2002; Basnet 2010), one trial did\nnot include participants with asthma (Archis 2001) and in one trial,\nparticipants received something other than NPPV (Compagnoni\n2000). One trial included children and adults but did not provide\nseparate data for children (Fergusson 1983). See the Characteristics\nof excluded studies table for full information."
+        ],
+        "negative_ctxs": [
+            56,
+            51
+        ],
+        "positive_ctxs": [
+            32
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We included randomised clinical trials regardless of publication\ntype, publication status, publication date and language.\n\nExcluded studies\nWe assessed 31 trials as relevant upon review of the abstract,\nbut later excluded them upon review of the full publication.\nEighteen of the excluded studies involved adult participants only\n(Anderson 1982; Branscomb 1982; Webber 1982; Frischknecht\n1991; Christensen 1993; Aron 1999; Cross 2003; Soroksky 2003;\nde Miranda 2004; Bahera 2007; Soma 2008; Brandao 2009;\nBrandao 2009a; Chaudhry 2010; Sutherasan 2011; Hanekom 2012;\nSutherasan 2013; Rondinel 2015). Three trials did not report\nthe age of participants and did not mention inclusion of any\nchildren (Andersen 1982; Ferrari 2007; Filho 2009). We excluded\nfour trials because the children were not hospitalised (Parkes 1997;\nEdwards 2003; Edwards 2004; Holbrook 2016). Three trials were\nnot randomised (Thill 1998; Soma 2002; Basnet 2010), one trial did\nnot include participants with asthma (Archis 2001) and in one trial,\nparticipants received something other than NPPV (Compagnoni\n2000). One trial included children and adults but did not provide\nseparate data for children (Fergusson 1983). See the Characteristics\nof excluded studies table for full information.\n\nWe searched all databases from their inception up to February 2016,\nand we imposed no restriction on language of publication."
+        ],
+        "negative_ctxs": [
+            66,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Electronic searches\nWe identified trials from the Cochrane Airways Group Specialised  Register (CAGR), which is maintained by the Information Specialist for the Group. The Register contains trial reports identified\nthrough systematic searches of bibliographic databases, including\nthe Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, the Cumulative Index to Nursing and Allied\nHealth Literature (CINAHL), the Allied and Complementary Medicine Database (AMED) and PsycINFO, and by handsearching of respiratory journals and meeting abstracts (see Appendix 1\nfor details). We searched all records in the CAGR using the search strategy provided in Appendix 2. See Appendix 1 and\nAppendix 2 for our exact search terms. We also conducted a search of ClinicalTrials.gov (www.ClinicalTrials.gov) and the World Health Organization (WHO) trials portal (www.who.int/ictrp/en/).\n\n\nWe tried to identify unpublished trials by searching the clinical\ntrial registers of Europe and the USA, websites of pharmaceutical\ncompanies and websites of the US Food and Drug Administration\n(FDA) and the European Medicines Agency.\n\n\nAppendix 1. Sources and search methods for the Cochrane Airways Group Specialised Register (CAGR)\nElectronic searches: core databases"
+        ],
+        "negative_ctxs": [
+            17,
+            55
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Searching other resources\nWe checked the reference lists of all relevant primary trials and\nreviews for additional references.\nWe tried to identify unpublished trials by searching the clinical\ntrial registers of Europe and the USA, websites of pharmaceutical\ncompanies and websites of the US Food and Drug Administration\n(FDA) and the European Medicines Agency.\nWe searched for errata and retractions from included studies\npublished in full text on PubMed (www.ncbi.nlm.nih.gov/pubmed)."
+        ],
+        "negative_ctxs": [
+            19,
+            69
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We searched all records in the CAGR using the search strategy provided in Appendix 2. See Appendix 1 and\nAppendix 2 for our exact search terms. \n\nAppendix 1. Sources and search methods for the Cochrane Airways Group Specialised Register (CAGR)\n\n\nMEDLINE search strategy used to identify trials for the CAGR\nAsthma search\n\nAppendix 2. Search strategy to identify relevant trials from the CAGR"
+        ],
+        "negative_ctxs": [
+            35,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We searched all databases from their inception up to February 2016,\nand we imposed no restriction on language of publication.\n\nWe included randomised clinical trials regardless of publication\ntype, publication status, publication date and language."
+        ],
+        "negative_ctxs": [
+            70,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Selection of studies\nTwo\u0013 review authors (SKK and JF) independently screened titles\nand abstracts. We retrieved all relevant full-text study reports/\npublications, and two review authors (SKK and JF) independently\nscreened the full text, identified trials for inclusion and identified\nand recorded reasons for exclusion of ineligible studies. We\nresolved disagreements through discussion or, if required, we\nconsulted\u0013 a third review author (JCJ).  "
+        ],
+        "negative_ctxs": [
+            66,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two review authors (SKK and JF) extracted the following\ntrial characteristics from included trials, when available.\n* Methods: trial design, total duration of the trial, number of trial\ncentres and locations, trial setting, withdrawals and trial dates.\n* Participants: number of participants in each intervention group,\nmean age, age range, gender, severity of condition, diagnostic\ncriteria, baseline lung function, smoking history, inclusion\ncriteria and exclusion criteria.  \n* Interventions: intervention, comparison, pressure device, mask\ninterface and concomitant medications.\n* Outcomes: primary and secondary outcomes specified and\ncollected and time points reported.\n* Notes: funding for trial and notable conflicts of interest of trial\nauthors.\nTwo review authors (SKK and JF) independently extracted outcome\ndata from included trials. We noted in the Characteristics of\nincluded studies table if outcome data were not reported in a\nuseable way. We resolved disagreements by consensus or by\nconsultation with a third person (JCJ). One review author (SKK)\ntransferred data into the Review Manager (Review Manager 2014) file. We double-checked that data were entered correctly by\ncomparing data presented in the systematic review with data\nprovided in the study reports. A second review author (JF) spotchecked\nstudy characteristics for accuracy against the trial report."
+        ],
+        "negative_ctxs": [
+            10,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Included studies\nTwo trials met our inclusion criteria (Thill 2004; Basnet 2012). For detailed descriptions, see the Characteristics of included studies table.\nBoth were single-centre trials conducted in a PICU setting in the United States.\nParticipants\nThe two studies included a total of 40 participants. The mean age of participants was six years (range, zero to 11 years), and the mean proportion of girls was 55%. We noted no statistically significant\ndifferences in any of the baseline characteristics described (Thill 2004; Basnet 2012). This lack of statistical significance very well could have been caused by random error due to small sample sizes\nor due to systematic error caused by failed randomisation.\nInterventions\nBoth included trials used BiPAP. Basnet 2012 intervened with BiPAP for 24 hours, and Thill 2004 with BiPAP for two hours. Investigators\ngradually increased inspiratory positive airway pressure to 8 cm H2O in Basnet 2012, and to 10 cm H2O in Thill 2004. Both trials set end-expiratory positive airway pressure to 5 cm H2O\n(Thill 2004; Basnet 2012) and first tried nasal masks; if this was unsuccessful, they applied full facemasks. Thill 2004 used an 'S/T machine' (Respironics, Murrysville, PA), whereas Basnet 2012 used 'Vision Bipap' (Respironics).\nIn both trials, both groups received similar planned standard care as a co-intervention (Thill 2004; Basnet 2012). Neither of the included trials assessed the use of CPAP.\nCo-interventions\nParticipants in both trials received standard of care. This included continuous nebulised albuterol (as 10 mg/h (Thill 2004) or as 0.5 mg/kg, maximum 15 mg/kg (Basnet 2012)), intravenous methylprednisolone 1 to 2 mg/kg/d (maximum 80 mg/d) (Thill 2004; Basnet 2012) and supplemental oxygen. One trial also used adjunct therapy, which included magnesium sulfate and heliumoxygen\nheliox mixtures (Basnet 2012).\nOutcomes\nOnly Thill 2004 reported all-cause mortality. Both trials reported serious adverse events and provided symptom scores (Thill 2004;\nBasnet 2012). Thill 2004 used the Clinical Asthma Score, and Basnet 2012 the Pediatric Asthma Severity Score. Neither of these trials reported quality of life, costs or arterial blood gases/pH. Both trials reported on non-serious adverse events (Thill 2004; Basnet 2012).\n\nC H A R A C T E R I S T I C S \u0003 O F \u0003 S T U D I E S\nCharacteristics of included studies [ordered by study ID]"
+        ],
+        "negative_ctxs": [
+            16,
+            47
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "All-cause mortality\nOne trial with 16 participants (eight in the NPPV arm and eight in\nthe control arm) assessed mortality (Thill 2004) and reported no\nevents in either group (Analysis 1.1). Hence, we performed no metaanalysis\nand no Trial Sequential Analysis (TSA).\nSerious adverse events\nBoth trials assessed a total of 35 participants (17 in the NPPV arm\nand 18 in the control arm) for serious adverse events (Thill 2004;\nBasnet 2012) and reported no events in either group (Analysis\n2.1). Hence, we performed no meta-analysis and no TSA.\n\nSymptom scores\nBoth trials assessed a total of 35 participants (17 in the NPPV arm\nand 18 in the control arm) for symptom scores (Thill 2004; Basnet\n2012) (Analysis 3.1). However, neither the Basnet 2012 trial nor the\nfirst phase of the cross-over trial (Thill 2004) reported standard\ndeviations (SDs). We therefore had to estimate the standard error\n(SE) from the graph (Figure 2) in Basnet 2012 and then calculate the\nSD. We estimated the SE to be 0.985 (SD = 2.96) for the intervention\ngroup, and 0.539 (SD = 1.7) for the control group when assessing the\nprimary time point of interest (zero to two hours). The calculated\nSD indicated that Basnet 2012 reported a reduced symptom score\n(mean diFerence (MD) -2.50, 95% confidence interval (CI) -4.70 to\n-0.30; P = 0.03, participants = 19, very low quality of evidence).\nThill 2004 provided a figure illustrating symptom scores at the end\nof the intervention, for which a mean symptom score could be\napproximated as 1.9 in the NPPV group and 5.6 in the control group.\nAccording to our protocol, we would therefore try to impute SDs for\nthe Thill 2004 trial. However, this could not be done because the\ntwo trials used different symptom score systems.\n\nNon-serious adverse events\nThe two trials assessed a total of 35 participants (17 in the NPPV arm\nand 18 in the control arm) (Thill 2004; Basnet 2012) for non-serious\nadverse events (see Table 1).\nHealth-related quality-of-life\nNo trials reported quality of life.\nArterial blood gases and pH\nNo trials reported blood gases or pH.\nPneumonia\nOne trial with 19 participants (nine in the NPPV arm and 10 in the\ncontrol arm) assessed pneumonia (Basnet 2012) and reported no\nevents in either group (Analysis 4.1). Hence, we performed no metaanalysis.\nCost\nNeither trial reported cost.\n\nIncluded studies\nTwo trials met our inclusion criteria (Thill 2004; Basnet 2012). For detailed descriptions, see the Characteristics of included studies table.\nBoth were single-centre trials conducted in a PICU setting in the United States.\nParticipants\nThe two studies included a total of 40 participants. The mean age of participants was six years (range, zero to 11 years), and the mean proportion of girls was 55%. We noted no statistically significant\ndifferences in any of the baseline characteristics described (Thill 2004; Basnet 2012). This lack of statistical significance very well could have been caused by random error due to small sample sizes\nor due to systematic error caused by failed randomisation.\nInterventions\nBoth included trials used BiPAP. Basnet 2012 intervened with BiPAP for 24 hours, and Thill 2004 with BiPAP for two hours. Investigators\ngradually increased inspiratory positive airway pressure to 8 cm H2O in Basnet 2012, and to 10 cm H2O in Thill 2004. Both trials set end-expiratory positive airway pressure to 5 cm H2O\n(Thill 2004; Basnet 2012) and first tried nasal masks; if this was unsuccessful, they applied full facemasks. Thill 2004 used an 'S/T machine' (Respironics, Murrysville, PA), whereas Basnet 2012 used 'Vision Bipap' (Respironics).\nIn both trials, both groups received similar planned standard care as a co-intervention (Thill 2004; Basnet 2012). Neither of the included trials assessed the use of CPAP.\nCo-interventions\nParticipants in both trials received standard of care. This included continuous nebulised albuterol (as 10 mg/h (Thill 2004) or as 0.5 mg/kg, maximum 15 mg/kg (Basnet 2012)), intravenous methylprednisolone 1 to 2 mg/kg/d (maximum 80 mg/d) (Thill 2004; Basnet 2012) and supplemental oxygen. One trial also used adjunct therapy, which included magnesium sulfate and heliumoxygen\nheliox mixtures (Basnet 2012).\nOutcomes\nOnly Thill 2004 reported all-cause mortality. Both trials reported serious adverse events and provided symptom scores (Thill 2004;\nBasnet 2012). Thill 2004 used the Clinical Asthma Score, and Basnet 2012 the Pediatric Asthma Severity Score. Neither of these trials reported quality of life, costs or arterial blood gases/pH. Both trials reported on non-serious adverse events (Thill 2004; Basnet 2012).\n\nC H A R A C T E R I S T I C S \u0003 O F \u0003 S T U D I E S\nCharacteristics of included studies [ordered by study ID]"
+        ],
+        "negative_ctxs": [
+            60,
+            62
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Assessment of risk of bias in included studies\nWe used the instructions given in the Cochrane Handbook\nfor Systematic Reviews of Interventions (Higgins 2011) in our\nevaluation of the methods and hence the risk of bias of\nincluded trials. Again, two review authors (SKK and JF) each\nindependently assessed the included trials. We evaluated the\nmethods in terms of generation of allocation sequence, allocation concealment, blinding of participants and treatment providers, blinding of outcome assessment, incomplete outcome data, selective outcome reporting and other sources of bias, because these components enabled classification of randomised trials with low risk of bias and high risk of bias. The latter trials tend to overestimate positive intervention effects and underestimate negative effects (Moher 1998; Kjaergard 2001; Gluud 2006; Wood 2008; Lundh 2012; Savovic 2012).\nWe classified trials according to the components below.\nAllocation sequence generation\n* Low risk: if sequence generation was achieved using a computer random number generator or a random numbers table. Drawing lots, tossing a coin, shuffling cards and throwing dice were also considered adequate if performed by an independent adjudicator.\n* Unclear risk: if the method of randomisation was not specified, but the trial was still presented as randomised.\n* High risk: if the allocation sequence was not randomised or was only quasi-randomised.\nAllocation concealment\n* Low risk: if allocation of participants was performed by a central independent unit, an on-site locked computer, identical-looking numbered sealed envelopes or drug bottles or containers prepared by an independent pharmacist or investigator.\n* Uncertain risk: if the trial was classified as randomised but the allocation concealment process was not described.\n* High risk: if the allocation sequence was familiar to the\ninvestigators who assigned participants.\nBlinding of participants and treatment providers\n* Low risk: if participants and treatment providers were blinded to intervention allocation and this was described.\n* Uncertain risk: if the procedure of blinding was insufficiently described.\n* High risk: if blinding of participants and treatment providers was not performed.\nBlinding of outcome assessment\n* Low risk of bias: if it was mentioned that outcome assessors were blinded and this was described.\n* Uncertain risk of bias: if it was not mentioned whether outcome assessors in the trial were blinded, or if the extent of blinding was insufficiently described.\n* High risk of bias: if no blinding or incomplete blinding of\noutcome assessors was performed.\nIncomplete outcome data\n* Low risk of bias: if missing data were unlikely to make treatment effects depart from plausible values. This could occur as (1) no drop-outs or withdrawals reported for all outcomes, or (2) numbers and reasons for withdrawals and drop-outs for all outcomes clearly stated and described as similar in both groups.\nGenerally, we judged the trial as having low risk of bias due to incomplete outcome data if drop-outs accounted for less than 5% of participants. However, the 5% cut-off is not definitive.\n* Uncertain risk of bias: if information was insufficient for\nassessment of whether missing data were likely to induce bias in the results.\n* High risk of bias: if results were likely to be biased owing\nto missing data because the pattern of drop-outs could be\ndescribed as different in the two intervention groups, or because the trial used improper methods in dealing with missing data (e.g. last observation carried forward).\nSelective outcome reporting\n* Low risk of bias: if a protocol was published before or at the time the trial was begun and investigators reported on the outcomes specified in the protocol. If no protocol was available, or if the protocol was published after the trial had begun, reporting of allcause mortality and serious adverse events granted the trial a grade of low risk of bias.\n* Uncertain risk of bias: if no protocol was published and\ninvestigators did not report on the outcomes all-cause mortality and serious adverse events.\n* High risk of bias: if study authors did not report on the outcomes included in the protocol.\nOther bias\n* Low risk of bias: if the trial appeared to be free of other\ncomponents (e.g. academic bias, for-profit bias) that could put it at risk of bias.\n* Unclear risk of bias: if it was unclear whether other risk of bias could affect trial results.\n* High risk of bias: if other factors in the trial could put it at risk of bias (e.g. authors have conducted trials on the same topic, for-profit bias is present) .\nOverall risk of bias\nWe assessed overall risk of bias in three groups, as it may be difficult to blind participants and treatment providers performing NPPV.\n* Low risk of bias: We classified the outcome result as having\noverall 'low risk of bias' only if all of the bias domains described in the previous paragraphs were classified as presenting low risk of bias.\n* Potentially medium risk of bias: We classified the outcome\nresult as having overall 'potentially medium risk of bias' if all\nbias domains described in the previous paragraphs, excluding\n'blinding of participants and personnel', were classified as\npresenting 'low risk of bias'.\n* High risk of bias: We classified the outcome result as having\n'high risk of bias' if any of the bias risk domains described previously, excluding 'blinding of participants and personnel',\nwere classified as presenting 'unclear' or 'high risk of bias'.\nWe assessed the domains 'Blinding of outcome assessment',\n'Incomplete outcome data' and 'Selective outcome reporting' for each outcome. Thus, we planned to assess the bias risk for each result, as well as for each trial. We based our primary conclusions as well as our presentation in Summary of findings for the main comparison on the results of our primary outcomes with low risk of bias.\nWe graded each potential source of bias as high, low or unclear and provided a quote from the trial report together with a justification for our judgement in the Risk of bias in included studies table. We summarised 'Risk of bias' judgements across diFerent trials for each of the domains listed."
+        ],
+        "negative_ctxs": [
+            27,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "We used the instructions given in the Cochrane Handbook\nfor Systematic Reviews of Interventions (Higgins 2011) in our\nevaluation of the methods and hence the risk of bias of\nincluded trials. Again, two review authors (SKK and JF) each\nindependently assessed the included trials."
+        ],
+        "negative_ctxs": [
+            74,
+            9
+        ],
+        "positive_ctxs": [
+            20
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Included studies\nTwo trials met our inclusion criteria (Thill 2004; Basnet 2012). For\ndetailed descriptions, see the Characteristics of included studies\ntable.\n\nA total of two trials (Thill 2004; Basnet 2012) met all of the inclusion\ncriteria. We were able to assess in part mortality, serious adverse\nevents and symptom scores as primary outcomes in addition\nto the secondary outcomes of non-serious adverse events and\npneumonia.\n\nAll-cause mortality\nOne trial with 16 participants (eight in the NPPV arm and eight in\nthe control arm) assessed mortality (Thill 2004) and reported no\nevents in either group (Analysis 1.1). Hence, we performed no metaanalysis\nand no Trial Sequential Analysis (TSA).\nSerious adverse events\nBoth trials assessed a total of 35 participants (17 in the NPPV arm\nand 18 in the control arm) for serious adverse events (Thill 2004;\nBasnet 2012) and reported no events in either group (Analysis\n2.1). Hence, we performed no meta-analysis and no TSA.\n\nSymptom scores\nBoth trials assessed a total of 35 participants (17 in the NPPV arm\nand 18 in the control arm) for symptom scores (Thill 2004; Basnet\n2012) (Analysis 3.1). However, neither the Basnet 2012 trial nor the\nfirst phase of the cross-over trial (Thill 2004) reported standard\ndeviations (SDs). We therefore had to estimate the standard error\n(SE) from the graph (Figure 2) in Basnet 2012 and then calculate the\nSD. We estimated the SE to be 0.985 (SD = 2.96) for the intervention\ngroup, and 0.539 (SD = 1.7) for the control group when assessing the\nprimary time point of interest (zero to two hours). The calculated\nSD indicated that Basnet 2012 reported a reduced symptom score\n(mean diFerence (MD) -2.50, 95% confidence interval (CI) -4.70 to\n-0.30; P = 0.03, participants = 19, very low quality of evidence).\nThill 2004 provided a figure illustrating symptom scores at the end\nof the intervention, for which a mean symptom score could be\napproximated as 1.9 in the NPPV group and 5.6 in the control group.\nAccording to our protocol, we would therefore try to impute SDs for\nthe Thill 2004 trial. However, this could not be done because the\ntwo trials used different symptom score systems.\n\nNon-serious adverse events\nThe two trials assessed a total of 35 participants (17 in the NPPV arm\nand 18 in the control arm) (Thill 2004; Basnet 2012) for non-serious\nadverse events (see Table 1).\nHealth-related quality-of-life\nNo trials reported quality of life.\nArterial blood gases and pH\nNo trials reported blood gases or pH.\nPneumonia\nOne trial with 19 participants (nine in the NPPV arm and 10 in the\ncontrol arm) assessed pneumonia (Basnet 2012) and reported no\nevents in either group (Analysis 4.1). Hence, we performed no metaanalysis.\nCost\nNeither trial reported cost."
+        ],
+        "negative_ctxs": [
+            17,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "D I F F E R E N C E S \u0003 B E T W E E N \u0003 P R O T O C O L \u0003 A N D \u0003 R E V I E W\nMention of for-profit bias was included under \"other biases\" in the section on Assessment of risk of bias in included studies, in accordance\nwith the rest of the protocol."
+        ],
+        "negative_ctxs": [
+            36,
+            48
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Meta-analysis\nWe undertook this meta-analysis according to the\nrecommendations stated in the Cochrane Handbook for Systematic\nReviews of Interventions (Higgins 2011). \n\nOwing to insufficient reporting in the latter trial and use of different scoring systems, it was not possible to conduct a meta-analysis nor a Trial Sequential Analysis.\n\nWe included two trials that randomised a total of 40 participants.\nWe assessed these trials as having high risk of bias and a total of five\ndrop-outs. We were able to perform neither meta-analysis nor Trial\nSequential Analysis (TSA) on our primary outcome of mortality, as\nno events were reported. Both trials reported no serious adverse\nevents. Meta-analysis of symptom scores was not possible, as Thill\n2004 was a cross-over trial and did not report a standard deviation\n(SD), and we could not estimated the SD from before the crossover.\nWe were not able to impute SDs from the Basnet 2012 trial, as\ninvestigators used two different types of symptom score systems.\n\nAll-cause mortality\nOne trial with 16 participants (eight in the NPPV arm and eight in the control arm) assessed mortality (Thill 2004) and reported no events in either group (Analysis 1.1). Hence, we performed no metaanalysis\nand no Trial Sequential Analysis (TSA).\nSerious adverse events\nBoth trials assessed a total of 35 participants (17 in the NPPV arm and 18 in the control arm) for serious adverse events (Thill 2004;\nBasnet 2012) and reported no events in either group (Analysis 2.1). Hence, we performed no meta-analysis and no TSA.\n\nSymptom scores\nBoth trials assessed a total of 35 participants (17 in the NPPV arm and 18 in the control arm) for symptom scores (Thill 2004; Basnet\n2012) (Analysis 3.1). However, neither the Basnet 2012 trial nor the first phase of the cross-over trial (Thill 2004) reported standard deviations (SDs). We therefore had to estimate the standard error (SE) from the graph (Figure 2) in Basnet 2012 and then calculate the SD. We estimated the SE to be 0.985 (SD = 2.96) for the intervention\ngroup, and 0.539 (SD = 1.7) for the control group when assessing the primary time point of interest (zero to two hours). The calculated SD indicated that Basnet 2012 reported a reduced symptom score\n(mean diFerence (MD) -2.50, 95% confidence interval (CI) -4.70 to -0.30; P = 0.03, participants = 19, very low quality of evidence).\nThill 2004 provided a figure illustrating symptom scores at the end of the intervention, for which a mean symptom score could be approximated as 1.9 in the NPPV group and 5.6 in the control group.\nAccording to our protocol, we would therefore try to impute SDs for\nthe Thill 2004 trial. However, this could not be done because the two trials used different symptom score systems.\n\nAs we performed no meta-analysis, we did not estimate heterogeneity.\n\nNon-serious adverse events\nThe two trials assessed a total of 35 participants (17 in the NPPV arm and 18 in the control arm) (Thill 2004; Basnet 2012) for non-serious adverse events (see Table 1).\nHealth-related quality-of-life\nNo trials reported quality of life.\nArterial blood gases and pH\nNo trials reported blood gases or pH.\nPneumonia\nOne trial with 19 participants (nine in the NPPV arm and 10 in the control arm) assessed pneumonia (Basnet 2012) and reported no events in either group (Analysis 4.1). Hence, we performed no metaanalysis.\nCost\nNeither trial reported cost."
+        ],
+        "negative_ctxs": [
+            33,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Heterogeneity\nAs we performed no meta-analysis, we did not estimate heterogeneity."
+        ],
+        "negative_ctxs": [
+            67,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "It was not possible to assess publication bias, as we included only\ntwo studies.\n\nOwing to insufficient reporting in the latter trial and use of different scoring systems, it was not possible to conduct a meta-analysis nor a Trial Sequential Analysis.\n\nWe included two trials that randomised a total of 40 participants.\nWe assessed these trials as having high risk of bias and a total of five\ndrop-outs. We were able to perform neither meta-analysis nor Trial\nSequential Analysis (TSA) on our primary outcome of mortality, as\nno events were reported. Both trials reported no serious adverse\nevents. Meta-analysis of symptom scores was not possible, as Thill\n2004 was a cross-over trial and did not report a standard deviation\n(SD), and we could not estimated the SD from before the crossover.\nWe were not able to impute SDs from the Basnet 2012 trial, as\ninvestigators used two different types of symptom score systems."
+        ],
+        "negative_ctxs": [
+            61,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Risk of bias in included studies\nWe assessed both included studies as having overall high risk of\nbias (see Figure 2). We contacted the authors of both trials for clarification, as some data were missing and several bias domains\nwere unclear. We received no response from Basnet 2012, but Thill\n2004 provided us with details concerning serious adverse events\nand the randomisation process.\nAllocation\nThill 2004 allocated participants with slips of paper drawn at\nrandom from an envelope, resulting in assessment of 'unclear' risk.\nThill 2004 did not describe allocation concealment. Basnet 2012\ndid not describe how allocation sequence generation or allocation\nconcealment was performed, and we judged risk in both domains\nas 'unclear'.\nBlinding\nNeither of the two included trials blinded participants or treatment\nproviders. As we assessed several other bias domains as having\nhigh or uncertain risk, this did not aFect the overall risk of bias in accordance with our protocol (Korang 2016). Neither trial described\nwhether outcome assessors were blinded. However, both trials\n(Thill 2004; Basnet 2012) used independent investigators to assess\nsymptom scores.\nIncomplete outcome data\nOne trial reported four drop-outs and did not include them in the\nanalysis (Thill 2004). The other trial (Basnet 2012) performed a\nsecondary intention-to-treat analysis but provided only a P value\nwithout full data for this analysis. \nSelective reporting\nOne trial did not report mortality (Basnet 2012), resulting in an\nuncertain risk of bias. The other trial reported both mortality and\nserious adverse events (Thill 2004). Neither trial provided a prepublished\nprotocol.\nOther potential sources of bias\nReview authors observed no other biases.\n\nGRADE\nWe have assessed the quality of the evidence for each outcome\nby using the GRADE approach (Summary of findings for the\nmain comparison). The GRADE assessment generally showed\nthat evidence was of very low quality. Reasons for the GRADE\nassessment are given in the footnotes of the table (Summary of\nfindings for the main comparison).\n\nRisk of systematic error ('bias')\nWe found no studies and no outcome results with low risk of\nbias. Our results may show an overestimation of benefit and an underestimation of harm associated with nutritional support\n(Savovic 2012).\n\nThe main limitation of this Cochrane review is the paucity of\nevidence for the use of NPPV in children with asthma. We made\nnumerous attempts to contact the authors of different trials to\nobtain raw data. However, our inability to obtain all relevant\ninformation might introduce a bias, which has the potential to\nalter the outcome of the meta-analysis. In addition, biases that\noccur because of the methodological design of included studies\nmight not be adequately accounted for, despite assessment by two\nindependent review authors.\n\nSubgroup-analyses based on risk, age, type of NPPV, type of mask\nand asthma severity were not performed, as the two trials were\nin the same category with regard to these subgroups. None of the\ntrials described medical compliance."
+        ],
+        "negative_ctxs": [
+            21,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "We included two trials that randomised a total of 40 participants.\nWe assessed these trials as having high risk of bias and a total of five\ndrop-outs. We were able to perform neither meta-analysis nor Trial\nSequential Analysis (TSA) on our primary outcome of mortality, as\nno events were reported. Both trials reported no serious adverse\nevents. Meta-analysis of symptom scores was not possible, as Thill\n2004 was a cross-over trial and did not report a standard deviation\n(SD), and we could not estimated the SD from before the crossover.\nWe were not able to impute SDs from the Basnet 2012 trial, as\ninvestigators used two diFerent types of symptom score systems.\nBoth trials showed a statistically significant reduction in symptom\nscores. Basnet 2012 showed that non-invasive positive pressure\nventilation (NPPV) improved symptom scores (mean diFerence\n(MD) -2.50, 95% confidence interval (CI) -4.70 to -0.30, P = 0.03,\n19 participants, GRADE: very low quality of evidence). In Thill\n2004, NPPV was also associated with a lower total symptom\nscore (5.6 vs 1.9, 19 participants, GRADE: very low quality of\nevidence) before cross-over, although no SD was reported in the\nassessment before the cross-over. Both trials favoured the NPPV\ngroup. Researchers reported five drop-outs (12.5%), four of which\nwere due to intolerance to NPPV, and one to respiratory failure/\nintubation. The benefits and harms of NPPV remain unclear owing\nto the lack of well-powered trials and the high risk of systematic\nerrors.\n\nHeterogeneity\nAs no meta-analysis was performed, we did not assess\nheterogeneity.\nRisk of systematic error ('bias')\nWe found no studies and no outcome results with low risk of\nbias. Our results may show an overestimation of benefit and an underestimation of harm associated with nutritional support\n(Savovic 2012).\nIt was not possible to assess publication bias, as we included only\ntwo studies.\n\nGRADE\nWe have assessed the quality of the evidence for each outcome\nby using the GRADE approach (Summary of findings for the\nmain comparison). The GRADE assessment generally showed\nthat evidence was of very low quality. Reasons for the GRADE\nassessment are given in the footnotes of the table (Summary of\nfindings for the main comparison).\n\nPotential biases in the review process\nThe main limitation of this Cochrane review is the paucity of\nevidence for the use of NPPV in children with asthma. We made\nnumerous attempts to contact the authors of diFerent trials to\nobtain raw data. However, our inability to obtain all relevant\ninformation might introduce a bias, which has the potential to\nalter the outcome of the meta-analysis. In addition, biases that\noccur because of the methodological design of included studies\nmight not be adequately accounted for, despite assessment by two\nindependent review authors. Another potential limitation of this\nreview design is that NPPV is oPen administered in an intensive\ncare unit (ICU) setting, whereas usual care might be provided in\na non-ICU setting, accounting for risk of potential bias involving\nrandomisation of participants not only to diFerent intervention\ngroups but also to diFerent settings. However, this was not the case\nin the included trials, in which all randomised participants were\ntreated in an ICU setting."
+        ],
+        "negative_ctxs": [
+            28,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "O B J E C T I V E S\nTo assess the benefits and harms of non-invasive positive pressure ventilation (NPPV) as an add-on therapy to usual care (e.g. bronchodilators and corticosteroids) in children with acute asthma.\n\nTypes of participants\nWe included children (aged < 18 years) hospitalised for an asthma attack (as defined by the trialists). We excluded children with a primary diagnosis of pneumonia, acute aspiration, bronchiolitis, cystic fibrosis or any ciliary dyskinetic syndrome.\nTypes of interventions\nAny type of NPPV (including continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BiPAP)). We included trials comparing NPPV as an add-on therapy to usual care versus usual care.\nWe excluded trials that examined weaning oF invasive ventilation and trials in which NPPV or invasive ventilation preceded enrolment of children into the trial.\n\nIncluded studies\nTwo trials met our inclusion criteria (Thill 2004; Basnet 2012). For detailed descriptions, see the Characteristics of included studies table.\nBoth were single-centre trials conducted in a PICU setting in the United States.\nParticipants\nThe two studies included a total of 40 participants. The mean age of participants was six years (range, zero to 11 years), and the mean proportion of girls was 55%. We noted no statistically significant\ndifferences in any of the baseline characteristics described (Thill 2004; Basnet 2012). This lack of statistical significance very well could have been caused by random error due to small sample sizes\nor due to systematic error caused by failed randomisation.\nInterventions\nBoth included trials used BiPAP. Basnet 2012 intervened with BiPAP for 24 hours, and Thill 2004 with BiPAP for two hours. Investigators\ngradually increased inspiratory positive airway pressure to 8 cm H2O in Basnet 2012, and to 10 cm H2O in Thill 2004. Both trials set end-expiratory positive airway pressure to 5 cm H2O\n(Thill 2004; Basnet 2012) and first tried nasal masks; if this was unsuccessful, they applied full facemasks. Thill 2004 used an 'S/T machine' (Respironics, Murrysville, PA), whereas Basnet 2012 used 'Vision Bipap' (Respironics).\nIn both trials, both groups received similar planned standard care as a co-intervention (Thill 2004; Basnet 2012). Neither of the included trials assessed the use of CPAP.\nCo-interventions\nParticipants in both trials received standard of care. This included continuous nebulised albuterol (as 10 mg/h (Thill 2004) or as 0.5 mg/kg, maximum 15 mg/kg (Basnet 2012)), intravenous methylprednisolone 1 to 2 mg/kg/d (maximum 80 mg/d) (Thill 2004; Basnet 2012) and supplemental oxygen. One trial also used adjunct therapy, which included magnesium sulfate and heliumoxygen\nheliox mixtures (Basnet 2012).\n\nC H A R A C T E R I S T I C S \u0003 O F \u0003 S T U D I E S\nCharacteristics of included studies [ordered by study ID]"
+        ],
+        "negative_ctxs": [
+            15,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            42,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "D I F F E R E N C E S \u0003 B E T W E E N \u0003 P R O T O C O L \u0003 A N D \u0003 R E V I E W\nMention of for-profit bias was included under \"other biases\" in the section on Assessment of risk of bias in included studies, in accordance with the rest of the protocol."
+        ],
+        "negative_ctxs": [
+            46,
+            52
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "O B J E C T I V E S\nTo assess the benefits and harms of non-invasive positive pressure ventilation (NPPV) as an add-on therapy to usual care (e.g. bronchodilators and corticosteroids) in children with acute asthma.\n\nTypes of participants\nWe included children (aged < 18 years) hospitalised for an asthma attack (as defined by the trialists). We excluded children with a primary diagnosis of pneumonia, acute aspiration, bronchiolitis, cystic fibrosis or any ciliary dyskinetic syndrome.\nTypes of interventions\nAny type of NPPV (including continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BiPAP)). We included trials comparing NPPV as an add-on therapy to usual care versus usual care.\nWe excluded trials that examined weaning oF invasive ventilation and trials in which NPPV or invasive ventilation preceded enrolment of children into the trial."
+        ],
+        "negative_ctxs": [
+            59,
+            67
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            46,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Electronic searches\nWe identified trials from the Cochrane Airways Group Specialised  Register (CAGR), which is maintained by the Information Specialist for the Group. The Register contains trial reports identified\nthrough systematic searches of bibliographic databases, including\nthe Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, the Cumulative Index to Nursing and Allied\nHealth Literature (CINAHL), the Allied and Complementary Medicine Database (AMED) and PsycINFO, and by handsearching of respiratory journals and meeting abstracts (see Appendix 1\nfor details). We searched all records in the CAGR using the search strategy provided in Appendix 2. See Appendix 1 and\nAppendix 2 for our exact search terms. We also conducted a search of ClinicalTrials.gov (www.ClinicalTrials.gov) and the World Health Organization (WHO) trials portal (www.who.int/ictrp/en/).\n\n\nWe tried to identify unpublished trials by searching the clinical\ntrial registers of Europe and the USA, websites of pharmaceutical\ncompanies and websites of the US Food and Drug Administration\n(FDA) and the European Medicines Agency.\n\n\nAppendix 1. Sources and search methods for the Cochrane Airways Group Specialised Register (CAGR)\nElectronic searches: core databases"
+        ],
+        "negative_ctxs": [
+            53,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Selection of studies\nTwo\u0013 review authors (SKK and JF) independently screened titles\nand abstracts. We retrieved all relevant full-text study reports/\npublications, and two review authors (SKK and JF) independently\nscreened the full text, identified trials for inclusion and identified\nand recorded reasons for exclusion of ineligible studies. We\nresolved disagreements through discussion or, if required, we\nconsulted\u0013 a third review author (JCJ).  "
+        ],
+        "negative_ctxs": [
+            43,
+            49
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two review authors (SKK and JF) extracted the following\ntrial characteristics from included trials, when available.\n* Methods: trial design, total duration of the trial, number of trial\ncentres and locations, trial setting, withdrawals and trial dates.\n* Participants: number of participants in each intervention group,\nmean age, age range, gender, severity of condition, diagnostic\ncriteria, baseline lung function, smoking history, inclusion\ncriteria and exclusion criteria.  \n* Interventions: intervention, comparison, pressure device, mask\ninterface and concomitant medications.\n* Outcomes: primary and secondary outcomes specified and\ncollected and time points reported.\n* Notes: funding for trial and notable conflicts of interest of trial\nauthors.\nTwo review authors (SKK and JF) independently extracted outcome\ndata from included trials. We noted in the Characteristics of\nincluded studies table if outcome data were not reported in a\nuseable way. We resolved disagreements by consensus or by\nconsultation with a third person (JCJ). One review author (SKK)\ntransferred data into the Review Manager (Review Manager 2014) file. We double-checked that data were entered correctly by\ncomparing data presented in the systematic review with data\nprovided in the study reports. A second review author (JF) spotchecked\nstudy characteristics for accuracy against the trial report."
+        ],
+        "negative_ctxs": [
+            9,
+            49
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Excluded studies\nWe assessed 31 trials as relevant upon review of the abstract, but later excluded them upon review of the full publication. Eighteen of the excluded studies involved adult participants only (Anderson 1982; Branscomb 1982; Webber 1982; Frischknecht\n1991; Christensen 1993; Aron 1999; Cross 2003; Soroksky 2003; de Miranda 2004; Bahera 2007; Soma 2008; Brandao 2009; Brandao 2009a; Chaudhry 2010; Sutherasan 2011; Hanekom 2012;\nSutherasan 2013; Rondinel 2015). Three trials did not report the age of participants and did not mention inclusion of any children (Andersen 1982; Ferrari 2007; Filho 2009). We excluded\nfour trials because the children were not hospitalised (Parkes 1997;\nEdwards 2003; Edwards 2004; Holbrook 2016). Three trials were not randomised (Thill 1998; Soma 2002; Basnet 2010), one trial did\nnot include participants with asthma (Archis 2001) and in one trial, participants received something other than NPPV (Compagnoni\n2000). One trial included children and adults but did not provide separate data for children (Fergusson 1983). See the Characteristics of excluded studies table for full information."
+        ],
+        "negative_ctxs": [
+            31,
+            28
+        ],
+        "positive_ctxs": [
+            32
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Included studies\nTwo trials met our inclusion criteria (Thill 2004; Basnet 2012). For detailed descriptions, see the Characteristics of included studies table.\nBoth were single-centre trials conducted in a PICU setting in the United States.\nParticipants\nThe two studies included a total of 40 participants. The mean age of participants was six years (range, zero to 11 years), and the mean proportion of girls was 55%. We noted no statistically significant\ndifferences in any of the baseline characteristics described (Thill 2004; Basnet 2012). This lack of statistical significance very well could have been caused by random error due to small sample sizes\nor due to systematic error caused by failed randomisation.\nInterventions\nBoth included trials used BiPAP. Basnet 2012 intervened with BiPAP for 24 hours, and Thill 2004 with BiPAP for two hours. Investigators\ngradually increased inspiratory positive airway pressure to 8 cm H2O in Basnet 2012, and to 10 cm H2O in Thill 2004. Both trials set end-expiratory positive airway pressure to 5 cm H2O\n(Thill 2004; Basnet 2012) and first tried nasal masks; if this was unsuccessful, they applied full facemasks. Thill 2004 used an 'S/T machine' (Respironics, Murrysville, PA), whereas Basnet 2012 used 'Vision Bipap' (Respironics).\nIn both trials, both groups received similar planned standard care as a co-intervention (Thill 2004; Basnet 2012). Neither of the included trials assessed the use of CPAP.\nCo-interventions\nParticipants in both trials received standard of care. This included continuous nebulised albuterol (as 10 mg/h (Thill 2004) or as 0.5 mg/kg, maximum 15 mg/kg (Basnet 2012)), intravenous methylprednisolone 1 to 2 mg/kg/d (maximum 80 mg/d) (Thill 2004; Basnet 2012) and supplemental oxygen. One trial also used adjunct therapy, which included magnesium sulfate and heliumoxygen\nheliox mixtures (Basnet 2012).\nOutcomes\nOnly Thill 2004 reported all-cause mortality. Both trials reported serious adverse events and provided symptom scores (Thill 2004;\nBasnet 2012). Thill 2004 used the Clinical Asthma Score, and Basnet 2012 the Pediatric Asthma Severity Score. Neither of these trials reported quality of life, costs or arterial blood gases/pH. Both trials reported on non-serious adverse events (Thill 2004; Basnet 2012).\n\nC H A R A C T E R I S T I C S \u0003 O F \u0003 S T U D I E S\nCharacteristics of included studies [ordered by study ID]"
+        ],
+        "negative_ctxs": [
+            9,
+            60
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Assessment of risk of bias in included studies\nWe used the instructions given in the Cochrane Handbook\nfor Systematic Reviews of Interventions (Higgins 2011) in our\nevaluation of the methods and hence the risk of bias of\nincluded trials. Again, two review authors (SKK and JF) each\nindependently assessed the included trials. We evaluated the\nmethods in terms of generation of allocation sequence, allocation concealment, blinding of participants and treatment providers, blinding of outcome assessment, incomplete outcome data, selective outcome reporting and other sources of bias, because these components enabled classification of randomised trials with low risk of bias and high risk of bias. The latter trials tend to overestimate positive intervention effects and underestimate negative effects (Moher 1998; Kjaergard 2001; Gluud 2006; Wood 2008; Lundh 2012; Savovic 2012).\nWe classified trials according to the components below.\nAllocation sequence generation\n* Low risk: if sequence generation was achieved using a computer random number generator or a random numbers table. Drawing lots, tossing a coin, shuffling cards and throwing dice were also considered adequate if performed by an independent adjudicator.\n* Unclear risk: if the method of randomisation was not specified, but the trial was still presented as randomised.\n* High risk: if the allocation sequence was not randomised or was only quasi-randomised.\nAllocation concealment\n* Low risk: if allocation of participants was performed by a central independent unit, an on-site locked computer, identical-looking numbered sealed envelopes or drug bottles or containers prepared by an independent pharmacist or investigator.\n* Uncertain risk: if the trial was classified as randomised but the allocation concealment process was not described.\n* High risk: if the allocation sequence was familiar to the\ninvestigators who assigned participants.\nBlinding of participants and treatment providers\n* Low risk: if participants and treatment providers were blinded to intervention allocation and this was described.\n* Uncertain risk: if the procedure of blinding was insufficiently described.\n* High risk: if blinding of participants and treatment providers was not performed.\nBlinding of outcome assessment\n* Low risk of bias: if it was mentioned that outcome assessors were blinded and this was described.\n* Uncertain risk of bias: if it was not mentioned whether outcome assessors in the trial were blinded, or if the extent of blinding was insufficiently described.\n* High risk of bias: if no blinding or incomplete blinding of\noutcome assessors was performed.\nIncomplete outcome data\n* Low risk of bias: if missing data were unlikely to make treatment effects depart from plausible values. This could occur as (1) no drop-outs or withdrawals reported for all outcomes, or (2) numbers and reasons for withdrawals and drop-outs for all outcomes clearly stated and described as similar in both groups.\nGenerally, we judged the trial as having low risk of bias due to incomplete outcome data if drop-outs accounted for less than 5% of participants. However, the 5% cut-off is not definitive.\n* Uncertain risk of bias: if information was insufficient for\nassessment of whether missing data were likely to induce bias in the results.\n* High risk of bias: if results were likely to be biased owing\nto missing data because the pattern of drop-outs could be\ndescribed as different in the two intervention groups, or because the trial used improper methods in dealing with missing data (e.g. last observation carried forward).\nSelective outcome reporting\n* Low risk of bias: if a protocol was published before or at the time the trial was begun and investigators reported on the outcomes specified in the protocol. If no protocol was available, or if the protocol was published after the trial had begun, reporting of allcause mortality and serious adverse events granted the trial a grade of low risk of bias.\n* Uncertain risk of bias: if no protocol was published and\ninvestigators did not report on the outcomes all-cause mortality and serious adverse events.\n* High risk of bias: if study authors did not report on the outcomes included in the protocol.\nOther bias\n* Low risk of bias: if the trial appeared to be free of other\ncomponents (e.g. academic bias, for-profit bias) that could put it at risk of bias.\n* Unclear risk of bias: if it was unclear whether other risk of bias could affect trial results.\n* High risk of bias: if other factors in the trial could put it at risk of bias (e.g. authors have conducted trials on the same topic, for-profit bias is present) .\nOverall risk of bias\nWe assessed overall risk of bias in three groups, as it may be difficult to blind participants and treatment providers performing NPPV.\n* Low risk of bias: We classified the outcome result as having\noverall 'low risk of bias' only if all of the bias domains described in the previous paragraphs were classified as presenting low risk of bias.\n* Potentially medium risk of bias: We classified the outcome\nresult as having overall 'potentially medium risk of bias' if all\nbias domains described in the previous paragraphs, excluding\n'blinding of participants and personnel', were classified as\npresenting 'low risk of bias'.\n* High risk of bias: We classified the outcome result as having\n'high risk of bias' if any of the bias risk domains described previously, excluding 'blinding of participants and personnel',\nwere classified as presenting 'unclear' or 'high risk of bias'.\nWe assessed the domains 'Blinding of outcome assessment',\n'Incomplete outcome data' and 'Selective outcome reporting' for each outcome. Thus, we planned to assess the bias risk for each result, as well as for each trial. We based our primary conclusions as well as our presentation in Summary of findings for the main comparison on the results of our primary outcomes with low risk of bias.\nWe graded each potential source of bias as high, low or unclear and provided a quote from the trial report together with a justification for our judgement in the Risk of bias in included studies table. We summarised 'Risk of bias' judgements across diFerent trials for each of the domains listed."
+        ],
+        "negative_ctxs": [
+            35,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Meta-analysis\nWe undertook this meta-analysis according to the\nrecommendations stated in the Cochrane Handbook for Systematic\nReviews of Interventions (Higgins 2011). \n\nOwing to insufficient reporting in the latter trial and use of different scoring systems, it was not possible to conduct a meta-analysis nor a Trial Sequential Analysis.\n\nWe included two trials that randomised a total of 40 participants.\nWe assessed these trials as having high risk of bias and a total of five\ndrop-outs. We were able to perform neither meta-analysis nor Trial\nSequential Analysis (TSA) on our primary outcome of mortality, as\nno events were reported. Both trials reported no serious adverse\nevents. Meta-analysis of symptom scores was not possible, as Thill\n2004 was a cross-over trial and did not report a standard deviation\n(SD), and we could not estimated the SD from before the crossover.\nWe were not able to impute SDs from the Basnet 2012 trial, as\ninvestigators used two different types of symptom score systems.\n\nAll-cause mortality\nOne trial with 16 participants (eight in the NPPV arm and eight in the control arm) assessed mortality (Thill 2004) and reported no events in either group (Analysis 1.1). Hence, we performed no metaanalysis\nand no Trial Sequential Analysis (TSA).\nSerious adverse events\nBoth trials assessed a total of 35 participants (17 in the NPPV arm and 18 in the control arm) for serious adverse events (Thill 2004;\nBasnet 2012) and reported no events in either group (Analysis 2.1). Hence, we performed no meta-analysis and no TSA.\n\nSymptom scores\nBoth trials assessed a total of 35 participants (17 in the NPPV arm and 18 in the control arm) for symptom scores (Thill 2004; Basnet\n2012) (Analysis 3.1). However, neither the Basnet 2012 trial nor the first phase of the cross-over trial (Thill 2004) reported standard deviations (SDs). We therefore had to estimate the standard error (SE) from the graph (Figure 2) in Basnet 2012 and then calculate the SD. We estimated the SE to be 0.985 (SD = 2.96) for the intervention\ngroup, and 0.539 (SD = 1.7) for the control group when assessing the primary time point of interest (zero to two hours). The calculated SD indicated that Basnet 2012 reported a reduced symptom score\n(mean diFerence (MD) -2.50, 95% confidence interval (CI) -4.70 to -0.30; P = 0.03, participants = 19, very low quality of evidence).\nThill 2004 provided a figure illustrating symptom scores at the end of the intervention, for which a mean symptom score could be approximated as 1.9 in the NPPV group and 5.6 in the control group.\nAccording to our protocol, we would therefore try to impute SDs for\nthe Thill 2004 trial. However, this could not be done because the two trials used different symptom score systems.\n\nAs we performed no meta-analysis, we did not estimate heterogeneity.\n\nNon-serious adverse events\nThe two trials assessed a total of 35 participants (17 in the NPPV arm and 18 in the control arm) (Thill 2004; Basnet 2012) for non-serious adverse events (see Table 1).\nHealth-related quality-of-life\nNo trials reported quality of life.\nArterial blood gases and pH\nNo trials reported blood gases or pH.\nPneumonia\nOne trial with 19 participants (nine in the NPPV arm and 10 in the control arm) assessed pneumonia (Basnet 2012) and reported no events in either group (Analysis 4.1). Hence, we performed no metaanalysis.\nCost\nNeither trial reported cost."
+        ],
+        "negative_ctxs": [
+            1,
+            66
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Heterogeneity\nAs we performed no meta-analysis, we did not estimate heterogeneity."
+        ],
+        "negative_ctxs": [
+            4,
+            52
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "It was not possible to assess publication bias, as we included only\ntwo studies.\n\nOwing to insufficient reporting in the latter trial and use of different scoring systems, it was not possible to conduct a meta-analysis nor a Trial Sequential Analysis.\n\nWe included two trials that randomised a total of 40 participants.\nWe assessed these trials as having high risk of bias and a total of five\ndrop-outs. We were able to perform neither meta-analysis nor Trial\nSequential Analysis (TSA) on our primary outcome of mortality, as\nno events were reported. Both trials reported no serious adverse\nevents. Meta-analysis of symptom scores was not possible, as Thill\n2004 was a cross-over trial and did not report a standard deviation\n(SD), and we could not estimated the SD from before the crossover.\nWe were not able to impute SDs from the Basnet 2012 trial, as\ninvestigators used two different types of symptom score systems."
+        ],
+        "negative_ctxs": [
+            67,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Risk of bias in included studies\nWe assessed both included studies as having overall high risk of\nbias (see Figure 2). We contacted the authors of both trials for clarification, as some data were missing and several bias domains\nwere unclear. We received no response from Basnet 2012, but Thill\n2004 provided us with details concerning serious adverse events\nand the randomisation process.\nAllocation\nThill 2004 allocated participants with slips of paper drawn at\nrandom from an envelope, resulting in assessment of 'unclear' risk.\nThill 2004 did not describe allocation concealment. Basnet 2012\ndid not describe how allocation sequence generation or allocation\nconcealment was performed, and we judged risk in both domains\nas 'unclear'.\nBlinding\nNeither of the two included trials blinded participants or treatment\nproviders. As we assessed several other bias domains as having\nhigh or uncertain risk, this did not aFect the overall risk of bias in accordance with our protocol (Korang 2016). Neither trial described\nwhether outcome assessors were blinded. However, both trials\n(Thill 2004; Basnet 2012) used independent investigators to assess\nsymptom scores.\nIncomplete outcome data\nOne trial reported four drop-outs and did not include them in the\nanalysis (Thill 2004). The other trial (Basnet 2012) performed a\nsecondary intention-to-treat analysis but provided only a P value\nwithout full data for this analysis. \nSelective reporting\nOne trial did not report mortality (Basnet 2012), resulting in an\nuncertain risk of bias. The other trial reported both mortality and\nserious adverse events (Thill 2004). Neither trial provided a prepublished\nprotocol.\nOther potential sources of bias\nReview authors observed no other biases.\n\nGRADE\nWe have assessed the quality of the evidence for each outcome\nby using the GRADE approach (Summary of findings for the\nmain comparison). The GRADE assessment generally showed\nthat evidence was of very low quality. Reasons for the GRADE\nassessment are given in the footnotes of the table (Summary of\nfindings for the main comparison).\n\nRisk of systematic error ('bias')\nWe found no studies and no outcome results with low risk of\nbias. Our results may show an overestimation of benefit and an underestimation of harm associated with nutritional support\n(Savovic 2012).\n\nThe main limitation of this Cochrane review is the paucity of\nevidence for the use of NPPV in children with asthma. We made\nnumerous attempts to contact the authors of different trials to\nobtain raw data. However, our inability to obtain all relevant\ninformation might introduce a bias, which has the potential to\nalter the outcome of the meta-analysis. In addition, biases that\noccur because of the methodological design of included studies\nmight not be adequately accounted for, despite assessment by two\nindependent review authors.\n\nSubgroup-analyses based on risk, age, type of NPPV, type of mask\nand asthma severity were not performed, as the two trials were\nin the same category with regard to these subgroups. None of the\ntrials described medical compliance."
+        ],
+        "negative_ctxs": [
+            17,
+            72
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Characteristics of included studies [ordered by study ID]"
+        ],
+        "negative_ctxs": [
+            71,
+            59
+        ],
+        "positive_ctxs": [
+            65
+        ]
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "D E C L A R A T I O N S \u0003 O F \u0003 I N T E R E S T\nSteven Kwasi Korang has no interest to declare.\nJoshua Feinberg has no interest to declare.\nJorn Wetterslev is a member of the task force at the Copenhagen Trial Unit convened to develop the theory and software of Trial Sequential\nAnalysis (TSA).\nJanus Christian Jakobsen has no interest to declare.\nS O U R C E S \u0003 O F \u0003 S U P P O R T\nInternal sources\n* Copenhagen Trial Unit, Denmark.\nThe review was conducted during work hours\n* Paediatric Dept, Holbaek Sygehus, Denmark.\nThe review was conducted during work hours\nExternal sources\n* The review authors declare that no such funding was received for this systematic review, Other."
+        ],
+        "negative_ctxs": [
+            48,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "We included two trials that randomised a total of 40 participants.\nWe assessed these trials as having high risk of bias and a total of five\ndrop-outs. We were able to perform neither meta-analysis nor Trial\nSequential Analysis (TSA) on our primary outcome of mortality, as\nno events were reported. Both trials reported no serious adverse\nevents. Meta-analysis of symptom scores was not possible, as Thill\n2004 was a cross-over trial and did not report a standard deviation\n(SD), and we could not estimated the SD from before the crossover.\nWe were not able to impute SDs from the Basnet 2012 trial, as\ninvestigators used two diFerent types of symptom score systems.\nBoth trials showed a statistically significant reduction in symptom\nscores. Basnet 2012 showed that non-invasive positive pressure\nventilation (NPPV) improved symptom scores (mean diFerence\n(MD) -2.50, 95% confidence interval (CI) -4.70 to -0.30, P = 0.03,\n19 participants, GRADE: very low quality of evidence). In Thill\n2004, NPPV was also associated with a lower total symptom\nscore (5.6 vs 1.9, 19 participants, GRADE: very low quality of\nevidence) before cross-over, although no SD was reported in the\nassessment before the cross-over. Both trials favoured the NPPV\ngroup. Researchers reported five drop-outs (12.5%), four of which\nwere due to intolerance to NPPV, and one to respiratory failure/\nintubation. The benefits and harms of NPPV remain unclear owing\nto the lack of well-powered trials and the high risk of systematic\nerrors.\n\nHeterogeneity\nAs no meta-analysis was performed, we did not assess\nheterogeneity.\nRisk of systematic error ('bias')\nWe found no studies and no outcome results with low risk of\nbias. Our results may show an overestimation of benefit and an underestimation of harm associated with nutritional support\n(Savovic 2012).\nIt was not possible to assess publication bias, as we included only\ntwo studies.\n\nGRADE\nWe have assessed the quality of the evidence for each outcome\nby using the GRADE approach (Summary of findings for the\nmain comparison). The GRADE assessment generally showed\nthat evidence was of very low quality. Reasons for the GRADE\nassessment are given in the footnotes of the table (Summary of\nfindings for the main comparison).\n\nPotential biases in the review process\nThe main limitation of this Cochrane review is the paucity of\nevidence for the use of NPPV in children with asthma. We made\nnumerous attempts to contact the authors of diFerent trials to\nobtain raw data. However, our inability to obtain all relevant\ninformation might introduce a bias, which has the potential to\nalter the outcome of the meta-analysis. In addition, biases that\noccur because of the methodological design of included studies\nmight not be adequately accounted for, despite assessment by two\nindependent review authors. Another potential limitation of this\nreview design is that NPPV is oPen administered in an intensive\ncare unit (ICU) setting, whereas usual care might be provided in\na non-ICU setting, accounting for risk of potential bias involving\nrandomisation of participants not only to diFerent intervention\ngroups but also to diFerent settings. However, this was not the case\nin the included trials, in which all randomised participants were\ntreated in an ICU setting."
+        ],
+        "negative_ctxs": [
+            25,
+            71
+        ],
+        "positive_ctxs": []
+    }
+]

@@ -1,0 +1,474 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Inclusion criteria were participants with LRTI of skin or cutaneous tissue following cancer treatment; interventions accepted were HBOT regimens (100% oxygen, 2.0e3.0 ATA, 30e120 min, 5e7 times weekly); any comparison group using standard wound care or surgical flaps was accepted. Outcome measures were 1) complete resolution and 2) symptomatic improvement of skin necrosis. Because of the paucity of literature, all study design types were eligible for inclusion in this review."
+        ],
+        "negative_ctxs": [
+            23,
+            8
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Inclusion criteria were participants with LRTI of skin or cutaneous tissue following cancer treatment; interventions accepted were HBOT regimens (100% oxygen, 2.0e3.0 ATA, 30e120 min, 5e7 times weekly); any comparison group using standard wound care or surgical flaps was accepted. Outcome measures were 1) complete resolution and 2) symptomatic improvement of skin necrosis. Because of the paucity of literature, all study design types were eligible for inclusion in this review."
+        ],
+        "negative_ctxs": [
+            2,
+            15
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Exclusion criteria were articles on HBOT that were used to treat other radiation-induced injuries (e.g., bladder, prostate, jaw) that did not stratify skin as a specific treatment area. Additionally, if multiple publications were from the same group, only studies that reported data from nonoverlapping time periods were included."
+        ],
+        "negative_ctxs": [
+            21,
+            19
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Articles from any country of origin were acceptable but limited to those published in the English language."
+        ],
+        "negative_ctxs": [
+            21,
+            4
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "PubMed, MEDLINE via OVID, EMBASE, Web of Science, and Cochrane Central Register of Controlled Trials were searched using the headings and keyword terms: (\"Hyperbaric Oxygenation\" OR hyperbaric OR hbo OR hbot) AND (Radiotherapy OR radiation OR lrti OR \"Radiation Injury\") AND (\"Soft Tissue Injuries\" OR \"Therapy, Soft Tissue\" OR skin necrosis OR necrosis OR radio- necrosis OR radiodermatitis OR \"late radiation tissue injury.\"). Refer to the Appendix for table of complete search strategies.\n\nTable.  Search Strategies"
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "A manual search of relevant articles found from review citations was also performed.\n\nIn the event that an article was selected for inclusion but raw data was not published, considerable effort was made to contact the corresponding author."
+        ],
+        "negative_ctxs": [
+            14,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "PubMed, MEDLINE via OVID, EMBASE, Web of Science, and Cochrane Central Register of Controlled Trials were searched using the headings and keyword terms: (\"Hyperbaric Oxygenation\" OR hyperbaric OR hbo OR hbot) AND (Radiotherapy OR radiation OR lrti OR \"Radiation Injury\") AND (\"Soft Tissue Injuries\" OR \"Ther- apy, Soft Tissue\" OR skin necrosis OR necrosis OR radio- necrosis OR radiodermatitis OR \"late radiation tissue injury.\"). "
+        ],
+        "negative_ctxs": [
+            12,
+            11
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two reviewers (ZB and MM) independently evaluated studies, and a third reviewer (MG) resolved any discrep- ancies for inclusion."
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two authors (ZB and MM) independently extracted data\nusing a template data extraction sheet, with a third (MG)\nserving as a tiebreaker when consensus was not achieved."
+        ],
+        "negative_ctxs": [
+            5,
+            19
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Included study characteristics.\n\nTable 2 Details of included articles."
+        ],
+        "negative_ctxs": [
+            17,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1 Included study characteristics.\n\nTable 2 Details of included articles."
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The overall Newcastle-Ottawa quality assessment scale scores are provided in Table 1."
+        ],
+        "negative_ctxs": [
+            16,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two authors (ZB and MM) independently extracted data using a template data extraction sheet, with a third (MG) serving as a tiebreaker when consensus was not achieved. Information gathered included study characteristics and patient demographics. Primary outcome was incidence of complete wound healing with intervention and secondary outcome was incidence of symptomatic improvement with intervention. Studies were rated on methodological quality according to the American Society of Plastic Surgery's Levels of Evidence rating scale, and risk of bias for included articles was assessed using the Newcastle-Ottawa quality assessment scale.14"
+        ],
+        "negative_ctxs": [
+            14,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Figure 1 PRISMA flow diagram identifying the included studies."
+        ],
+        "negative_ctxs": [
+            15,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "A detailed narrative systematic review of the included study outcome measures was undertaken. The primary outcome measure was incidence of complete wound heal- ing and secondary outcome measure was symptomatic improvement of skin necrosis symptoms after HBOT. The number of patients recorded at follow-up was used as the denominator instead of the enrollment number. Because of overall study heterogeneity and lack of adequate control groups, a formal statistical meta-analysis was not performed; however, pooled rates of each outcome measure were calculated with the available data from observational studies using Microsoft Excel (Redmond, WA)."
+        ],
+        "negative_ctxs": [
+            15,
+            10
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Because of overall study heterogeneity and lack of adequate control groups, a formal statistical meta-analysis was not performed; however, pooled rates of each outcome measure were calculated with the available data from observational studies using Microsoft Excel (Redmond, WA)."
+        ],
+        "negative_ctxs": [
+            6,
+            23
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Because of the nature of the study designs, the majority of studies were at high risk for bias. All studies but one were at high risk for observer-expectancy bias.15 Four studies provided adequate outcome data to be at low risk for attrition bias.17, 18, 19, 21 Four studies were at high risk for procedure bias.15, 16, 17, 18 "
+        ],
+        "negative_ctxs": [
+            20,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Moreover, the majority of the included studies were at high risk of procedure bias because patients often received other interventions in addition to HBOT.\n\nBecause this review was limited to studies that had outcome measures for cutaneous damage and because of a relative paucity in the literature on this subject, we were forced to report using lower quality papers.\n\nAll studies but one were at high risk for observer-expectancy bias.15 Four studies provided adequate outcome data to be at low risk for attrition bias.17, 18, 19, 21 Four studies were at high risk for procedure bias.15, 16, 17, 18 "
+        ],
+        "negative_ctxs": [
+            10,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Inclusion criteria were participants with LRTI of skin or cutaneous tissue following cancer treatment; interventions accepted were HBOT regimens (100% oxygen, 2.0e3.0 ATA, 30e120 min, 5e7 times weekly); any comparison group using standard wound care or surgical flaps was accepted. Outcome measures were 1) complete resolution and 2) symptomatic improvement of skin necrosis. Because of the paucity of literature, all study design types were eligible for inclusion in this review."
+        ],
+        "negative_ctxs": [
+            0,
+            17
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            0,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Inclusion criteria were participants with LRTI of skin or cutaneous tissue following cancer treatment; interventions accepted were HBOT regimens (100% oxygen, 2.0e3.0 ATA, 30e120 min, 5e7 times weekly); any comparison group using standard wound care or surgical flaps was accepted. Outcome measures were 1) complete resolution and 2) symptomatic improvement of skin necrosis. Because of the paucity of literature, all study design types were eligible for inclusion in this review."
+        ],
+        "negative_ctxs": [
+            2,
+            14
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Because of the paucity of literature, all study design types were eligible for inclusion in this review."
+        ],
+        "negative_ctxs": [
+            19,
+            23
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "PubMed, MEDLINE via OVID, EMBASE, Web of Science, and Cochrane Central Register of Controlled Trials were searched using the headings and keyword terms: (\"Hyperbaric Oxygenation\" OR hyperbaric OR hbo OR hbot) AND (Radiotherapy OR radiation OR lrti OR \"Radiation Injury\") AND (\"Soft Tissue Injuries\" OR \"Therapy, Soft Tissue\" OR skin necrosis OR necrosis OR radio- necrosis OR radiodermatitis OR \"late radiation tissue injury.\"). Refer to the Appendix for table of complete search strategies.\n\nTable.  Search Strategies"
+        ],
+        "negative_ctxs": [
+            7,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two reviewers (ZB and MM) independently evaluated studies, and a third reviewer (MG) resolved any discrep- ancies for inclusion."
+        ],
+        "negative_ctxs": [
+            4,
+            5
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two authors (ZB and MM) independently extracted data\nusing a template data extraction sheet, with a third (MG)\nserving as a tiebreaker when consensus was not achieved."
+        ],
+        "negative_ctxs": [
+            10,
+            16
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Figure 1 PRISMA flow diagram identifying the included studies."
+        ],
+        "negative_ctxs": [
+            6,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Included study characteristics.\n\nTable 2 Details of included articles."
+        ],
+        "negative_ctxs": [
+            7,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The overall Newcastle-Ottawa quality assessment scale scores are provided in Table 1."
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "A detailed narrative systematic review of the included study outcome measures was undertaken. The primary outcome measure was incidence of complete wound heal- ing and secondary outcome measure was symptomatic improvement of skin necrosis symptoms after HBOT. The number of patients recorded at follow-up was used as the denominator instead of the enrollment number. Because of overall study heterogeneity and lack of adequate control groups, a formal statistical meta-analysis was not performed; however, pooled rates of each outcome measure were calculated with the available data from observational studies using Microsoft Excel (Redmond, WA)."
+        ],
+        "negative_ctxs": [
+            20,
+            18
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Because of overall study heterogeneity and lack of adequate control groups, a formal statistical meta-analysis was not performed; however, pooled rates of each outcome measure were calculated with the available data from observational studies using Microsoft Excel (Redmond, WA)."
+        ],
+        "negative_ctxs": [
+            17,
+            1
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Because of the nature of the study designs, the majority of studies were at high risk for bias. All studies but one were at high risk for observer-expectancy bias.15 Four studies provided adequate outcome data to be at low risk for attrition bias.17, 18, 19, 21 Four studies were at high risk for procedure bias.15, 16, 17, 18 "
+        ],
+        "negative_ctxs": [
+            10,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding disclosure\nNone."
+        ],
+        "negative_ctxs": [
+            17,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Moreover, the majority of the included studies were at high risk of procedure bias because patients often received other interventions in addition to HBOT.\n\nBecause this review was limited to studies that had outcome measures for cutaneous damage and because of a relative paucity in the literature on this subject, we were forced to report using lower quality papers.\n\nAll studies but one were at high risk for observer-expectancy bias.15 Four studies provided adequate outcome data to be at low risk for attrition bias.17, 18, 19, 21 Four studies were at high risk for procedure bias.15, 16, 17, 18 "
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": []
+    }
+]

@@ -1,0 +1,471 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We included studies that recruited participants aged 18 years or older who had psoriasis. The main outcome of this study was new onset atrial fibrillation reported as incidence, odds ratio (OR), risk ratio (RR), or hazard ratio (HR) comparing between patients with psoriasis at baseline and without psoriasis"
+        ],
+        "negative_ctxs": [
+            0,
+            12
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "This review included all published prospective observational studies that assessed the association of psoriasis and atrial fibrillation. Reviews, case reports, and abstracts were excluded because their quality of studies could not be assessed\n\n\nWe included studies that recruited participants aged 18 years or older who had psoriasis. The main outcome of this study was new onset atrial fibrillation reported as incidence, odds ratio (OR), risk ratio (RR), or hazard ratio (HR) comparing between patients with psoriasis at baseline and without psoriasis"
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Reviews, case reports, and abstracts were excluded because their quality of studies could not be assessed.\n \n\n161 articles were excluded because they were not observational studies (95 articles), did not include patients with psoriasis (34 articles), or did not measure new onset AF as an outcome (32 articles)\n\n\nFull-text articles excluded (n=11) Data not available (n=7) Non-observational study (n=3) No outcome of interest (n=1)"
+        ],
+        "negative_ctxs": [
+            4,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Appendix 1 MEDLINE 1     psoriasis.mp. or exp Psoriasis/  2     psoria*.mp. [mp=title, abstract, original title, name of substance word, subject heading word, keyword heading word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier]  3     1 or 2 4     Atrial Fibrillation.mp. or exp Atrial Fibrillation/  5     auricular fibrillation.tw. 6     atrium fibrillation.tw.  7     4 or 5 or 6  8     3 and 7  EMBASE ((('atrial fibrillation'/exp or 'atrial fibrillation') or (atrial or 'atrium'/exp or auricular and fibrillat*)) and (('psoriasis'/exp and [embase]/lim) or (psoria* and [embase]/lim))) and [embase]/lim not [medline]/lim "
+        ],
+        "negative_ctxs": [
+            7,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Two authors (AS, SU) independently searched published studies indexed in the MEDLINE and EMBASE databases."
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Two authors (AS, SU) independently searched published studies indexed in the MEDLINE and EMBASE databases."
+        ],
+        "negative_ctxs": [
+            6,
+            14
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix 1: Search strategy MEDLINE 1     psoriasis.mp. or exp Psoriasis/  2     psoria*.mp. [mp=title, abstract, original title, name of substance word, subject heading word, keyword heading word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier]  3     1 or 2 4     Atrial Fibrillation.mp. or exp Atrial Fibrillation/  5     auricular fibrillation.tw. 6     atrium fibrillation.tw.  7     4 or 5 or 6  8     3 and 7  EMBASE ((('atrial fibrillation'/exp or 'atrial fibrillation') or (atrial or 'atrium'/exp or auricular and fibrillat*)) and (('psoriasis'/exp and [embase]/lim) or (psoria* and [embase]/lim))) and [embase]/lim not [medline]/lim "
+        ],
+        "negative_ctxs": [
+            7,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Appendix 1: Search strategy MEDLINE 1     psoriasis.mp. or exp Psoriasis/  2     psoria*.mp. [mp=title, abstract, original title, name of substance word, subject heading word, keyword heading word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier]  3     1 or 2 4     Atrial Fibrillation.mp. or exp Atrial Fibrillation/  5     auricular fibrillation.tw. 6     atrium fibrillation.tw.  7     4 or 5 or 6  8     3 and 7  EMBASE ((('atrial fibrillation'/exp or 'atrial fibrillation') or (atrial or 'atrium'/exp or auricular and fibrillat*)) and (('psoriasis'/exp and [embase]/lim) or (psoria* and [embase]/lim))) and [embase]/lim not [medline]/lim "
+        ],
+        "negative_ctxs": [
+            7,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two authors independently reviewed titles and abstracts of all citations that were identified.  After all abstracts were reviewed, data comparisons between the two investigators were conducted to ensure completeness and reliability. The inclusion criteria were independently applied to all identified studies. Differing decisions were resolved by consensus.  "
+        ],
+        "negative_ctxs": [
+            14,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two authors independently reviewed titles and abstracts of all citations that were identified.  After all abstracts were reviewed, data comparisons between the two investigators were conducted to ensure completeness and reliability. The inclusion criteria were independently applied to all identified studies. Differing decisions were resolved by consensus"
+        ],
+        "negative_ctxs": [
+            0,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1: Characteristics of included studies Study (year) Design  Study perio d Study Population Exclusion criteria Participant s (N) End Point Factors adjusted in multivariable analysis Ahlehoff (2012)  Prospectiv e cohort 19972006 Entire Danish Population  Previous atrial fibrillation or stroke 4,518,484 atrial fibrillation, ischemic stroke Calendar year, concomitant medication, comorbidity, socioeconomic data, and gender Bang (2014) Prospectiv e cohort N/A Hypertensiv e patients with left ventricular hypertrophy Established heart failure, myocardial infarction, or atrial fibrillation 7099  atrial fibrillation, heart failure  Age, sex, hemoglobin, diabetes, timevarying SBP, heart rate, study treatment and Sokolow-Lyon hypertrophy Armstron g (2013) Prospectiv e cohort 2004- 2009 Database of University of California Davis Not on cardiac catheterizatio n list  507  atrial fibrillation Race, dyslipidemia, chronic obstructive pulmonary disease, or hypertension Parisi (2015) Prospectiv e cohort 1994- 2009  Patients aged 20 years or older  History of cardiovascular disease 48,523  Major cardiovascular events Inflammatory arthritis, diabetes, chronic kidney disease, hypertension, transient ischemic attack , atrial fibrillation, valvular heart disease, thromboembolis m, congestive heart failure, depression, current smoker, age, and gender "
+        ],
+        "negative_ctxs": [
+            1,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Quality assessment of Included Studies The quality of the included studies was evaluated by Newcastle Ottawa Scale NOS (Table 2). Total score ranged from 58. None of the studies was excluded from the meta-analysis by having poor quality. "
+        ],
+        "negative_ctxs": [
+            3,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "A subjective assessment of methodological quality for observational studies was evaluated by two authors (AS and SU) using\nthe Newcastle-Ottawa Scale (NOS) (10)."
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Studies included in qualitative synthesis (n=4)\n\n\nStudies included in quantitative synthesis (meta-analysis) (n=4) \n\n\nStudy name Ahlehoff Ahlehoff Armstrong Armstrong Bang Parisi "
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We performed meta-analysis of the included studies using Comprehensive Meta-Analysis 3.3 software from Biostat, Inc.  We calculated pooled hazard ratio (HR) of outcome for cohort studies in multivariable model. Factors adjusted included age, sex, co-morbidity, smoker, socioeconomic data. All outcomes were reported as effect estimate and its 95% confidence intervals (CIs) comparing between psoriasis and control groups using a random-effects model."
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The statistical between-study heterogeneity (I2) was 68%, P=0.01 (Figure 1). In subgroup analysis by severity of psoriasis (Figure 2), there is no difference between mild (HR=1.22, 95%CI 1.15 -1.30) and severe (HR=1.51, 95%CI 1.22 -1.87) psoriasis (P-value between subgroup=0.06).\n\n\nWe excluded studies from meta-analysis and only presented the result with narrative description (qualitative analysis) when there were not sufficient data available for calculating pooled effect size. \n\n\nA sensitivity analysis was performed to assess influence of the individual studies on the overall results by omitting one study at a time and using fixed-effect analysis when I2<40%. Subgroup analysis and meta-regression were performed to find factors that may explain heterogeneity or difference in outcome between each study."
+        ],
+        "negative_ctxs": [
+            9,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The quality of the included studies was evaluated by New-castle Ottawa Scale NOS (Table 2). Total score ranged from 58. None of the studies was excluded from the meta-analysis by having poor quality.  \n\n\nA sensitivity analysis was performed to assess influence of the individual studies on the overall results by omitting one study at a time and using fixed-effect analysis when I2<40%. Subgroup analysis and meta-regression were performed to find factors that may explain heterogeneity or difference in outcome between each study.\n\n\nThe major limitation of our study lies in the fact that observational studies are inherently susceptible to bias and confounding.  \n\n\nMisclassification of cardiovascular diseases and risk factors due to, for example, untreated hypertension, diabetes, or dyslipidemia represents another potential source of bias. In order to eliminate this potential bias, additional cohorts should be studied in specific patient populations with respect to cardiovascular risk factors, specific comorbid conditions to further investigate the association between psoriasis and atrial fibrillation."
+        ],
+        "negative_ctxs": [
+            4,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "This review included all published prospective observational studies that assessed the association of psoriasis and atrial fibrillation. \n\n\nWe included studies that recruited participants aged 18 years or older who had psoriasis. The main outcome of this study was new onset atrial fibrillation reported as incidence, odds ratio (OR), risk ratio (RR), or hazard ratio (HR) comparing between patients with psoriasis at baseline and without psoriasis"
+        ],
+        "negative_ctxs": [
+            14,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            10,
+            11
+        ],
+        "positive_ctxs": [
+            1,
+            7,
+            9,
+            12
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "This review included all published prospective observational studies that assessed the association of psoriasis and atrial fibrillation. Reviews, case reports, and abstracts were excluded because their quality of studies could not be assessed\n\n\nWe included studies that recruited participants aged 18 years or older who had psoriasis. The main outcome of this study was new onset atrial fibrillation reported as incidence, odds ratio (OR), risk ratio (RR), or hazard ratio (HR) comparing between patients with psoriasis at baseline and without psoriasis"
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "This review included all published prospective observational studies that assessed the association of psoriasis and atrial fibrillation"
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Two authors (AS, SU) independently searched published studies indexed in the MEDLINE and EMBASE databases."
+        ],
+        "negative_ctxs": [
+            5,
+            1
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two authors independently reviewed titles and abstracts of all citations that were identified.  After all abstracts were reviewed, data comparisons between the two investigators were conducted to ensure completeness and reliability. The inclusion criteria were independently applied to all identified studies. Differing decisions were resolved by consensus.  "
+        ],
+        "negative_ctxs": [
+            6,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two authors independently reviewed titles and abstracts of all citations that were identified.  After all abstracts were reviewed, data comparisons between the two investigators were conducted to ensure completeness and reliability. The inclusion criteria were independently applied to all identified studies. Differing decisions were resolved by consensus"
+        ],
+        "negative_ctxs": [
+            7,
+            3
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1: Characteristics of included studies Study (year) Design  Study perio d Study Population Exclusion criteria Participant s (N) End Point Factors adjusted in multivariable analysis Ahlehoff (2012)  Prospectiv e cohort 19972006 Entire Danish Population  Previous atrial fibrillation or stroke 4,518,484 atrial fibrillation, ischemic stroke Calendar year, concomitant medication, comorbidity, socioeconomic data, and gender Bang (2014) Prospectiv e cohort N/A Hypertensiv e patients with left ventricular hypertrophy Established heart failure, myocardial infarction, or atrial fibrillation 7099  atrial fibrillation, heart failure  Age, sex, hemoglobin, diabetes, timevarying SBP, heart rate, study treatment and Sokolow-Lyon hypertrophy Armstron g (2013) Prospectiv e cohort 2004- 2009 Database of University of California Davis Not on cardiac catheterizatio n list  507  atrial fibrillation Race, dyslipidemia, chronic obstructive pulmonary disease, or hypertension Parisi (2015) Prospectiv e cohort 1994- 2009  Patients aged 20 years or older  History of cardiovascular disease 48,523  Major cardiovascular events Inflammatory arthritis, diabetes, chronic kidney disease, hypertension, transient ischemic attack , atrial fibrillation, valvular heart disease, thromboembolis m, congestive heart failure, depression, current smoker, age, and gender "
+        ],
+        "negative_ctxs": [
+            8,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Quality assessment of Included Studies The quality of the included studies was evaluated by Newcastle Ottawa Scale NOS (Table 2). Total score ranged from 58. None of the studies was excluded from the meta-analysis by having poor quality. "
+        ],
+        "negative_ctxs": [
+            1,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We performed meta-analysis of the included studies using Comprehensive Meta-Analysis 3.3 software from Biostat, Inc.  We calculated pooled hazard ratio (HR) of outcome for cohort studies in multivariable model. Factors adjusted included age, sex, co-morbidity, smoker, socioeconomic data. All outcomes were reported as effect estimate and its 95% confidence intervals (CIs) comparing between psoriasis and control groups using a random-effects model."
+        ],
+        "negative_ctxs": [
+            3,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The statistical between-study heterogeneity (I2) was 68%, P=0.01 (Figure 1). In subgroup analysis by severity of psoriasis (Figure 2), there is no difference between mild (HR=1.22, 95%CI 1.15 -1.30) and severe (HR=1.51, 95%CI 1.22 -1.87) psoriasis (P-value between subgroup=0.06).\n\n\nWe excluded studies from meta-analysis and only presented the result with narrative description (qualitative analysis) when there were not sufficient data available for calculating pooled effect size. \n\n\nA sensitivity analysis was performed to assess influence of the individual studies on the overall results by omitting one study at a time and using fixed-effect analysis when I2<40%. Subgroup analysis and meta-regression were performed to find factors that may explain heterogeneity or difference in outcome between each study."
+        ],
+        "negative_ctxs": [
+            14,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The quality of the included studies was evaluated by New-castle Ottawa Scale NOS (Table 2). Total score ranged from 58. None of the studies was excluded from the meta-analysis by having poor quality.  \n\n\nA sensitivity analysis was performed to assess influence of the individual studies on the overall results by omitting one study at a time and using fixed-effect analysis when I2<40%. Subgroup analysis and meta-regression were performed to find factors that may explain heterogeneity or difference in outcome between each study.\n\n\nThe major limitation of our study lies in the fact that observational studies are inherently susceptible to bias and confounding.  \n\n\nMisclassification of cardiovascular diseases and risk factors due to, for example, untreated hypertension, diabetes, or dyslipidemia represents another potential source of bias. In order to eliminate this potential bias, additional cohorts should be studied in specific patient populations with respect to cardiovascular risk factors, specific comorbid conditions to further investigate the association between psoriasis and atrial fibrillation."
+        ],
+        "negative_ctxs": [
+            2,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflict of interest: The authors declare no conflicts of interest. "
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            14
+        ],
+        "positive_ctxs": []
+    }
+]

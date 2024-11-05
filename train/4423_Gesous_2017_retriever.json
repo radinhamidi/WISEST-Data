@@ -1,0 +1,460 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "Protocol - Review question Identify all data available on biological systemic lupus erythematosus flare predictors.\n\nMETHODS: Eligibility criteria and study selection - Interventional studies (randomized or non-randomized, controlled trials) and observational studies (case-control or cohort studies) were included, whereas case reports, literature reviews and editorials were not included. We considered publications involving adults with SLE, addressing the relationships between one or more defined biological test(s) and the occurrence of disease exacerbation. The exclusion criteria were paediatric subjects, other autoimmune diseases and assessment of the role of genetic markers.  "
+        ],
+        "negative_ctxs": [
+            27,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Protocol - Review question - Identify all data available on biological systemic lupus erythematosus flare predictors.\n\nProtocol: Participants/population - Adults with systemic lupus erythematosus - Exclusion criteria : paediatric subjects, other auto-immune diseases. Intervention(s), exposure(s) - Monitoring of biomarker (blood or urine biomarker) - Exclusion criteria : genetic markers Comparator(s)/control - No comparator. Main outcome(s) - Occurence of SLE flares (general or organ-specific flares)."
+        ],
+        "negative_ctxs": [
+            21,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Protocol: Participants/population - Adults with systemic lupus erythematosus - Exclusion criteria : paediatric subjects, other auto-immune diseases. Intervention(s), exposure(s) - Monitoring of biomarker (blood or urine biomarker) - Exclusion criteria : genetic markers Comparator(s)/control - No comparator. Main outcome(s) - Occurence of SLE flares (general or organ-specific flares)."
+        ],
+        "negative_ctxs": [
+            1,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "database search: from inception to 30 April 2015.\n\nThe exclusion criteria were paediatric subjects, other autoimmune diseases and assessment of the role of genetic markers.\n\nFrom Figure 1: Study selection process. ACR American College of Rheumatology, EULAR European League Against Rheumatism - 55 full text articles wre excluded for lack of predictor data"
+        ],
+        "negative_ctxs": [
+            30,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "The search was restricted to the English and French languages and to human subjects."
+        ],
+        "negative_ctxs": [
+            10,
+            26
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A systematic review of the literature was performed using two databases (MEDLINE and EMBASE) through April 2015 and congress abstracts from the American College of Rheumatology and the European League Against Rheumatism\n\nWe also searched clinicaltrials.gov in May 2015 for unpublished studies on this topic."
+        ],
+        "negative_ctxs": [
+            16,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Reference lists of selected papers were hand searched for other relevant publications.\n\nWe also searched clinicaltrials.gov in May 2015 for unpublished studies on this topic.\n\nIn order to cover any research that was not yet published as a manuscript, congress abstracts of the European League Against Rheumatism (EULAR) and the American College of Rheumatology (ACR) from 2010 to 2014 were considered."
+        ],
+        "negative_ctxs": [
+            8,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The exact search strategies are provided in Additional file 1."
+        ],
+        "negative_ctxs": [
+            5,
+            19
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "The search was restricted to the English and French languages and to human subjects.\n\ncase reports, literature reviews and editorials were not included.\n\nThe exclusion criteria were paediatric subjects, other autoimmune diseases and assessment of the role of genetic markers."
+        ],
+        "negative_ctxs": [
+            2,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "The two investigators independently screened the titles and abstracts of references, selected articles for full-text review using the inclusion criteria and assessed the methodological quality. Any discrepancies were resolved through consensus. Two supervisors (PD and CR) participated in resolving disagreements."
+        ],
+        "negative_ctxs": [
+            16,
+            30
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data extraction - The two investigators independently extracted data from each study using a systematic data extraction form (available on request)\n\nAfter extracting data independently for every study, discrepancies were resolved through consensus."
+        ],
+        "negative_ctxs": [
+            19,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Predictivity of anti-dsDNA antibodies in SLE flares\n\nTable 2 Predictivity of complement in SLE flares\n\nTable 3 Predictivity of anti-C1q antibodies in SLE flares\n\nTable 4 Predictivity of anti-ENA in SLE flares\n\nTable 5 Predictivity of cytokines and chemokines in SLE flares\n\nThe detailed characteristics of the included studies appear in Additional file 2."
+        ],
+        "negative_ctxs": [
+            24,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1 Predictivity of anti-dsDNA antibodies in SLE flares\n\nTable 2 Predictivity of complement in SLE flares\n\nTable 3 Predictivity of anti-C1q antibodies in SLE flares\n\nTable 4 Predictivity of anti-ENA in SLE flares\n\nTable 5 Predictivity of cytokines and chemokines in SLE flares"
+        ],
+        "negative_ctxs": [
+            5,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The two investigators independently screened the titles and abstracts of references, selected articles for full-text review using the inclusion criteria and assessed the methodological quality."
+        ],
+        "negative_ctxs": [
+            15,
+            26
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Additional file 2: Studies characteristics"
+        ],
+        "negative_ctxs": [
+            27,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Protocol: Strategy for data synthesis  - A systematic narrative synthesis will be done.  Analysis of subgroups or subsets  - None planned"
+        ],
+        "negative_ctxs": [
+            13,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The results were heterogeneous, and a lack of standardized data prevented us from identifying a powerful biomarker."
+        ],
+        "negative_ctxs": [
+            3,
+            16
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Protocol: Strategy for data synthesis  - A systematic narrative synthesis will be done.  Analysis of subgroups or subsets  - None planned"
+        ],
+        "negative_ctxs": [
+            4,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The search was restricted to the English and French languages and to human subjects. \n\nThe two investigators independently screened the titles and abstracts of references, selected articles for full-text review using the inclusion criteria and assessed the methodological quality\n\nInterventional studies (randomized or non-randomized, controlled trials) and observational studies (case-control or cohort studies) were included, whereas case reports, literature reviews and editorials were not included. We considered publications involving adults with SLE, addressing the relationships between one or more defined biological test(s) and the occurrence of disease exacerbation. The exclusion criteria were paediatric subjects, other autoimmune diseases and assessment of the role of genetic markers."
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Protocol - Review question - Identify all data available on biological systemic lupus erythematosus flare predictors.\n\nProtocol: Participants/population - Adults with systemic lupus erythematosus - Exclusion criteria : paediatric subjects, other auto-immune diseases. Intervention(s), exposure(s) - Monitoring of biomarker (blood or urine biomarker) - Exclusion criteria : genetic markers Comparator(s)/control - No comparator. Main outcome(s) - Occurence of SLE flares (general or organ-specific flares)."
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            21,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "Protocol - Review question Identify all data available on biological systemic lupus erythematosus flare predictors.\n\nMETHODS: Eligibility criteria and study selection - Interventional studies (randomized or non-randomized, controlled trials) and observational studies (case-control or cohort studies) were included, whereas case reports, literature reviews and editorials were not included. We considered publications involving adults with SLE, addressing the relationships between one or more defined biological test(s) and the occurrence of disease exacerbation. The exclusion criteria were paediatric subjects, other autoimmune diseases and assessment of the role of genetic markers.  "
+        ],
+        "negative_ctxs": [
+            15,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Protocol: Participants/population - Adults with systemic lupus erythematosus - Exclusion criteria : paediatric subjects, other auto-immune diseases. Intervention(s), exposure(s) - Monitoring of biomarker (blood or urine biomarker) - Exclusion criteria : genetic markers Comparator(s)/control - No comparator. Main outcome(s) - Occurence of SLE flares (general or organ-specific flares)."
+        ],
+        "negative_ctxs": [
+            16,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Interventional studies (randomized or non-randomized, controlled trials) and observational studies (case-control or cohort studies) were included, whereas case reports, literature reviews and editorials were not included."
+        ],
+        "negative_ctxs": [
+            13,
+            24
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A systematic review of the literature was performed using two databases (MEDLINE and EMBASE) through April 2015 and congress abstracts from the American College of Rheumatology and the European League Against Rheumatism\n\nWe also searched clinicaltrials.gov in May 2015 for unpublished studies on this topic."
+        ],
+        "negative_ctxs": [
+            10,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "The two investigators independently screened the titles and abstracts of references, selected articles for full-text review using the inclusion criteria and assessed the methodological quality. Any discrepancies were resolved through consensus. Two supervisors (PD and CR) participated in resolving disagreements."
+        ],
+        "negative_ctxs": [
+            20,
+            16
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data extraction - The two investigators independently extracted data from each study using a systematic data extraction form (available on request)\n\nAfter extracting data independently for every study, discrepancies were resolved through consensus."
+        ],
+        "negative_ctxs": [
+            21,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Predictivity of anti-dsDNA antibodies in SLE flares\n\nTable 2 Predictivity of complement in SLE flares\n\nTable 3 Predictivity of anti-C1q antibodies in SLE flares\n\nTable 4 Predictivity of anti-ENA in SLE flares\n\nTable 5 Predictivity of cytokines and chemokines in SLE flares\n\nThe detailed characteristics of the included studies appear in Additional file 2."
+        ],
+        "negative_ctxs": [
+            18,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The two investigators independently screened the titles and abstracts of references, selected articles for full-text review using the inclusion criteria and assessed the methodological quality."
+        ],
+        "negative_ctxs": [
+            21,
+            25
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The results were heterogeneous, and a lack of standardized data prevented us from identifying a powerful biomarker."
+        ],
+        "negative_ctxs": [
+            25,
+            10
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Protocol: Strategy for data synthesis  - A systematic narrative synthesis will be done.  Analysis of subgroups or subsets  - None planned"
+        ],
+        "negative_ctxs": [
+            9,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding - This research did not receive any specific grant from funding agencies in the public, commercial or not-for-profit sectors.\n\nCompeting interests - The authors declare that they have no competing interests."
+        ],
+        "negative_ctxs": [
+            5,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The search was restricted to the English and French languages and to human subjects. \n\nThe two investigators independently screened the titles and abstracts of references, selected articles for full-text review using the inclusion criteria and assessed the methodological quality\n\nInterventional studies (randomized or non-randomized, controlled trials) and observational studies (case-control or cohort studies) were included, whereas case reports, literature reviews and editorials were not included. We considered publications involving adults with SLE, addressing the relationships between one or more defined biological test(s) and the occurrence of disease exacerbation. The exclusion criteria were paediatric subjects, other autoimmune diseases and assessment of the role of genetic markers."
+        ],
+        "negative_ctxs": [
+            6,
+            5
+        ],
+        "positive_ctxs": []
+    }
+]

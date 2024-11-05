@@ -1,0 +1,458 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            28,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The aim of this systematic review is to summarize all reported treatments of necrobiotic xanthogranuloma of the skin, with or without underlying malignant condition and based on articles from the PubMed database using the query 'necrobiotic xanthogranuloma treatment', both in English and German, about 'human' subjects and published between 1980 and 2014, documenting adequate treatment for NXG.\n\nexcluding reviews, papers about other diseases and articles without reporting on treatment,"
+        ],
+        "negative_ctxs": [
+            0,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The aim of this systematic review is to summarize all reported treatments of necrobiotic xanthogranuloma of the skin, with or without underlying malignant condition and based on articles from the PubMed database using the query 'necrobiotic xanthogranuloma treatment', both in English and German, about 'human' subjects and published between 1980 and 2014, documenting adequate treatment for NXG.\n\nOur search was limited to 'English' and 'German' language, 'human' subjects and publications from 1 January 1980 to 31 December 2014, documenting adequate treatment for NXG.\n\nexcluding reviews, papers about other diseases and articles without reporting on treatment,"
+        ],
+        "negative_ctxs": [
+            32,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Our search was limited to 'English' and 'German' language, 'human' subjects and publications from 1 January 1980 to 31 December 2014, documenting adequate treatment for NXG\n\nexcluding reviews, papers about other diseases and articles without reporting on treatment"
+        ],
+        "negative_ctxs": [
+            20,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Our search was limited to 'English' and 'German' language, 'human' subjects and publications from 1 January 1980 to 31 December 2014, documenting adequate treatment for NXG\n\nexcluding reviews, papers about other diseases and articles without reporting on treatment"
+        ],
+        "negative_ctxs": [
+            19,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We performed a systematic review based on PubMed, Medline and Web of Science databases using the query 'necrobiotic xanthogranuloma treatment'."
+        ],
+        "negative_ctxs": [
+            23,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Furthermore, we manually searched the references of the retrieved articles for any additional studies. We reviewed the reference lists of the full-length articles to identify additional articles meeting the pre-defined inclusion criteria"
+        ],
+        "negative_ctxs": [
+            10,
+            27
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We performed a systematic review based on PubMed, Medline and Web of Science databases using the query 'necrobiotic xanthogranuloma treatment'."
+        ],
+        "negative_ctxs": [
+            20,
+            3
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Our search was limited to 'English' and 'German' language, 'human' subjects and publications from 1 January 1980 to 31 December 2014, documenting adequate treatment for NXG."
+        ],
+        "negative_ctxs": [
+            25,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Eligibility of the studies was assessed by two independent reviewers and divergences were arbitrated and resolved by a third experienced reviewer."
+        ],
+        "negative_ctxs": [
+            24,
+            19
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Study characteristics\n\nTable 2. Patients' response to treatment with alkylating agents\n\nFor each study included, a summary of author/study year, country, study design, number of patients, therapies, results and haematological or internal malignancies is given in Table 1. "
+        ],
+        "negative_ctxs": [
+            19,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1. Study characteristics\n\nTable 2. Patients' response to treatment with alkylating agents\n\nFor each study included, a summary of author/study year, country, study design, number of patients, therapies, results and haematological or internal malignancies is given in Table 1. "
+        ],
+        "negative_ctxs": [
+            7,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            31,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Table 1. Study characteristics\n\nTable 2. Patients' response to treatment with alkylating agents\n\nFor each study included, a summary of author/study year, country, study design, number of patients, therapies, results and haematological or internal malignancies is given in Table 1. "
+        ],
+        "negative_ctxs": [
+            15,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "After reviewing all full-text articles and excluding reviews, papers about other diseases and articles without reporting on treatment, a total sum of 70 studies, 57 from the initial search and 13 from additional papers, were analysed. For each study included, a summary of author/study year, country, study design, number of patients, therapies, results and haematological or internal malignancies is given in Table 1. The case series from Kossard et al.' were excluded, since we suspected that some of the patients are included in the retrospective study from Finan and Winkelmann.19 For the same reason, we decided to not include the review of Mehregan and Winkelmannet al. from 19928 and the case series from 199820 because the patient population may be the same as in Ugurlu et al. In the retrospective study from Wood et al.,6 one patient case was already published and may have been repeatedly reported. In the study from Ugurlu et al.9 five patients were excluded, but we suspected that some of them may be already included in the studies from Wood et al. or Finan and Winkelmann.\n\nTable 1. Study characteristics"
+        ],
+        "negative_ctxs": [
+            22,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            29,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Table 1. Study characteristics\n\nFor each study included, a summary of author/study year, country, study design, number of patients, therapies, results and haematological or internal malignancies is given in Table 1. "
+        ],
+        "negative_ctxs": [
+            6,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            2,
+            24
+        ],
+        "positive_ctxs": [
+            26
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The aim of this systematic review is to summarize all reported treatments of necrobiotic xanthogranuloma of the skin, with or without underlying malignant condition and based on articles from the PubMed database using the query 'necrobiotic xanthogranuloma treatment', both in English and German, about 'human' subjects and published between 1980 and 2014, documenting adequate treatment for NXG.\n\nOur search was limited to 'English' and 'German' language, 'human' subjects and publications from 1 January 1980 to 31 December 2014, documenting adequate treatment for NXG.\n\nexcluding reviews, papers about other diseases and articles without reporting on treatment,"
+        ],
+        "negative_ctxs": [
+            29,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            31,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We performed a systematic review based on PubMed, Medline and Web of Science databases using the query 'necrobiotic xanthogranuloma treatment'."
+        ],
+        "negative_ctxs": [
+            27,
+            28
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Eligibility of the studies was assessed by two independent reviewers and divergences were arbitrated and resolved by a third experienced reviewer."
+        ],
+        "negative_ctxs": [
+            14,
+            27
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "The case series from Kossard et al.1 were excluded, since we suspected that some of the patients are included in the retrospective study from Finan and Winkelmann.19 For the same reason, we decided to not include the review of Mehregan and Winkelmann et al. from 19928 and the case series from 199820 because the patient population may be the same as in Ugurlu et al. In the retrospective study from Wood et al.,6 one patient case was already published and may have been repeatedly reported. In the study from Ugurlu et al.9 five patients were excluded, but we suspected that some of them may be already included in the studies from Wood et al. or Finan and Winkelmann."
+        ],
+        "negative_ctxs": [
+            13,
+            8
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Study characteristics\n\nTable 2. Patients' response to treatment with alkylating agents\n\nFor each study included, a summary of author/study year, country, study design, number of patients, therapies, results and haematological or internal malignancies is given in Table 1. "
+        ],
+        "negative_ctxs": [
+            20,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "After reviewing all full-text articles and excluding reviews, papers about other diseases and articles without reporting on treatment, a total sum of 70 studies, 57 from the initial search and 13 from additional papers, were analysed. For each study included, a summary of author/study year, country, study design, number of patients, therapies, results and haematological or internal malignancies is given in Table 1. The case series from Kossard et al.' were excluded, since we suspected that some of the patients are included in the retrospective study from Finan and Winkelmann.19 For the same reason, we decided to not include the review of Mehregan and Winkelmannet al. from 19928 and the case series from 199820 because the patient population may be the same as in Ugurlu et al. In the retrospective study from Wood et al.,6 one patient case was already published and may have been repeatedly reported. In the study from Ugurlu et al.9 five patients were excluded, but we suspected that some of them may be already included in the studies from Wood et al. or Finan and Winkelmann.\n\nTable 1. Study characteristics"
+        ],
+        "negative_ctxs": [
+            17,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding Sources: None.\n\nConflicts of interest: None declared."
+        ],
+        "negative_ctxs": [
+            17,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            13
+        ],
+        "positive_ctxs": []
+    }
+]

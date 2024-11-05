@@ -1,0 +1,481 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "Strengths of this review include that it followed a published protocol that included a prespecified search strategy, eligibility criteria, data extraction plan, outcome specification and analysis plan."
+        ],
+        "negative_ctxs": [
+            11,
+            5
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Protocol - Review question -  The aim of this research is to perform a systematic review of randomized controlled trials and observational studies that have evaluated the association between different insulin types, doses, and/or regimens, and cardiovascular disease in adults with Type 2 Diabetes Mellitus (T2DM).\n\nRandomised controlled trials (RCTs), cohort studies or case-control studies examining adults (>=18 years) with type 2 diabetes taking any type, dose and/or regimen of insulin were eligible for inclusion in this review. Outcome measures: Primary outcomes were cardiovascular morbidity and mortality including fatal and/or non-fatal myocardial infarction, fatal and/or non- fatal stroke, major adverse cardiac events and cardiovascular death. All-cause mortality was assessed as a secondary outcome."
+        ],
+        "negative_ctxs": [
+            25,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "adults (>=18 years) with type 2 diabetes taking any type, dose and/or regimen of insulin were eligible for inclusion in this review."
+        ],
+        "negative_ctxs": [
+            4,
+            21
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "adults (>=18 years)\n\nStudies examining short-term insulin regimens in hospitalised patients were excluded.\n\nFigure 1 Selection of studies."
+        ],
+        "negative_ctxs": [
+            19,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "There were no restrictions on publication date or publication status. Articles were restricted to English language only"
+        ],
+        "negative_ctxs": [
+            28,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A comprehensive search was conducted in the following electronic databases from their inception to February 2014: The Cochrane Library, PubMed, EMBASE and the International Pharmaceutical Abstracts."
+        ],
+        "negative_ctxs": [
+            18,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            " full texts of the select articles were evaluated for inclusion and the reference lists of included studies were hand searched for relevant articles."
+        ],
+        "negative_ctxs": [
+            11,
+            19
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix A - Sample search strategy"
+        ],
+        "negative_ctxs": [
+            5,
+            19
+        ],
+        "positive_ctxs": [
+            24
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "There were no restrictions on publication date or publication status. Articles were restricted to English language only."
+        ],
+        "negative_ctxs": [
+            33,
+            20
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Citation screening was conduced using standard systematic review methods whereby two independent trained reviewers (HIP and MDA) used standardised inclusion and exclusion criteria. The title and abstract of each citation was screened and a list of articles for full text review was generated. The full texts of the select articles were evaluated for inclusion and the reference lists of included studies were hand searched for relevant articles. In the case of a discrepancy between reviewers, a third reviewer ( J-MG) was consulted to reach consensus."
+        ],
+        "negative_ctxs": [
+            22,
+            34
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data collection and analysis - Data were extracted independently in duplicate using a standardised and piloted data extraction spreadsheet (HIP and MDA), consulting a third reviewer (J-MG) if necessary to reach consensus."
+        ],
+        "negative_ctxs": [
+            23,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Characteristics of included studies.\n\nFinally, a cohort study by Rhoads et al compared the incidence of an acute MI in new users (n=20 191; average age 56 years; 46% were female; average follow-up of 2 years)"
+        ],
+        "negative_ctxs": [
+            12,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1 Characteristics of included studies.\n\nCV outcomes (text)\n\nFigure 2 Unadjusted relative risk (95% CI) of cardiovascular outcomes and all-cause mortality using different insulin regimen calculated based on number of events from included RCTs (MI, myocardial infarction; RCTs, randomised controlled trials; UGDP, University Group Diabetes Program).\n\nFigure 3 Point estimates (95% CI) of cardiovascular outcomes and all-cause mortality using different insulin regimens reported by included cohort studies (MI, myocardial infarction; NPH, neutral protamine hagedorn; OADs, oral antidiabetic drugs).\n\nQuantitative synthesis of the results from included studies was not possible due to a large amount of clinical heterogeneity. Each study evaluated cardiovascular outcomes across different insulin-exposure contrasts."
+        ],
+        "negative_ctxs": [
+            20,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Risk of bias assessment - The methodological quality of included studies was eval-uated. RCTs were assessed using the Cochrane Risk of Bias tool and cohort studies were assessed using the Newcastle Ottawa Scale. Two independent reviewers (HIP and MDA) performed each quality assessment, consulting a third reviewer ( J-MG) if necessary.\n\nAppendix C- Assessment of randomized controlled trials for risk of bias\n\nAppendix D- Assessment of cohort studies for risk of bias"
+        ],
+        "negative_ctxs": [
+            2,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "The methodological quality of included studies was evaluated. RCTs were assessed using the Cochrane Risk of Bias tool12 and cohort studies were assessed using the Newcastle-Ottawa Scale.13 Two independent reviewers (HIP and MDA) performed each quality assessment, consulting a third reviewer ( J-MG) if necessary."
+        ],
+        "negative_ctxs": [
+            35,
+            28
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Figure 2 Unadjusted relative risk (95% CI) of cardiovascular outcomes and all-cause mortality using different insulin regimens calculated based on number of events from included RCTs (MI, myocardial infarction; RCTs, randomised controlled trials; UGDP, University Group Diabetes Program).\n\nFigure 3 Point estimates (95% CI) of cardiovascular outcomes and all-cause mortality using different insulin regimens reported by included cohort studies (MI, myocardial infarction; NPH, neutral protamine hagedorn; OADs, oral antidiabetic drugs)."
+        ],
+        "negative_ctxs": [
+            8,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Protocol: Strategy for data synthesis - Results will be expressed using relative risks. A random effects model will be used to estimate the pooled overall treatment effect of insulin on cardiovascular outcomes as long as the amount of statistical heterogeneity remains below 75% as measured by the I-squared. Randomized controlled trials and observational studies will be pooled separately. Heterogeneity will be explored using meta-regression and stratification as specified in the subgroups below. Analysis of subgroups or subsets - If possible\n\nThe authors determined that it was inappropriate to meta-analyse the CV outcome data due to the clinical heterogeneity of insulin regimens (exposure groups) compared across studies. Results are presented stratified by CV event type and study design.\n\nDiscussion - These eight studies were disparate in design and execution, whereby none of the studies examined CV risk across identical exposure categories. This high degree of clinical heterogeneity precluded the use of meta-analytic techniques to summarise a common treatment effect. Therefore, our systematic review descriptively summarised the results from each study.\n\nStrengths of this review include that it followed a published protocol that included a prespecified search strategy, eligibility criteria, data extraction plan, outcome specification and analysis plan."
+        ],
+        "negative_ctxs": [
+            9,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We identified eight studies, two RCTs and six cohort studies, which were specifically designed to evaluate differences in CV outcomes between insulin regimens. These eight studies were disparate in design and execution, whereby none of the studies examined CV risk across identical exposure categories. This high degree of clinical heterogeneity precluded the use of meta-analytic techniques to summarise a common treatment effect. Therefore, our systematic review descriptively summarised the results from each study.\n\nThe authors determined that it was inappropriate to meta-analyse the CV outcome data due to the clinical heterogeneity of insulin regimens (exposure groups) compared across studies. Results are presented stratified by CV event type and study design."
+        ],
+        "negative_ctxs": [
+            19,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "A quantitative synthesis was not possible due to the large amount of clinical heterogeneity in exposures across studies."
+        ],
+        "negative_ctxs": [
+            6,
+            24
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "We also did not assess publication bias due to the small number of studies included,\n\nThis review summarises the data from eight studies (2 RCTs and 6 cohort studies)"
+        ],
+        "negative_ctxs": [
+            11,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "A risk of bias assessment was performed for each included study, the results of which guided data interpretation and analysis.\n\nOnline supplementary appendices C and D contain the results of the risk of bias assessment for RCTs and cohort studies included in our systematic review. In summary, both RCTs were highly susceptible to bias as several domains within the Cochrane Risk of Bias tool indicated several sources of potential bias. Although the cohort studies scored relatively high on the Newcastle-Ottawa Scale, whereby all studies had six or more stars out of a maximum of nine stars, most studies did not demonstrate that the outcome of interest had not occurred prior to cohort entry for non-fatal CV events. Given many studies did not appear to validate that CV events had not occurred prior to insulin initiation, these studies may have included patients that experienced either an incident or recurrent CV event, which in turn would impact event risks and comparability among study results.\n\nResults from the included RCTs must be interpreted with caution given their susceptibility to bias and lack of generalisability to today's type 2 diabetes population. For example, treatment algorithms for type 2 diabetes and insulin formulations have changed substantially since the UGDP was completed over 30 years ago.\n\nOur systematic review included cohort studies of varying susceptibility to bias with the majority found to have a low overall risk of bias."
+        ],
+        "negative_ctxs": [
+            25,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "A risk of bias assessment was performed for each included study, the results of which guided data interpretation and analysis. Unfortunately, we were unable to quantitatively pool the data due to the extremely high degree of clinical heterogeneity. We also did not assess publication bias due to the small number of studies included, which again were heterogeneous in their exposure groups. Further limitations include the lack of a search strategy to explicitly identify grey literature. We decided to focus the search strategy on biomedical databases and the reference lists of relevant studies. Non-English language papers were excluded from this review; however, previous literature suggests that language restrictions do not impact the findings of systematic reviews.\n\nResults from the included RCTs must be interpreted with caution given their susceptibility to bias and lack of generalisability to today's type 2 diabetes population.\n\nOur systematic review included cohort studies of varying susceptibility to bias with the majority found to have a low overall risk of bias."
+        ],
+        "negative_ctxs": [
+            25,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Protocol - Review question -  The aim of this research is to perform a systematic review of randomized controlled trials and observational studies that have evaluated the association between different insulin types, doses, and/or regimens, and cardiovascular disease in adults with Type 2 Diabetes Mellitus (T2DM).\n\nRandomised controlled trials (RCTs), cohort studies or case-control studies examining adults (>=18 years) with type 2 diabetes taking any type, dose and/or regimen of insulin were eligible for inclusion in this review. Outcome measures: Primary outcomes were cardiovascular morbidity and mortality including fatal and/or non-fatal myocardial infarction, fatal and/or non- fatal stroke, major adverse cardiac events and cardiovascular death. All-cause mortality was assessed as a secondary outcome."
+        ],
+        "negative_ctxs": [
+            13,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            12,
+            32
+        ],
+        "positive_ctxs": [
+            34,
+            35,
+            36,
+            37
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "Strengths of this review include that it followed a published protocol that included a prespecified search strategy, eligibility criteria, data extraction plan, outcome specification and analysis plan."
+        ],
+        "negative_ctxs": [
+            26,
+            4
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "adults (>=18 years) with type 2 diabetes taking any type, dose and/or regimen of insulin were eligible for inclusion in this review."
+        ],
+        "negative_ctxs": [
+            18,
+            31
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Protocol: Types of study to be included - This systematic review will include randomized controlled trials, cohort studies and case-control studies.\n\nResults: All of the included studies were designed to investigate CV (cardiovascular) outcomes in adults with type 2 diabetes using different insulin regimens."
+        ],
+        "negative_ctxs": [
+            7,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A comprehensive search was conducted in the following electronic databases from their inception to February 2014: The Cochrane Library, PubMed, EMBASE and the International Pharmaceutical Abstracts."
+        ],
+        "negative_ctxs": [
+            32,
+            37
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Citation screening was conduced using standard systematic review methods whereby two independent trained reviewers (HIP and MDA) used standardised inclusion and exclusion criteria. The title and abstract of each citation was screened and a list of articles for full text review was generated. The full texts of the select articles were evaluated for inclusion and the reference lists of included studies were hand searched for relevant articles. In the case of a discrepancy between reviewers, a third reviewer ( J-MG) was consulted to reach consensus."
+        ],
+        "negative_ctxs": [
+            27,
+            25
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data collection and analysis - Data were extracted independently in duplicate using a standardised and piloted data extraction spreadsheet (HIP and MDA), consulting a third reviewer (J-MG) if necessary to reach consensus."
+        ],
+        "negative_ctxs": [
+            3,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Appendix B- Citation list of excluded studies with exclusion reasons"
+        ],
+        "negative_ctxs": [
+            18,
+            13
+        ],
+        "positive_ctxs": [
+            26
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Characteristics of included studies.\n\nFinally, a cohort study by Rhoads et al compared the incidence of an acute MI in new users (n=20 191; average age 56 years; 46% were female; average follow-up of 2 years)"
+        ],
+        "negative_ctxs": [
+            33,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Risk of bias assessment - The methodological quality of included studies was eval-uated. RCTs were assessed using the Cochrane Risk of Bias tool and cohort studies were assessed using the Newcastle Ottawa Scale. Two independent reviewers (HIP and MDA) performed each quality assessment, consulting a third reviewer ( J-MG) if necessary.\n\nAppendix C- Assessment of randomized controlled trials for risk of bias\n\nAppendix D- Assessment of cohort studies for risk of bias"
+        ],
+        "negative_ctxs": [
+            22,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We identified eight studies, two RCTs and six cohort studies, which were specifically designed to evaluate differences in CV outcomes between insulin regimens. These eight studies were disparate in design and execution, whereby none of the studies examined CV risk across identical exposure categories. This high degree of clinical heterogeneity precluded the use of meta-analytic techniques to summarise a common treatment effect. Therefore, our systematic review descriptively summarised the results from each study.\n\nThe authors determined that it was inappropriate to meta-analyse the CV outcome data due to the clinical heterogeneity of insulin regimens (exposure groups) compared across studies. Results are presented stratified by CV event type and study design."
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "A quantitative synthesis was not possible due to the large amount of clinical heterogeneity in exposures across studies."
+        ],
+        "negative_ctxs": [
+            18,
+            0
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "We also did not assess publication bias due to the small number of studies included,\n\nThis review summarises the data from eight studies (2 RCTs and 6 cohort studies)"
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "A risk of bias assessment was performed for each included study, the results of which guided data interpretation and analysis.\n\nOnline supplementary appendices C and D contain the results of the risk of bias assessment for RCTs and cohort studies included in our systematic review. In summary, both RCTs were highly susceptible to bias as several domains within the Cochrane Risk of Bias tool indicated several sources of potential bias. Although the cohort studies scored relatively high on the Newcastle-Ottawa Scale, whereby all studies had six or more stars out of a maximum of nine stars, most studies did not demonstrate that the outcome of interest had not occurred prior to cohort entry for non-fatal CV events. Given many studies did not appear to validate that CV events had not occurred prior to insulin initiation, these studies may have included patients that experienced either an incident or recurrent CV event, which in turn would impact event risks and comparability among study results.\n\nResults from the included RCTs must be interpreted with caution given their susceptibility to bias and lack of generalisability to today's type 2 diabetes population. For example, treatment algorithms for type 2 diabetes and insulin formulations have changed substantially since the UGDP was completed over 30 years ago.\n\nOur systematic review included cohort studies of varying susceptibility to bias with the majority found to have a low overall risk of bias."
+        ],
+        "negative_ctxs": [
+            14,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Table 1 Characteristics of included studies"
+        ],
+        "negative_ctxs": [
+            22,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding - This study was supported by the Newfoundland and Labrador Research and Development Corporation. J-MG is supported by a New Investigator Award from the Canadian Institutes of Health Research and a Clinician Scientist Award from the Canadian Diabetes Association.\n\nCompeting interests - None."
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": [
+            20
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "A risk of bias assessment was performed for each included study, the results of which guided data interpretation and analysis. Unfortunately, we were unable to quantitatively pool the data due to the extremely high degree of clinical heterogeneity. We also did not assess publication bias due to the small number of studies included, which again were heterogeneous in their exposure groups. Further limitations include the lack of a search strategy to explicitly identify grey literature. We decided to focus the search strategy on biomedical databases and the reference lists of relevant studies. Non-English language papers were excluded from this review; however, previous literature suggests that language restrictions do not impact the findings of systematic reviews.\n\nResults from the included RCTs must be interpreted with caution given their susceptibility to bias and lack of generalisability to today's type 2 diabetes population.\n\nOur systematic review included cohort studies of varying susceptibility to bias with the majority found to have a low overall risk of bias."
+        ],
+        "negative_ctxs": [
+            23,
+            22
+        ],
+        "positive_ctxs": []
+    }
+]

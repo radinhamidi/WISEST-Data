@@ -1,0 +1,458 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The objective of this meta-analysis was to systematically review randomized\ncontrolled trials (RCTs) of VTE prophylaxis in medically ill patients to determine whether there is a\ndifference in efficacy and safety profiles between UFH, LMWH (or fondaparinux), and placebo.\n\nstudies were included in the analysis if\r\nthey included medically ill patients with risk factors\r\nfor VTE who had been followed up for 7 to 21 days.\r\nWe clustered dalteparin, enoxaparin, nadroparin, and\r\nfondaparinux together in the LMWH/fondaparinux\r\ngroup. Fondaparinux was included with LMWH agents\r\nfor practicality since fondaparinux has been regarded\r\nas an \"ultra-LMWH\" and because the pharmacokinetic\r\nand pharmacodynamic properties of fondaparinux\r\nare similar to other LMWH agents, 19 although the\r\nUS Food and Drug Administration has recently classified\r\nit as a selective factor Xa inhibitor. 2deg,21 Efficacy\r\nend points of any VTE, DVT, or fatal or nonfatal\r\nPE (considered thrombotic events) were selected for\r\ncomparison, as well as tolerability end points including\r\nmajor or minor bleeding, fatal bleeding, and VTErelated\r\ndeath. We used the diagnostic criteria for medically\r\nill, VTE, DVT, PE, major bleeding, and minor\r\nbleeding provided by each study. Studies failing to report\r\ndrug doses or excluding end points of VTE, fatal\r\nor nonfatal PE, or bleeding were excluded from the\r\nanalysis."
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "studies were included in the analysis if\nthey included medically ill patients with risk factors\nfor VTE who had been followed up for 7 to 21 days.\nWe clustered dalteparin, enoxaparin, nadroparin, and\nfondaparinux together in the LMWH/fondaparinux\ngroup. Fondaparinux was included with LMWH agents\nfor practicality since fondaparinux has been regarded\nas an \"ultra-LMWH\" and because the pharmacokinetic\nand pharmacodynamic properties of fondaparinux\nare similar to other LMWH agents, 19 although the\nUS Food and Drug Administration has recently classified\nit as a selective factor Xa inhibitor. 2deg,21 Efficacy\nend points of any VTE, DVT, or fatal or nonfatal\nPE (considered thrombotic events) were selected for\ncomparison, as well as tolerability end points including\nmajor or minor bleeding, fatal bleeding, and VTErelated\ndeath. We used the diagnostic criteria for medically\nill, VTE, DVT, PE, major bleeding, and minor\nbleeding provided by each study. Studies failing to report\ndrug doses or excluding end points of VTE, fatal\nor nonfatal PE, or bleeding were excluded from the\nanalysis."
+        ],
+        "negative_ctxs": [
+            0,
+            10
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Studies failing to report drug doses or excluding end points of VTE, fatal or nonfatal PE, or bleeding were excluded from the analysis.\n\nWe only included RCTs with a corresponding Jadad score of 3 or greater (maximum score, 5). Discrepancies in Jadad score assignment and inclusion criteria were resolved through consensus and discussion.\n\nThe 5 excluded trials included patients who failed to achieve a minimum Jadad score of 3, mainly due to lack\nof randomization. 5,16,17,34,35 Although patients who have experienced stroke are regarded as medically ill, trials that comprised solely stroke patients were excluded as a recently published meta-analysis addresses VTE prophylaxis in this population, and the objective of the current study was to examine an unselected medically ill population as seen in routine clinical practice. "
+        ],
+        "negative_ctxs": [
+            3,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We systematically searched MEDLINE, EMBASE,\r\nand the Cochrane Controlled Trials Registry from\r\nJanuary 1981 through September 2007 for Englishlanguage\r\nRCTs"
+        ],
+        "negative_ctxs": [
+            0,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We systematically searched MEDLINE, EMBASE,\nand the Cochrane Controlled Trials Registry from\nJanuary 1981 through September 2007"
+        ],
+        "negative_ctxs": [
+            0,
+            17
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We searched references of included articles and key review papers for additional studies"
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "using the following\r\nterms: dalteparin, enoxaparin, fondaparinux,\r\nnadroparin, and heparin"
+        ],
+        "negative_ctxs": [
+            8,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We systematically searched MEDLINE, EMBASE,\nand the Cochrane Controlled Trials Registry from\nJanuary 1981 through September 2007 for English language RCTs evaluating UFH, LMWH, or fondaparinux for the reduction of in-hospital VTE in the unselected medically ill population using the following terms: dalteparin, enoxaparin, fondaparinux,\nnadroparin, and heparin."
+        ],
+        "negative_ctxs": [
+            10,
+            17
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Three reviewers (A.O.K., M.A.S., and J.L.D.) independently\nevaluated each study for inclusion and exclusion\ncriteria and tolerability and efficacy end points\nand assigned Jadad scores"
+        ],
+        "negative_ctxs": [
+            4,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Three reviewers (A.O.K., M.A.S., and J.L.D.) independently evaluated each study for inclusion and exclusion criteria and tolerability and efficacy end points\nand assigned Jadad scores. 22,23 We only included RCTs with a corresponding Jadad score of 3 or\ngreater (maximum score, 5). Discrepancies in Jadad score assignment and inclusion criteria were resolved through consensus and discussion. We abstracted\nstudy characteristics including number of patients, patient age, sex, reason for admission, risk factors for\nVTE events, drug, dose, route, schedule, efficacy end\npoints (VTE, DVT, and PE) and tolerability end points\n(major and minor bleeding)."
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The total number of patients included in this analysis\r\nwas 12,391, of which 8357 were in placebo-controlled\r\ntrials. 1s,26-29 The mean age for the entire\r\ncohort was 72.8 years, with similar distributions in regard\r\nto other baseline characteristics (Tables I and II).\r\nMean body mass index was 25.6 kg/m 2 and mean\r\nactual body weight was 68.2 kg. Heart failure was reported\r\nmore frequently (29.4%) than acute respiratory\r\ndisease (22.4%) or infection/inflammation (24.7%)\r\n(Table II). The majority of trials excluded patients\r\nwho were mechanically ventilated, had active bleeding,\r\nrenal failure, conditions requiring full anticoagulation,\r\nor who were pregnant.\n\nTable I. Characteristics of trials included in the meta-analysis."
+        ],
+        "negative_ctxs": [
+            12,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Three reviewers (A.O.K., M.A.S., and J.L.D.) independently\nevaluated each study for inclusion and exclusion\ncriteria and tolerability and efficacy end points\nand assigned Jadad scores. 22,23 We only included\nRCTs with a corresponding Jadad score of 3 or\ngreater (maximum score, 5). Discrepancies in Jadad\nscore assignment and inclusion criteria were resolved\nthrough consensus and discussion."
+        ],
+        "negative_ctxs": [
+            13,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Three reviewers (A.O.K., M.A.S., and J.L.D.) independently evaluated each study for inclusion and exclusion criteria and tolerability and efficacy end points and assigned Jadad scores. 22,23 We only included\nRCTs with a corresponding Jadad score of 3 or\ngreater (maximum score, 5). Discrepancies in Jadad\nscore assignment and inclusion criteria were resolved\nthrough consensus and discussion."
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "After examining the abstracts\nand titles, we selected 14 trials for more detailed\nevaluation, of which 9 fulfilled the predefined inclusion\ncriteria\n\nTable II. Demographic characteristics of patients included in the meta-analysis."
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "we extracted from each study data to create 3 major comparisons\nof efficacy evaluating LMWH/fondaparinux\nagainst placebo, LMWH/fondaparinux against UFH,\nor the combination of LMWH/fondaparinux versus\nUFH or placebo for the reduction of VTE and the occurrence\nof new bleedingData pertaining to each\nevent were represented as proportions and a metaanalysis\nwas constructed using Comprehensive Meta\nAnalysis version 2.2 (Englewood, New Jersey). We\nalso used the Der Simonian and Laird random-effects\nmodel to calculate pooled odds ratios (ORs) and corresponding\n95% CI, with a P value _<0.05 considered\nstatistically significant. 24 The I2 statistic was used to\nestimate variability from heterogeneity in the effect\nsize of each selected end point. 25 Meta-regression, according\nto baseline risk factors, was performed to explore\nadditional relationships between efficacy and\ntolerability end points. \n\nWe clustered dalteparin, enoxaparin, nadroparin, and\nfondaparinux together in the LMWH/fondaparinux\ngroup. Fondaparinux was included with LMWH agents\nfor practicality since fondaparinux has been regarded\nas an \"ultra-LMWH\" and because the pharmacokinetic\nand pharmacodynamic properties of fondaparinux\nare similar to other LMWH agents, 19 although the\nUS Food and Drug Administration has recently classified\nit as a selective factor Xa inhibitor"
+        ],
+        "negative_ctxs": [
+            17,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The I2 statistic was used to\r\nestimate variability from heterogeneity in the effect\r\nsize of each selected end point. 25 Meta-regression, according\r\nto baseline risk factors, was performed to explore\r\nadditional relationships between efficacy and\r\ntolerability end points."
+        ],
+        "negative_ctxs": [
+            16,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "We only included RCTs with a corresponding Jadad score of 3 or\ngreater (maximum score, 5).\n\nAfter examining the abstracts\nand titles, we selected 14 trials for more detailed\nevaluation, of which 9 fulfilled the predefined inclusion\ncriteria (Table I). ls,26-33 All included reports were RCTs.\nThe 5 excluded trials included patients who failed to\nachieve a minimum Jadad score of 3, mainly due to lack\nof randomization."
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Limitations to this meta-analysis should be discussed,\r\nincluding differences across and within studies.\r\nFirst, not all studies used the same criteria for VTE\r\ndiagnosis or bleeding definitions. In addition, it may\r\nnot be ideal to group all LMWHs in 1 drug class because\r\nthere are subtle differences between LMWH\r\nagents. We included fondaparinux in the LMWH\r\ngroup because (1) it has similar pharmacokinetic and\r\npharmacodynamic characteristics to other LMWH\r\nagents; (2) it is the only selective factor Xa inhibitor\r\navailable for comparison; and (3) only 1 trial of fondaparinux\r\nin the medically ill population is available\r\nfor comparison. Recognizing these limitations, and in\r\nthe absence of other comparator trials, we felt it was\r\nreasonable to combine fondaparinux with other\r\nLMWH agents into 1 group. Also, because the focus\r\nof this analysis was to look at outcomes, the issue of\r\nstrict pharmacologic classification was judged to be\r\nless important than the analysis of existing evidence of\r\nefficacy or safety profiles in the routine clinical practice.\r\nAdditionally, only English-language studies were\r\nincluded in this meta-analysis."
+        ],
+        "negative_ctxs": [
+            17,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The objective\nof this meta-analysis was to systematically review randomized\ncontrolled trials (RCTs) of VTE prophylaxis\nin medically ill patients to determine whether there is a\ndifference in efficacy and safety profiles between UFH,\nLMWH (or fondaparinux), and placebo.\n\nThe total number of patients included in this analysis\nwas 12,391, of which 8357 were in placebo-controlled\ntrials. 1s,26-29 The mean age for the entire\ncohort was 72.8 years, with similar distributions in regard\nto other baseline characteristics (Tables I and II).\nMean body mass index was 25.6 kg/m 2 and mean\nactual body weight was 68.2 kg. Heart failure was reported\nmore frequently (29.4%) than acute respiratory\ndisease (22.4%) or infection/inflammation (24.7%)\n(Table II). The majority of trials excluded patients\nwho were mechanically ventilated, had active bleeding,\nrenal failure, conditions requiring full anticoagulation,\nor who were pregnant.\n\nTable I. Characteristics of trials included in the meta-analysis."
+        ],
+        "negative_ctxs": [
+            4,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "studies were included in the analysis if\nthey included medically ill patients with risk factors\nfor VTE who had been followed up for 7 to 21 days.\nWe clustered dalteparin, enoxaparin, nadroparin, and\nfondaparinux together in the LMWH/fondaparinux\ngroup. Fondaparinux was included with LMWH agents\nfor practicality since fondaparinux has been regarded\nas an \"ultra-LMWH\" and because the pharmacokinetic\nand pharmacodynamic properties of fondaparinux\nare similar to other LMWH agents, 19 although the\nUS Food and Drug Administration has recently classified\nit as a selective factor Xa inhibitor. 2deg,21 Efficacy\nend points of any VTE, DVT, or fatal or nonfatal\nPE (considered thrombotic events) were selected for\ncomparison, as well as tolerability end points including\nmajor or minor bleeding, fatal bleeding, and VTErelated\ndeath. We used the diagnostic criteria for medically\nill, VTE, DVT, PE, major bleeding, and minor\nbleeding provided by each study. Studies failing to report\ndrug doses or excluding end points of VTE, fatal\nor nonfatal PE, or bleeding were excluded from the\nanalysis."
+        ],
+        "negative_ctxs": [
+            7,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We systematically searched MEDLINE, EMBASE,\nand the Cochrane Controlled Trials Registry from\nJanuary 1981 through September 2007"
+        ],
+        "negative_ctxs": [
+            11,
+            4
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Three reviewers (A.O.K., M.A.S., and J.L.D.) independently\nevaluated each study for inclusion and exclusion\ncriteria and tolerability and efficacy end points\nand assigned Jadad scores"
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Three reviewers (A.O.K., M.A.S., and J.L.D.) independently evaluated each study for inclusion and exclusion criteria and tolerability and efficacy end points\nand assigned Jadad scores. 22,23 We only included RCTs with a corresponding Jadad score of 3 or\ngreater (maximum score, 5). Discrepancies in Jadad score assignment and inclusion criteria were resolved through consensus and discussion. We abstracted\nstudy characteristics including number of patients, patient age, sex, reason for admission, risk factors for\nVTE events, drug, dose, route, schedule, efficacy end\npoints (VTE, DVT, and PE) and tolerability end points\n(major and minor bleeding)."
+        ],
+        "negative_ctxs": [
+            16,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "After examining the abstracts and titles, we selected 14 trials for more detailed\nevaluation, of which 9 fulfilled the predefined inclusion\ncriteria (Table I). ls,26-33 All included reports were RCTs.\nThe 5 excluded trials included patients who failed to\nachieve a minimum Jadad score of 3, mainly due to lack\nof randomization. 5,16,17,34,35"
+        ],
+        "negative_ctxs": [
+            17,
+            6
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The total number of patients included in this analysis\r\nwas 12,391, of which 8357 were in placebo-controlled\r\ntrials. 1s,26-29 The mean age for the entire\r\ncohort was 72.8 years, with similar distributions in regard\r\nto other baseline characteristics (Tables I and II).\r\nMean body mass index was 25.6 kg/m 2 and mean\r\nactual body weight was 68.2 kg. Heart failure was reported\r\nmore frequently (29.4%) than acute respiratory\r\ndisease (22.4%) or infection/inflammation (24.7%)\r\n(Table II). The majority of trials excluded patients\r\nwho were mechanically ventilated, had active bleeding,\r\nrenal failure, conditions requiring full anticoagulation,\r\nor who were pregnant.\n\nTable I. Characteristics of trials included in the meta-analysis."
+        ],
+        "negative_ctxs": [
+            16,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Three reviewers (A.O.K., M.A.S., and J.L.D.) independently\nevaluated each study for inclusion and exclusion\ncriteria and tolerability and efficacy end points\nand assigned Jadad scores. 22,23 We only included\nRCTs with a corresponding Jadad score of 3 or\ngreater (maximum score, 5). Discrepancies in Jadad\nscore assignment and inclusion criteria were resolved\nthrough consensus and discussion."
+        ],
+        "negative_ctxs": [
+            14,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "we extracted from each study data to create 3 major comparisons\nof efficacy evaluating LMWH/fondaparinux\nagainst placebo, LMWH/fondaparinux against UFH,\nor the combination of LMWH/fondaparinux versus\nUFH or placebo for the reduction of VTE and the occurrence\nof new bleedingData pertaining to each\nevent were represented as proportions and a metaanalysis\nwas constructed using Comprehensive Meta\nAnalysis version 2.2 (Englewood, New Jersey). We\nalso used the Der Simonian and Laird random-effects\nmodel to calculate pooled odds ratios (ORs) and corresponding\n95% CI, with a P value _<0.05 considered\nstatistically significant. 24 The I2 statistic was used to\nestimate variability from heterogeneity in the effect\nsize of each selected end point. 25 Meta-regression, according\nto baseline risk factors, was performed to explore\nadditional relationships between efficacy and\ntolerability end points. \n\nWe clustered dalteparin, enoxaparin, nadroparin, and\nfondaparinux together in the LMWH/fondaparinux\ngroup. Fondaparinux was included with LMWH agents\nfor practicality since fondaparinux has been regarded\nas an \"ultra-LMWH\" and because the pharmacokinetic\nand pharmacodynamic properties of fondaparinux\nare similar to other LMWH agents, 19 although the\nUS Food and Drug Administration has recently classified\nit as a selective factor Xa inhibitor"
+        ],
+        "negative_ctxs": [
+            13,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The I2 statistic was used to\r\nestimate variability from heterogeneity in the effect\r\nsize of each selected end point. 25 Meta-regression, according\r\nto baseline risk factors, was performed to explore\r\nadditional relationships between efficacy and\r\ntolerability end points."
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "We only included RCTs with a corresponding Jadad score of 3 or\ngreater (maximum score, 5).\n\nAfter examining the abstracts\nand titles, we selected 14 trials for more detailed\nevaluation, of which 9 fulfilled the predefined inclusion\ncriteria (Table I). ls,26-33 All included reports were RCTs.\nThe 5 excluded trials included patients who failed to\nachieve a minimum Jadad score of 3, mainly due to lack\nof randomization."
+        ],
+        "negative_ctxs": [
+            6,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "ACKNOWLEDGMENTS\nDrs. Kanaan, Silva, Donovan, and A1-Homsi have received\nresearch support through a grant from\nGlaxoSmithKline. Dr. Donovan serves on the speakers'\nbureau for sanofi-aventis; Dr. A1-Homsi is a consultant\nfor Celgene Corporation; and Ms. Roy serves\non the speakers' bureau for GlaxoSmithKline and\nCelgene Corporation."
+        ],
+        "negative_ctxs": [
+            7,
+            15
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Limitations to this meta-analysis should be discussed,\r\nincluding differences across and within studies.\r\nFirst, not all studies used the same criteria for VTE\r\ndiagnosis or bleeding definitions. In addition, it may\r\nnot be ideal to group all LMWHs in 1 drug class because\r\nthere are subtle differences between LMWH\r\nagents. We included fondaparinux in the LMWH\r\ngroup because (1) it has similar pharmacokinetic and\r\npharmacodynamic characteristics to other LMWH\r\nagents; (2) it is the only selective factor Xa inhibitor\r\navailable for comparison; and (3) only 1 trial of fondaparinux\r\nin the medically ill population is available\r\nfor comparison. Recognizing these limitations, and in\r\nthe absence of other comparator trials, we felt it was\r\nreasonable to combine fondaparinux with other\r\nLMWH agents into 1 group. Also, because the focus\r\nof this analysis was to look at outcomes, the issue of\r\nstrict pharmacologic classification was judged to be\r\nless important than the analysis of existing evidence of\r\nefficacy or safety profiles in the routine clinical practice.\r\nAdditionally, only English-language studies were\r\nincluded in this meta-analysis."
+        ],
+        "negative_ctxs": [
+            8,
+            15
+        ],
+        "positive_ctxs": []
+    }
+]

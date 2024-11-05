@@ -1,0 +1,465 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The main objective of\nthis review was to determine whether the use of scalp cooling\nversus no scalp cooling in RCTs (in aggregate) significantly\nreduced alopecia when used with chemotherapy regimens for\ncancer.\n\nRandomized controlled trials that investigated the effect of scalp\ncooling versus no scalp cooling in patients receiving chemotherapy\nwere included. Quasi-RCTs, that is, trials in which participants\nwere allocated according to date of birth, day of the week, medical\nrecord number, month of the year, or order of inclusion in the study\n(eg, alternation), were included only in the absence of RCTs. Since\nRCT's were identified in the systematic searches, quasi-RCT's were\nnot included. All languages were considered.\nAny type of scalp cooling system was included in the analysis.\nEach scalp cooling system as treatment was in place approximately\n15 to 20 minutes before, during, and 30 to 60 minutes after\nchemotherapy.\nThe primary outcome measure evaluated was the extent of alopecia\nduring and after chemotherapy regimens for treating cancer"
+        ],
+        "negative_ctxs": [
+            15,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Randomized controlled trials that investigated the effect of scalp\ncooling versus no scalp cooling in patients receiving chemotherapy\nwere included. Quasi-RCTs, that is, trials in which participants\nwere allocated according to date of birth, day of the week, medical\nrecord number, month of the year, or order of inclusion in the study\n(eg, alternation), were included only in the absence of RCTs. Since\nRCT's were identified in the systematic searches, quasi-RCT's were\nnot included. All languages were considered.\nAny type of scalp cooling system was included in the analysis.\nEach scalp cooling system as treatment was in place approximately\n15 to 20 minutes before, during, and 30 to 60 minutes after\nchemotherapy.\nThe primary outcome measure evaluated was the extent of alopecia\nduring and after chemotherapy regimens for treating cancer"
+        ],
+        "negative_ctxs": [
+            24,
+            8
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Quasi-RCTs, that is, trials in which participants\r\nwere allocated according to date of birth, day of the week, medical\r\nrecord number, month of the year, or order of inclusion in the study\r\n(eg, alternation), were included only in the absence of RCTs. Since\r\nRCT's were identified in the systematic searches, quasi-RCT's were\r\nnot included."
+        ],
+        "negative_ctxs": [
+            13,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "All languages were considered."
+        ],
+        "negative_ctxs": [
+            20,
+            24
+        ],
+        "positive_ctxs": [
+            1,
+            6
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Electronic searches performed were:\n\u0004 The Cochrane Database of Systematic Reviews (searched\nNovember 11, 2015), which also included:\nThe Cochrane Central Register of Controlled Trials (2015,\nIssue 3)\n\u0004 Centre for Reviews and Dissemination\nThe Database of Abstracts of Reviews of Effects (2015, Issue 1)\nThe National Health Service Economic Evaluation Database\n(NHS EED; 2014, Issue 1)\nThe NHS EED (up to March 2015)\n\u0004 Ovid MEDLINE (1970 to March 11, 2017)\n\u0004 Ovid MEDLINE (in-process and other non-indexed citations,\nOctober 23, 2015)\n\u0004 Network Digital Library of Theses and Dissertations (searched\nNovember 10, 2015)\n\u0004 ClinicalTrials.gov (searched November 10, 2015)\n\nPaxman scalp cooling system (Paxman Coolers Limited), Chemocold\r\ncap (Chemotherapy Cold Caps, Inc), Penguin Cold Caps, and Elasto-\r\nGel Cold Caps (Southwest Technology Inc.).\r\nTechnology assessment Web sites were searched on November\r\n12, 2015 and included: Center for Technology Assessment Forum,\r\nBlue Cross Blue Shield Technology Evaluation Center Assessment,\r\nNational Institute for Health and Clinical Excellence, and the\r\nCanadian Agency for Drugs and Technology in Health.\r\nPatient advocacy/support group Web sites were searched on\r\nNovember 14, 2015. These Web sites included the American\r\nCancer Society and the National Breast Cancer Foundation.\r\nManual searches of the reference sections of reviews and\r\nsystematic reviews with or without meta-analyses of scalp cooling\r\nsystems were searched on November 11, 2015. Manual searches of\r\nthe reference sections of RCT reports were searched on November\r\n11, and November 19, 2015.\r\nLast, the following journal Web sites were also searched on\r\nFebruary 24, 2017 (all dates):\r\n\u0004 Journal Clinical Oncology\r\n\u0004 European Journal Cancer\r\n\u0004 European Journal Cancer Care\r\n\u0004 Cancer Journal\r\n\u0004 Cancer Nursing Journal\r\n\u0004 Cancer Nursing Practice\r\n\u0004 Oncology Nursing Forum\r\n\u0004 Journal of the American Medical Association"
+        ],
+        "negative_ctxs": [
+            13,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Paxman scalp cooling system (Paxman Coolers Limited), Chemocold\r\ncap (Chemotherapy Cold Caps, Inc), Penguin Cold Caps, and Elasto-\r\nGel Cold Caps (Southwest Technology Inc.).\r\nTechnology assessment Web sites were searched on November\r\n12, 2015 and included: Center for Technology Assessment Forum,\r\nBlue Cross Blue Shield Technology Evaluation Center Assessment,\r\nNational Institute for Health and Clinical Excellence, and the\r\nCanadian Agency for Drugs and Technology in Health.\r\nPatient advocacy/support group Web sites were searched on\r\nNovember 14, 2015. These Web sites included the American\r\nCancer Society and the National Breast Cancer Foundation.\r\nManual searches of the reference sections of reviews and\r\nsystematic reviews with or without meta-analyses of scalp cooling\r\nsystems were searched on November 11, 2015. Manual searches of\r\nthe reference sections of RCT reports were searched on November\r\n11, and November 19, 2015.\r\nLast, the following journal Web sites were also searched on\r\nFebruary 24, 2017 (all dates):\r\n\u0004 Journal Clinical Oncology\r\n\u0004 European Journal Cancer\r\n\u0004 European Journal Cancer Care\r\n\u0004 Cancer Journal\r\n\u0004 Cancer Nursing Journal\r\n\u0004 Cancer Nursing Practice\r\n\u0004 Oncology Nursing Forum\r\n\u0004 Journal of the American Medical Association\nPaxman scalp cooling system (Paxman Coolers Limited), Chemocold\ncap (Chemotherapy Cold Caps, Inc), Penguin Cold Caps, and Elasto-\nGel Cold Caps (Southwest Technology Inc.).\nTechnology assessment Web sites were searched on November\n12, 2015 and included: Center for Technology Assessment Forum,\nBlue Cross Blue Shield Technology Evaluation Center Assessment,\nNational Institute for Health and Clinical Excellence, and the\nCanadian Agency for Drugs and Technology in Health.\nPatient advocacy/support group Web sites were searched on\nNovember 14, 2015. These Web sites included the American\nCancer Society and the National Breast Cancer Foundation.\nManual searches of the reference sections of reviews and\nsystematic reviews with or without meta-analyses of scalp cooling\nsystems were searched on November 11, 2015. Manual searches of\nthe reference sections of RCT reports were searched on November\n11, and November 19, 2015.\nLast, the following journal Web sites were also searched on\nFebruary 24, 2017 (all dates):\n\u0004 Journal Clinical Oncology\n\u0004 European Journal Cancer\n\u0004 European Journal Cancer Care\n\u0004 Cancer Journal\n\u0004 Cancer Nursing Journal\n\u0004 Cancer Nursing Practice\n\u0004 Oncology Nursing Forum\n\u0004 Journal of the American Medical Association"
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "((((scalp) and cool*) AND hair) and loss) and\r\nchemotherapy."
+        ],
+        "negative_ctxs": [
+            19,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "((((scalp) and cool*) AND hair) and loss) and\r\nchemotherapy."
+        ],
+        "negative_ctxs": [
+            21,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two review authors independently screened the titles and\r\nabstracts of all studies identified in the search. Upon the agreement\r\nof both review authors, full-text versions were obtained of all studies\r\nidentified as potentially relevant, and 2 review authors assessed them\r\nindependently against the inclusion criteria. Any disagreement(s)\r\nbetween the 2 review authors were resolved by discussion."
+        ],
+        "negative_ctxs": [
+            8,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "One review author extracted the data and a second review author validated the extracted\r\ndata."
+        ],
+        "negative_ctxs": [
+            27,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Most patients in all of these\nstudies were treated with anthracyclines (doxorubicin, epirubicin or\ntaxanes)16,18,19,22,26,27 for several cycles. See Table 1 for the breakdown\nof cancer therapies and cancer types.17-23,27-29\nSix of the studies compared scalp cooling with no scalp cooling.\n16,18,19,21,27 Three of the studies compared one scalp cooling\nsystem with another.18,22,26 The van den Hurk et al28 study specifically\nexamined the amount of time, after intravenous chemotherapy\nadministration, that a scalp cooling system could be worn\n(20 vs. 45 minutes) and compared their efficacy on reducing alopecia.\nAlso see the Characteristics of studies section (Appendix C) for\nmore detail on the types of patients included from each study\n\nTable 1 Treatments and Dosages According to Cancer Type"
+        ],
+        "negative_ctxs": [
+            11,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Figure 4 Forest Plot: Significant Alopecia (Risk of Requiring a Wig)"
+        ],
+        "negative_ctxs": [
+            14,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two review authors independently assessed each included study\nusing the Cochrane Collaboration tool for assessing risk of bias.24\nThis tool addresses 6 specific domains, namely sequence generation,\nallocation concealment, blinding, incomplete outcome data,\nselective outcome reporting, and other issues (eg, extreme baseline\nimbalance; see Appendix B for details of the criteria on which\njudgements were based). We assessed blinding and completeness of\noutcome data for each outcome separately. A 'risk of bias' table for\neach eligible study was also completed. Any disagreement(s) among\nthe review authors were discussed to achieve a consensus.\nAssessment of risk of bias was evaluated using a 'risk of bias'\nsummary figure, which presents all of the judgements in a crosstabulation\nof study by entry"
+        ],
+        "negative_ctxs": [
+            4,
+            11
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two review authors independently assessed each included study\nusing the Cochrane Collaboration tool for assessing risk of bias.24\nThis tool addresses 6 specific domains, namely sequence generation,\nallocation concealment, blinding, incomplete outcome data,\nselective outcome reporting, and other issues (eg, extreme baseline\nimbalance; see Appendix B for details of the criteria on which\njudgements were based). We assessed blinding and completeness of\noutcome data for each outcome separately. A 'risk of bias' table for\neach eligible study was also completed. Any disagreement(s) among\nthe review authors were discussed to achieve a consensus.\nAssessment of risk of bias was evaluated using a 'risk of bias'\nsummary figure, which presents all of the judgements in a crosstabulation\nof study by entry"
+        ],
+        "negative_ctxs": [
+            15,
+            24
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "In cases in\nwhich studies could not be combined for meta-analysis purposes,\nthe statistics from those singular studies are reported. \n\nWhen possible, studies that were similar were grouped together.\n\nThere were 10 studies included in the review thatmet the criteria for\neligibility. "
+        ],
+        "negative_ctxs": [
+            15,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Randomized controlled trials that investigated the effect of scalp cooling versus no scalp cooling in patients receiving chemotherapy were included.\n\nWhen possible, studies that were similar were grouped together.\nA fixed-effect meta-analysis was used first. In the absence of heterogeneity\n(I2  1/4 0%), or in the presence of low heterogeneity\n(I2 < 40%), in the initial fixed-effect model, the observed difference\nwas assumed to be solely due to chance and used only in a fixedeffect\nmodel. If heterogeneity was moderate in the fixed-effect\nmodel (I2 > 40% and \u0005 60%) a random-effects model was used\nwhen heterogeneity could not be readily explained, otherwise a\nfixed-effect model23 was used."
+        ],
+        "negative_ctxs": [
+            20,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "I2  1/4 11%; P < .00001;"
+        ],
+        "negative_ctxs": [
+            10,
+            2
+        ],
+        "positive_ctxs": [
+            1,
+            13
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Funnel plots were used to help in the assessment of reporting and\nselection bias, and the plots were examined for evidence of potential\npublication/location bias (high vs. low impact journals, and country\npublication bias). If asymmetry existed in the funnel plots, selection\nbias was examined further.\n\nStudies included in\r\nquantitative synthesis\r\n(meta-analysis)\r\n(n = 5 )"
+        ],
+        "negative_ctxs": [
+            27,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Although randomization was stated in the Materials and Methods\nsection to prevent selection bias, in only 4 of the RCTs was the\nmethod of randomization clear.18,19,22,28 Further, it was clear in\nonly 1 trial28 the point at which patients were randomized and\nwhen treatment began to prevent selection bias (ie, concealment). In\nall cases because of the use of a scalp cooling system versus none or\nversus another, the patients and clinicians performing scalp cooling\nknew the group to which the patient was allocated. Most importantly,\nthere was 1 trial in which the clinician evaluating for alopecia\nwas blinded to the treatment arm.18 Further, there were 5 trials17,18,21,22\nin which there were incomplete data (attrition) on the\nend point of alopecia. Last, in 1 trial the end point of alopecia as\nidentified in the methods section was only partially reported on in\nthe results section.29 Overall, most studies had an unclear risk of\nbias, with approximately equal numbers between low and high risk\nof bias.\n\nDespite the presence of biases and the small study sizes, the\nintervention effect is fairly symmetrical when plotting the studies examined as shown in the Figure 4\n\nFigure 4 Forest Plot: Significant Alopecia (Risk of Requiring a Wig)"
+        ],
+        "negative_ctxs": [
+            17,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Study Limitations\r\nOne of the limitations of this analysis is the small number of\r\nRCTs identified--10. This might be because of the issue of\r\nblinding the clinician as well as patient to the treatment group--on\r\nthe basis of how scalp cooling works/is administered.\r\nA second limitation is the number of patients who were evaluated.\r\nThis might be, however, because of the large difference in the\r\npositive effect of scalp cooling--thus not requiring large numbers to\r\nshow an effect."
+        ],
+        "negative_ctxs": [
+            20,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The main objective of\nthis review was to determine whether the use of scalp cooling\nversus no scalp cooling in RCTs (in aggregate) significantly\nreduced alopecia when used with chemotherapy regimens for\ncancer \n\nTable 1 Treatments and Dosages According to Cancer Type"
+        ],
+        "negative_ctxs": [
+            16,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            25,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Randomized controlled trials that investigated the effect of scalp\ncooling versus no scalp cooling in patients receiving chemotherapy\nwere included. Quasi-RCTs, that is, trials in which participants\nwere allocated according to date of birth, day of the week, medical\nrecord number, month of the year, or order of inclusion in the study\n(eg, alternation), were included only in the absence of RCTs. Since\nRCT's were identified in the systematic searches, quasi-RCT's were\nnot included. All languages were considered.\nAny type of scalp cooling system was included in the analysis.\nEach scalp cooling system as treatment was in place approximately\n15 to 20 minutes before, during, and 30 to 60 minutes after\nchemotherapy.\nThe primary outcome measure evaluated was the extent of alopecia\nduring and after chemotherapy regimens for treating cancer"
+        ],
+        "negative_ctxs": [
+            27,
+            2
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "A comprehensive review of randomized trials is important\nbecause at least one major patient advocacy group in the United\nStates has stated that controlled studies on scalp cooling have\nproduced conflicting results"
+        ],
+        "negative_ctxs": [
+            18,
+            9
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Electronic searches performed were:\n\u0004 The Cochrane Database of Systematic Reviews (searched\nNovember 11, 2015), which also included:\nThe Cochrane Central Register of Controlled Trials (2015,\nIssue 3)\n\u0004 Centre for Reviews and Dissemination\nThe Database of Abstracts of Reviews of Effects (2015, Issue 1)\nThe National Health Service Economic Evaluation Database\n(NHS EED; 2014, Issue 1)\nThe NHS EED (up to March 2015)\n\u0004 Ovid MEDLINE (1970 to March 11, 2017)\n\u0004 Ovid MEDLINE (in-process and other non-indexed citations,\nOctober 23, 2015)\n\u0004 Network Digital Library of Theses and Dissertations (searched\nNovember 10, 2015)\n\u0004 ClinicalTrials.gov (searched November 10, 2015)\n\nPaxman scalp cooling system (Paxman Coolers Limited), Chemocold\r\ncap (Chemotherapy Cold Caps, Inc), Penguin Cold Caps, and Elasto-\r\nGel Cold Caps (Southwest Technology Inc.).\r\nTechnology assessment Web sites were searched on November\r\n12, 2015 and included: Center for Technology Assessment Forum,\r\nBlue Cross Blue Shield Technology Evaluation Center Assessment,\r\nNational Institute for Health and Clinical Excellence, and the\r\nCanadian Agency for Drugs and Technology in Health.\r\nPatient advocacy/support group Web sites were searched on\r\nNovember 14, 2015. These Web sites included the American\r\nCancer Society and the National Breast Cancer Foundation.\r\nManual searches of the reference sections of reviews and\r\nsystematic reviews with or without meta-analyses of scalp cooling\r\nsystems were searched on November 11, 2015. Manual searches of\r\nthe reference sections of RCT reports were searched on November\r\n11, and November 19, 2015.\r\nLast, the following journal Web sites were also searched on\r\nFebruary 24, 2017 (all dates):\r\n\u0004 Journal Clinical Oncology\r\n\u0004 European Journal Cancer\r\n\u0004 European Journal Cancer Care\r\n\u0004 Cancer Journal\r\n\u0004 Cancer Nursing Journal\r\n\u0004 Cancer Nursing Practice\r\n\u0004 Oncology Nursing Forum\r\n\u0004 Journal of the American Medical Association"
+        ],
+        "negative_ctxs": [
+            16,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two review authors independently screened the titles and\r\nabstracts of all studies identified in the search. Upon the agreement\r\nof both review authors, full-text versions were obtained of all studies\r\nidentified as potentially relevant, and 2 review authors assessed them\r\nindependently against the inclusion criteria. Any disagreement(s)\r\nbetween the 2 review authors were resolved by discussion."
+        ],
+        "negative_ctxs": [
+            26,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "One review author extracted the data and a second review author validated the extracted\r\ndata."
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Twenty-four studies were excluded with reasons.6,14,30-51 All\r\nexcept for 1 study40 were not an RCT. Lovejoy41 was an RCT\r\nexcept that it examined the use of a \"head tourniquet\" versus no\r\nhead tourniquet in reducing the blood flow to the head in preventing\r\nalopecia during chemotherapy and thus was excluded (see\r\nAppendix D for more detail on excluded studies)."
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Most patients in all of these\nstudies were treated with anthracyclines (doxorubicin, epirubicin or\ntaxanes)16,18,19,22,26,27 for several cycles. See Table 1 for the breakdown\nof cancer therapies and cancer types.17-23,27-29\nSix of the studies compared scalp cooling with no scalp cooling.\n16,18,19,21,27 Three of the studies compared one scalp cooling\nsystem with another.18,22,26 The van den Hurk et al28 study specifically\nexamined the amount of time, after intravenous chemotherapy\nadministration, that a scalp cooling system could be worn\n(20 vs. 45 minutes) and compared their efficacy on reducing alopecia.\nAlso see the Characteristics of studies section (Appendix C) for\nmore detail on the types of patients included from each study\n\nTable 1 Treatments and Dosages According to Cancer Type"
+        ],
+        "negative_ctxs": [
+            11,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two review authors independently assessed each included study\nusing the Cochrane Collaboration tool for assessing risk of bias.24\nThis tool addresses 6 specific domains, namely sequence generation,\nallocation concealment, blinding, incomplete outcome data,\nselective outcome reporting, and other issues (eg, extreme baseline\nimbalance; see Appendix B for details of the criteria on which\njudgements were based). We assessed blinding and completeness of\noutcome data for each outcome separately. A 'risk of bias' table for\neach eligible study was also completed. Any disagreement(s) among\nthe review authors were discussed to achieve a consensus.\nAssessment of risk of bias was evaluated using a 'risk of bias'\nsummary figure, which presents all of the judgements in a crosstabulation\nof study by entry"
+        ],
+        "negative_ctxs": [
+            4,
+            26
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Randomized controlled trials that investigated the effect of scalp cooling versus no scalp cooling in patients receiving chemotherapy were included.\n\nWhen possible, studies that were similar were grouped together.\nA fixed-effect meta-analysis was used first. In the absence of heterogeneity\n(I2  1/4 0%), or in the presence of low heterogeneity\n(I2 < 40%), in the initial fixed-effect model, the observed difference\nwas assumed to be solely due to chance and used only in a fixedeffect\nmodel. If heterogeneity was moderate in the fixed-effect\nmodel (I2 > 40% and \u0005 60%) a random-effects model was used\nwhen heterogeneity could not be readily explained, otherwise a\nfixed-effect model23 was used."
+        ],
+        "negative_ctxs": [
+            23,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "I2  1/4 11%; P < .00001;"
+        ],
+        "negative_ctxs": [
+            25,
+            2
+        ],
+        "positive_ctxs": [
+            1,
+            13
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Funnel plots were used to help in the assessment of reporting and\nselection bias, and the plots were examined for evidence of potential\npublication/location bias (high vs. low impact journals, and country\npublication bias). If asymmetry existed in the funnel plots, selection\nbias was examined further.\n\nStudies included in\r\nquantitative synthesis\r\n(meta-analysis)\r\n(n = 5 )"
+        ],
+        "negative_ctxs": [
+            3,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Although randomization was stated in the Materials and Methods\nsection to prevent selection bias, in only 4 of the RCTs was the\nmethod of randomization clear.18,19,22,28 Further, it was clear in\nonly 1 trial28 the point at which patients were randomized and\nwhen treatment began to prevent selection bias (ie, concealment). In\nall cases because of the use of a scalp cooling system versus none or\nversus another, the patients and clinicians performing scalp cooling\nknew the group to which the patient was allocated. Most importantly,\nthere was 1 trial in which the clinician evaluating for alopecia\nwas blinded to the treatment arm.18 Further, there were 5 trials17,18,21,22\nin which there were incomplete data (attrition) on the\nend point of alopecia. Last, in 1 trial the end point of alopecia as\nidentified in the methods section was only partially reported on in\nthe results section.29 Overall, most studies had an unclear risk of\nbias, with approximately equal numbers between low and high risk\nof bias.\n\nDespite the presence of biases and the small study sizes, the\nintervention effect is fairly symmetrical when plotting the studies examined as shown in the Figure 4\n\nFigure 4 Forest Plot: Significant Alopecia (Risk of Requiring a Wig)"
+        ],
+        "negative_ctxs": [
+            4,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Appendix C - Characteristics of included studies and risk of bias assessments:"
+        ],
+        "negative_ctxs": [
+            19,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Jeff Voigt works in evidence assessments using Cochrane methodology. Jeff Voigt was provided an unrestricted grant by Dignicap USA to research, analyze, and write the report."
+        ],
+        "negative_ctxs": [
+            2,
+            23
+        ],
+        "positive_ctxs": [
+            22
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Study Limitations\r\nOne of the limitations of this analysis is the small number of\r\nRCTs identified--10. This might be because of the issue of\r\nblinding the clinician as well as patient to the treatment group--on\r\nthe basis of how scalp cooling works/is administered.\r\nA second limitation is the number of patients who were evaluated.\r\nThis might be, however, because of the large difference in the\r\npositive effect of scalp cooling--thus not requiring large numbers to\r\nshow an effect."
+        ],
+        "negative_ctxs": [
+            11,
+            8
+        ],
+        "positive_ctxs": []
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The following selection criteria were used to identify studies for inclusion in this analysis. Study Design: Randomized controlled clinical trial with randomization by individual patient. Population: Adult or pediatric patients.\nIntervention: Prophylactic heparin infused through the catheter, given subcutaneously or bonded to the catheter.\nOutcomes: Catheter patency, catheter thrombus or catheter\u0002related vessel thrombosis, catheter colonization, catheter-related bacteremia, or septicemia. Excluded Studies: Studies with >40% of patients excluded from analysis postrandomization.\n\n\nHerein, we critically appraise the clinical trials evaluating use of infused and bonded heparin on thrombus formation and infection risk in central venous and pulmonary arterial catheters.\n\n\nWe combined all trials using varying prophylactic doses of heparin and prophylactic hep!\narin.\n\n\nTrials included in this review were identified from a larger subset of all identified randomized trials of central venous and\npulmonary artery catheter-related complications\n\n\nDuration of Catheter Patency: The number of hours the\ncatheters were in place. Catheter Thrombus: Clot adherent to or occluding the catheter\nor a fibrin sleeve in the vessel around the catheter.\nCatheter-Related Vessel Thrombosis: Partial or total occlusion\nof blood flow through the vessel.\nCatheter Colonization: At least 15 cfu cultured from the\ncatheter tip using the semiquantitative method of Maki et al.10\nCatheter-Related Sepsis or Bacteremia: Catheter colonization\nas defined above with the same organism cultured from a peripheral blood culture."
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The following selection criteria were used to identify studies for inclusion in this analysis. Study Design: Randomized controlled clinical trial with randomization by individual patient. Population: Adult or pediatric patients. \nIntervention: Prophylactic heparin infused through the catheter, given subcutaneously or bonded to the catheter.\nOutcomes: Catheter patency, catheter thrombus or catheter-related vessel thrombosis, catheter colonization, catheter-related bacteremia, or septicemia. Excluded Studies: Studies with >40% of patients excluded from analysis postrandomization."
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Excluded Studies: Studies with >40% of patients excluded from analysis postrandomization.\n\nfrom January 1985 to November 1996 was examined and the abstracts of potentially relevant citations were reviewed on line."
+        ],
+        "negative_ctxs": [
+            7,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We used MEDLINE, EMBASE, citation review of relevant primary and review articles, personal files, and contact with expert informants.\nThis larger pool of trials was identified by cross-referencing the following MeSH terms using MEDLINE from 1966 to October 1995\nEMBASE was searched for the years 1988 through 1996\nwe reviewed the reference lists of each retrieved article and obtained the article of any reference considered to be a randomized controlled trial. Package inserts from catheter kits were searched for references regarding published and unpublished data. We also contacted companies manufacturing heparin-bonded catheters regarding other unpublished and published randomized controlled trials. In addition, we searched proceedings of the 1994 and 1995 Infectious Disease Society of America, and the American Society for Microbiology Interscience Conference on Antimicrobial Agents and Chemotherapy annual meetings from 1986 to 1996."
+        ],
+        "negative_ctxs": [
+            16,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "After examining the full articles of all abstracts deemed potentially relevant, we reviewed the reference lists of each retrieved article and obtained the article of any reference considered to be a randomized controlled trial. Package inserts from catheter kits were searched for references regarding published and unpublished data. We also contacted companies manufacturing heparin-bonded catheters regarding other unpublished and published randomized controlled trials. In addition, we searched proceedings of the 1994 and 1995 Infectious Disease Society of America, and the American Society for Microbiology Interscience Conference on Antimicrobial Agents and Chemotherapy annual meetings from 1986 to 1996."
+        ],
+        "negative_ctxs": [
+            16,
+            2
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "This larger pool of trials was identified by cross-referencing the following MeSH terms using MEDLINE from 1966 to October 1995 - catheterization, central venous and catheterization, Swan-Ganz, and catheters, indwelling.with the following MeSH terms.randomization, random allocation, randomized controlled trial(s), randomized response technique, and (controlled) clinical trials, randomized. "
+        ],
+        "negative_ctxs": [
+            12,
+            5
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "In addition, every citation for catheterization, central venous, and catheterization, Swan-Ganz from January 1985 to November 1996 was examined and the abstracts of potentially relevant citations were reviewed on line. \n\n\nEMBASE was searched for the years 1988 through 1996 using the terms heparin, catheter, and venous or arterial."
+        ],
+        "negative_ctxs": [
+            9,
+            3
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data abstraction was conducted by two investigators; disagreement was resolved by consensus."
+        ],
+        "negative_ctxs": [
+            13,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Data on the number of catheters and/or the numbers of patients were abstracted the way they were reported. Catheters were the unit of analysis when data were pooled. We asked the primary investigators to provide further information when the data necessary for critical appraisal and/or analysis were missing or unclear. \nThe populations, interventions, number of catheters and number of patients, catheter types, and catheter management strategies of the studies included in the final analysis are described in Table 1."
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "We combined data to estimate the relative risk (RR) and associated 95% confidence limits across studies using the DerSimonian and Laird random effects model.1"
+        ],
+        "negative_ctxs": [
+            16,
+            11
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two investigators independently assessed the methodologic quality according to criteria in Table 1. To evaluate agreement, we calculated a quadratic weighted kappa for each quality item.\nDesign features and methodologic quality of the studies included in this review are described in Table 1.\n\nDisagreements between two reviewers were resolved by a third\nreviewer."
+        ],
+        "negative_ctxs": [
+            16,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two investigators independently assessed the quality according to criteria in Table 1. To evaluat meethodologic agreement, we calculated a quadratic weighted kappa for each quality item. Disagreements between two reviewers were resolved by a third reviewer."
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "One study, not included in the meta-analyses of central venous catheters, compared two prophylactic heparin regimens for dialysis patients.\n\n\nAnother article that\nadded together the data from two randomized controlled trials reporting the effects of heparinized infusate on thrombotic complications to secondarily examine infectious complications27 was excluded because the primary data were not abstractable.\n\n\nData abstraction was conducted by two investigators; disagreement was resolved by consensus. Data on the number of\ncatheters and/or the numbers of patients were abstracted the way they were reported. Catheters were the unit of analysis when data\nwere pooled. We asked the primary investigators to provide\nfurther information when the data necessary for critical appraisal and/or analysis were missing or unclear.\n\n"
+        ],
+        "negative_ctxs": [
+            4,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We combined data to estimate the relative risk (RR) and associated 95% confidence limits across studies using the DerSimonian and Laird random effects model.10a"
+        ],
+        "negative_ctxs": [
+            13,
+            9
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Pooling the data from four trials, an assessment of the impact of heparin on the formation of a clot on or inside of the catheter or the formation of a fibrin sleeve around the catheter (Fig 1) reveals that heparin is associated with a strong trend for reducing catheter thrombus (RR, 0.66; 95% confidence inter!val [CI], 0.42, 1.05). The test for heterogeneity of variance was nonsignificant (p=0.681)."
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Two investigators independently assessed the methodologic quality according to criteria in Table 1."
+        ],
+        "negative_ctxs": [
+            13,
+            7
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Population: Adult or pediatric patients. Intervention: Prophylactic heparin infused through the catheter, given subcutaneously or bonded to the catheter.\nOutcomes: Catheter patency, catheter thrombus or catheter-related vessel thrombosis, catheter colonization, catheter-related bacteremia, or septicemia. "
+        ],
+        "negative_ctxs": [
+            11,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The following selection criteria were used to identify studies for inclusion in this analysis. Study Design: Randomized controlled clinical trial with randomization by individual patient. Population: Adult or pediatric patients. \nIntervention: Prophylactic heparin infused through the catheter, given subcutaneously or bonded to the catheter.\nOutcomes: Catheter patency, catheter thrombus or catheter-related vessel thrombosis, catheter colonization, catheter-related bacteremia, or septicemia. Excluded Studies: Studies with >40% of patients excluded from analysis postrandomization."
+        ],
+        "negative_ctxs": [
+            15,
+            2
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We used MEDLINE, EMBASE, citation review of relevant primary and review articles, personal files, and contact with expert informants.\nThis larger pool of trials was identified by cross-referencing the following MeSH terms using MEDLINE from 1966 to October 1995\nEMBASE was searched for the years 1988 through 1996\nwe reviewed the reference lists of each retrieved article and obtained the article of any reference considered to be a randomized controlled trial. Package inserts from catheter kits were searched for references regarding published and unpublished data. We also contacted companies manufacturing heparin-bonded catheters regarding other unpublished and published randomized controlled trials. In addition, we searched proceedings of the 1994 and 1995 Infectious Disease Society of America, and the American Society for Microbiology Interscience Conference on Antimicrobial Agents and Chemotherapy annual meetings from 1986 to 1996."
+        ],
+        "negative_ctxs": [
+            3,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data abstraction was conducted by two investigators; disagreement was resolved by consensus."
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Data on the number of catheters and/or the numbers of patients were abstracted the way they were reported. Catheters were the unit of analysis when data were pooled. We asked the primary investigators to provide further information when the data necessary for critical appraisal and/or analysis were missing or unclear. \nThe populations, interventions, number of catheters and number of patients, catheter types, and catheter management strategies of the studies included in the final analysis are described in Table 1."
+        ],
+        "negative_ctxs": [
+            11,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two investigators independently assessed the methodologic quality according to criteria in Table 1. To evaluate agreement, we calculated a quadratic weighted kappa for each quality item.\nDesign features and methodologic quality of the studies included in this review are described in Table 1.\n\nDisagreements between two reviewers were resolved by a third\nreviewer."
+        ],
+        "negative_ctxs": [
+            11,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We combined data to estimate the relative risk (RR) and associated 95% confidence limits across studies using the DerSimonian and Laird random effects model.10a"
+        ],
+        "negative_ctxs": [
+            7,
+            14
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Pooling the data from four trials, an assessment of the impact of heparin on the formation of a clot on or inside of the catheter or the formation of a fibrin sleeve around the catheter (Fig 1) reveals that heparin is associated with a strong trend for reducing catheter thrombus (RR, 0.66; 95% confidence inter!val [CI], 0.42, 1.05). The test for heterogeneity of variance was nonsignificant (p=0.681)."
+        ],
+        "negative_ctxs": [
+            16,
+            6
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Two investigators independently assessed the methodologic quality according to criteria in Table 1."
+        ],
+        "negative_ctxs": [
+            12,
+            9
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "This research was supported by National Research Service Award F32 HS00106-01 from the Agency for Health Care Policy and Research (Dr. Randolph). Dr. Cook is a Career Scientist of the Ontario Ministry of Health. Dr. Andrew receives funds from Knoll Canada."
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            13
+        ],
+        "positive_ctxs": []
+    }
+]

@@ -1,0 +1,466 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Only publications dealing with etiology, pathophysiology, treatment and/ or epidemiology of both rosacea and migraine were included. Furthermore, a review of reference lists from the included articles was performed to identify supplementary works not included through the initial search protocol.\n\nThe same limitation applies to rosacea diagnoses, as the standard classification was not published until 2002 and was not applied to the reviewed studies (2). "
+        ],
+        "negative_ctxs": [
+            10,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Only publications dealing with etiology, pathophysiology, treatment and/ or epidemiology of both rosacea and migraine were included. Furthermore, a review of reference lists\nfrom the included articles was performed to identify supplementary works not included through the initial search protocol.\n\nThe same limitation applies to rosacea diagnoses, as the standard classification was not published until 2002 and was not applied to the reviewed studies (2). "
+        ],
+        "negative_ctxs": [
+            24,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "This series was used to identify all articles on migraine and rosacea, leaving out reviews, meta-analyses, and animal studies.\n\nRecords excluded\n(n=29)\nNot migraine and/or rosacea: n = 10\nNot english: n = 5\nReviews, editorials etc: n = 11\nCase reports: n = 3"
+        ],
+        "negative_ctxs": [
+            1,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Articles were restricted to English language"
+        ],
+        "negative_ctxs": [
+            25,
+            1
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "PubMed and EMBASE"
+        ],
+        "negative_ctxs": [
+            19,
+            13
+        ],
+        "positive_ctxs": [
+            0,
+            2
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Furthermore, a review of reference lists from the included articles was performed to identify supplementary works not included through the initial search protocol."
+        ],
+        "negative_ctxs": [
+            2,
+            18
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Keywords used in the PubMed search were ''rosacea'' AND ''migraine'' combined with ''epidemiology'', ''pathophysiology'', ''treatment'',' 'neurogenic'', ''inflammation'', ''vascular'', ''sensitization'', ''dysregulation'', ''augmented'' or ''immune''. The EMBASE search was conducted using a series of seven search strings as follows: 1) ''exp migraine/''; 2) ''exp rosacea/''; 3) ''(review or meta-analysis or metaanalysis).m_titl.''; 4) ''(animal/or nonhuman/) not human/''; 5) ''1 and 2''; 6) ''5 not 3''; 7) ''6 not 4''."
+        ],
+        "negative_ctxs": [
+            20,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Articles were restricted to English language and reviewed first by title and abstract and then full text to confirm eligibility for this review. "
+        ],
+        "negative_ctxs": [
+            16,
+            5
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two reviewers (CEC and FSA) assessed the eligibility of the records found, and disagreements were resolved through discussion"
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Summary of included studies.\nAuthors Year Title Aim/methods n Female/male Age, meanSD Country Results"
+        ],
+        "negative_ctxs": [
+            21,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1. Summary of included studies."
+        ],
+        "negative_ctxs": [
+            16,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Four studies (12,13,16,21) contained quantitative data (103,620 cases and 4,367,029 controls) and were eligible for meta-analysis according to our selection\r\ncriteria"
+        ],
+        "negative_ctxs": [
+            25,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Furthermore, the studies included show quite high heterogeneity in terms of selection criteria, population demography and population sizes, rendering direct comparisons difficult.\n\nA common limitation is that the reviewed studies did not diagnose migraine according to the international classification criteria (1). Three studies reported migraine as unilateral, pulsating headache accompanied by nausea and vomiting or visual aura phenomena (13,16,20), and two population-based studies included migraine cases based on international classification of disease codes or pharmacotherapy used almost exclusively for treatment of migraine (12,21), whereby the true migraine risk may be underestimated. The same limitation applies to rosacea diagnoses, as the standard classification was not published until 2002 and was not applied to the reviewed studies"
+        ],
+        "negative_ctxs": [
+            17,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Furthermore, the studies included show quite high heterogeneity in terms of selection criteria, population demography and population sizes, rendering direct comparisons difficult.\n\nFive articles reported an increased risk of migraine in patients with rosacea, while one study found no significant association between the disorders (14). Three studies did not include control populations. Results and interpretations by authors are presented in Table 1. \n\nRandom effects models with DerSimonian-Laird methods were utilised as between studies\nheterogeneity was found with I2=98%.\n\nA common limitation is that the reviewed studies did not diagnose migraine according to the international classification criteria (1). Three studies reported migraine as unilateral, pulsating headache accompanied by nausea and vomiting or visual aura phenomena (13,16,20), and two population-based studies included migraine cases based on international classification of disease codes or pharmacotherapy used almost exclusively for treatment of migraine (12,21), whereby the true migraine risk may be underestimated. The same limitation applies to rosacea diagnoses, as the standard classification was not published until 2002 and was not applied to the reviewed studies"
+        ],
+        "negative_ctxs": [
+            13,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Five articles reported an increased risk of migraine in patients with rosacea, while one study found no significant association between the disorders (14). Three studies did not include control populations. Results and interpretations by authors are presented in Table 1. \n\nFunnel plot progression of logarithmic OR and standard errors was used to assess for publication bias."
+        ],
+        "negative_ctxs": [
+            4,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "A common limitation is that the reviewed studies did not diagnose migraine according to the international classification criteria (1). Three studies reported migraine as unilateral, pulsating headache accompanied by nausea and vomiting or visual aura phenomena (13,16,20), and two population-based studies included migraine cases based on international classification of disease codes or pharmacotherapy used almost exclusively for treatment of migraine (12,21), whereby the true migraine risk may be  underestimated. The same limitation applies to rosacea diagnoses, as the standard classification was not published until 2002 and was not applied to the reviewed studies (2). Furthermore, the studies included show quite high heterogeneity in terms of selection criteria, population demography and population sizes, rendering direct comparisons difficult."
+        ],
+        "negative_ctxs": [
+            22,
+            12
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Table 1. Summary of included studies.\n\nA nationwide study from Denmark\r\nreported a migraine prevalence among women with\r\nrosacea of 16%, whereas prevalence was only 4%\r\namong men compared to 11.4% and 3.2%, respectively,\r\nin the control population (12). A large population-\r\nbased study from the UK investigated cases of\r\nincident rosacea through first-time medical codes for\r\nthe disease and found a higher rosacea incidence\r\namong migraine patients than controls (OR 1.18)\r\n(21). In a cross-sectional analysis of 809 office employees,\r\n27% of rosacea patients also suffered from\r\nmigraine (13% in control population) (16). Another\r\ncase-control study found that 44% of rosacea patients\r\nhad migraine compared with 13.1% in the control\r\ngroup (13). Furthermore, 29 volunteers in the control\r\ngroup suffered from flushing, but did not meet the\r\ncriteria used for rosacea - 55% of these had migraine.\r\nExcluding these volunteers from the control population\r\nfurther increased the significance of the primary\r\nfinding of higher migraine prevalence in the rosacea\r\npopulation (13).\r\nRecords identified through\r\ndatabase search\r\n(n = 44)\r\nIncluded Eligibility Screening Identification\r\nAdditional records identified\r\nthrough other sources\r\n(n=2)\r\nRecords after duplicates removed\r\n(n=40 )\r\nRecords screened\r\n(n=40 )\r\nRecords excluded\r\n(n=29)\r\nNot migraine and/or rosacea: n = 10\r\nNot english: n = 5\r\nReviews, editorials etc: n = 11\r\nCase reports: n = 3\r\nFull-text articles assessed\r\nfor eligibility\r\n(n = 11)\r\nFull-text articles excluded\r\n(n=2)\r\nInsufficient data on migraine and/or\r\nrosacea, different focus: n = 2\r\nStudies included in\r\nqualitative synthesis\r\n(n=9)\r\nStudies included in\r\nquantitative synthesis\r\n(meta-analysis)\r\n(n=4 )\r\nFigure 2. Flow chart of search protocol."
+        ],
+        "negative_ctxs": [
+            15,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Only publications dealing with etiology, pathophysiology, treatment and/ or epidemiology of both rosacea and migraine were included. Furthermore, a review of reference lists\nfrom the included articles was performed to identify supplementary works not included through the initial search protocol.\n\nThe same limitation applies to rosacea diagnoses, as the standard classification was not published until 2002 and was not applied to the reviewed studies (2). "
+        ],
+        "negative_ctxs": [
+            17,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "This series was used to identify all articles on migraine\nand rosacea, leaving out reviews, meta-analyses, and\nanimal studies"
+        ],
+        "negative_ctxs": [
+            1,
+            17
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "PubMed and EMBASE"
+        ],
+        "negative_ctxs": [
+            7,
+            12
+        ],
+        "positive_ctxs": [
+            0,
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two reviewers (CEC and FSA) assessed the eligibility of the records found, and disagreements were resolved through discussion"
+        ],
+        "negative_ctxs": [
+            17,
+            20
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Summary of included studies.\nAuthors Year Title Aim/methods n Female/male Age, meanSD Country Results"
+        ],
+        "negative_ctxs": [
+            6,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Furthermore, the studies included show quite high heterogeneity in terms of selection criteria, population demography and population sizes, rendering direct comparisons difficult.\n\nA common limitation is that the reviewed studies did not diagnose migraine according to the international classification criteria (1). Three studies reported migraine as unilateral, pulsating headache accompanied by nausea and vomiting or visual aura phenomena (13,16,20), and two population-based studies included migraine cases based on international classification of disease codes or pharmacotherapy used almost exclusively for treatment of migraine (12,21), whereby the true migraine risk may be underestimated. The same limitation applies to rosacea diagnoses, as the standard classification was not published until 2002 and was not applied to the reviewed studies"
+        ],
+        "negative_ctxs": [
+            20,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Furthermore, the studies included show quite high heterogeneity in terms of selection criteria, population demography and population sizes, rendering direct comparisons difficult.\n\nFive articles reported an increased risk of migraine in patients with rosacea, while one study found no significant association between the disorders (14). Three studies did not include control populations. Results and interpretations by authors are presented in Table 1. \n\nRandom effects models with DerSimonian-Laird methods were utilised as between studies\nheterogeneity was found with I2=98%.\n\nA common limitation is that the reviewed studies did not diagnose migraine according to the international classification criteria (1). Three studies reported migraine as unilateral, pulsating headache accompanied by nausea and vomiting or visual aura phenomena (13,16,20), and two population-based studies included migraine cases based on international classification of disease codes or pharmacotherapy used almost exclusively for treatment of migraine (12,21), whereby the true migraine risk may be underestimated. The same limitation applies to rosacea diagnoses, as the standard classification was not published until 2002 and was not applied to the reviewed studies"
+        ],
+        "negative_ctxs": [
+            20,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Five articles reported an increased risk of migraine in patients with rosacea, while one study found no significant association between the disorders (14). Three studies did not include control populations. Results and interpretations by authors are presented in Table 1. \n\nFunnel plot progression of logarithmic OR and standard errors was used to assess for publication bias."
+        ],
+        "negative_ctxs": [
+            2,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Dr Christensen, Ms Andersen and Dr Wienholtz report no disclosures relevant to the manuscript.\nDr Egeberg has received research funding from Pfizer and Eli\nLilly, and speaker and/or consultancy honoraria from Pfizer,\nEli Lilly, Galderma, Novartis, and Janssen Pharmaceuticals.\nDr Thyssen is supported by an unrestricted grant from the\nLundbeck Foundation and has received speaker honoraria\nfrom Galderma and MEDA, and has attended an advisory\nboard for Roche. Dr Ashina is a consultant or scientific advisor\nfor Allergan, Amgen, Alder, ATI and Eli Lilly, primary\ninvestigator for Amgen 20120178 (Phase 2), 20120295 (Phase\n2), 20130255 (OLE), 20120297 (Phase 3) and GM-11 gamma-\nCore-R trials, and reports grants from Lundbeck Foundation\n(R155-2014-171), Research Foundation of the Capital\nRegion of Copenhagen, Danish Council for Independent\nResearch-Medical Sciences."
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "A common limitation is that the reviewed studies did not diagnose migraine according to the international classification criteria (1). Three studies reported migraine as unilateral, pulsating headache accompanied by nausea and vomiting or visual aura phenomena (13,16,20), and two population-based studies included migraine cases based on international classification of disease codes or pharmacotherapy used almost exclusively for treatment of migraine (12,21), whereby the true migraine risk may be  underestimated. The same limitation applies to rosacea diagnoses, as the standard classification was not published until 2002 and was not applied to the reviewed studies (2). Furthermore, the studies included show quite high heterogeneity in terms of selection criteria, population demography and population sizes, rendering direct comparisons difficult."
+        ],
+        "negative_ctxs": [
+            7,
+            10
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "H I S T O R Y\nProtocol first published: Issue 4, 2006\n\n\nOur objectives were to compare the eIectiveness of topical\nanaesthesia (with or without intracameral local anaesthetic) versus\nsub-Tenon's anaesthesia in providing pain relief during cataract\nsurgery. We reviewed pain during administration of anaesthesia,\npostoperative pain, surgical satisfaction with operating conditions\nand patient satisfaction with pain relief provided, and we looked at\nassociated complications.\n\n\nNew review authors updated this review; see Published notes for\nan explanation of why conclusions have changed even though\nthe number of included studies is the same as in the original review\n(Davison 2007)\n\nTypes of studies\nWe included all randomized controlled trials (RCTs) comparing\ntopical anaesthesia with or without intracameral injection versus\nsub-Tenon's anaesthesia.\nTypes of participants\nWe included only studies performed on adult participants. We\nincluded studies in which participants underwent operation on one\neye only or on both eyes, provided that the anaesthetic technique\nfor the first eye was chosen at random.\nTypes of interventions\nWe included studies that compared sub-Tenon's anaesthesia\nversus topical anaesthesia (eye drops or gel) with or without\nintracameral injection. We excluded studies in which participants\nreceived intravenous sedation, as clinical experience has shown\nthat intravenous sedation can mask pain perceived by the person.\n\n\nSearch methods for identification of studies\nElectronic searches\nWe searched MEDLINE (1990 to November 2014; Appendix 1), the\nCochrane Central Register of Controlled Trials (CENTRAL) (2014,\nIssue 11; Appendix 2) and EMBASE (1990 to November 2014;\nAppendix 3). The search was first run in 2006 (Davison 2007) and\nwas updated for 2006 to 2011 in May 2011, and for 2011 to 2014 in\nNovember 2014."
+        ],
+        "negative_ctxs": [
+            36,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Criteria for considering studies for this review\nTypes of studies\nWe included all randomized controlled trials (RCTs) comparing\ntopical anaesthesia with or without intracameral injection versus\nsub-Tenon's anaesthesia.\nTypes of participants\nWe included only studies performed on adult participants. We\nincluded studies in which participants underwent operation on one\neye only or on both eyes, provided that the anaesthetic technique\nfor the first eye was chosen at random.\nTypes of interventions\nWe included studies that compared sub-Tenon's anaesthesia\nversus topical anaesthesia (eye drops or gel) with or without\nintracameral injection. We excluded studies in which participants\nreceived intravenous sedation, as clinical experience has shown\nthat intravenous sedation can mask pain perceived by the person.\nTypes of outcome measures\nPrimary outcomes\n1. Pain during surgery.\nSecondary outcomes\n1. Pain during administration of local anaesthetic.\n2. Postoperative pain at 30 minutes and at 24 hours.\n3. Surgical satisfaction with operating conditions.\n4. Patient satisfaction with analgesia provided.\n5. Complications that occurred as defined by study authors.\n\n"
+        ],
+        "negative_ctxs": [
+            18,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Criteria for considering studies for this review\nTypes of studies\nWe included all randomized controlled trials (RCTs) comparing\ntopical anaesthesia with or without intracameral injection versus\nsub-Tenon's anaesthesia.\nTypes of participants\nWe included only studies performed on adult participants. We\nincluded studies in which participants underwent operation on one\neye only or on both eyes, provided that the anaesthetic technique\nfor the first eye was chosen at random.\nTypes of interventions\nWe included studies that compared sub-Tenon's anaesthesia\nversus topical anaesthesia (eye drops or gel) with or without\nintracameral injection. We excluded studies in which participants\nreceived intravenous sedation, as clinical experience has shown\nthat intravenous sedation can mask pain perceived by the person.\nTypes of outcome measures\nPrimary outcomes\n1. Pain during surgery.\nSecondary outcomes\n1. Pain during administration of local anaesthetic.\n2. Postoperative pain at 30 minutes and at 24 hours.\n3. Surgical satisfaction with operating conditions.\n4. Patient satisfaction with analgesia provided.\n5. Complications that occurred as defined by study authors."
+        ],
+        "negative_ctxs": [
+            49,
+            39
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Primary outcomes\n1. Pain during surgery.\nSecondary outcomes\n1. Pain during administration of local anaesthetic.\n2. Postoperative pain at 30 minutes and at 24 hours.\n3. Surgical satisfaction with operating conditions.\n4. Patient satisfaction with analgesia provided.\n5. Complications that occurred as defined by study authors.\n\n\nExcluded studies\nWe excluded four studies (El Awady 2009; Huang 2014; Rodrigues\n2008; Ryu 2009). One study was performed on a diIerent\npopulation (potentially diIicult cataract surgery) (El Awady\n2009). One included no outcomes of interest (Huang 2014).\n\n\nHuang 2014 {published data only}\nHuang\u0013P, Gopal\u0013L, Kumar\u0013CM. Comparison of postoperative\nredness of eyes a@er sub-Tenon's block and topical anaesthesia\nfollowing phacoemulsification cataract surgery. British\nJournal of Anaesthesia 2014; Vol. 112, issue 2:381-2. [PUBMED:\n24431353]\nTypes of studies\nWe included all randomized controlled trials (RCTs) comparing\ntopical anaesthesia with or without intracameral injection versus\nsub-Tenon's anaesthesia.\n\n\nComplications that occurred as defined by study authors\nConversion from topical anaesthesia to sub-Tenon's occurred\nin two studies (Ruschen 2005; Sekundo 2004) (Table 1).\nSubconjunctival haemorrhage and chemosis were seen with sub-\nTenon's blocks only (Table 1).\n\n\nAppendix 1. Search strategy for MEDLINE (Ovid SP)\n1. (phako* or phaco* or cataract* or pha?oemulsification or (cataract adj4 (surg* or extract*))).mp. or exp Phacoemulsification/ or exp\nCataract Extraction/ or exp Cataract/\n2. block.ti,ab. or (subtenon* or intra?camer* or topical* or perilimbal* or episcleral* or (an?esthe* and (local or intra?camer* or topical))\nor eye drop* or eyedrop*).mp. or Injections/ or exp Anesthesia Local/ or exp Anesthetics Local/ or Administration Topical/\n3. 1 and 2\n4. ((randomized controlled trial or controlled clinical trial).pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab.\nor trial.ti.) not (animals not (humans and animals)).sh.\n5. 3 and 4"
+        ],
+        "negative_ctxs": [
+            28,
+            38
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We searched MEDLINE (1990 to November 2014; Appendix 1), the\nCochrane Central Register of Controlled Trials (CENTRAL) (2014,\nIssue 11; Appendix 2) and EMBASE (1990 to November 2014;\nAppendix 3). The search was first run in 2006 (Davison 2007) and\nwas updated for 2006 to 2011 in May 2011, and for 2011 to 2014 in\nNovember 2014.\n\n\nSelection of studies\nWe reviewed the titles and abstracts identified by the searches. We\nobtained and assessed full-text copies of possible relevant trials\naccording to the definitions provided under Criteria for considering\nstudies for this review. We assessed only trials meeting these\ncriteria for methodological quality.\n\nWe imposed\nno language restrictions in searching for publications, and we\ntranslated articles not published in English.\n"
+        ],
+        "negative_ctxs": [
+            9,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Search methods for identification of studies\nElectronic searches\nWe searched MEDLINE (1990 to November 2014; Appendix 1), the\nCochrane Central Register of Controlled Trials (CENTRAL) (2014,\nIssue 11; Appendix 2) and EMBASE (1990 to November 2014;\nAppendix 3). The search was first run in 2006 (Davison 2007) and\nwas updated for 2006 to 2011 in May 2011, and for 2011 to 2014 in\nNovember 2014.\nSearching other resources\nWe searched reference lists of identified trials during data\nextraction to find additional trials. We looked at \nwww.clinicaltrials.gov, \n \n and \nfor trials in progress in November 2014. We screened conference\nproceedings of anaesthesiology societies, as published in two\nmajor anaesthesiology journals, for 2012, 2013 and 2014:\nBritish Journal of Anaesthesiology and European Journal of\nAnaesthesiology. We also searched the website of the American\nSociety of Anaesthesiologists in November 2014. We imposed\nno language restrictions in searching for publications, and we\ntranslated articles not published in English."
+        ],
+        "negative_ctxs": [
+            37,
+            64
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We searched reference lists of identified trials during data\r\nextraction to find additional trials."
+        ],
+        "negative_ctxs": [
+            58,
+            56
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix 1. Search strategy for MEDLINE (Ovid SP)\r\n1. (phako* or phaco* or cataract* or pha?oemulsification or (cataract adj4 (surg* or extract*))).mp. or exp Phacoemulsification/ or exp\r\nCataract Extraction/ or exp Cataract/\r\n2. block.ti,ab. or (subtenon* or intra?camer* or topical* or perilimbal* or episcleral* or (an?esthe* and (local or intra?camer* or topical))\r\nor eye drop* or eyedrop*).mp. or Injections/ or exp Anesthesia Local/ or exp Anesthetics Local/ or Administration Topical/\r\n3. 1 and 2\r\n4. ((randomized controlled trial or controlled clinical trial).pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab.\r\nor trial.ti.) not (animals not (humans and animals)).sh.\r\n5. 3 and 4\r\nAppendix 2. Search strategy for CENTRAL\r\n#1MeSH descriptor Cataract explode all trees\r\n#2MeSH descriptor Cataract Extraction explode all trees\r\n#3MeSH descriptor Phacoemulsification explode all trees\r\n#4cataract* or phacoemulsification or phaco-emulsification\r\n#5phako* or phaco*\r\n#6Cataract and (surg* or extract*)\r\n#7Cataract near surg*\r\n#8Cataract near extract*\r\n#9(#1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8)\r\n#10MeSH descriptor Administration, Topical explode all trees\r\n#11MeSH descriptor Anesthesia, Local explode all trees\r\n#12MeSH descriptor Anesthetics, Local explode all trees\r\n#13MeSH descriptor Injections, this term only\r\n#14eye drop* or eye-drop*\r\n#15an?esthe* and (local or intra?camer* or topical)\r\n#16intra?camer* or topical* or perilimbal* or episcleral*\r\n#17subtenon* or sub-tenon* or (sub near tenon*)\r\n#18block:ti,ab\r\n#19(#10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18)\r\n#20(#9 AND #19)\r\nAppendix 3. Search strategy for EMBASE (Ovid SP)\r\n1. (phako* or phaco* or cataract* or pha?oemulsification or (cataract adj4 (surg* or extract*))).mp. or exp phacoemulsification/ or exp\r\ncataract extraction/ or exp cataract/\r\n2. (block.ti,ab. or subtenon* or intra?camer* or topical* or perilimbal* or episcleral* or (an?esthe* and (local or intra?camer* or topical))\r\nor eye drop* or eyedrop*).mp. or injection/ or exp local anesthesia/ or exp topical drug administration/\r\n3. 1 and 2\r\n4. (placebo.sh. or controlled study.ab. or random*.ti,ab. or trial*.ti,ab. or ((singl* or doubl* or trebl* or tripl*) adj3 (blind* or mask*)).ti,ab.)\r\nnot (animals not (humans and animals)).sh.\r\n5. 3 and 4"
+        ],
+        "negative_ctxs": [
+            4,
+            49
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Search methods for identification of studies\r\nElectronic searches\r\nWe searched MEDLINE (1990 to November 2014; Appendix 1), the\r\nCochrane Central Register of Controlled Trials (CENTRAL) (2014,\r\nIssue 11; Appendix 2) and EMBASE (1990 to November 2014;\r\nAppendix 3). The search was first run in 2006 (Davison 2007) and\r\nwas updated for 2006 to 2011 in May 2011, and for 2011 to 2014 in\r\nNovember 2014.\r\nSearching other resources\r\nWe searched reference lists of identified trials during data\r\nextraction to find additional trials. We looked at \r\nwww.clinicaltrials.gov, \r\n \r\n and \r\nfor trials in progress in November 2014. We screened conference\r\nproceedings of anaesthesiology societies, as published in two\r\nmajor anaesthesiology journals, for 2012, 2013 and 2014:\r\nBritish Journal of Anaesthesiology and European Journal of\r\nAnaesthesiology. We also searched the website of the American\r\nSociety of Anaesthesiologists in November 2014. We imposed\r\nno language restrictions in searching for publications, and we\r\ntranslated articles not published in English.\r\nData collection and analysis\r\nSelection of studies\r\nWe reviewed the titles and abstracts identified by the searches. We\r\nobtained and assessed full-text copies of possible relevant trials\r\naccording to the definitions provided under Criteria for considering\r\nstudies for this review. We assessed only trials meeting these\r\ncriteria for methodological quality."
+        ],
+        "negative_ctxs": [
+            8,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            54
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            53
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Included studies\nWe included eight studies in this updated review but only seven\nstudies with 742 operated eyes of 617 participants in the analysis.\nWe could not extract the data for Adams 2008. Among the seven\nstudies retained were two cross-over trials (Vielpeau 1999; Zafirakis\n2001) with 125 participants and five parallel trials (Chittenden\n1997; Mathew 2003; Ruschen 2005; Sekundo 2004; Srinivasan 2004)\nwith 492 participants (Characteristics of included studies). These\nstudies were published between 1997 and 2005. The mean age\nof participants varied from 71.5 years to 83.5 years. The female\nproportion of participants varied from 54% to 76%. Oral sedation\nwas used in only two studies (Sekundo 2004; Vielpeau 1999). No\nstudy used pre-operative oral co-analgesia. The local anaesthetic\nused for topical anaesthesia was lidocaine (Sekundo 2004),\noxybuprocaine (Chittenden 1997), proparacaine (Mathew 2003;\nZafirakis 2001), proxymethocaine (Srinivasan 2004) or tetracaine\n(Ruschen 2005; Vielpeau 1999). For topical anaesthesia, jelly was\nused in one study (Sekundo 2004) and drops in the other six studies.\nSub-Tenon's block was performed with 1.5 to 4 mL of lidocaine\n(Chittenden 1997; Ruschen 2005; Sekundo 2004), with lidocaine\nor carbocaine (Vielpeau 1999) or with a mixture of lidocaine and bupivacaine (Mathew 2003; Srinivasan 2004; Zafirakis 2001).\nIntracameral anaesthesia was added for one study only (Sekundo\n2004).\nPhacoemulsification was used for all studies. A clear corneal\nincision was used as the surgical technique in five studies (Mathew\n2003; Ruschen 2005; Srinivasan 2004; Vielpeau 1999; Zafirakis\n2001), although Vielpeau 1999 also placed a single corneal suture.\nThe older technique of scleral tunnel was used by Chittenden 1997\n(who also placed a superior rectus suture in the sub-Tenon's group)\nand by Sekundo 2004.\n\n\nOther potential sources of bias\nCharacteristics of participants were not provided for two studies\n(Adams 2008; Chittenden 1997).\n\n\nC H A R A C T E R I S T I C S \u0003 O F \u0003 S T U D I E S\nCharacteristics of included studies [ordered by study ID]"
+        ],
+        "negative_ctxs": [
+            38,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Data for analysis\nwere then transferred within RevMan into the format required to\ninclude maximal numbers of studies (events and total numbers\nof participants for each group; means, standard deviations and\nnumbers of participants included in each group; or generic inverse\nvariance if necessary). When possible, we entered data into an\nintention-to-treat (ITT) analysis.\n\n\nMeasures of treatment e:ect\nAs much as was feasible, we reported results as risk ratios (RRs) and\ntheir 95% confidence intervals (95% CIs) for dichotomous data, and\nas mean diIerences and 95% CIs for continuous data. If some of\nthe continuous data were given on different scales, we produced\nresults as standardized mean diIerences (SMDs) and 95% CIs. \n\n\nDealing with missing data\nWe did not use medians as equivalent to means. Instead, we used\nthe P value and the numbers of participants included in each group\nto calculate the eIect size. We did not used imputed results. We\nentered data as ITT data as much as was feasible. If we did not, we\nassigned the study to high risk of bias for selective reporting and\nentered data on a per-protocol basis.\n\n\nOther potential sources of bias\nCharacteristics of participants were not provided for two studies\n(Adams 2008; Chittenden 1997).\n\n\nPain during surgery\nThis outcome was available for six studies (Chittenden 1997;\nMathew 2003; Sekundo 2004; Srinivasan 2004; Vielpeau 1999;\nZafirakis 2001), which included 605 participants. Pain during\nsurgery was greater with topical anaesthesia than with sub-Tenon's\nanaesthesia (SMD 0.64, 95% CI 0.43 to 0.84; I2 = 36%; Analysis 1.1).\nWith one high-quality trial used as a standard (Srinivasan 2004;\nstandard deviation (SD) 2.3), this would correspond to a visual/\nverbal analogical pain scale (VAS) score of 1.5 on a scale from 0 to\n10. Egger's regression intercept showed that a small-study eIect\nmay partially explain the statistical heterogeneity (P value = 0.04\n(two-tailed)). Duval and Tweedie's trim and fill analysis showed\nthat two studies might be missing to le@ of mean for an adjusted\npoint of estimate of 0.55 (95% CI 0.33 to 0.77). When studies were\nsubgrouped by risk of bias for blinding of the outcome assessor,\nthe diIerence was significantly less in studies in which the outcome\nassessor was blinded to the anaesthetic technique used (I2 = 83%\nfor heterogeneity between subgroups). The diIerence measured\nfor this item in studies at low risk of bias (Sekundo 2004; Srinivasan\n2004; Zafirakis 2001) would correspond to a diIerence in VAS scores\nof 1.1 on a scale from 0 to 10. We graded the evidence only on the\nbasis of three studies at low risk of bias. In the light of results of\none low risk of bias study (Srinivasan 2004; SD of sub-Tenon's group\n2.2), 120 participants (60 per group) were required to eliminate a\ndiIerence of 1/10 in VAS score (from 3.4 to 2.4) (alpha 0.05; beta 0.2;\none-sided test)."
+        ],
+        "negative_ctxs": [
+            19,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Assessment of risk of bias in included studies\nWe used the Cochrane tool to assess trial quality (Higgins 2011) for\nthe following items.\n1. Generation of the allocation sequence of interventions:\nRandomization was considered adequate if it was generated by\na computer or a random number table algorithm. We judged\nother processes, such as tossing of a coin, to be adequate if\nthe whole sequence was generated before the start of the trial.\nWe considered the trial as quasi-randomized if a non-random\nsystem, such as dates, names or identification numbers, was\nused.\n2. Concealment of allocation: We considered concealment\nadequate if the process that was used prevented participant\nrecruiters, investigators and participants from knowing the\nintervention allocation of the next participant to be enrolled\nin the study. We considered concealment inadequate if the\nallocation method allowed participant recruiters, investigators\nor participants to know the treatment allocation of the next\nparticipant to be enrolled in the study.\n3. Blinding of participants and personnel: We considered blinding\nadequate if both the participant and personnel taking care of\nthe participant were blinded to the intervention. We considered\nblinding inadequate if both participants and personnel were not\nblinded to the intervention.\n4. Blinding of outcome assessment: We considered blinding\nadequate if the outcome assessor was blinded to the\nintervention. We considered blinding inadequate if the outcome\nassessor was not blinded to the intervention.\n5. Incomplete outcome data (attrition bias): We considered the\ntrial adequate if all dropouts or withdrawals were accounted for,\nif the number of dropouts was small (< 20%) and was similar\nfor both interventions and if reasons for dropping out seemed\nreasonable. We considered the trial inadequate for this specific\nitem if reasons for dropping out were not stated or did not sound\nreasonable or if the number was high (S 20%) or was vastly\ndiIerent between groups.\n6. Selective reporting (reporting bias): We considered the trial to\nhave low risk of bias if all measurements stated in the Methods\nsection were included in the Results section, and at high risk of\nbias if only some of the results mentioned in the Methods section\nwere given in the Results section. Per-protocol results (not ITT)\nwere considered as selective reporting.\n7. Any other risk of bias: We considered any other item that may\nhave influenced study results. An apparent conflict of interest\nwas considered to introduce risk of bias.\n\n\nRisk of bias in included studies\nWe presented risks of bias of included studies in Figure 2 and Figure\n3.\n\n\nAllocation\nWe judged allocation concealment as appropriate for two studies\n(Ruschen 2005; Srinivasan 2004) and as unclear for the other studies\n(Figure 2; Figure 3).\n\n\nBlinding\nWe judged blinding of participants and personnel as adequate for\ntwo studies (Ruschen 2005; Srinivasan 2004).We judged blinding of the outcome assessor as adequate for five\nstudies (Adams 2008; Ruschen 2005; Sekundo 2004; Srinivasan\n2004; Zafirakis 2001).\n\n\nIncomplete outcome data\nWe determined that attrition bias was addressed adequately by all\nstudies except one (Ruschen 2005).\nSelective reporting\nWe judged selective reporting to be a problem for two studies\nfor which data were not analysed on an intention-to-treat basis\n(Mathew 2003; Ruschen 2005).\nOther potential sources of bias\nCharacteristics of participants were not provided for two studies\n(Adams 2008; Chittenden 1997)."
+        ],
+        "negative_ctxs": [
+            16,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Included studies\nWe included eight studies in this updated review but only seven\nstudies with 742 operated eyes of 617 participants in the analysis.\nWe could not extract the data for Adams 2008.\n\n\nNotes We did not retain the results of this study for analysis because data are provided only as a sum of subjective\r\nscores (0 to 5) plus VAS scores (0 to 10) for anaesthesia and surgery. This study was published in\r\nabstract form only, and study authors provided no contact information"
+        ],
+        "negative_ctxs": [
+            55,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Data synthesis\nWe analysed data using RevMan 5.3.4 ((\nrevman/download) and Comprehensive Meta-Analysis, Version\n2.2.044 (www.Meta-Analysis.com) with a fixed-eIect model for\ncomparisons with low heterogeneity as assessed by the I2 statistic\n(I2 < 25%) or a random-eIects model for comparisons with\nmoderate or high heterogeneity (I2 S 25%) (Higgins 2003).\n\n\nSensitivity analysis\r\nWe planned to perform a sensitivity analysis (based mainly on\r\nthe risk of bias assessment: allocation concealment and blinding\r\nof the assessor). To allow the reader to be the judge on the\r\nadequacy of our decision to retain only studies at low risk of bias\r\nfor intraoperative pain (Analysis 1.1), we le@ both types of studies\r\n(unclear and low risk of bias) in the analysis, but we retained\r\nonly studies at low risk of bias for our assessment on the level of\r\nevidence and for determination of conclusions.\n\n\nSubgroup analysis and investigation of heterogeneity\r\nWe explored any extent of heterogeneity but focused more\r\nspecifically on comparisons with significant heterogeneity (I2\r\n> 25%) (Higgins 2003) and explored heterogeneity by using\r\nEgger's regression intercept (to assess the possibility of a\r\nsmall-study eIect; Rucker 2011), visual inspection of forest\r\nplots with studies placed in order according to a specific\r\nmoderator, subgroupings (categorical moderators) or metaregressions\r\n(continuous moderators). We considered the following\r\nfactors in the exploration of heterogeneity: cross-over versus\r\nparallel trials, intracameral injection, oral sedation, year of\r\npublication, age, gender proportion, local anaesthetic used with\r\ntopical anaesthesia, local anaesthetic used with sub-Tenon's\r\nanaesthesia, volume used with sub-Tenon's anaesthesia, jelly\r\nversus drops for topical anaesthesia and surgical technique."
+        ],
+        "negative_ctxs": [
+            27,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Data synthesis\nWe analysed data using RevMan 5.3.4 ((\nrevman/download) and Comprehensive Meta-Analysis, Version\n2.2.044 (www.Meta-Analysis.com) with a fixed-eIect model for\ncomparisons with low heterogeneity as assessed by the I2 statistic\n(I2 < 25%) or a random-eIects model for comparisons with\nmoderate or high heterogeneity (I2 S 25%) (Higgins 2003).\n\n\nTypes of studies\nWe included all randomized controlled trials (RCTs) comparing\ntopical anaesthesia with or without intracameral injection versus\nsub-Tenon's anaesthesia.\n\n\nTypes of interventions\r\nWe included studies that compared sub-Tenon's anaesthesia\r\nversus topical anaesthesia (eye drops or gel) with or without\r\nintracameral injection."
+        ],
+        "negative_ctxs": [
+            14,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "This outcome was available for six studies (Chittenden 1997;\nMathew 2003; Sekundo 2004; Srinivasan 2004; Vielpeau 1999;\nZafirakis 2001), which included 605 participants. Pain during\nsurgery was greater with topical anaesthesia than with sub-Tenon's\nanaesthesia (SMD 0.64, 95% CI 0.43 to 0.84; I2 = 36%; Analysis 1.1).\n\n\nC H A R A C T E R I S T I C S \u0003 O F \u0003 S T U D I E S\r\nCharacteristics of included studies [ordered by study ID]"
+        ],
+        "negative_ctxs": [
+            51,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Assessment of reporting biases\r\nWe examined publication bias with a funnel plot followed by Duval\r\nand Tweedie's trim and fill technique for each outcome.\n\n\nEgger's regression intercept showed that a small-study eIect\nmay partially explain the statistical heterogeneity (P value = 0.04\n(two-tailed)). Duval and Tweedie's trim and fill analysis showed\nthat two studies might be missing to le@ of mean for an adjusted\npoint of estimate of 0.55 (95% CI 0.33 to 0.77).\n\n\nLevel of evidence\nFor intraoperative pain, we included only three trials in our final assessment when the outcome assessor was blinded to theanaesthetic technique. We did not downgrade the evidence on the basis of the possibility of publication bias because correcting this would not lead to changes in the conclusion. "
+        ],
+        "negative_ctxs": [
+            29,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Allocation\nWe judged allocation concealment as appropriate for two studies\n(Ruschen 2005; Srinivasan 2004) and as unclear for the other studies\n(Figure 2; Figure 3).\n\nBlinding\nWe judged blinding of participants and personnel as adequate for\ntwo studies (Ruschen 2005; Srinivasan 2004). We judged blinding of the outcome assessor as adequate for five\nstudies (Adams 2008; Ruschen 2005; Sekundo 2004; Srinivasan\n2004; Zafirakis 2001).\n\nIncomplete outcome data\nWe determined that attrition bias was addressed adequately by all\nstudies except one (Ruschen 2005).\nSelective reporting\nWe judged selective reporting to be a problem for two studies\nfor which data were not analysed on an intention-to-treat basis\n(Mathew 2003; Ruschen 2005).\nOther potential sources of bias\nCharacteristics of participants were not provided for two studies\n(Adams 2008; Chittenden 1997).\n\n\nSensitivity analysis\nWe planned to perform a sensitivity analysis (based mainly on\nthe risk of bias assessment: allocation concealment and blinding\nof the assessor). To allow the reader to be the judge on the\nadequacy of our decision to retain only studies at low risk of bias\nfor intraoperative pain (Analysis 1.1), we le@ both types of studies\n(unclear and low risk of bias) in the analysis, but we retained\nonly studies at low risk of bias for our assessment on the level of\nevidence and for determination of conclusions.\n\n\naWe retained only studies in which the outcome assessor was blinded to the anaesthetic technique."
+        ],
+        "negative_ctxs": [
+            27,
+            39
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Risk of bias in included studies\r\nWe presented risks of bias of included studies in Figure 2 and Figure\r\n3.\r\n\r\nAllocation\r\nWe judged allocation concealment as appropriate for two studies\r\n(Ruschen 2005; Srinivasan 2004) and as unclear for the other studies\r\n(Figure 2; Figure 3).\r\n\r\n\r\nBlinding\r\nWe judged blinding of participants and personnel as adequate for\r\ntwo studies (Ruschen 2005; Srinivasan 2004).We judged blinding of the outcome assessor as adequate for five\r\nstudies (Adams 2008; Ruschen 2005; Sekundo 2004; Srinivasan\r\n2004; Zafirakis 2001).\r\n\r\n\r\nIncomplete outcome data\r\nWe determined that attrition bias was addressed adequately by all\r\nstudies except one (Ruschen 2005).\r\nSelective reporting\r\nWe judged selective reporting to be a problem for two studies\r\nfor which data were not analysed on an intention-to-treat basis\r\n(Mathew 2003; Ruschen 2005).\r\nOther potential sources of bias\r\nCharacteristics of participants were not provided for two studies\r\n(Adams 2008; Chittenden 1997)."
+        ],
+        "negative_ctxs": [
+            58,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "C H A R A C T E R I S T I C S \u0003 O F \u0003 S T U D I E S\nCharacteristics of included studies [ordered by study ID]\n\n\nAll studies used diIerent combinations of local anaesthetic agents\r\nin diIering amounts and concentrations. For the purposes of this\r\nreview, it was assumed that all were fit for the purpose for which\r\nthey were used, that is, provision of anaesthesia by topical or sub-\r\nTenon's administration for a standard cataract surgery. Comparison\r\nof the eIectiveness of local anaesthetic agents was outside the\r\nremit of this review. The same is true for the diIerent types of\r\noperating techniques used (clear corneal incision and scleral tunnel\r\nwith or without sutures). Throughout the world, diIerent drugs and\r\ntechniques are used for cataract surgery, so we included all studies\r\nin the review."
+        ],
+        "negative_ctxs": [
+            60,
+            50
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            30,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "H I S T O R Y\nProtocol first published: Issue 4, 2006\n\n\nOur objectives were to compare the eIectiveness of topical\nanaesthesia (with or without intracameral local anaesthetic) versus\nsub-Tenon's anaesthesia in providing pain relief during cataract\nsurgery. We reviewed pain during administration of anaesthesia,\npostoperative pain, surgical satisfaction with operating conditions\nand patient satisfaction with pain relief provided, and we looked at\nassociated complications.\n\n\nNew review authors updated this review; see Published notes for\nan explanation of why conclusions have changed even though\nthe number of included studies is the same as in the original review\n(Davison 2007)\n\nTypes of studies\nWe included all randomized controlled trials (RCTs) comparing\ntopical anaesthesia with or without intracameral injection versus\nsub-Tenon's anaesthesia.\nTypes of participants\nWe included only studies performed on adult participants. We\nincluded studies in which participants underwent operation on one\neye only or on both eyes, provided that the anaesthetic technique\nfor the first eye was chosen at random.\nTypes of interventions\nWe included studies that compared sub-Tenon's anaesthesia\nversus topical anaesthesia (eye drops or gel) with or without\nintracameral injection. We excluded studies in which participants\nreceived intravenous sedation, as clinical experience has shown\nthat intravenous sedation can mask pain perceived by the person.\n\n\nSearch methods for identification of studies\nElectronic searches\nWe searched MEDLINE (1990 to November 2014; Appendix 1), the\nCochrane Central Register of Controlled Trials (CENTRAL) (2014,\nIssue 11; Appendix 2) and EMBASE (1990 to November 2014;\nAppendix 3). The search was first run in 2006 (Davison 2007) and\nwas updated for 2006 to 2011 in May 2011, and for 2011 to 2014 in\nNovember 2014."
+        ],
+        "negative_ctxs": [
+            0,
+            64
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Criteria for considering studies for this review\nTypes of studies\nWe included all randomized controlled trials (RCTs) comparing\ntopical anaesthesia with or without intracameral injection versus\nsub-Tenon's anaesthesia.\nTypes of participants\nWe included only studies performed on adult participants. We\nincluded studies in which participants underwent operation on one\neye only or on both eyes, provided that the anaesthetic technique\nfor the first eye was chosen at random.\nTypes of interventions\nWe included studies that compared sub-Tenon's anaesthesia\nversus topical anaesthesia (eye drops or gel) with or without\nintracameral injection. We excluded studies in which participants\nreceived intravenous sedation, as clinical experience has shown\nthat intravenous sedation can mask pain perceived by the person.\nTypes of outcome measures\nPrimary outcomes\n1. Pain during surgery.\nSecondary outcomes\n1. Pain during administration of local anaesthetic.\n2. Postoperative pain at 30 minutes and at 24 hours.\n3. Surgical satisfaction with operating conditions.\n4. Patient satisfaction with analgesia provided.\n5. Complications that occurred as defined by study authors."
+        ],
+        "negative_ctxs": [
+            22,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            49,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Search methods for identification of studies\nElectronic searches\nWe searched MEDLINE (1990 to November 2014; Appendix 1), the\nCochrane Central Register of Controlled Trials (CENTRAL) (2014,\nIssue 11; Appendix 2) and EMBASE (1990 to November 2014;\nAppendix 3). The search was first run in 2006 (Davison 2007) and\nwas updated for 2006 to 2011 in May 2011, and for 2011 to 2014 in\nNovember 2014.\nSearching other resources\nWe searched reference lists of identified trials during data\nextraction to find additional trials. We looked at \nwww.clinicaltrials.gov, \n \n and \nfor trials in progress in November 2014. We screened conference\nproceedings of anaesthesiology societies, as published in two\nmajor anaesthesiology journals, for 2012, 2013 and 2014:\nBritish Journal of Anaesthesiology and European Journal of\nAnaesthesiology. We also searched the website of the American\nSociety of Anaesthesiologists in November 2014. We imposed\nno language restrictions in searching for publications, and we\ntranslated articles not published in English."
+        ],
+        "negative_ctxs": [
+            32,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            63,
+            51
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            43,
+            45
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Description of studies\nCharacteristics of all studies can be found under Characteristics\nof included studies, Characteristics of excluded studies and\nCharacteristics of ongoing studies\n\n\nExcluded studies\nWe excluded four studies (El Awady 2009; Huang 2014; Rodrigues\n2008; Ryu 2009). One study was performed on a diIerent\npopulation (potentially diIicult cataract surgery) (El Awady\n2009). One included no outcomes of interest (Huang 2014). In\ntwo studies, participants received intravenous midazolam and\nalfentanil (Rodrigues 2008) or propofol and remifentanil (Ryu 2009)\n(Characteristics of excluded studies).\n\n\nCharacteristics of excluded studies [ordered by study ID]\n\n\nStudy Reason for exclusion\nEl Awady 2009 Different population. Study was performed on participants with potentially difficult cataract\nsurgery\nHuang 2014 No outcomes of interest\nRodrigues 2008 All participants were given standard intravenous (IV) pre-medication with midazolam (0.02 mg/kg)\nand alfentanil (0.005 mg/kg)\nRyu 2009 Study included 3 groups of participants; all were operated on under monitored anaesthesia care\nwith lidocaine-propofol-remifentanil mixture"
+        ],
+        "negative_ctxs": [
+            50,
+            43
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Included studies\nWe included eight studies in this updated review but only seven\nstudies with 742 operated eyes of 617 participants in the analysis.\nWe could not extract the data for Adams 2008. Among the seven\nstudies retained were two cross-over trials (Vielpeau 1999; Zafirakis\n2001) with 125 participants and five parallel trials (Chittenden\n1997; Mathew 2003; Ruschen 2005; Sekundo 2004; Srinivasan 2004)\nwith 492 participants (Characteristics of included studies). These\nstudies were published between 1997 and 2005. The mean age\nof participants varied from 71.5 years to 83.5 years. The female\nproportion of participants varied from 54% to 76%. Oral sedation\nwas used in only two studies (Sekundo 2004; Vielpeau 1999). No\nstudy used pre-operative oral co-analgesia. The local anaesthetic\nused for topical anaesthesia was lidocaine (Sekundo 2004),\noxybuprocaine (Chittenden 1997), proparacaine (Mathew 2003;\nZafirakis 2001), proxymethocaine (Srinivasan 2004) or tetracaine\n(Ruschen 2005; Vielpeau 1999). For topical anaesthesia, jelly was\nused in one study (Sekundo 2004) and drops in the other six studies.\nSub-Tenon's block was performed with 1.5 to 4 mL of lidocaine\n(Chittenden 1997; Ruschen 2005; Sekundo 2004), with lidocaine\nor carbocaine (Vielpeau 1999) or with a mixture of lidocaine and bupivacaine (Mathew 2003; Srinivasan 2004; Zafirakis 2001).\nIntracameral anaesthesia was added for one study only (Sekundo\n2004).\nPhacoemulsification was used for all studies. A clear corneal\nincision was used as the surgical technique in five studies (Mathew\n2003; Ruschen 2005; Srinivasan 2004; Vielpeau 1999; Zafirakis\n2001), although Vielpeau 1999 also placed a single corneal suture.\nThe older technique of scleral tunnel was used by Chittenden 1997\n(who also placed a superior rectus suture in the sub-Tenon's group)\nand by Sekundo 2004.\n\n\nOther potential sources of bias\nCharacteristics of participants were not provided for two studies\n(Adams 2008; Chittenden 1997).\n\n\nC H A R A C T E R I S T I C S \u0003 O F \u0003 S T U D I E S\nCharacteristics of included studies [ordered by study ID]"
+        ],
+        "negative_ctxs": [
+            17,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Assessment of risk of bias in included studies\nWe used the Cochrane tool to assess trial quality (Higgins 2011) for\nthe following items.\n1. Generation of the allocation sequence of interventions:\nRandomization was considered adequate if it was generated by\na computer or a random number table algorithm. We judged\nother processes, such as tossing of a coin, to be adequate if\nthe whole sequence was generated before the start of the trial.\nWe considered the trial as quasi-randomized if a non-random\nsystem, such as dates, names or identification numbers, was\nused.\n2. Concealment of allocation: We considered concealment\nadequate if the process that was used prevented participant\nrecruiters, investigators and participants from knowing the\nintervention allocation of the next participant to be enrolled\nin the study. We considered concealment inadequate if the\nallocation method allowed participant recruiters, investigators\nor participants to know the treatment allocation of the next\nparticipant to be enrolled in the study.\n3. Blinding of participants and personnel: We considered blinding\nadequate if both the participant and personnel taking care of\nthe participant were blinded to the intervention. We considered\nblinding inadequate if both participants and personnel were not\nblinded to the intervention.\n4. Blinding of outcome assessment: We considered blinding\nadequate if the outcome assessor was blinded to the\nintervention. We considered blinding inadequate if the outcome\nassessor was not blinded to the intervention.\n5. Incomplete outcome data (attrition bias): We considered the\ntrial adequate if all dropouts or withdrawals were accounted for,\nif the number of dropouts was small (< 20%) and was similar\nfor both interventions and if reasons for dropping out seemed\nreasonable. We considered the trial inadequate for this specific\nitem if reasons for dropping out were not stated or did not sound\nreasonable or if the number was high (S 20%) or was vastly\ndiIerent between groups.\n6. Selective reporting (reporting bias): We considered the trial to\nhave low risk of bias if all measurements stated in the Methods\nsection were included in the Results section, and at high risk of\nbias if only some of the results mentioned in the Methods section\nwere given in the Results section. Per-protocol results (not ITT)\nwere considered as selective reporting.\n7. Any other risk of bias: We considered any other item that may\nhave influenced study results. An apparent conflict of interest\nwas considered to introduce risk of bias.\n\n\nRisk of bias in included studies\nWe presented risks of bias of included studies in Figure 2 and Figure\n3.\n\n\nAllocation\nWe judged allocation concealment as appropriate for two studies\n(Ruschen 2005; Srinivasan 2004) and as unclear for the other studies\n(Figure 2; Figure 3).\n\n\nBlinding\nWe judged blinding of participants and personnel as adequate for\ntwo studies (Ruschen 2005; Srinivasan 2004).We judged blinding of the outcome assessor as adequate for five\nstudies (Adams 2008; Ruschen 2005; Sekundo 2004; Srinivasan\n2004; Zafirakis 2001).\n\n\nIncomplete outcome data\nWe determined that attrition bias was addressed adequately by all\nstudies except one (Ruschen 2005).\nSelective reporting\nWe judged selective reporting to be a problem for two studies\nfor which data were not analysed on an intention-to-treat basis\n(Mathew 2003; Ruschen 2005).\nOther potential sources of bias\nCharacteristics of participants were not provided for two studies\n(Adams 2008; Chittenden 1997)."
+        ],
+        "negative_ctxs": [
+            0,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Data synthesis\nWe analysed data using RevMan 5.3.4 ((\nrevman/download) and Comprehensive Meta-Analysis, Version\n2.2.044 (www.Meta-Analysis.com) with a fixed-eIect model for\ncomparisons with low heterogeneity as assessed by the I2 statistic\n(I2 < 25%) or a random-eIects model for comparisons with\nmoderate or high heterogeneity (I2 S 25%) (Higgins 2003).\n\n\nTypes of studies\nWe included all randomized controlled trials (RCTs) comparing\ntopical anaesthesia with or without intracameral injection versus\nsub-Tenon's anaesthesia.\n\n\nTypes of interventions\r\nWe included studies that compared sub-Tenon's anaesthesia\r\nversus topical anaesthesia (eye drops or gel) with or without\r\nintracameral injection."
+        ],
+        "negative_ctxs": [
+            59,
+            53
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "This outcome was available for six studies (Chittenden 1997;\nMathew 2003; Sekundo 2004; Srinivasan 2004; Vielpeau 1999;\nZafirakis 2001), which included 605 participants. Pain during\nsurgery was greater with topical anaesthesia than with sub-Tenon's\nanaesthesia (SMD 0.64, 95% CI 0.43 to 0.84; I2 = 36%; Analysis 1.1).\n\n\nC H A R A C T E R I S T I C S \u0003 O F \u0003 S T U D I E S\r\nCharacteristics of included studies [ordered by study ID]"
+        ],
+        "negative_ctxs": [
+            64,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Assessment of reporting biases\r\nWe examined publication bias with a funnel plot followed by Duval\r\nand Tweedie's trim and fill technique for each outcome.\n\n\nEgger's regression intercept showed that a small-study eIect\nmay partially explain the statistical heterogeneity (P value = 0.04\n(two-tailed)). Duval and Tweedie's trim and fill analysis showed\nthat two studies might be missing to le@ of mean for an adjusted\npoint of estimate of 0.55 (95% CI 0.33 to 0.77).\n\n\nLevel of evidence\nFor intraoperative pain, we included only three trials in our final assessment when the outcome assessor was blinded to theanaesthetic technique. We did not downgrade the evidence on the basis of the possibility of publication bias because correcting this would not lead to changes in the conclusion. "
+        ],
+        "negative_ctxs": [
+            56,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Allocation\nWe judged allocation concealment as appropriate for two studies\n(Ruschen 2005; Srinivasan 2004) and as unclear for the other studies\n(Figure 2; Figure 3).\n\nBlinding\nWe judged blinding of participants and personnel as adequate for\ntwo studies (Ruschen 2005; Srinivasan 2004). We judged blinding of the outcome assessor as adequate for five\nstudies (Adams 2008; Ruschen 2005; Sekundo 2004; Srinivasan\n2004; Zafirakis 2001).\n\nIncomplete outcome data\nWe determined that attrition bias was addressed adequately by all\nstudies except one (Ruschen 2005).\nSelective reporting\nWe judged selective reporting to be a problem for two studies\nfor which data were not analysed on an intention-to-treat basis\n(Mathew 2003; Ruschen 2005).\nOther potential sources of bias\nCharacteristics of participants were not provided for two studies\n(Adams 2008; Chittenden 1997).\n\n\nSensitivity analysis\nWe planned to perform a sensitivity analysis (based mainly on\nthe risk of bias assessment: allocation concealment and blinding\nof the assessor). To allow the reader to be the judge on the\nadequacy of our decision to retain only studies at low risk of bias\nfor intraoperative pain (Analysis 1.1), we le@ both types of studies\n(unclear and low risk of bias) in the analysis, but we retained\nonly studies at low risk of bias for our assessment on the level of\nevidence and for determination of conclusions.\n\n\naWe retained only studies in which the outcome assessor was blinded to the anaesthetic technique."
+        ],
+        "negative_ctxs": [
+            57,
+            61
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "no trials mentioned their source\r\nof funding."
+        ],
+        "negative_ctxs": [
+            44,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Securing funding for the review: departmental resources only.\n\n\nD E C L A R A T I O N S \u0003 O F \u0003 I N T E R E S T\nJoanne Guay: I have had no direct relationship with any pharmaceutical company or equipment manufacturer in the past five years. I have\nnot acted as a witness expert in the past five years. I am not an author of any of the included or excluded studies. I do not hold stock\nother than mutual funds. During the past five years, I have received fees as speaker for two lectures given at the University of Dalhousie:\none on regional anaesthesia for carotid endarterectomy, and the other on local anaesthetic-related methaemoglobinaemia. My fees were\npaid by the University of Dalhousie. I am the editor of a multi-author textbook on anaesthesia (including notions on general and regional\nanaesthesia). I receive fees for a course on airway management from University of Quebec in Abitibi-Temiscamingue.\nKarl Sales: I have had no direct relationship with any pharmaceutical company or equipment manufacturer in the past five years. I have\nnot acted as a witness expert in the past five years. I am not an author of any of the included or excluded studies.\n\n\nS O U R C E S \u0003 O F \u0003 S U P P O R T\nInternal sources\n* University of Sherbrooke, Canada.\nAccess to medical journals\n* University of Quebec in Abitibi-Temiscamingue, Canada.\nAccess to medical journals\nExternal sources\n* Cochrane Anaesthesia Review Group, Denmark.\nSearch strategy and list of abstracts"
+        ],
+        "negative_ctxs": [
+            33,
+            53
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Risk of bias in included studies\r\nWe presented risks of bias of included studies in Figure 2 and Figure\r\n3.\r\n\r\nAllocation\r\nWe judged allocation concealment as appropriate for two studies\r\n(Ruschen 2005; Srinivasan 2004) and as unclear for the other studies\r\n(Figure 2; Figure 3).\r\n\r\n\r\nBlinding\r\nWe judged blinding of participants and personnel as adequate for\r\ntwo studies (Ruschen 2005; Srinivasan 2004).We judged blinding of the outcome assessor as adequate for five\r\nstudies (Adams 2008; Ruschen 2005; Sekundo 2004; Srinivasan\r\n2004; Zafirakis 2001).\r\n\r\n\r\nIncomplete outcome data\r\nWe determined that attrition bias was addressed adequately by all\r\nstudies except one (Ruschen 2005).\r\nSelective reporting\r\nWe judged selective reporting to be a problem for two studies\r\nfor which data were not analysed on an intention-to-treat basis\r\n(Mathew 2003; Ruschen 2005).\r\nOther potential sources of bias\r\nCharacteristics of participants were not provided for two studies\r\n(Adams 2008; Chittenden 1997)."
+        ],
+        "negative_ctxs": [
+            43,
+            32
+        ],
+        "positive_ctxs": []
+    }
+]

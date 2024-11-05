@@ -1,0 +1,485 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "In concordance with the suggestions from the Cochrane STI Group, we adjusted analysis taking into account the current diagnostic approaches (syndromic and aetiological), summarizing the effectiveness and safety of the therapy at follow-up."
+        ],
+        "negative_ctxs": [
+            10,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "To assess the effectiveness and safety of macrolides for treatment of H ducreyi infection in sexually active adults.\n\nWe included men and non-pregnant women over the age of 16 years who presented with purulent genital ulcers compatible with chancroid."
+        ],
+        "negative_ctxs": [
+            65,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We included men and non-pregnant women over the age of 16 years who presented with purulent genital ulcers compatible with chancroid.\n\nMacrolides (any dose, frequency, duration and administration route)"
+        ],
+        "negative_ctxs": [
+            11,
+            73
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We included randomized controlled trials (RCTs) that compared macrolides as first-line therapy with any other antibiotic treatment or any other symptomatic treatment. We also included RCTs that compared different macrolides regimens (by macrolide type) for the treatment of H ducreyi infection.\nWe excluded quasi-RCTs because this produces effect estimates that indicate more extreme benefits when they are compared with RCTs (Higgins 2011). We excluded cross-over and cluster trials, because of the nature of the condition and intervention (Higgins 2011). Finally, we excluded RCTs that assessed the effectiveness of trimethoprim-sulfamethoxazole because several H ducreyi isolates with resistance to this medication have been reported worldwide (CDC 2015).\n"
+        ],
+        "negative_ctxs": [
+            21,
+            56
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "All trials included outpatients. Six trials were published in English and one in Portuguese.\n\nWe handsearched the conference proceeding abstracts of the following events"
+        ],
+        "negative_ctxs": [
+            66,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched the following electronic databases: Cochrane STI Group's Specialized Register, which includes RCTs and controlled clinical trials, from 1944 to 2017, located through: electronic searches of CENTRAL, MEDLINE and Embase; online handsearching of journals not indexed in MEDLINE or Embase, according to the journals' master list of the Cochrane STI Group; Cochrane Central Register of Controlled Trials (CENTRAL), Ovid: inception to 30 October 2017;  MEDLINE, Ovid: inception to 30 October 2017; MEDLINE In-Process & Other Non-Indexed Citations, Ovid:\ninception to 30 October 2017; MEDLINE Daily Update, Ovid: inception to 30 October 2017; Embase (Emabase.com): inception to 30 October 2017; LILACS, IAHx interface: inception to 30 October 2017.\n"
+        ],
+        "negative_ctxs": [
+            68,
+            64
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We handsearched other relevant publications on the same topic and the reference lists of all relevant studies identified"
+        ],
+        "negative_ctxs": [
+            53,
+            52
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix 1. Search strategies"
+        ],
+        "negative_ctxs": [
+            47,
+            25
+        ],
+        "positive_ctxs": [
+            72
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            60,
+            39
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "LR and CFG-A independently screened all the titles and abstracts retrieved from the search strategy to determine which trials we should assessed further. LR and CFG-A independently investigated the full-text articles of all potentially relevant articles and we resolved any disagreements through discussion."
+        ],
+        "negative_ctxs": [
+            65,
+            13
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "We designed a data extraction form, which was pilot tested, to extract data from the included studies. For eligible studies, LR and CFG-A independently extracted data. We resolved any disagreements through discussion until we reached a consensus."
+        ],
+        "negative_ctxs": [
+            75,
+            16
+        ],
+        "positive_ctxs": [
+            21
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Characterisitics of included studies"
+        ],
+        "negative_ctxs": [
+            6,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Characterisitics of included studies\nSummary of findings for the main comparison."
+        ],
+        "negative_ctxs": [
+            45,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two review authors (LR and CFG-A) independently assessed the risk of bias for each included trial using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011). We resolved any disagreements by consensus or by consulting a third review author (CH). The review authors who assessed the risk of bias in the included studies were theme and methodology experts."
+        ],
+        "negative_ctxs": [
+            20,
+            63
+        ],
+        "positive_ctxs": [
+            22
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two review authors (LR and CFG-A) independently assessed the risk of bias for each included trial using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011). We resolved any disagreements by consensus or by consulting a third review author (CH). The review authors who assessed the risk of bias in the included studies were theme and methodology experts."
+        ],
+        "negative_ctxs": [
+            8,
+            13
+        ],
+        "positive_ctxs": [
+            22
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Figure 1. Study flow diagram\n\nThe seven included trials had 875 participants with a sample size ranging from 46 to 245 people."
+        ],
+        "negative_ctxs": [
+            69,
+            46
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "In concordance with the suggestions from the Cochrane STI Group, we adjusted analysis taking into account the current diagnostic approaches (syndromic and aetiological), summarizing the effectiveness and safety of the therapy at follow-up."
+        ],
+        "negative_ctxs": [
+            51,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We performed meta-analysis separately for participants with syndromic and aetiological diagnosis.\n\nWe used a fixed-effect meta-analysis for combining data where it was reasonable to assume that studies were estimating the same underlying treatment effect (i.e. where trials were examining the same intervention, and the trial populations and methods were judged sufficiently similar). If there was clinical heterogeneity sufficient to expect that the underlying treatment effects differed between trials, or if we detected substantial statistical heterogeneity, we used a random-effects meta-analysis to produce an overall summary if a mean treatment effect across trials was considered clinically meaningful. We treated the random- effects summary as the mean range of possible treatment effects and we discussed the clinical implications of treatment effects differing between trials. If the mean treatment effect was not clinically meaningful, we did not combine trials.\n\nTwo trials reported the syndromic approach to clinical improvement (Malonza 1999; Martin 1995). There was no evidence of a difference between macrolides and any other antibiotic treatment (RR 0.89, 95% CI 0.52 to 1.52; 2 studies, 340 participants; I2 = 62%; Analysis 1.3). The quality of the evidence was very low due to limitations on precision, heterogeneity and risk of bias."
+        ],
+        "negative_ctxs": [
+            32,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "We used a fixed-effect meta-analysis for combining data where it was reasonable to assume that studies were estimating the same underlying treatment effect (i.e. where trials were examining the same intervention, and the trial populations and methods were judged sufficiently similar). If there was clinical heterogeneity sufficient to expect that the underlying treatment effects differed between trials, or if we detected substantial statistical heterogeneity, we used a random-effects meta-analysis to produce an overall summary if a mean treatment effect across trials was considered clinically meaningful. We treated the random- effects summary as the mean range of possible treatment effects and we discussed the clinical implications of treatment effects differing between trials. If the mean treatment effect was not clinically meaningful, we did not combine trials.\n\nThe quality of the evidence was very low due to limitations on precision, heterogeneity and risk of bias."
+        ],
+        "negative_ctxs": [
+            46,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Figure 1. Study flow diagram\n\nThe seven included trials had 875 participants with a sample size ranging from 46 to 245 people."
+        ],
+        "negative_ctxs": [
+            66,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "We assessed all studies for risk of bias and graded the quality of evidence using the GRADE approach. However, we have some concerns about publication bias and related small-study effects. We were unable to prepare a funnel plot to examine publication bias due to a lack of studies."
+        ],
+        "negative_ctxs": [
+            73,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "We rated the quality of the evidence for this systematic review according to the recommendations of the GRADE Working Group (Higgins 2011). All included studies were at high or unclear risk of bias and consequently were graded with low or very low confidence on the estimate of effect."
+        ],
+        "negative_ctxs": [
+            16,
+            38
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Characteristics of included studies"
+        ],
+        "negative_ctxs": [
+            60,
+            31
+        ],
+        "positive_ctxs": [
+            26,
+            52
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            38,
+            8
+        ],
+        "positive_ctxs": [
+            2,
+            4,
+            7,
+            18,
+            37,
+            39,
+            51,
+            52,
+            55,
+            56,
+            58,
+            60,
+            63,
+            64,
+            65,
+            67,
+            68,
+            69,
+            71,
+            72,
+            76
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "In concordance with the suggestions from the Cochrane STI Group, we adjusted analysis taking into account the current diagnostic approaches (syndromic and aetiological), summarizing the effectiveness and safety of the therapy at follow-up."
+        ],
+        "negative_ctxs": [
+            14,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We included men and non-pregnant women over the age of 16 years who presented with purulent genital ulcers compatible with chancroid.\n\nMacrolides (any dose, frequency, duration and administration route)"
+        ],
+        "negative_ctxs": [
+            4,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We included randomized controlled trials (RCTs) that compared macrolides as first-line therapy with any other antibiotic treatment or any other symptomatic treatment. We also included RCTs that compared different macrolides regimens (by macrolide type) for the treatment of H ducreyi infection.\nWe excluded quasi-RCTs because this produces effect estimates that indicate more extreme benefits when they are compared with RCTs (Higgins 2011). We excluded cross-over and cluster trials, because of the nature of the condition and intervention (Higgins 2011). Finally, we excluded RCTs that assessed the effectiveness of trimethoprim-sulfamethoxazole because several H ducreyi isolates with resistance to this medication have been reported worldwide (CDC 2015).\n"
+        ],
+        "negative_ctxs": [
+            66,
+            70
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched the following electronic databases: Cochrane STI Group's Specialized Register, which includes RCTs and controlled clinical trials, from 1944 to 2017, located through: electronic searches of CENTRAL, MEDLINE and Embase; online handsearching of journals not indexed in MEDLINE or Embase, according to the journals' master list of the Cochrane STI Group; Cochrane Central Register of Controlled Trials (CENTRAL), Ovid: inception to 30 October 2017;  MEDLINE, Ovid: inception to 30 October 2017; MEDLINE In-Process & Other Non-Indexed Citations, Ovid:\ninception to 30 October 2017; MEDLINE Daily Update, Ovid: inception to 30 October 2017; Embase (Emabase.com): inception to 30 October 2017; LILACS, IAHx interface: inception to 30 October 2017.\n"
+        ],
+        "negative_ctxs": [
+            60,
+            47
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "LR and CFG-A independently screened all the titles and abstracts retrieved from the search strategy to determine which trials we should assessed further. LR and CFG-A independently investigated the full-text articles of all potentially relevant articles and we resolved any disagreements through discussion."
+        ],
+        "negative_ctxs": [
+            4,
+            7
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "We designed a data extraction form, which was pilot tested, to extract data from the included studies. For eligible studies, LR and CFG-A independently extracted data. We resolved any disagreements through discussion until we reached a consensus."
+        ],
+        "negative_ctxs": [
+            18,
+            43
+        ],
+        "positive_ctxs": [
+            21
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "We listed all articles excluded after full-text assessment and the reasons for exclusion in the Characteristics of excluded studies table."
+        ],
+        "negative_ctxs": [
+            39,
+            38
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Characterisitics of included studies"
+        ],
+        "negative_ctxs": [
+            58,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two review authors (LR and CFG-A) independently assessed the risk of bias for each included trial using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011). We resolved any disagreements by consensus or by consulting a third review author (CH). The review authors who assessed the risk of bias in the included studies were theme and methodology experts."
+        ],
+        "negative_ctxs": [
+            51,
+            69
+        ],
+        "positive_ctxs": [
+            22
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We performed meta-analysis separately for participants with syndromic and aetiological diagnosis.\n\nWe used a fixed-effect meta-analysis for combining data where it was reasonable to assume that studies were estimating the same underlying treatment effect (i.e. where trials were examining the same intervention, and the trial populations and methods were judged sufficiently similar). If there was clinical heterogeneity sufficient to expect that the underlying treatment effects differed between trials, or if we detected substantial statistical heterogeneity, we used a random-effects meta-analysis to produce an overall summary if a mean treatment effect across trials was considered clinically meaningful. We treated the random- effects summary as the mean range of possible treatment effects and we discussed the clinical implications of treatment effects differing between trials. If the mean treatment effect was not clinically meaningful, we did not combine trials.\n\nTwo trials reported the syndromic approach to clinical improvement (Malonza 1999; Martin 1995). There was no evidence of a difference between macrolides and any other antibiotic treatment (RR 0.89, 95% CI 0.52 to 1.52; 2 studies, 340 participants; I2 = 62%; Analysis 1.3). The quality of the evidence was very low due to limitations on precision, heterogeneity and risk of bias."
+        ],
+        "negative_ctxs": [
+            59,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "We used a fixed-effect meta-analysis for combining data where it was reasonable to assume that studies were estimating the same underlying treatment effect (i.e. where trials were examining the same intervention, and the trial populations and methods were judged sufficiently similar). If there was clinical heterogeneity sufficient to expect that the underlying treatment effects differed between trials, or if we detected substantial statistical heterogeneity, we used a random-effects meta-analysis to produce an overall summary if a mean treatment effect across trials was considered clinically meaningful. We treated the random- effects summary as the mean range of possible treatment effects and we discussed the clinical implications of treatment effects differing between trials. If the mean treatment effect was not clinically meaningful, we did not combine trials.\n\nThe quality of the evidence was very low due to limitations on precision, heterogeneity and risk of bias."
+        ],
+        "negative_ctxs": [
+            42,
+            66
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Figure 1. Study flow diagram\n\nThe seven included trials had 875 participants with a sample size ranging from 46 to 245 people."
+        ],
+        "negative_ctxs": [
+            48,
+            68
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "We assessed all studies for risk of bias and graded the quality of evidence using the GRADE approach. However, we have some concerns about publication bias and related small-study effects. We were unable to prepare a funnel plot to examine publication bias due to a lack of studies."
+        ],
+        "negative_ctxs": [
+            37,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Four of the included trials were funded by industry and due to the limited number of trials for each comparison our confidence on the estimate of effect was low and very low."
+        ],
+        "negative_ctxs": [
+            59,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "LR: none known.\n\nCH: none known.\n\nCFG-A: none known.\n\nExternal sources National University of Colombia, Colombia.\n\n\n\n"
+        ],
+        "negative_ctxs": [
+            52,
+            38
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "We rated the quality of the evidence for this systematic review according to the recommendations of the GRADE Working Group (Higgins 2011). All included studies were at high or unclear risk of bias and consequently were graded with low or very low confidence on the estimate of effect."
+        ],
+        "negative_ctxs": [
+            53,
+            5
+        ],
+        "positive_ctxs": []
+    }
+]

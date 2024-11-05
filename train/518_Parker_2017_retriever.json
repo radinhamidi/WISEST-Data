@@ -1,0 +1,468 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Condition was limited to psoriasis vulgaris (plaque) type, of any stage, severity or duration. Only trials published in English or Chinese were included with no limitations on age or gender.\n\nStudies investigating psoriasis type other than vulgaris or utilising Chinese Herbal Medicine in a form other than orally were excluded. Any Randomized Controlled Trials involving use of a conventional therapy along with Chinese Herbal Medicine were also considered, providing the control group (placebo) received same conventional therapy and the therapy was recommended by international guidelines.\n\nMultiple arm studies were considered if one of the control arms was placebo.\n\nTo determine efficacy, symptom severity scores were extracted from included studies.\n\nReduction in PASI score"
+        ],
+        "negative_ctxs": [
+            9,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Condition was limited to psoriasis vulgaris (plaque) type, of any stage, severity or duration. Only trials published in English or Chinese were included with no limitations on age or gender.\n\nStudies investigating psoriasis type other than vulgaris or utilising Chinese Herbal Medicine in a form other than orally were excluded. Any RCTs involving use of a conventional therapy along with CHM were also considered, providing the control group (placebo) received same conventional therapy and the therapy was recommended by international guidelines.\n\nMultiple arm studies were considered if one of the control arms was placebo.\n\nTo determine efficacy, symptom severity scores were extracted from included studies.\n\n90 (>=90% improvement (reduction) in PASI score), PASI 100"
+        ],
+        "negative_ctxs": [
+            4,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Only trials published in English or Chinese were included with no limitations on age or gender.\n\n[Figure 1]: Excluded: Not using PASI as outcome measure.\n\n[Figure 1]: Excluded: No useable or incorrect outcome data"
+        ],
+        "negative_ctxs": [
+            16,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Only trials published in English or Chinese were included with no limitations on age or gender. Available journal articles, conference proceedings and thesis were eligible for inclusion."
+        ],
+        "negative_ctxs": [
+            18,
+            21
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The Cochrane Library, PubMed, EMBASE, CINAHL, AMED, CBM, CNKI, CQVIP and Wanfang databases were searched from their inception to June 2015.\n\nAvailable journal articles, conference proceedings and thesis were eligible for inclusion."
+        ],
+        "negative_ctxs": [
+            9,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            28,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Search terms were grouped into three search blocks: 1. condition (psoriasis vulgaris), 2. Chinese medicine intervention and 3. study design (Randomized Controlled Trials) as synonyms of each."
+        ],
+        "negative_ctxs": [
+            30,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Reviewers (Claire Shuiqing Zhang, Jason Jingjie Yu and Shefton Parker) extracted data from RCTs to Excel spread sheet."
+        ],
+        "negative_ctxs": [
+            1,
+            27
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Characteristics of included Randomized Controlled Trials (oral Chinese Herbal Medicine vs. placebo)."
+        ],
+        "negative_ctxs": [
+            26,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Figure 2. Meta-Analysis forest plot (PASI 60 and above).\n\nFigure 3. Meta-analysis forest plot (PASI score).\n\nIn situations of missing data, attempts were made to contact authors of publications to attain the information."
+        ],
+        "negative_ctxs": [
+            26,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Risk of bias was assessed according to the Cochrane collaboration's tool by Claire Shuiqing Zhang, Jason Jingjie Yu and Shefton Parker for items of sequence generation, allocation concealment, blinding of participants and practitioner, blinding of outcome assessors, incomplete data, selective outcome reporting and other bias (if any)."
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Risk of bias was assessed according to the Cochrane collaboration's tool by Claire Shuiqing Zhang, Jason Jingjie Yu and Shefton Parker for items of sequence generation, allocation concealment, blinding of participants and practitioner, blinding of outcome assessors, incomplete data, selective outcome reporting and other bias (if any)."
+        ],
+        "negative_ctxs": [
+            22,
+            13
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Seven studies were included, no study utilised identical CHM intervention. Four studies data were subgrouped (decoction or capsule/pill) and pooled in meta-analysis to evaluate treatment effective rate for PASI60 or above (RR: 2.74 [0.92, 8.21] I2 1/465%). Another five studies were subgrouped and evaluated for PASI score change, (MD \u00027.00 [\u000210.74, \u00023.27] I2 1/498%)."
+        ],
+        "negative_ctxs": [
+            24,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Where I2 remained>50% a random effects model was employed and a sensitivity analysis conducted."
+        ],
+        "negative_ctxs": [
+            9,
+            13
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Statistical heterogeneity was explored through sensitivity and subgroup analyses where the I2 statistic was>50%. Where I2 remained>50% a random effects model was employed and a sensitivity analysis conducted.\n\n[Figure 1] and [Figure 2]: Random effects model seen in image"
+        ],
+        "negative_ctxs": [
+            7,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Statistical heterogeneity was explored through sensitivity and subgroup analyses where the I2 statistic was >50%. Where I2 remained >50% a random effectsmodel was employed and a sensitivity analysis conducted"
+        ],
+        "negative_ctxs": [
+            0,
+            13
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Two (22,27) of the four studies for PASI60 outcome had no blind-ing of participants or personnel. Such insufficiency in design may have resulted in outcome bias and contributed in part to effectsize. Similarly, blinding of participants was absent for one of five studies for PASI score outcomes.\n\nAny conclusion needs to consider relatively low sample sizes of studies and identified risk of bias.\n\nReview was limited by lack of consistent intervention and outcome measures, as well as low participant numbers and low quality of some included studies."
+        ],
+        "negative_ctxs": [
+            9,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Due to variation in the primary outcome for efficacy in the studies, only the outcomes PASI60 or above and general PASI change had sufficient number of studies to be pooled and evaluated using meta-analyses. Remaining studies were evaluated separately. Any conclusion needs to consider relatively low sample sizes of studies and identified risk of bias."
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": [
+            25
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Table 1. Characteristics of included RCTs (oral CHM vs. placebo)."
+        ],
+        "negative_ctxs": [
+            16,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            13,
+            21
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Condition was limited to psoriasis vulgaris (plaque) type, of any stage, severity or duration. Only trials published in English or Chinese were included with no limitations on age or gender.\n\nStudies investigating psoriasis type other than vulgaris or utilising Chinese Herbal Medicine in a form other than orally were excluded. Any RCTs involving use of a conventional therapy along with CHM were also considered, providing the control group (placebo) received same conventional therapy and the therapy was recommended by international guidelines.\n\nMultiple arm studies were considered if one of the control arms was placebo.\n\nTo determine efficacy, symptom severity scores were extracted from included studies.\n\n90 (>=90% improvement (reduction) in PASI score), PASI 100"
+        ],
+        "negative_ctxs": [
+            4,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The Cochrane Library, PubMed, EMBASE, CINAHL, AMED, CBM, CNKI, CQVIP and Wanfang databases were searched from their inception to June 2015.\n\nAvailable journal articles, conference proceedings and thesis were eligible for inclusion."
+        ],
+        "negative_ctxs": [
+            9,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Reviewers (Claire Shuiqing Zhang, Jason Jingjie Yu and Shefton Parker) extracted data from RCTs to Excel spread sheet."
+        ],
+        "negative_ctxs": [
+            2,
+            28
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            25,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Characteristics of included Randomized Controlled Trials (oral Chinese Herbal Medicine vs. placebo)."
+        ],
+        "negative_ctxs": [
+            25,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Risk of bias was assessed according to the Cochrane collaboration's tool by Claire Shuiqing Zhang, Jason Jingjie Yu and Shefton Parker for items of sequence generation, allocation concealment, blinding of participants and practitioner, blinding of outcome assessors, incomplete data, selective outcome reporting and other bias (if any)."
+        ],
+        "negative_ctxs": [
+            8,
+            15
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Where I2 remained>50% a random effects model was employed and a sensitivity analysis conducted."
+        ],
+        "negative_ctxs": [
+            29,
+            28
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Statistical heterogeneity was explored through sensitivity and subgroup analyses where the I2 statistic was>50%. Where I2 remained>50% a random effects model was employed and a sensitivity analysis conducted.\n\n[Figure 1] and [Figure 2]: Random effects model seen in image"
+        ],
+        "negative_ctxs": [
+            24,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Statistical heterogeneity was explored through sensitivity and subgroup analyses where the I2 statistic was >50%. Where I2 remained >50% a random effectsmodel was employed and a sensitivity analysis conducted"
+        ],
+        "negative_ctxs": [
+            16,
+            5
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Two (22,27) of the four studies for PASI60 outcome had no blind-ing of participants or personnel. Such insufficiency in design may have resulted in outcome bias and contributed in part to effectsize. Similarly, blinding of participants was absent for one of five studies for PASI score outcomes.\n\nAny conclusion needs to consider relatively low sample sizes of studies and identified risk of bias.\n\nReview was limited by lack of consistent intervention and outcome measures, as well as low participant numbers and low quality of some included studies."
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "The authors report no conflicts of interest. The authors alone are responsible for the content and writing of this article. \nFunding information\nFunds are provided by the Guangdong Provincial Academy ofChinese Medical Sciences, China and the International Science &Technology Cooperation Programme of China"
+        ],
+        "negative_ctxs": [
+            30,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Due to variation in the primary outcome for efficacy in the studies, only the outcomes PASI60 or above and general PASI change had sufficient number of studies to be pooled and evaluated using meta-analyses. Remaining studies were evaluated separately. Any conclusion needs to consider relatively low sample sizes of studies and identified risk of bias."
+        ],
+        "negative_ctxs": [
+            15,
+            12
+        ],
+        "positive_ctxs": [
+            25
+        ]
+    }
+]

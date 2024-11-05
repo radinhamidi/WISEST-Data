@@ -1,0 +1,468 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The purpose of this systematic review was to present and compare outcomes of the two laser therapies for resurfacing and collagen remodelling in treating facial skin damage.\n\nTwo-armed controlled split faced studies that compared CO2 and erb:YAG lasers in patients with mild-to-moderate facial wrinkles or rhytides were included. One-arm studies were excluded, as were letters, comments, editorials, case reports, proceeding and personal communication. Only English publications were included"
+        ],
+        "negative_ctxs": [
+            10,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "The purpose of this systematic review was to present and compare outcomes of the two laser therapies for resurfacing and collagen remodelling in treating facial skin damage.\n\nTwo-armed controlled split faced studies that compared CO2 and erb:YAG lasers in patients with mild-to-moderate facial wrinkles or rhytides were included. One-arm studies were excluded, as were letters, comments, editorials, case reports, proceeding and personal communication. Only English publications were included"
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "One-arm studies were excluded, as were letters, comments, editorials, case reports, proceeding and personal communication. Only English publications were included"
+        ],
+        "negative_ctxs": [
+            1,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Medline, Cochrane Library, EMBASE and Google Scholar databases"
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": [
+            2,
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "following search terms: laser, carbon dioxide/CO2, facial wrinkles, rhytides, erbium-doped yttrium aluminium garnet/\nerbium:YAG/Er:YAG."
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "One-arm studies were excluded, as were letters, comments, editorials, case reports, proceeding and personal communication. Only English publications were included. "
+        ],
+        "negative_ctxs": [
+            0,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Study eligibility was determined by two independent reviewers. When there was uncertainty regarding eligibility, a third reviewer was consulted."
+        ],
+        "negative_ctxs": [
+            2,
+            8
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1: Summary of basic characteristics for selected studies \nFirst author (year), Study design, Number of patients, Age (years), Women (%), Wrinkle Location, Wrinkle type/depth, Type of laser, Energy of laser, Spot diameter (mm), Length of follow up (months)\n\nTable 2: Summary of interventions and outcomes for selected studies \nFirst author (year), Number of patients, Laser types, Post-operative erythema, Hypopigmentation, Hyperpigmentation (0-3 months), Duration of crusting (days), Fitzpatrick wrinkle score baseline => last visit, Degree of improvement "
+        ],
+        "negative_ctxs": [
+            6,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The following information/data were extracted from studies that met the inclusion criteria: the name of the first author, year of publication, study design, number of participants in each study group, participants' age and gender, skin conditions and facial wrinkle types, types of intervention and laser parameters used for each study/control group and the outcomes (efficacies reported and rates of various complications)"
+        ],
+        "negative_ctxs": [
+            13,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Six studies were included in the systematic review. All six studies were split-face randomized controlled trials\n\nTable 1: Summary of basic characteristics for selected studies \nFirst author (year), Study design, Number of patients, Age (years), Women (%), Wrinkle Location, Wrinkle type/depth, Type of laser, Energy of laser, Spot diameter (mm), Length of follow up (months)\n\nTable 2: Summary of interventions and outcomes for selected studies \nFirst author (year), Number of patients, Laser types, Post-operative erythema, Hypopigmentation, Hyperpigmentation (0-3 months), Duration of crusting (days), Fitzpatrick wrinkle score baseline => last visit, Degree of improvement "
+        ],
+        "negative_ctxs": [
+            9,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "In addition, the studies differed in the method used to evaluate efficacy, with a mixture of subjective and objective criteria. This heterogeneity precluded the ability to perform a meta-analysis."
+        ],
+        "negative_ctxs": [
+            9,
+            3
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "In addition, the studies differed in the method used to evaluate efficacy, with a mixture of subjective and objective criteria. This heterogeneity precluded the ability to perform a meta-analysis."
+        ],
+        "negative_ctxs": [
+            3,
+            7
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Table 2: Summary of interventions and outcomes for selected studies \r\nFirst author (year), Number of patients, Laser types, Post-operative erythema, Hypopigmentation, Hyperpigmentation (0-3 months), Duration of crusting (days), Fitzpatrick wrinkle score baseline => last visit, Degree of improvement "
+        ],
+        "negative_ctxs": [
+            2,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The purpose of this systematic review was to present and compare outcomes of the two laser therapies for resurfacing and collagen remodelling in treating facial skin damage.\n\n\nTwo-armed controlled split faced studies that compared CO2 and erb:YAG lasers in patients with mild-to-moderate facial wrinkles or rhytides were included. One-arm studies were excluded, as were letters, comments, editorials, case reports, proceeding and personal communication. Only English publications were included"
+        ],
+        "negative_ctxs": [
+            3,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "The purpose of this systematic review was to present and compare outcomes of the two laser therapies for resurfacing and collagen remodelling in treating facial skin damage.\n\nTwo-armed controlled split faced studies that compared CO2 and erb:YAG lasers in patients with mild-to-moderate facial wrinkles or rhytides were included. One-arm studies were excluded, as were letters, comments, editorials, case reports, proceeding and personal communication. Only English publications were included"
+        ],
+        "negative_ctxs": [
+            6,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Two-armed controlled split faced studies that compared CO2 and erb:YAG lasers in patients with mild-to-moderate facial wrinkles or rhytides were included. One-arm studies were excluded, as were letters, comments, editorials, case reports, proceeding and personal communication"
+        ],
+        "negative_ctxs": [
+            10,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Medline, Cochrane Library, EMBASE and Google Scholar databases"
+        ],
+        "negative_ctxs": [
+            6,
+            12
+        ],
+        "positive_ctxs": [
+            2,
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Study eligibility was determined by two independent reviewers. When there was uncertainty regarding eligibility, a third reviewer was consulted."
+        ],
+        "negative_ctxs": [
+            8,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1: Summary of basic characteristics for selected studies \nFirst author (year), Study design, Number of patients, Age (years), Women (%), Wrinkle Location, Wrinkle type/depth, Type of laser, Energy of laser, Spot diameter (mm), Length of follow up (months)\n\nTable 2: Summary of interventions and outcomes for selected studies \nFirst author (year), Number of patients, Laser types, Post-operative erythema, Hypopigmentation, Hyperpigmentation (0-3 months), Duration of crusting (days), Fitzpatrick wrinkle score baseline => last visit, Degree of improvement "
+        ],
+        "negative_ctxs": [
+            10,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "In addition, the studies differed in the method used to evaluate efficacy, with a mixture of subjective and objective criteria. This heterogeneity precluded the ability to perform a meta-analysis."
+        ],
+        "negative_ctxs": [
+            12,
+            2
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "In addition, the studies differed in the method used to evaluate efficacy, with a mixture of subjective and objective criteria. This heterogeneity precluded the ability to perform a meta-analysis."
+        ],
+        "negative_ctxs": [
+            1,
+            6
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Table 2: Summary of interventions and outcomes for selected studies \r\nFirst author (year), Number of patients, Laser types, Post-operative erythema, Hypopigmentation, Hyperpigmentation (0-3 months), Duration of crusting (days), Fitzpatrick wrinkle score baseline => last visit, Degree of improvement "
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflict of interest: The authors declare that there is no conflict of interest. \n\nFunding: This study was supported by Taipei Medical University - Wan Fang Hospital under the Grant Number 106-eva-32."
+        ],
+        "negative_ctxs": [
+            11,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            6
+        ],
+        "positive_ctxs": []
+    }
+]

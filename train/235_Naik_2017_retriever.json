@@ -1,0 +1,450 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "see online suppl. Table 1 and suppl. protocol 1\n\nSupplementary Protocol 1\nOBJECTIVES: Primary: 1.To determine the overall treatment effect up until week 12 of Th17 pathway inhibitors on ACR20  in  adults  with  active  psoriatic  arthritis  (PsA)  compared  to  placebo or  active control. Secondary: 2.To determine the overall treatment effect up until week 24 of Th17 pathway inhibitors on ACR20  in  adults  with  active  psoriatic  arthritis  (PsA)  compared  to  placeboor  active control. 3.To  determine  the  overall  treatment  effect  up  until  week  12  or  24  of  Th17/  pathway inhibitors on ACR50, ACR70 in adults with active psoriatic  arthritis (PsA) compared to placeboor active control. 4.To  determine  the  overall  risk  of  Th17  related  adverse  effects  of  interest  namely infections,  candida  infections,  tuberculosisand  serious  adverse  events  compared  to placebo at the end of placebo-controlled period\n5.To determine the overall tolerability of Th17 pathway inhibitors by assessing the overall risk of treatment discontinuation due to drug related adverse events compared to placebo at the end of placebo-controlled period."
+        ],
+        "negative_ctxs": [
+            7,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Eligibility Criteria: Randomized controlled trials (phase 1a/single ascending dose studies were excluded) were considered for this systematic review and meta-analysis. Only studies reporting intention-to-treat effect estimates were included:adults (>=18 years old) of any sex, ethnicity, geographical location, fulfilling classification criteria for psoriatic arthritis (CASPAR) and who had active disease, which was defined as 3 or more tender joints and 3 or more swollen joints, despite previous treatment with nonsteroidal anti-inflammatory drugs, disease-modifying antirheumatic drugs, or TNF-ainhibitors. Patients may or may not have received biologics before. \nThe intervention included Th17 pathway inhibitors: secukinumab (75 or 150 or 300mg s.c.or 10 mg/kg i.v.) or brodalumab (140/210/280 mg) or ustekinumab (45 or 90 mg) orixekizumab (80 mg) or tildrakizumab or guselkumab of any dosage, administered in any injectable form (subcutaneously administered by autoinjector or prefilled glass syringeor intravenous infusion or bolus injection) for a minimum of 2 doses (multiple dose studies only) in any dosing regimen. Doses and regimens varied across studies,and we combined different doses and regiments for each Th17 inhibitor. Firstly, because there were limited studies to analyze for specific doses,and secondly,since we combined lower and higher doses uniformly across all agents, we expected that the overall treatment effect estimate compared to placebo would not change in direction although the effect could be diluted or averaged.\nThe comparator was either placebo or active control. Placebo injections could be combined with usual treatment (with or without DMARD such as methotrexate and biologic agents targeting TNF-asuch as adalimumab or etanercept) and other active agents used per label or any other nondrug interventions."
+        ],
+        "negative_ctxs": [
+            20,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Criteria  for  inclusion  in  this  review  using  the  PICO  framework  is  outlined in  Supplementary Table  2.  In addition,  only  randomized  controlled  trials  (phase  1a/single  ascending dose  studies will be excluded) will be considered for the systematic review and meta-analysis. Only studies reporting intention to treat data will be included."
+        ],
+        "negative_ctxs": [
+            12,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "In addition,  only randomized controlled trials  (phase  1a/single ascending dose studies will be excluded) will be considered for the systematic review and meta-analysis. Only studies reporting intention to treat data will be included.\n\nExclusion Criteria\nPatients having any other type of arthritis other than psoriatic arthtirs such as rheumatoid arthritis, ankylosing spondylitis, osteoarthritis etc., pregnancy, phase-1 studies (single ascending dose studies).\nStudies not randomizing a Th17 pathway inhibitor in one arm.\nStudies not reporting ACR  20 at 12/24 weeks.\nPer protocol analysis of  ACR20  response at week 12/24 will be excluded\n\nFull electronic search strategy for  SCOPUS; Limiters:  Till November  16th2016,  articles, abstracts or reviews. No language restrictions will be applied."
+        ],
+        "negative_ctxs": [
+            21,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "No language restrictions will be applied."
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The SCOPUS database was searched.\n\nThe following sources will be systematically searched for relevant studies published till 16th November 2016: Electronic databases: 1.Electronic database: SCOPUS (Medline, EMBASE and Compendex)  2.www.clinicaltrials.gov All references of retrieved articles will be scanned for further studies.\n  "
+        ],
+        "negative_ctxs": [
+            4,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "All references of retrieved articles will be scanned for further studies."
+        ],
+        "negative_ctxs": [
+            14,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Search Strategy: The  global  search  strategy  will  be constructed using the PICO variables as specified in this review`s research question (Supplementary Table 2). \n\nFull  electronic  search  strategy  for  SCOPUS; Limiters:  Till November  16th 2016,  articles, abstracts or reviews. No language restrictions will be applied. \nSCOPUS search terms: (Articles published till 16 NOV 2016)\n(   (   TITLE-ABS-KEY   (   il17ainhibitor*   ) OR TITLE-ABS-KEY   (   il17ablocker* ) OR TITLE-ABS-KEY   (   il17rinhibitor*   ) OR TITLE-ABS-KEY   (   il17rblocker* ) OR TITLE-ABS-KEY  (  il12/23inhibitor*  ) OR TITLE-ABS-KEY  (  il12/23blocker* ) OR TITLE-ABS-KEY   (   il23inhibitor*   ) OR TITLE-ABS-KEY   (   il23blocker* ) OR TITLE-ABS-KEY    (    secukinumab*    ) OR TITLE-ABS-KEY    (    ixekizumab* ) OR TITLE-ABS-KEY ( brodalumab*  ) OR TITLE-ABS-KEY  (  ustekinumab* ) OR TITLE-ABS-KEY ( tildrakizumab* ) OR TITLE-ABS-KEY ( guselkumab ) ) ) AND ( ALL ( psoriaticarthritis*   ) OR TITLE-ABS-KEY  ( psa*   ) OR TITLE-ABS-KEY   ( psoriaticarthropathy  )  ) AND (  (  TITLE-ABS-KEY  (  trial*  )  ) OR (  TITLE-ABS-KEY  ( random* ) ) OR ( TITLE-ABS-KEY ( phase* ) ) )"
+        ],
+        "negative_ctxs": [
+            24,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Full electronic search strategy for  SCOPUS; Limiters:  Till November 16th 2016,  articles, abstracts or reviews. No language restrictions will be applied. "
+        ],
+        "negative_ctxs": [
+            11,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "The initial search for studies by titles and abstracts will be conducted independently by two reviewers (GN, WKM)."
+        ],
+        "negative_ctxs": [
+            24,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two reviewers will independently complete data extraction (GN, CE) from the included studies to a  pre-designed form in  Microsoft  Office  Excel.  "
+        ],
+        "negative_ctxs": [
+            3,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Data to be extracted from each study will include author names,  publication date,   country where   study  was conducted,   baseline demographic characteristics and disease classification/severity,  previous exposure  to  other  drug therapies  (nonsteroidal anti-inflammatory  drugs,  disease-modifying  anti-rheumatic  drugs,  or TNF-alpha  inhibitors),  intervention  (drug  name,  dosage,  route  of  administration  and  duration) active treatment details, and placebo, and whether study is a phase 2 or 3, 4 or post registration trial.\nLastly, we will collect information on treatment outcomes (both primary and secondary) and any reported  related  adverse  events  of  interest  namely  infections, candida  infections,  tuberculosis, serious  adverse  events  and  adverse  events  that  lead  to  treatment  discontinuation  to  assess tolerability.  Extracted  data will  includmean  values  and  SDs  (or  medians  and  IQR)  of  the outcomes,  and  their  respective  confidence  intervals  where  applicable;  frequency  counts  and/or proportions for dichotomous variables; point estimates and their associated dispersion measures; number of participants (in each study arm), intention-to-treat analysis (per protocol analysis will be excluded) and the p-values.\n\nList and definition of all variables for which data will be sought"
+        ],
+        "negative_ctxs": [
+            17,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Suppl.table 1.Full list of articles eligible for meta-analysis.Characteristics as per PICO framework and key results"
+        ],
+        "negative_ctxs": [
+            16,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The Cochrane risk of bias tool -a validated and internationally acknowledged instrument-was employed to evaluate the methodological quality of each included study. This assessment was independently done by 3reviewers (I.M., S.D., B.A.W.), and W.K.M. served as the adjudicator for resolving disagreements. Each trial included was reported to have a low, uncertain, or high risk of bias"
+        ],
+        "negative_ctxs": [
+            20,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "The Cochrane risk of bias tool - a validated and internationally acknowledged instrument - was\nemployed to evaluate the methodological quality of each included study . This assessment was\nindependently done by 3 reviewers (I.M., S.D., B.A.W.), and W.K.M. served as the adjudicator for\nresolving disagreements."
+        ],
+        "negative_ctxs": [
+            8,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "We included 7 randomized controlled trials in the meta-analysis with 1,718 patients in the treatment arm and 840 patients in the placebo arm (Table 1) [15-21]. The flowchart of study selection is presented in Figure 1."
+        ],
+        "negative_ctxs": [
+            21,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Summary measures and approach for data synthesis of results and analysis\nWe will  report  the  relative  riskalong  with  the  95%  CI  for  the  primary  and  secondary dichotomous  outcomes  namely,  ACR20,  50,  70,  drug  related  infections  (including  serious infections), serious adverse events and adverse events that led to treatment discontinuation. We will  performall  statistical  analyses  using  STATA  13.0  (STATACorp,  2013).(19)Bias assessment will be performed using Review Manager  (RevMan) Software 5.3 (RevMan, 2014).(20)We  will  use random  effects  model  (DerSimonian  and  Laird)  as  we anticipate considerable differences  in  terms  of  drug  mechanisms  within  the  Th17  class  which  includes a  variety  of strategies of modulating this pathway. \nHeterogeneity analysis\nWe will  assessstatistical  heterogeneity  with  forest  plots  subtracting  each  study  at  a  time.The between study variance  will be reported using I2-statistical analysis, wherevalues of 25%, 50% and  75%  will  betaken  as  cut-offpoints  for  low,  moderate  and  high  degrees  of  heterogeneity, respectively.   We will   also   assess   heterogeneity   by   Cochrane   Q   statistic   test   and   reportcorresponding  p-values. Sources  of  heterogeneity  will  beexplored  through  subgroup  analyses according  to  study-level  characteristics  including  (1)  phase  2  vs.  phase  3,  2)  primary  vs. secondary  endpoint  and  (3)  prior  exposure  to  biologics  (biologic/TNFnaive  or  biologic/TNFexperienced). \nMeta-regression\nWe will perform meta-regression  to  estimate  if  the  differences  in  RR  between  studies can be explained by study differences. We will use the relationship for placebo baseline characteristics as  the  groups  are  expected  to  be  comparable  with  respect  to  baseline  characteristics:  mean  age, percentage  of  males,  percentage  of  whites,  mean  body  weight,  mean  body  mass  index, percentage use of methotrexate, history of TNF inhibitor use, mean DAS28-CRP and mean PASI score on the primary outcome of ACR20 at week 12 and secondary outcome of week 24."
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We calculated the pooled relative risk (RR; likelihood) of having a beneficial treatment effect along with the 95% CI for the primary and secondary dichotomous outcomes, namely ACR20, ACR50, ACR70, and the pooled RR for having any drug-related infections (including serious infections), serious adverse events and adverse events that led to treatment discontinuation. We used a random effects model (DerSimonian and Laird) to allow a distribution of true effect sizes due to study differences."
+        ],
+        "negative_ctxs": [
+            11,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "We assessed statistical heterogeneity with forest plots subtracting each study at a time. The between-study variance was reported using I^2 statistical analysis, where values of 25, 50, and 75% were taken as cutoff points for low, moderate, and high degrees of heterogeneity, respectively. We also assessed heterogeneity by the Cochrane Q statistic test and reported corresponding p values. Sources of heterogeneity were explored by subgroup analyses per study level characteristics including phase 2 versus phase 3, primary versus secondary endpoint, mechanism of action (IL-17A, IL-17RA, and IL-12/23p40), and TNF-anaivety.\n\nWe performed meta-regression to estimate whether the differences in logRR (y-axis) between studies could be explained by continuous baseline characteristics (x-variable). Since groups are balanced in the studies, we decided to use the relationship for placebo baseline if the following variables were reported in 5or more studies: mean age, percentage of males, percentage of whites, mean body weight, mean body mass index, percentage use of methotrexate, mean Disease Activity Score in 28 joints/C-reactive protein (DAS28-CRP) and mean Psoriasis Area Severity Index (PASI) score on the primary outcome of ACR20 at week 12. "
+        ],
+        "negative_ctxs": [
+            2,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Presence of publication bias was examined by funnel plots and by formal statistical testing by (a) Egger's test of the intercept (from a model using precision (the inverse of the standard error) to predict the standardized effect (effect size divided by the standard error)), (b) Begg's rank correlation test (computing the rank order correlation (Kendall's tb) between the treatment effect and the standard error (primarily driven by sample size)), and by Duval and Tweedie's trim and fill method to determine where missing studies are likely to fall, and to add them to the analysis, and then recompute the combined effect based on a random effects model.\n\nThe funnel plot for ACR20 (week 12) showed slight asymmetry, but Egger's test of the intercept (bias p = 0.287) and Begg's rank correlation test (Kendall's t, p = 0.368) showed no evidence of publication bias."
+        ],
+        "negative_ctxs": [
+            2,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The Cochrane risk of bias assessment across studies was found to be low risk for selection bias, performance bias, detection bias, attrition bias, reporting bias, and other bias (see online suppl. Fig. 1) across studies.\n\nSuppl. Fig. 1. Cochrane risk of bias tool for individual studies and across studies showing low risk of bias"
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "  Limitations  \nMost of the studies included placebo as the compara-tor, and head-to-head comparisons were limited. Hence, direct evidence of relative efficacy of Th17-targeting bio-logics to first-line biologics targeting TNF-a was not in-vestigated  which  could  have  provided  a  more  valuable  evidence for evaluating these agents as first-line biologic treatment for active PsA. Also, insufficient outcome data on other aspects of PsA, such as enthesitis, dactylitis, or axial involvement, hamper the comparison of the differ-ent modalities on these manifestations, which are also a relevant  part  of  the  disease.  Moreover,  long-term  treat-ment effect, durability of response, radiological improve-ment, and long-term safety profile could not be assessed due  to  the  limited  placebo-controlled  duration  of  trials  and crossover to active treatment. Given the low number of studies in the meta-analysis, the power to detect pub-lication bias by Egger's and Begg's tests may be low.  While a network meta-analysis would have been ideal to  assess  relative  efficacy  through  indirect  comparisons  amongst  Th17  inhibitors  and/or  anti-TNF  biologics,  it  was not feasible as most studies were designed to evaluate the efficacy of Th17 agents compared to placebo and the assumptions  underlying  a  network  meta-analysis  were  untestable. There were also not enough trials to warrant a network analysis. "
+        ],
+        "negative_ctxs": [
+            3,
+            7
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Suppl.table 1.Full list of articles eligible for meta-analysis.Characteristics as per PICO framework and key results"
+        ],
+        "negative_ctxs": [
+            11,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            15,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "see online suppl. Table 1 and suppl. protocol 1\n\nSupplementary Protocol 1\nOBJECTIVES: Primary: 1.To determine the overall treatment effect up until week 12 of Th17 pathway inhibitors on ACR20  in  adults  with  active  psoriatic  arthritis  (PsA)  compared  to  placebo or  active control. Secondary: 2.To determine the overall treatment effect up until week 24 of Th17 pathway inhibitors on ACR20  in  adults  with  active  psoriatic  arthritis  (PsA)  compared  to  placeboor  active control. 3.To  determine  the  overall  treatment  effect  up  until  week  12  or  24  of  Th17/  pathway inhibitors on ACR50, ACR70 in adults with active psoriatic  arthritis (PsA) compared to placeboor active control. 4.To  determine  the  overall  risk  of  Th17  related  adverse  effects  of  interest  namely infections,  candida  infections,  tuberculosisand  serious  adverse  events  compared  to placebo at the end of placebo-controlled period\n5.To determine the overall tolerability of Th17 pathway inhibitors by assessing the overall risk of treatment discontinuation due to drug related adverse events compared to placebo at the end of placebo-controlled period."
+        ],
+        "negative_ctxs": [
+            12,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Criteria  for  inclusion  in  this  review  using  the  PICO  framework  is  outlined in  Supplementary Table  2.  In addition,  only  randomized  controlled  trials  (phase  1a/single  ascending dose  studies will be excluded) will be considered for the systematic review and meta-analysis. Only studies reporting intention to treat data will be included."
+        ],
+        "negative_ctxs": [
+            14,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The SCOPUS database was searched.\n\nThe following sources will be systematically searched for relevant studies published till 16th November 2016: Electronic databases: 1.Electronic database: SCOPUS (Medline, EMBASE and Compendex)  2.www.clinicaltrials.gov All references of retrieved articles will be scanned for further studies.\n  "
+        ],
+        "negative_ctxs": [
+            8,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "The initial search for studies by titles and abstracts will be conducted independently by two reviewers (GN, WKM)."
+        ],
+        "negative_ctxs": [
+            20,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two reviewers will independently complete data extraction (GN, CE) from the included studies to a  pre-designed form in  Microsoft  Office  Excel.  "
+        ],
+        "negative_ctxs": [
+            15,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Data to be extracted from each study will include author names,  publication date,   country where   study  was conducted,   baseline demographic characteristics and disease classification/severity,  previous exposure  to  other  drug therapies  (nonsteroidal anti-inflammatory  drugs,  disease-modifying  anti-rheumatic  drugs,  or TNF-alpha  inhibitors),  intervention  (drug  name,  dosage,  route  of  administration  and  duration) active treatment details, and placebo, and whether study is a phase 2 or 3, 4 or post registration trial.\nLastly, we will collect information on treatment outcomes (both primary and secondary) and any reported  related  adverse  events  of  interest  namely  infections, candida  infections,  tuberculosis, serious  adverse  events  and  adverse  events  that  lead  to  treatment  discontinuation  to  assess tolerability.  Extracted  data will  includmean  values  and  SDs  (or  medians  and  IQR)  of  the outcomes,  and  their  respective  confidence  intervals  where  applicable;  frequency  counts  and/or proportions for dichotomous variables; point estimates and their associated dispersion measures; number of participants (in each study arm), intention-to-treat analysis (per protocol analysis will be excluded) and the p-values.\n\nList and definition of all variables for which data will be sought"
+        ],
+        "negative_ctxs": [
+            22,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The Cochrane risk of bias tool -a validated and internationally acknowledged instrument-was employed to evaluate the methodological quality of each included study. This assessment was independently done by 3reviewers (I.M., S.D., B.A.W.), and W.K.M. served as the adjudicator for resolving disagreements. Each trial included was reported to have a low, uncertain, or high risk of bias"
+        ],
+        "negative_ctxs": [
+            19,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We calculated the pooled relative risk (RR; likelihood) of having a beneficial treatment effect along with the 95% CI for the primary and secondary dichotomous outcomes, namely ACR20, ACR50, ACR70, and the pooled RR for having any drug-related infections (including serious infections), serious adverse events and adverse events that led to treatment discontinuation. We used a random effects model (DerSimonian and Laird) to allow a distribution of true effect sizes due to study differences."
+        ],
+        "negative_ctxs": [
+            4,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "We assessed statistical heterogeneity with forest plots subtracting each study at a time. The between-study variance was reported using I^2 statistical analysis, where values of 25, 50, and 75% were taken as cutoff points for low, moderate, and high degrees of heterogeneity, respectively. We also assessed heterogeneity by the Cochrane Q statistic test and reported corresponding p values. Sources of heterogeneity were explored by subgroup analyses per study level characteristics including phase 2 versus phase 3, primary versus secondary endpoint, mechanism of action (IL-17A, IL-17RA, and IL-12/23p40), and TNF-anaivety.\n\nWe performed meta-regression to estimate whether the differences in logRR (y-axis) between studies could be explained by continuous baseline characteristics (x-variable). Since groups are balanced in the studies, we decided to use the relationship for placebo baseline if the following variables were reported in 5or more studies: mean age, percentage of males, percentage of whites, mean body weight, mean body mass index, percentage use of methotrexate, mean Disease Activity Score in 28 joints/C-reactive protein (DAS28-CRP) and mean Psoriasis Area Severity Index (PASI) score on the primary outcome of ACR20 at week 12. "
+        ],
+        "negative_ctxs": [
+            20,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Presence of publication bias was examined by funnel plots and by formal statistical testing by (a) Egger's test of the intercept (from a model using precision (the inverse of the standard error) to predict the standardized effect (effect size divided by the standard error)), (b) Begg's rank correlation test (computing the rank order correlation (Kendall's tb) between the treatment effect and the standard error (primarily driven by sample size)), and by Duval and Tweedie's trim and fill method to determine where missing studies are likely to fall, and to add them to the analysis, and then recompute the combined effect based on a random effects model.\n\nThe funnel plot for ACR20 (week 12) showed slight asymmetry, but Egger's test of the intercept (bias p = 0.287) and Begg's rank correlation test (Kendall's t, p = 0.368) showed no evidence of publication bias."
+        ],
+        "negative_ctxs": [
+            16,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The Cochrane risk of bias assessment across studies was found to be low risk for selection bias, performance bias, detection bias, attrition bias, reporting bias, and other bias (see online suppl. Fig. 1) across studies.\n\nSuppl. Fig. 1. Cochrane risk of bias tool for individual studies and across studies showing low risk of bias"
+        ],
+        "negative_ctxs": [
+            15,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "G.S.N. was previously employed with Biocon. L.E.K. has received fees for speaking and consultancy from Pfizer, AbbVie, Amgen, UCB, Celgene, BMS, MSD, Biogen, Novartis, Eli Lilly, and Janssen Pharmaceuticals."
+        ],
+        "negative_ctxs": [
+            1,
+            19
+        ],
+        "positive_ctxs": [
+            20
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "  Limitations  \nMost of the studies included placebo as the compara-tor, and head-to-head comparisons were limited. Hence, direct evidence of relative efficacy of Th17-targeting bio-logics to first-line biologics targeting TNF-a was not in-vestigated  which  could  have  provided  a  more  valuable  evidence for evaluating these agents as first-line biologic treatment for active PsA. Also, insufficient outcome data on other aspects of PsA, such as enthesitis, dactylitis, or axial involvement, hamper the comparison of the differ-ent modalities on these manifestations, which are also a relevant  part  of  the  disease.  Moreover,  long-term  treat-ment effect, durability of response, radiological improve-ment, and long-term safety profile could not be assessed due  to  the  limited  placebo-controlled  duration  of  trials  and crossover to active treatment. Given the low number of studies in the meta-analysis, the power to detect pub-lication bias by Egger's and Begg's tests may be low.  While a network meta-analysis would have been ideal to  assess  relative  efficacy  through  indirect  comparisons  amongst  Th17  inhibitors  and/or  anti-TNF  biologics,  it  was not feasible as most studies were designed to evaluate the efficacy of Th17 agents compared to placebo and the assumptions  underlying  a  network  meta-analysis  were  untestable. There were also not enough trials to warrant a network analysis. "
+        ],
+        "negative_ctxs": [
+            23,
+            10
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    }
+]

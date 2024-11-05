@@ -1,0 +1,460 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Articles were included if the study was performed on human melanomas and if there was information about the objective response rate of melanoma patients after immunotherapy. All RCTs that compared at least two different treatment regimens involving immunotherapy or chemotherapy were obtained. Articles were excluded if they were RCTs or if they were not written in English."
+        ],
+        "negative_ctxs": [
+            1,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "the reporting of the eligibility criteria for population (ie Patients with melanomas) was poor as we did not know the ages of the eligible patients, we do not know how they were disgnosed, we do not know if they had other conditions (e.g. living with an immune compromised condition), or if they were taking other medications at the time of enrollment. Table 1 states that the RCTs included Pretreated and untreated patients, but again, these are not defined. Example, pretreated with what?"
+        ],
+        "negative_ctxs": [
+            20,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Articles were excluded if they \r\nwere RCTs or if they were not written in English"
+        ],
+        "negative_ctxs": [
+            13,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Articles were excluded if they \nwere RCTs or if they were not written in English."
+        ],
+        "negative_ctxs": [
+            16,
+            5
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Relevant articles were obtained by searching PubMed \nand MEDLINE databases through 15 June 2016."
+        ],
+        "negative_ctxs": [
+            12,
+            1
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Review  articles  were  also  screened to find additional eligible studies"
+        ],
+        "negative_ctxs": [
+            20,
+            5
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "These databases were searched using the keywords 'melanoma', 'randomized controlled trial (RCT)' and 'immunotherapy, ipilimumab, nivolumab or pembrolizumab'"
+        ],
+        "negative_ctxs": [
+            7,
+            18
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Relevant articles were obtained by searching PubMed and MEDLINE databases through 15 June 2016. These databases were searched using the keywords 'melanoma', 'randomized controlled trial (RCT)' and 'immunotherapy, ipilimumab, nivolumab or pembrolizumab'. The titles and abstracts of all searched articles were screened for exclusion. Review articles were also screened to find additional eligible studies."
+        ],
+        "negative_ctxs": [
+            11,
+            17
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Data from all eligible studies were extracted by two \nindependent authors."
+        ],
+        "negative_ctxs": [
+            17,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "In the present study, 105 reports were identified in the \r\ndatabase search. Among the searched reports, 36 were \r\nexcluded due to lack of information or with insufficient \r\ninformation. In addition, 57 reports focused on other \r\ndiseases (n = 6), nonoriginal articles (n = 34), duplicated \r\narticles (n = 10), used animals or cell lines (n = 3) or \r\narticles in a language other than English (n = 4) were \r\nexcluded. Twelve RCTs were ultimately included. A"
+        ],
+        "negative_ctxs": [
+            13,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Main characteristics of the eligible studies included study (year), Phase,Characteristics,Arm,Regimen,Number of patients.                                                                                             Table 2. Traditional meta-analysis for objective response rate of immunotherapy in advanced melanoma included Number ofsubsets, Fixed effect(95% CI),Heterogeneity test(p-value),Random effect(95% CI),Egger's Test.                                                                                                                                                                                                                                                                                                                                             Figure 2. Evidence network of ten included studies. (A) Overall patients. (B) Previously untreated patients.                                                                                                                                          Figure 3. League table of network meta-analysis. (A) Overall patients. (B) Previously untreated patients."
+        ],
+        "negative_ctxs": [
+            12,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1. Main characteristics of the eligible studies included study (year), Phase,Characteristics,Arm,Regimen,Number of patients.                                                                                             Table 2. Traditional meta-analysis for objective response rate of immunotherapy in advanced melanoma included Number ofsubsets, Fixed effect(95% CI),Heterogeneity test(p-value),Random effect(95% CI),Egger's Test.                                                                                                                                                                                                                                                                                                                                             Figure 2. Evidence network of ten included studies. (A) Overall patients. (B) Previously untreated patients.                                                                                                                                          Figure 3. League table of network meta-analysis. (A) Overall patients. (B) Previously untreated patients."
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "The inclusion of 12 studies in Figure 1 is consistent with the inclusion of study in the table 1"
+        ],
+        "negative_ctxs": [
+            18,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The study did not specify the underlying medical conditions and medication history of the included patients, etc., so there are some differences in the comparison of the regimens"
+        ],
+        "negative_ctxs": [
+            20,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Conclusion:our data showed that various immu\u0002notherapies had more effects than chemotherapy alone for advanced melanomas.Combined treatment with nivolumab and ipilimumab is the most effective immunotherapy modality for advanced melanomas. Cumulative studies with various populations such as patients with previous chemotherapy and those with BRAF mutation will be needed for further analysis."
+        ],
+        "negative_ctxs": [
+            6,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "There are several limitations to this systematic review.The articles inclusion criteria were not comprehensive, the search was not comprehensive, did not indicate the consistency requirements of the two reviewers for the review, the reasonableness of the requirement to exclude literature, and did not do a ROB on the systematic review as well as did not indicate the source of funding"
+        ],
+        "negative_ctxs": [
+            17,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Articles were included if the study was performed on human melanomas and if there was information about \r\nthe objective response rate of melanoma patients after immunotherapy. All RCTs that compared at least tw"
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "the reporting of the eligibility criteria for population (ie Patients with melanomas) was poor as we did not know the ages of the eligible patients, we do not know how they were disgnosed, we do not know if they had other conditions (e.g. living with an immune compromised condition), or if they were taking other medications at the time of enrollment. Table 1 states that the RCTs included Pretreated and untreated patients, but again, these are not defined. Example, pretreated with what?"
+        ],
+        "negative_ctxs": [
+            5,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Relevant articles were obtained by searching PubMed \nand MEDLINE databases through 15 June 2016."
+        ],
+        "negative_ctxs": [
+            12,
+            18
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Data from all eligible studies were extracted by two \nindependent authors."
+        ],
+        "negative_ctxs": [
+            15,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "In the present study, 105 reports were identified in the \r\ndatabase search. Among the searched reports, 36 were \r\nexcluded due to lack of information or with insufficient \r\ninformation. In addition, 57 reports focused on other \r\ndiseases (n = 6), nonoriginal articles (n = 34), duplicated \r\narticles (n = 10), used animals or cell lines (n = 3) or \r\narticles in a language other than English (n = 4) were \r\nexcluded. Twelve RCTs were ultimately included. A"
+        ],
+        "negative_ctxs": [
+            17,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Main characteristics of the eligible studies included study (year), Phase,Characteristics,Arm,Regimen,Number of patients.                                                                                             Table 2. Traditional meta-analysis for objective response rate of immunotherapy in advanced melanoma included Number ofsubsets, Fixed effect(95% CI),Heterogeneity test(p-value),Random effect(95% CI),Egger's Test.                                                                                                                                                                                                                                                                                                                                             Figure 2. Evidence network of ten included studies. (A) Overall patients. (B) Previously untreated patients.                                                                                                                                          Figure 3. League table of network meta-analysis. (A) Overall patients. (B) Previously untreated patients."
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The study did not specify the underlying medical conditions and medication history of the included patients, etc., so there are some differences in the comparison of the regimens"
+        ],
+        "negative_ctxs": [
+            12,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Conclusion:our data showed that various immu\u0002notherapies had more effects than chemotherapy alone for advanced melanomas.Combined treatment with nivolumab and ipilimumab is the most effective immunotherapy modality for advanced melanomas. Cumulative studies with various populations such as patients with previous chemotherapy and those with BRAF mutation will be needed for further analysis."
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Financial & competing interests disclosure\nThe authors have no relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript. This includes employment, consultancies, honoraria, stock ownership or options, expert testimony, grants or patents received or pending, or royalties. No writing assistance was utilized in the production of thismanuscript."
+        ],
+        "negative_ctxs": [
+            19,
+            12
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "There are several limitations to this systematic review.The articles inclusion criteria were not comprehensive, the search was not comprehensive, did not indicate the consistency requirements of the two reviewers for the review, the reasonableness of the requirement to exclude literature, and did not do a ROB on the systematic review as well as did not indicate the source of funding"
+        ],
+        "negative_ctxs": [
+            2,
+            15
+        ],
+        "positive_ctxs": []
+    }
+]

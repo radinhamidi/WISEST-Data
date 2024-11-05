@@ -1,0 +1,466 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "To provide a more comprehensive and reliable assessment of the effects of anticoagulant prophylaxis to prevent DVT in at-risk hospitalized medical patients, we performed a systematic review and meta-analysis focusing on studies that assessed anticoagulant prophylaxis to prevent asymptomatic DVT.\n\nStudies were included if they satisfied all of the following criteria: (i) randomized controlled trial (RCT) comparing anticoagulant prophylaxis vs. no prophylaxis in hospitalized medical patients (studies assessing mechanical prophylaxis, such as compression stockings, were not considered); (ii) the RCT assessed the prevention of asymptomatic DVT based on screening all patients with venography or venous ultrasound."
+        ],
+        "negative_ctxs": [
+            15,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Studies were included if they satisfied all of the following criteria: (i) randomized controlled trial (RCT) comparing anticoagulant prophylaxis vs. no prophylaxis in hospitalized medical patients (studies assessing mechanical prophylaxis, such as compression stockings, were not considered); (ii) the RCT assessed the prevention of asymptomatic DVT based on screening all patients with venography or venous ultrasound. "
+        ],
+        "negative_ctxs": [
+            10,
+            20
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Studies were included if they satisfied all of the following criteria: (i) randomized controlled trial (RCT) comparing anticoagulant prophylaxis vs. no prophylaxis in hospitalized medical patients (studies assessing mechanical prophylaxis, such as compression stockings, were not considered); (ii) the RCT assessed the prevention of asymptomatic DVT based on screening all patients with venography or venous ultrasound. Additional outcomes of interest were the proportion of proximal DVTs, all-cause mortality, and major bleeding. Studies were excluded if they used methods to screen for DVT that are unreliable, such as impedance plethysmography or fibrinogen leg scanning , or if patients received a co-administered antithrombotic drug, such as aspirin, in addition to an anticoagulant. \n\nWe assessed the effects of anticoagulant prophylaxis on the following outcomes: (i) any asymptomatic DVT; (ii) asymptomatic proximal DVT; (iii) major bleeding defined as bleeding requiring transfusion of two or more units of packed red blood cells, involving a critical site (e.g. retroperitoneal), or that was fatal; and (iv) all-cause mortality. The primary outcome was incidence of asymptomatic DVT (any, proximal) at the end of the treatment period. The secondary outcomes, major bleeding and\n all-cause mortality, were assessed at the end of the study period."
+        ],
+        "negative_ctxs": [
+            23,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "There were no language restrictions for the literature search."
+        ],
+        "negative_ctxs": [
+            0,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We systematically searched the MEDLINE (1950-March 2007), EMBASE (1980-2007, week 11), and the Cochrane Library (2007, first quarter) databases \n\nThe United States National Institute of Health registry of clinical trials was searched for ongoing trials, and reference lists of included studies and relevant review articles were hand searched."
+        ],
+        "negative_ctxs": [
+            10,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The United States National Institute of Health registry of clinical trials was searched for ongoing trials, and reference lists of included studies and relevant review articles were hand searched. Content experts were contacted to identify unpublished trials. "
+        ],
+        "negative_ctxs": [
+            25,
+            2
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "We systematically searched the MEDLINE (1950-March 2007), EMBASE (1980-2007, week 11), and the Cochrane Library (2007, first quarter) databases using the medical subject headings 'venous thrombosis', 'pulmonary embolism', 'thromboembolism' and the text words 'deep vein thrombosis'. These terms were combined with terms for drugs used for thromboprophylaxis (e.g. 'heparin', 'low-molecular-weight heparin'). These terms were then  combined with terms for the study design of interest (i.e. 'randomized controlled trial', 'clinical trial')."
+        ],
+        "negative_ctxs": [
+            15,
+            22
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "There were no language restrictions for the literature search."
+        ],
+        "negative_ctxs": [
+            18,
+            19
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Each potentially eligible study was reviewed independently by two authors (N. S. Lloyd and I. Moinuddin) to assess suitability. \n\nAgreement on study selection was perfect (k = 1.00)."
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two reviewers (N. S. Lloyd and I. Moinuddin) used standardized forms to abstract the data independently and in duplicate. In the event of disagreement, a third reviewer (J. D. Douketis) was available to resolve discrepancies. \n\nThe inter-rater agreement on the data abstracted was excellent, with a weighted k-statistic of 0.93 (95% CI 0.87-0.99)."
+        ],
+        "negative_ctxs": [
+            17,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "The characteristics and outcomes of the four included studies are outlined in Table 1, Table 2. Three trials compared LMWH to placebo [21, 22, 24] and one trial compared fondaparinux to placebo . The trial by Samama et al.  was a three-arm RCT comparing two doses of enoxaparin (40 mg, 20 mg) with placebo. Because the 20 mg dose is not widely used in clinical practise, we confined our comparison to the 40 mg dose with placebo. The duration of treatment in the trial by Leizorovicz et al.  was 14 days, and similarly the treatment period was 6-14 days in the trials by Cohen et al.  and Samama et al. . Only the trial by Fraisse et al.  had a longer treatment period of 22 days, but the mean duration of treatment was 11 days. For two of the trials, the total duration of follow-up was approximately 1 month [23, 24]. The other two trials followed patients for three months or more [21, 22]. It should be noted, however, that the follow-up for the primary outcome generally occurred near the end of the treatment period. For instance, asymptomatic DVT was assessed in the trial by Samama et al.  up to day 14 and by Cohen et al.  up to day 15. Fraisse et al.  assessed patients for asymptomatic DVT within the treatment period while Leizorovicz et al.  conducted their primary efficacy assessment at day 21. "
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The characteristics and outcomes of the four included studies are outlined in Table 1, Table 2. Three trials compared LMWH to placebo [21, 22, 24] and one trial compared fondaparinux to placebo . The trial by Samama et al.  was a three-arm RCT comparing two doses of enoxaparin (40 mg, 20 mg) with placebo. Because the 20 mg dose is not widely used in clinical practise, we confined our comparison to the 40 mg dose with placebo. The duration of treatment in the trial by Leizorovicz et al.  was 14 days, and similarly the treatment period was 6-14 days in the trials by Cohen et al.  and Samama et al. . Only the trial by Fraisse et al.  had a longer treatment period of 22 days, but the mean duration of treatment was 11 days. For two of the trials, the total duration of follow-up was approximately 1 month [23, 24]. The other two trials followed patients for three months or more [21, 22]. It should be noted, however, that the follow-up for the primary outcome generally occurred near the end of the treatment period. For instance, asymptomatic DVT was assessed in the trial by Samama et al.  up to day 14 and by Cohen et al.  up to day 15. Fraisse et al.  assessed patients for asymptomatic DVT within the treatment period while Leizorovicz et al.  conducted their primary efficacy assessment at day 21.\n\nThe overall incidences of DVT in patients  who received prophylaxis and who did not receive prophylaxis were 2.7% (74/2761) and 5.3% (146/2755), respectively. The pooled analysis (5516 patients) for any DVT is presented in Fig. 2. \n\nThe incidences of proximal DVT in patients who received prophylaxis and who did not receive prophylaxis were 1.5% (40/2761) and 3.3% (90/2755), respectively. The pooled analysis (5516 patients) for proximal DVT is presented in Fig. 3.\n\nThe incidences of major bleeding in patients who received prophylaxis and who did not receive prophylaxis were 1.0% (28/2761) and 0.5% (14/2755), respectively. \n\nThe incidences of all-cause mortality in patients who received prophylaxis and who did not receive prophylaxis were 6.2% (170/2761) and 6.8% (186/2755), respectively."
+        ],
+        "negative_ctxs": [
+            0,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Study quality was assessed using the validated five-point Jadad scale, which assesses appropriateness of randomization and blinding as well as whether the study gave an adequate report of withdrawals."
+        ],
+        "negative_ctxs": [
+            16,
+            19
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Using the validated five-point Jadad scale to assess study quality , there was perfect agreement between reviewers (k = 1.00) that the overall methodological quality of the studies was very good, with quality scores ranging between four and five."
+        ],
+        "negative_ctxs": [
+            7,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Seventeen trials were then excluded and four trials were included in this meta-analysis.\n\nAll four trials reported significant reductions in the risk of asymptomatic DVT in patients randomized to anticoagulant prophylaxis compared to placebo.\n\nWhile there was a trend in all trials for placebo patients to experience fewer major bleeding episodes compared to patients receiving anticoagulant prophylaxis, none of the individual trials reported statistically significant differences in major bleeding between groups. \n\nThe pooled analysis (5516 patients) for proximal DVT is presented in Fig. 3.\n\nNone of the trials reported significant differences between groups in all-cause mortality."
+        ],
+        "negative_ctxs": [
+            14,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The results of the randomized trials were pooled using RevMan(r) version 4.2.10 for Windows (Cochrane Collaboration, Oxford, UK) to estimate the effect of anticoagulants on the study outcomes. We decided a priori to use the more conservative random-effects model to estimate a treatment effect.\n\nIn an attempt to reduce bias, we decided that the pooled analysis would be conducted and presented according to an intention-to-treat analysis, which we defined as an analysis of the trial participants in the groups to which they were randomized, regardless of which treatment they actually received and regardless of any other protocol irregularities. Further, all participants were included in the analysis, regardless of whether their outcomes were actually collected. "
+        ],
+        "negative_ctxs": [
+            19,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The test for heterogeneity of study results was not significant (I2 = 0%; p = 0.77).\n\nThe test for heterogeneity of study results was not significant (I2 = 0%; p = 0.83).\n\nThe test for heterogeneity of study results was not significant (I2 = 0%; p = 0.87).\n\nThe test for heterogeneity of study results was not significant (I2 = 17.5%; p = 0.30)."
+        ],
+        "negative_ctxs": [
+            9,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Study quality was assessed using the validated five-point Jadad scale, which assesses appropriateness of randomization and blinding as well as whether the study gave an adequate report of withdrawals.\n\nUsing the validated five-point Jadad scale to assess study quality , there was perfect agreement between reviewers (k = 1.00) that the overall methodological quality of the studies was very good, with quality scores ranging between four and five. All four studies were reported as randomized double-blind trials and the authors provided adequate descriptions of withdrawals and reported appropriate methods of double-blinding. However, three studies did not report the method used to generate the sequence of randomization [21, 22, 24]."
+        ],
+        "negative_ctxs": [
+            25,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "There are limitations of our study that should be addressed. First, one study relied on venous ultrasound to screen for DVT, which does not reliably detect calf DVT .  Although the prevalence of DVT would be under-represented in this study, thereby affecting estimates of overall prevalence of DVT, this should not affect our assessment of efficacy of anticoagulant prophylaxis, which was based on within-study comparisons of treatment efficacy. Further, this does not impact on our estimates of the rate of proximal DVT. Secondly, there were no head-to-head comparisons of anticoagulants to assess relative efficacy and safety, and our conclusions pertain to the thromboprophylactic effects of anticoagulants as a drug class. Thirdly, there was no standardized definition of bleeding across studies, as this has only recently been proposed for medical patients . However, this should not affect within-study comparisons of safety of anticoagulants for DVT prophylaxis."
+        ],
+        "negative_ctxs": [
+            14,
+            22
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            12,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Studies were included if they satisfied all of the following criteria: (i) randomized controlled trial (RCT) comparing anticoagulant prophylaxis vs. no prophylaxis in hospitalized medical patients (studies assessing mechanical prophylaxis, such as compression stockings, were not considered); (ii) the RCT assessed the prevention of asymptomatic DVT based on screening all patients with venography or venous ultrasound. "
+        ],
+        "negative_ctxs": [
+            19,
+            17
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We systematically searched the MEDLINE (1950-March 2007), EMBASE (1980-2007, week 11), and the Cochrane Library (2007, first quarter) databases \n\nThe United States National Institute of Health registry of clinical trials was searched for ongoing trials, and reference lists of included studies and relevant review articles were hand searched."
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Each potentially eligible study was reviewed independently by two authors (N. S. Lloyd and I. Moinuddin) to assess suitability. \n\nAgreement on study selection was perfect (k = 1.00)."
+        ],
+        "negative_ctxs": [
+            10,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two reviewers (N. S. Lloyd and I. Moinuddin) used standardized forms to abstract the data independently and in duplicate. In the event of disagreement, a third reviewer (J. D. Douketis) was available to resolve discrepancies. \n\nThe inter-rater agreement on the data abstracted was excellent, with a weighted k-statistic of 0.93 (95% CI 0.87-0.99)."
+        ],
+        "negative_ctxs": [
+            7,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "One study that met the eligibility criteria   was excluded because the population included only acute stroke patients, who are a high-risk subgroup not comparable to typical hospitalized general medical patients. Most studies were excluded because they did not assess DVT prevention, hospitalized medical \npatients were not studied, there was not a placebo or no prophylaxis treatment arm, asymptomatic DVT was not assessed, or the study was not an RCT. Seventeen studies were not assessable based on title and abstract screening alone and full reports were retrieved [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]. Nine of the seventeen full reports retrieved were subsequently excluded because they used fibrinogen scanning for DVT assessment [31, 33, 34, 35, 36, 37, 38, 39, 42]. Three studies [27, 28, 29] were excluded because only symptomatic, and not asymptomatic, DVT was assessed, one was a review article , and two were excluded because the patient population  or the treatment  did not meet the eligibility criteria. One large unpublished study, in which all medical patients were given enoxaparin for 10-14 days prior to randomization to active treatment or control, was identified [41, 43]. While the authors reported a statistically significant reduction in venous thromboembolism (VTE) in those patients receiving extended low molecular weight heparin (LWMH) therapy, the study was excluded because of the possible influence the treatment period prior to randomization might have had on the overall study results."
+        ],
+        "negative_ctxs": [
+            5,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "The characteristics and outcomes of the four included studies are outlined in Table 1, Table 2. Three trials compared LMWH to placebo [21, 22, 24] and one trial compared fondaparinux to placebo . The trial by Samama et al.  was a three-arm RCT comparing two doses of enoxaparin (40 mg, 20 mg) with placebo. Because the 20 mg dose is not widely used in clinical practise, we confined our comparison to the 40 mg dose with placebo. The duration of treatment in the trial by Leizorovicz et al.  was 14 days, and similarly the treatment period was 6-14 days in the trials by Cohen et al.  and Samama et al. . Only the trial by Fraisse et al.  had a longer treatment period of 22 days, but the mean duration of treatment was 11 days. For two of the trials, the total duration of follow-up was approximately 1 month [23, 24]. The other two trials followed patients for three months or more [21, 22]. It should be noted, however, that the follow-up for the primary outcome generally occurred near the end of the treatment period. For instance, asymptomatic DVT was assessed in the trial by Samama et al.  up to day 14 and by Cohen et al.  up to day 15. Fraisse et al.  assessed patients for asymptomatic DVT within the treatment period while Leizorovicz et al.  conducted their primary efficacy assessment at day 21. "
+        ],
+        "negative_ctxs": [
+            11,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Study quality was assessed using the validated five-point Jadad scale, which assesses appropriateness of randomization and blinding as well as whether the study gave an adequate report of withdrawals."
+        ],
+        "negative_ctxs": [
+            19,
+            23
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The results of the randomized trials were pooled using RevMan(r) version 4.2.10 for Windows (Cochrane Collaboration, Oxford, UK) to estimate the effect of anticoagulants on the study outcomes. We decided a priori to use the more conservative random-effects model to estimate a treatment effect.\n\nIn an attempt to reduce bias, we decided that the pooled analysis would be conducted and presented according to an intention-to-treat analysis, which we defined as an analysis of the trial participants in the groups to which they were randomized, regardless of which treatment they actually received and regardless of any other protocol irregularities. Further, all participants were included in the analysis, regardless of whether their outcomes were actually collected. "
+        ],
+        "negative_ctxs": [
+            24,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The test for heterogeneity of study results was not significant (I2 = 0%; p = 0.77).\n\nThe test for heterogeneity of study results was not significant (I2 = 0%; p = 0.83).\n\nThe test for heterogeneity of study results was not significant (I2 = 0%; p = 0.87).\n\nThe test for heterogeneity of study results was not significant (I2 = 17.5%; p = 0.30)."
+        ],
+        "negative_ctxs": [
+            7,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Study quality was assessed using the validated five-point Jadad scale, which assesses appropriateness of randomization and blinding as well as whether the study gave an adequate report of withdrawals.\n\nUsing the validated five-point Jadad scale to assess study quality , there was perfect agreement between reviewers (k = 1.00) that the overall methodological quality of the studies was very good, with quality scores ranging between four and five. All four studies were reported as randomized double-blind trials and the authors provided adequate descriptions of withdrawals and reported appropriate methods of double-blinding. However, three studies did not report the method used to generate the sequence of randomization [21, 22, 24]."
+        ],
+        "negative_ctxs": [
+            20,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "All trials were funded by the pharmaceutical companies that manufactured the drug under investigation and in two of the reports [21, 23] the authors disclosed conflicts of interest in that they acted as consultants in addition to their investigator roles."
+        ],
+        "negative_ctxs": [
+            13,
+            20
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "J. D. Douketis has received fees for consulting for Agen Biomedical and has received honoraria from Sanofi-Aventis, Pfizer, and Leo Laboratories. M. A. Crowther has received fees for speaking, for organizing symposia, research funding and consulting income from companies that manufacture LMWHs, novel anticoagulants or other products related to anticoagulation. These companies include Sanofi-Aventis, Leo Laboratories, Pfizer, Astra-Zeneca, Boehringer-Ingelheim, Bayer, Organon, Artisan Pharma and  Aton Pharma. W. Lim has received fees for speaking, research funding and consulting income from Leo Pharma and Pfizer. N. S. Lloyd and I. Moinuddin declare that they have no conflicts of interest."
+        ],
+        "negative_ctxs": [
+            20,
+            3
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "There are limitations of our study that should be addressed. First, one study relied on venous ultrasound to screen for DVT, which does not reliably detect calf DVT .  Although the prevalence of DVT would be under-represented in this study, thereby affecting estimates of overall prevalence of DVT, this should not affect our assessment of efficacy of anticoagulant prophylaxis, which was based on within-study comparisons of treatment efficacy. Further, this does not impact on our estimates of the rate of proximal DVT. Secondly, there were no head-to-head comparisons of anticoagulants to assess relative efficacy and safety, and our conclusions pertain to the thromboprophylactic effects of anticoagulants as a drug class. Thirdly, there was no standardized definition of bleeding across studies, as this has only recently been proposed for medical patients . However, this should not affect within-study comparisons of safety of anticoagulants for DVT prophylaxis."
+        ],
+        "negative_ctxs": [
+            21,
+            3
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    }
+]

@@ -1,0 +1,456 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "The present study was registered at Research Registry (available at: "
+        ],
+        "negative_ctxs": [
+            10,
+            4
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Theoretically, the low cabin pressure during air travel can aggravate lymphedema. However, the evidence from the published data has been conflicting. We performed a systematic review of the effect of air travel on breast cancer patients with postoperative lymphedema.\n\n\nIn addition, according to the 4 studies with a control arm in the analysis (patients without air travel history), 107 of 1189 patients (9%) with a documented history of air travel developed lymphedema. In contrast, 204 of 2356 patients (8.7%) who had not flown developed lymphedema (Chi2 test, P = .80; Table 3)."
+        ],
+        "negative_ctxs": [
+            2,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Review studies, conference abstracts, and nonresearch articles (eg, editorials) were excluded. \n\nAir travel has been postulated as 1 of the risk factors of lymphedema exacerbation. In the present systematic review, we sought to critically evaluate the current data on this topic.\n \nIt is presented as pooled analysis (%) of patients that presented lymphedema after air flight, and as pooled analysis (%) of the prevalence of lymphedema events in people with and without air travel history. The secondary outcome is the effect of lymphedema on patients' air travel behavior. "
+        ],
+        "negative_ctxs": [
+            1,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Data Sources and Eligibility: The Medline, Cochrane, EMBASE, and CINAHL databases\nwere searched for relevant English-language studies to June 2017."
+        ],
+        "negative_ctxs": [
+            7,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The Medline, Cochrane, EMBASE, and CINAHL databases were searched for relevant English-language studies to June 2017. \n\n\nA search of relevant gray data using the same combina\u0002tions of keywords was also performed. "
+        ],
+        "negative_ctxs": [
+            13,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "In addition, abstracts from the reference lists of the selected studies and titles identified using an electronic search of leading journals in breast surgery and nursing care were also retrieved and screened for relevance.\n\n\n[from the flowchart of studies inclusion] Additional papers identified through citation searching N=3"
+        ],
+        "negative_ctxs": [
+            11,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The search terms used were \"lymphedema\" AND \"air travel,\" \"lymphedema\" AND \"flight,\" \"lymphedema\" AND \"cabin pressure,\" and \"lymphedema\" AND \"airplane.\" A repeated search was performed using \"lymphoedema\" instead of \"lymphedema\" to avoid missing studies written in British English."
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "The Medline, Cochrane, EMBASE, and CINAHL databases were searched for relevant English-language studies to June 2017"
+        ],
+        "negative_ctxs": [
+            8,
+            1
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "The abstracts were screened by 2 of us independently for relevance and the level of evidence. The full text of the studies for the selected abstracts was retrieved."
+        ],
+        "negative_ctxs": [
+            14,
+            8
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data extraction was performed independently by 2 of us, and the results were combined for analysis.\n\nData were extracted by 2 of us."
+        ],
+        "negative_ctxs": [
+            3,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Summary of Study Conclusions on Effect of Air Travel in Lymphedema Patients\n\n\nTable 2 Studies Evaluating History of Air Travel for Patients With Worsened Lymphedema\n\n\nTable 3 Studies Evaluating Lymphedema Events in Patients Stratified by History of Air Travel\n\n\nTable 4 Studies of Changes in Travel Behavior After Development of Lymphedema"
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Table 3: Studies Evaluating Lymphedema Events in Patients Stratified by History of Air Travel. [headings of the table]: Investigator Study Type, Lymphedema/PatientsWho Have Flown, Lymphedema/Patients Who Have Not Flown\n\n\n[quote from the protocol] Analysis of subgroups or subsets:  Papers that have evaluated lymphedema rate in patient who had / had not flown will be further analyzed using the pooled data extracted."
+        ],
+        "negative_ctxs": [
+            9,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Owing to the heterogeneity of studies, a meta-analysis was not performed.\n\nA pooled analysis of 2051 patients from 7 studies found that\nonly \u0001 14.5% of patients with postoperative lymphedema had\nhistory of air travel (Table 2). In addition, according to the 4 studies\nwith a control arm in the analysis (patients without air travel history),\n107 of 1189 patients (9%) with a documented history of air\ntravel developed lymphedema. In contrast, 204 of 2356 patients\n(8.7%) who had not flown developed lymphedema (c2 test,\nP  1/4 .80; Table 3)."
+        ],
+        "negative_ctxs": [
+            12,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Owing to the heterogeneity of studies, a meta-analysis was not performed.\n\n\nA pooled analysis of 2051 patients from 7 studies found that\nonly \u0001 14.5% of patients with postoperative lymphedema had\nhistory of air travel (Table 2). In addition, according to the 4 studies\nwith a control arm in the analysis (patients without air travel history),\n107 of 1189 patients (9%) with a documented history of air\ntravel developed lymphedema. In contrast, 204 of 2356 patients\n(8.7%) who had not flown developed lymphedema (c2 test,\nP  1/4 .80; Table 3)."
+        ],
+        "negative_ctxs": [
+            10,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Air travel has been postulated as 1 of the major triggering factors of lymphedema by an early case report and a retrospective survey based study,17,21 which was subject to recall and selection bias. \n\n\nHowever, in retrospective studies, the possibility of recall bias always exists."
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Theoretically, the low cabin pressure during air travel can aggravate lymphedema. However, the evidence from the published data has been conflicting. We performed a systematic review of the effect of air travel on breast cancer patients with postoperative lymphedema.\n\n\nIn addition, according to the 4 studies with a control arm in the analysis (patients without air travel history), 107 of 1189 patients (9%) with a documented history of air travel developed lymphedema. In contrast, 204 of 2356 patients (8.7%) who had not flown developed lymphedema (Chi2 test, P = .80; Table 3)."
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "The present study was registered at Research Registry (available at: "
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Review studies, conference abstracts, and nonresearch articles (eg, editorials) were excluded. \n\nAir travel has been postulated as 1 of the risk factors of lymphedema exacerbation. In the present systematic review, we sought to critically evaluate the current data on this topic.\n \nIt is presented as pooled analysis (%) of patients that presented lymphedema after air flight, and as pooled analysis (%) of the prevalence of lymphedema events in people with and without air travel history. The secondary outcome is the effect of lymphedema on patients' air travel behavior. "
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Review studies, conference abstracts, and nonresearch articles (eg, editorials) were excluded. However, the references from the review studies were checked for cross-referencing. Identical studies and abstracts were identified to avoid duplications. Studies reported by the same institution were reviewed, with only the most recent study or the study with the most complete reporting of the outcomes of interest included to avoid data duplication."
+        ],
+        "negative_ctxs": [
+            4,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The Medline, Cochrane, EMBASE, and CINAHL databases were searched for relevant English-language studies to June 2017. \n\n\nA search of relevant gray data using the same combina\u0002tions of keywords was also performed. "
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "The abstracts were screened by 2 of us independently for relevance and the level of evidence. The full text of the studies for the selected abstracts was retrieved."
+        ],
+        "negative_ctxs": [
+            3,
+            11
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data extraction was performed independently by 2 of us, and the results were combined for analysis.\n\nData were extracted by 2 of us."
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "[from the flowchart of studies inclusion] Papers excluded with reasons N=27. Review article = 3, Non-breast cancer = 9, Conference paper =7, Non-research paper = 4, Laboratory research = 1, Duplicate data = 1, radiotherapy toxicity study = 1"
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Summary of Study Conclusions on Effect of Air Travel in Lymphedema Patients\n\n\nTable 2 Studies Evaluating History of Air Travel for Patients With Worsened Lymphedema\n\n\nTable 3 Studies Evaluating Lymphedema Events in Patients Stratified by History of Air Travel\n\n\nTable 4 Studies of Changes in Travel Behavior After Development of Lymphedema"
+        ],
+        "negative_ctxs": [
+            0,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Owing to the heterogeneity of studies, a meta-analysis was not performed.\n\nA pooled analysis of 2051 patients from 7 studies found that\nonly \u0001 14.5% of patients with postoperative lymphedema had\nhistory of air travel (Table 2). In addition, according to the 4 studies\nwith a control arm in the analysis (patients without air travel history),\n107 of 1189 patients (9%) with a documented history of air\ntravel developed lymphedema. In contrast, 204 of 2356 patients\n(8.7%) who had not flown developed lymphedema (c2 test,\nP  1/4 .80; Table 3)."
+        ],
+        "negative_ctxs": [
+            6,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Owing to the heterogeneity of studies, a meta-analysis was not performed.\n\n\nA pooled analysis of 2051 patients from 7 studies found that\nonly \u0001 14.5% of patients with postoperative lymphedema had\nhistory of air travel (Table 2). In addition, according to the 4 studies\nwith a control arm in the analysis (patients without air travel history),\n107 of 1189 patients (9%) with a documented history of air\ntravel developed lymphedema. In contrast, 204 of 2356 patients\n(8.7%) who had not flown developed lymphedema (c2 test,\nP  1/4 .80; Table 3)."
+        ],
+        "negative_ctxs": [
+            0,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Air travel has been postulated as 1 of the major triggering factors of lymphedema by an early case report and a retrospective survey based study,17,21 which was subject to recall and selection bias. \n\n\nHowever, in retrospective studies, the possibility of recall bias always exists."
+        ],
+        "negative_ctxs": [
+            10,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": []
+    }
+]
