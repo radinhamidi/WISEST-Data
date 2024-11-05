@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive, detailed README designed to provide a complete understanding of the `dpr.py` script and its use within the WISEST project:
-
----
-
 # Dense Passage Retrieval (DPR) for WISEST
 
 Welcome to the `dpr.py` module, an integral part of the **WISEST** (WhIch Systematic Evidence Synthesis is besT) tool. This module enables automated passage retrieval for systematic review (SR) quality assessments by leveraging advanced information retrieval techniques. It plays a key role in facilitating efficient, automated responses to widely recognized frameworks such as **ROBIS** and **AMSTAR-2**.
@@ -111,9 +107,7 @@ This module is part of the WISEST project and is distributed under the [CC-BY-NC
 ## References
 
 For more details on the WISEST tool and its comprehensive functionalities, refer to:
-- **WISEST Annotation Platform**: [GitHub Repository](https://github.com/radinhamidi/WISEST-Annotation-Platform)
-- **WISEST Data Processing Pipeline**: [GitHub Repository](https://github.com/radinhamidi/WISEST-Data)
+- **WISEST Annotation Platform**: [GitHub Repository]([https://github.com/radinhamidi/WISEST-Annotation-Platform](https://github.com/radinhamidi/WISEST-Annotation-Platform.git))
 
 ---
 
-This README is designed to give a clear, detailed overview of the `dpr.py` module, its functionality, and usage. Let me know if any specific sections need further refinement or additional detail!
