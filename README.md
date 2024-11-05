@@ -29,7 +29,7 @@ WISEST aims to streamline the assessment process for SRs, which are essential fo
 ### Setup
 Clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/your-repo/WISEST-DPR.git
+git clone https://github.com/radinhamidi/WISEST-Data.git
 cd WISEST-DPR
 ```
 
