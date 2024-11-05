@@ -1,0 +1,468 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Objective: The aim of this study was to describe the malignancy rates\nin childhood and adult-onset systemic lupus erythematous (SLE) by\nproportional meta-analysis.\n\nStudies were included if participants had an established diagnosis of SLE by clinical evaluation and classification criteria,3,4 regardless of age, sex, or\nexposure to steroids or immunosuppressive or biologic treatment. This review included all longitudinal studies with malignancy reports or a proper score for the SLICC/American College of Rheumatology Damage Index (SDI). The SDI scores 1 point for any biopsy-proven malignancy from each site, excluding dysplasia, after 6 months of SLE onset.18 Those longitudinal studies were mainly cohort studies with a minimum 6 months' followup and cancer registry reports. We excluded reviews and crosssectional and case-control studies. The primary outcome was any type of malignancy, regardless of topography."
+        ],
+        "negative_ctxs": [
+            7,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Studies were included\r\nif participants had an established diagnosis of SLE by clinical\r\nevaluation and classification criteria,3,4 regardless of age, sex, or\r\nexposure to steroids or immunosuppressive or biologic treatment.\r\nThis review included all longitudinal studies with malignancy\r\nreports or a proper score for the SLICC/American College\r\nof Rheumatology Damage Index (SDI). The SDI scores 1 point\r\nfor any biopsy-proven malignancy from each site, excluding dysplasia,\r\nafter 6 months of SLE onset.18 Those longitudinal studies\r\nwere mainly cohort studies with a minimum 6 months' followup\r\nand cancer registry reports. We excluded reviews and crosssectional\r\nand case-control studies. The primary outcome was\r\nany type of malignancy, regardless of topography."
+        ],
+        "negative_ctxs": [
+            0,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We excluded reviews and crosssectional\nand case-control studies.\n\nStudies with incomplete data about the outcome were excluded\r\nfrom the review."
+        ],
+        "negative_ctxs": [
+            14,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "There was no language restriction"
+        ],
+        "negative_ctxs": [
+            15,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "PubMed (Ovid) (1966 to November 2015), EMBASE (Ovid)\n(1980 to November 2015), and Latin American and Caribbean\nHealth Sciences Literature (LILACS), via BIREME (1982 to November 2015)"
+        ],
+        "negative_ctxs": [
+            16,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "reference lists of the identified relevant studies were scrutinized for additional citations"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "APPENDIX 1. Search strategy\r\n(systemic lupus erythematosus OR Lupus Erythematosus Disseminatus OR Libman-Sacks Disease OR Libman Sacks Disease) AND (Neoplasms\r\nOR Neoplasm OR Tumors OR Tumor OR Cancer OR Cancers OR Benign Neoplasms OR Benign Neoplasm OR malignancy OR malignancies\r\nOR Hematological Neoplasms OR Hematological Neoplasm OR Hematologic Neoplasm OR Hematological Malignancies OR Hematological\r\nMalignancy OR Hematologic Malignancy OR Hematologic Malignancies OR Hematopoietic Neoplasms OR Hematopoietic Malignancies OR\r\nHematopoietic Malignancy OR Hematopoietic Neoplasm OR blood cancers OR liquid tumors OR solid tumors OR solid tumor OR solid neoplasm\r\nOR solid neoplasms OR solid cancers OR solid cancer OR organ tumors OR organ tumor) AND (incidence[MeSH:noexp] OR mortality\r\n[MeSH Terms] OR follow up studies[MeSH:noexp] OR prognos*[TextWord] OR prognosis OR prognostic OR prognostics OR predicts OR risk\r\nfactor OR risk factors OR predict*[TextWord] OR course*[TextWord]) OR prognosis*[Title/Abstract] OR (first[Title/Abstract] AND episode\r\n[Title/Abstract]) OR cohort[Title/Abstract]) OR (controlled trial$*) OR (randomised controlled trial$*)"
+        ],
+        "negative_ctxs": [
+            2,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "There was no language restriction"
+        ],
+        "negative_ctxs": [
+            12,
+            9
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two of the authors reviewed the articles independently, to extract the data."
+        ],
+        "negative_ctxs": [
+            15,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two of the authors reviewed the articles independently, to extract the data."
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Population characteristics by country, number of participants,\nand follow-up time are presented in the Table 1. Among the included\nstudies, 23 were from Western countries (United States,\nCanada, Latin America, and Europe),5,9,15,24-42 whereas 5 studies\nwere from eastern countries (Hong Kong and Korea),43-47 and\n2 studies were from Middle East (Saudi Arabia and Israel).48,49\nSample size in each of the studies ranged from 47 to 30,478 subjects,\nwith females being the majority.27,46 Only 2 studies reported\nspecific types of malignancy, breast and lung cancer, respectively9,32;\nthe remaining reported overall malignancy rates (Table 1).\n\nTABLE 1. Population Characteristics of Included Cohorts"
+        ],
+        "negative_ctxs": [
+            3,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "TABLE 1. Population Characteristics of Included Cohorts"
+        ],
+        "negative_ctxs": [
+            4,
+            16
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "We evaluated the risk of bias of the selected articles using a modified version of the Ottawa-Newcastle instrument.19 It includes confidence in assessment of exposure and outcome and adjusted analysis for differences between groups in prognostic characteristics or missing data."
+        ],
+        "negative_ctxs": [
+            15,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Results of 30 articles with a total of 96,578 subjects were included in the meta- analysis."
+        ],
+        "negative_ctxs": [
+            5,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Malignancy rate in 30 case series with 96,578 subjects with\nSLE was 3.4% (95% CI, 0.0260-0.0442).\n\nWe performed a subgroup analysis according to different\nSLE onset ages, defining childhood-onset subjects at 18 years or\nyounger comparedwith those older than 18 years at SLE onset.Mean\nfollow-up time (<=5 vs. >5 years) subgroups were also compared."
+        ],
+        "negative_ctxs": [
+            18,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Malignancy rate in 30 case series with 96,578 subjects with\nSLE was 3.4% (95% CI, 0.0260-0.0442). There was a significant\nheterogeneity (I2 = 97.6%) showing the consistency of clinical and\nmethodological aspects between the studies included in the metaanalysis\n(P < 0.0001) (Fig. 2).\nMalignancy rates in 25 adult and 5 childhood-onset SLE series\nwere 4.2% (95% CI, 0.0318-0.0531) and 0.5% (95% CI,\n0.0003-0.0154), respectively. There was a significant difference\ncomparing the groups according to SLE onset age, as the 95%\nCIs did not overlap (Fig. 2).Also, statistical heterogeneity was significant:\nadult-onset SLE I2 = 98%, P < 0.0001, and childhoodonset\nSLE, I2 = 62.6%, P = 0.03.\nReported follow-up was grouped as mean follow-up time of\nless than or equal to 5 years and more than 5 years. Malignancy\nrate from 11 studieswith a total of 34,462 SLE subjects withmean\nfollow-up of less than or equal to 5 years was 2.8% (95% CI,\n0.013-0.047), whereas the rate in 16 studies with a total of\n30,724 SLE subjects,withmean follow-up timemore than 5 years,\nwas 3.6% (95% CI, 0.0226-0.0531). Follow-up time was not reported\nin 2 of the reported studies, comprising 19,475 SLE subjects\n(Table 1). There was no significant difference between\nthese groups as the CIs overlap. Also, I2 heterogeneity was significant\nin those with less than 5 years' and more than 5 years'\nmean follow-up time, I2 = 91%, P < 0.0001, and I2 = 98.3%,\nP < 0.0001, respectively"
+        ],
+        "negative_ctxs": [
+            19,
+            2
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Overall, included studies were rated with low risk of bias for the following domains: selection of exposed and nonexposed cohorts from the same population, confidence in the assessment of exposure (SLE), outcome (malignancy), and follow-up time.\n"
+        ],
+        "negative_ctxs": [
+            15,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Our study limitations were the wide variation of studies compiled and limited reports about age range stratification in childhood-onset and adult-onset SLE, malignancy site, and organ involvement comparisons, as well as comorbidity additional risk factors. There was also a wide methodological variation with only 1 inception cohort24 and a few healthy population-controlled studies.9,25,43 Most of included population studies were reports of the National Cancer Registry matched to hospital discharge diagnoses as case-finding strategy, but smaller SLE series, from rheumatology practices, reporting damage index (SDI) were also pooled in the meta-analysis. The proportion of cases could be also a source of bias, but the search strategy and study selection allowed inclusion of all the published pediatric series with longterm follow-up, in order to power the analysis."
+        ],
+        "negative_ctxs": [
+            9,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The primary outcome was any type of malignancy, regardless of topograph\n\nPopulation characteristics by country, number of participants,\r\nand follow-up time are presented in the Table 1. Among the included\r\nstudies, 23 were from Western countries (United States,\r\nCanada, Latin America, and Europe),5,9,15,24-42 whereas 5 studies\r\nwere from eastern countries (Hong Kong and Korea),43-47 and\r\n2 studies were from Middle East (Saudi Arabia and Israel).48,49\r\nSample size in each of the studies ranged from 47 to 30,478 subjects,\r\nwith females being the majority.27,46 Only 2 studies reported\r\nspecific types of malignancy, breast and lung cancer, respectively9,32;\r\nthe remaining reported overall malignancy rates (Table 1). "
+        ],
+        "negative_ctxs": [
+            19,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            11,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Studies were included\r\nif participants had an established diagnosis of SLE by clinical\r\nevaluation and classification criteria,3,4 regardless of age, sex, or\r\nexposure to steroids or immunosuppressive or biologic treatment.\r\nThis review included all longitudinal studies with malignancy\r\nreports or a proper score for the SLICC/American College\r\nof Rheumatology Damage Index (SDI). The SDI scores 1 point\r\nfor any biopsy-proven malignancy from each site, excluding dysplasia,\r\nafter 6 months of SLE onset.18 Those longitudinal studies\r\nwere mainly cohort studies with a minimum 6 months' followup\r\nand cancer registry reports. We excluded reviews and crosssectional\r\nand case-control studies. The primary outcome was\r\nany type of malignancy, regardless of topography."
+        ],
+        "negative_ctxs": [
+            1,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "This review included all longitudinal studies with malignancy\r\nreports or a proper score for the SLICC/American College\r\nof Rheumatology Damage Index (SDI). The SDI scores 1 point\r\nfor any biopsy-proven malignancy from each site, excluding dysplasia,\r\nafter 6 months of SLE onset.18 Those longitudinal studies\r\nwere mainly cohort studies with a minimum 6 months' followup\r\nand cancer registry reports. We excluded reviews and crosssectional\r\nand case-control studies."
+        ],
+        "negative_ctxs": [
+            8,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "PubMed (Ovid) (1966 to November 2015), EMBASE (Ovid)\n(1980 to November 2015), and Latin American and Caribbean\nHealth Sciences Literature (LILACS), via BIREME (1982 to November 2015)"
+        ],
+        "negative_ctxs": [
+            16,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two of the authors reviewed the articles independently, to extract the data."
+        ],
+        "negative_ctxs": [
+            5,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two of the authors reviewed the articles independently, to extract the data."
+        ],
+        "negative_ctxs": [
+            1,
+            13
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Population characteristics by country, number of participants,\nand follow-up time are presented in the Table 1. Among the included\nstudies, 23 were from Western countries (United States,\nCanada, Latin America, and Europe),5,9,15,24-42 whereas 5 studies\nwere from eastern countries (Hong Kong and Korea),43-47 and\n2 studies were from Middle East (Saudi Arabia and Israel).48,49\nSample size in each of the studies ranged from 47 to 30,478 subjects,\nwith females being the majority.27,46 Only 2 studies reported\nspecific types of malignancy, breast and lung cancer, respectively9,32;\nthe remaining reported overall malignancy rates (Table 1).\n\nTABLE 1. Population Characteristics of Included Cohorts"
+        ],
+        "negative_ctxs": [
+            16,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "We evaluated the risk of bias of the selected articles using a modified version of the Ottawa-Newcastle instrument.19 It includes confidence in assessment of exposure and outcome and adjusted analysis for differences between groups in prognostic characteristics or missing data."
+        ],
+        "negative_ctxs": [
+            19,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Malignancy rate in 30 case series with 96,578 subjects with\nSLE was 3.4% (95% CI, 0.0260-0.0442).\n\nWe performed a subgroup analysis according to different\nSLE onset ages, defining childhood-onset subjects at 18 years or\nyounger comparedwith those older than 18 years at SLE onset.Mean\nfollow-up time (<=5 vs. >5 years) subgroups were also compared."
+        ],
+        "negative_ctxs": [
+            6,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Malignancy rate in 30 case series with 96,578 subjects with\nSLE was 3.4% (95% CI, 0.0260-0.0442). There was a significant\nheterogeneity (I2 = 97.6%) showing the consistency of clinical and\nmethodological aspects between the studies included in the metaanalysis\n(P < 0.0001) (Fig. 2).\nMalignancy rates in 25 adult and 5 childhood-onset SLE series\nwere 4.2% (95% CI, 0.0318-0.0531) and 0.5% (95% CI,\n0.0003-0.0154), respectively. There was a significant difference\ncomparing the groups according to SLE onset age, as the 95%\nCIs did not overlap (Fig. 2).Also, statistical heterogeneity was significant:\nadult-onset SLE I2 = 98%, P < 0.0001, and childhoodonset\nSLE, I2 = 62.6%, P = 0.03.\nReported follow-up was grouped as mean follow-up time of\nless than or equal to 5 years and more than 5 years. Malignancy\nrate from 11 studieswith a total of 34,462 SLE subjects withmean\nfollow-up of less than or equal to 5 years was 2.8% (95% CI,\n0.013-0.047), whereas the rate in 16 studies with a total of\n30,724 SLE subjects,withmean follow-up timemore than 5 years,\nwas 3.6% (95% CI, 0.0226-0.0531). Follow-up time was not reported\nin 2 of the reported studies, comprising 19,475 SLE subjects\n(Table 1). There was no significant difference between\nthese groups as the CIs overlap. Also, I2 heterogeneity was significant\nin those with less than 5 years' and more than 5 years'\nmean follow-up time, I2 = 91%, P < 0.0001, and I2 = 98.3%,\nP < 0.0001, respectively"
+        ],
+        "negative_ctxs": [
+            0,
+            10
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Overall, included studies were rated with low risk of bias for the following domains: selection of exposed and nonexposed cohorts from the same population, confidence in the assessment of exposure (SLE), outcome (malignancy), and follow-up time.\n"
+        ],
+        "negative_ctxs": [
+            3,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "This study was supported by grants from Conselho Nacional de\r\nDesenvolvimento Cientifico e Tecnologico (CNPq 310953/2015-4 to R.E.,\r\n303422/2015-7 to C.A.A.S., and 301479/2015 to C.S.-M.) and Federico\r\nFoundation and Nucleo de Apoio a Pesquisa \"Saude da Crianca e do\r\nAdolescente\" da USP (NAP-CriAd) (to C.A.A.S).\r\nThe authors declare no conflict of interest"
+        ],
+        "negative_ctxs": [
+            0,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Our study limitations were the wide variation of studies compiled and limited reports about age range stratification in childhood-onset and adult-onset SLE, malignancy site, and organ involvement comparisons, as well as comorbidity additional risk factors. There was also a wide methodological variation with only 1 inception cohort24 and a few healthy population-controlled studies.9,25,43 Most of included population studies were reports of the National Cancer Registry matched to hospital discharge diagnoses as case-finding strategy, but smaller SLE series, from rheumatology practices, reporting damage index (SDI) were also pooled in the meta-analysis. The proportion of cases could be also a source of bias, but the search strategy and study selection allowed inclusion of all the published pediatric series with longterm follow-up, in order to power the analysis."
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    }
+]

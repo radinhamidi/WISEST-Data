@@ -1,0 +1,477 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "D I F F E R E N C E S   B E T W E E N   P R O T O C O L   A N D   R E V I E W Differences between the published protocol and Milani 2011. 1. For statistical analysis the RevMan 5.2 program was used. 2. Humberto Saconato was an author of the published protocol\n\nO B J E C T I V E S To evaluate the effectiveness and safety of induced hypothermia versus normothermia for neuroprotection in patients undergoing brain surgery.\n\nO B J E C T I V E S To evaluate the effectiveness and safety profile of induced hypothermia versus normothermia for neuroprotection in patients undergoing brain surgery."
+        ],
+        "negative_ctxs": [
+            13,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "O B J E C T I V E S To evaluate the effectiveness and safety profile of induced hypothermia versus normothermia for neuroprotection in patients undergoing brain surgery. Effectiveness was to be measured in terms of short and long term mortality and functional neurological outcomes. Safety was to be assessed in terms of the rate of the adverse events infection, myocardial infarction, ischaemic stroke, congestive cardiac failure and any other adverse events reported by the authors of the included studies.\n \nTypes of participants Any patient undergoing brain surgery (vascular, tumour, brain injury, intracranial arteriovenous malformations, etc), without age or gender restrictions, who were participants in a trial of cooling at any time in the perioperative period, that is either preoperatively, intraoperatively or postoperatively. Types of interventions Neurosurgical procedures where a deliberate strategy to cool the brain in the perioperative period was compared to no specific attempt to manipulate the brain temperature. While there is no generally accepted classification for levels of hypothermia, we defined the target levels of hypothermia as follows (where temperatures refer to brain or core values). * Mild: down to 32 oC. * Moderate: from 32 oC to 28 oC. * Deep: under 28 oC. Types of outcome measures Studies were eligible for inclusion if they reported any of the following outcome measures. Primary outcomes 1. Mortality rate during treatment or the follow-up period. 2. Glasgow Outcome Score (GOS) of 3 or below. This cut off point was chosen as it marks the transition point between recovery to independent or dependent living and worse outcomes requiring high level care. Those with a GOS of 4 or more recover normal or near normal independence with employment possible with either no or some special provisions, while a GOS of 3 or less signifies severe disability, partial or total loss of independence or even death (Jennett 1975) (Appendix 1). Secondary outcomes The following adverse events were reported on. 1. Any surgical infective complications including cerebral infection, septicaemia, pulmonary infection etc. 2. Myocardial infarction, defined as a raised cardiac troponin level accompanied by at least one of the following: ischaemic symptoms, development of pathological Q waves on the electrocardiogram (ECG), ECG changes indicating ischaemia (ST segment elevation or depression) (JESC/ACC Committee 2000). 3. Ischaemic stroke, defined as a persistent focal neurological deficit of presumed ischaemic origin lasting more than 24 hours and confirmed by computed tomography (CT) or magnetic resonance imaging (MRI) (Goldstein 1994). 4. Congestive heart failure, defined as clinical signs of myocardial failure and requiring medical treatment. 5. Intracranial haemorrhage, defined as bleeding into the brain caused by the rupture of cerebral blood vessels (including extradural or subdural haemorrhage) confirmed by CT or MRI. 6. Any other adverse events which were reported by the authors of the primary studies."
+        ],
+        "negative_ctxs": [
+            45,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "O B J E C T I V E S To evaluate the effectiveness and safety profile of induced hypothermia versus normothermia for neuroprotection in patients undergoing brain surgery. Effectiveness was to be measured in terms of short and long term mortality and functional neurological outcomes. Safety was to be assessed in terms of the rate of the adverse events infection, myocardial infarction, ischaemic stroke, congestive cardiac failure and any other adverse events reported by the authors of the included studies.\n \nTypes of participants Any patient undergoing brain surgery (vascular, tumour, brain injury, intracranial arteriovenous malformations, etc), without age or gender restrictions, who were participants in a trial of cooling at any time in the perioperative period, that is either preoperatively, intraoperatively or postoperatively. Types of interventions Neurosurgical procedures where a deliberate strategy to cool the brain in the perioperative period was compared to no specific attempt to manipulate the brain temperature. While there is no generally accepted classification for levels of hypothermia, we defined the target levels of hypothermia as follows (where temperatures refer to brain or core values). * Mild: down to 32 oC. * Moderate: from 32 oC to 28 oC. * Deep: under 28 oC. Types of outcome measures Studies were eligible for inclusion if they reported any of the following outcome measures. Primary outcomes 1. Mortality rate during treatment or the follow-up period. 2. Glasgow Outcome Score (GOS) of 3 or below. This cut off point was chosen as it marks the transition point between recovery to independent or dependent living and worse outcomes requiring high level care. Those with a GOS of 4 or more recover normal or near normal independence with employment possible with either no or some special provisions, while a GOS of 3 or less signifies severe disability, partial or total loss of independence or even death (Jennett 1975) (Appendix 1). Secondary outcomes The following adverse events were reported on. 1. Any surgical infective complications including cerebral infection, septicaemia, pulmonary infection etc. 2. Myocardial infarction, defined as a raised cardiac troponin level accompanied by at least one of the following: ischaemic symptoms, development of pathological Q waves on the electrocardiogram (ECG), ECG changes indicating ischaemia (ST segment elevation or depression) (JESC/ACC Committee 2000). 3. Ischaemic stroke, defined as a persistent focal neurological deficit of presumed ischaemic origin lasting more than 24 hours and confirmed by computed tomography (CT) or magnetic resonance imaging (MRI) (Goldstein 1994). 4. Congestive heart failure, defined as clinical signs of myocardial failure and requiring medical treatment. 5. Intracranial haemorrhage, defined as bleeding into the brain caused by the rupture of cerebral blood vessels (including extradural or subdural haemorrhage) confirmed by CT or MRI. 6. Any other adverse events which were reported by the authors of the primary studies."
+        ],
+        "negative_ctxs": [
+            54,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Studies were eligible for inclusion if they reported any of the following outcome measures."
+        ],
+        "negative_ctxs": [
+            14,
+            63
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "For both the original and updated versions, grey literature was sought by searching reference lists of identified studies and relevant review articles, and conference proceedings. No language restrictions were applied."
+        ],
+        "negative_ctxs": [
+            23,
+            32
+        ],
+        "positive_ctxs": [
+            3,
+            14
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "For the original review, the authors searched the databases Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (OvidSP), EMBASE (OvidSP) and LILACS to November 2010. For the updated review all these databases were re-searched from November 2010 to May 2014."
+        ],
+        "negative_ctxs": [
+            59,
+            48
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "For both the original and updated versions, grey literature was sought by searching reference lists of identified studies and relevant review articles, and conference proceedings."
+        ],
+        "negative_ctxs": [
+            5,
+            45
+        ],
+        "positive_ctxs": [
+            3,
+            14
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix 2. Search Strategy for the Cochrane Central Register of Controlled Trials (CENTRAL)\n#1           MeSH descriptor Hypothermia, Induced explode all trees\n#2           MeSH descriptor Hypothermia explode all trees\n#3           MeSH descriptor Cryotherapy explode all trees\n#4           MeSH descriptor Cryosurgery explode all trees\n#5           Cooling or Cryotherapy or Hypotherm*\n#6           hypotherm* near induced\n#7           cold*\n#8           cryo*\n#9           (#1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #8)\n#10         MeSH descriptor Neurosurgical Procedures explode all trees\n#11         MeSH descriptor Neurosurgery explode all trees\n#12         MeSH descriptor Brain Injuries explode all trees\n#13         MeSH descriptor Intracranial Aneurysm explode all trees\n#14         MeSH descriptor Intracranial Arterial Diseases explode all trees\n#15         MeSH descriptor Cerebrovascular Accident explode all trees\n#16         MeSH descriptor Cerebrovascular Disorders explode all trees\n#17         (operat* or surg* or procedur*) near (brain* or neuro*)\n#18         Intracranial\n#19         (Brain or Cerebro*) near (disord* or trauma* or damage)\n#20         (#10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18 OR #19)\n#21         (#9 AND #20)\n\n\nAppendix 3. Search strategy for MEDLINE (OvidSP)\n1. exp Hypothermia Induced/ or Circulatory Arrest Deep Hypothermia Induced/ or exp Hypothermia/ or exp Cryotherapy/ or exp Cryosurgery/ or (Cooling or Cryotherapy or Hypotherm*).mp. or (cryo* or cold).ti,ab.\n2. exp Neurosurgical Procedures/ or exp Neurosurgery/ or exp Brain Injuries/ or exp Intracranial Aneurysm/ or exp Intracranial Arterial Diseases/ or exp Cerebrovascular Disorders/ or exp Cerebrovascular Trauma/ or ((operat* or surg* or procedur*) adj5 (brain* or neuro*)).mp. or ((Brain or Cerebro*) adj5 (disord* or trauma* or damage)).mp. or Intracranial.mp.\n3. 1 and 2\n4. ((randomized controlled trial or controlled clinical trial).pt. or randomized.ab. or placebo.ab. or clinical trials as topic.sh. or randomly.ab. or trial.ti.) not (animals not (humans and animals)).sh.\n5. 3 and 4\n\n\nAppendix 4. Search strategy for EMBASE (OvidSP)\n1. exp hypothermia/ or exp induced hypothermia/ or exp profound induced hypothermia/ or exp cryotherapy/ or exp cryosurgery/ or (Cooling or Cryotherapy or Hypotherm*).mp. or (hypotherm* adj5 induced).mp. or (cryo* or cold).ti,ab.\n2. exp neurosurgery/ or exp brain injury/ or intracranial aneurysm/ or cerebral artery disease/ or brain hemorrhage/ or exp cerebrovascular accident/ or exp cerebrovascular disease/ or exp cerebrovascular surgery/ or ((operat* or surg* or procedur*) adj5 (brain* or neuro*)).mp. or ((Brain or Cerebro*) adj5 (disord* or trauma* or damage)).mp. or Intracranial.mp.\n3. 1 and 2\n4. (placebo.sh. or controlled study.ab. or random*.ti,ab. or trial*.ti,ab.) not (animals not (humans and animals)).sh.\n5. 3 and 4\n\n\nAppendix 5. Search strategy for LILACS (BIREME)\n\"HYPOTHERMIA/\" or \"CRYOTHERAPY\" or \"CRYOTHERAPY/\" or \"cryo$\" or \"cold$\" or \"hypotherm$\" or \"Arrest\"\n\n\nAppendix 6. Search strategy for CINAHL (EBSCOhost)\nS1  MH Hypothermia Treatment (Iowa NIC) or MH Hypothermia (NANDA) or MJ Hypothermia or MH Hypothermia, Induced or MH Hypothermia (Saba CCC) or MJ Cryotherapy or MJ Cryosurgery or TX (hypotherm* and induced) or AB cold* or TI cold* or TX cryo*\nS2 MJ Neurosurgery or MH Brain Injuries or MH Cerebral Aneurysm or MH Intracranial Hemorrhage or MJ Cerebral Vascular Accident or MH Cerebrovascular Disorders or TX ((operat* or surg* or procedur*) and (brain* or neuro*)) or TX ((Brain or Cerebro*) and (disord* or trauma* or damage)) or TX Intracranial\nS3 S1 and S2"
+        ],
+        "negative_ctxs": [
+            23,
+            47
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "For both the original and updated versions, grey literature was sought by searching reference lists of identified studies and relevant review articles, and conference proceedings. No language restrictions were applied."
+        ],
+        "negative_ctxs": [
+            48,
+            1
+        ],
+        "positive_ctxs": [
+            3,
+            14
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "For this updated version, three authors (IMG, RL, JGB) independently reviewed the articles retrieved by the updated search from November 2010 to May 2014 to identify studies that may have been eligible for inclusion. One review author (IMG) was responsible for contacting primary study authors should additional details have been required for determination of study eligibility and the quality. For the original version, two of the original authors scanned records retrieved by the initial search to identify potentially eligible studies and three of the original authors independently retrieved and reviewed all full-text articles (Milani 2011)."
+        ],
+        "negative_ctxs": [
+            25,
+            22
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "For this updated version a new data extraction form was designed by one author (IMG) (Appendix 7). The form was designed to extract data from any new studies which may be identified as well as to re-extract data from the studies included in the original review. This approach was taken to provide the reader with more comprehensive information about study methods, allow a more detailed assessment of risk of bias and ensure consistency of data extraction for all eligible studies. Three authors (IMG, RL, JGB) independently extracted the data using this form."
+        ],
+        "negative_ctxs": [
+            0,
+            59
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Hindman (Hindman 1999) included 114 participants (9.4% of the total), 52 participants with acute subarachnoid haemorrhage (SAH) and 62 without SAH. The mean age was 51 years in the hypothermic group and 54 years in the normothermic group; 38 participants were men and 76 were women. Todd (Todd 2005) included 1000 patients (82% of the total) who had SAH no more than 14 days before planned surgical aneurysm clipping. The median age was 52 years in the hypothermic group and53 years in the normothermic group; 344participantsweremen and 655 were women. All of the participants in the studies by Hindman and Todd (Hindman 1999; Todd 2005) had a preoperative World Federation of Neurological Surgeons (WFNS) score (Teasdale 1988) (Appendix 8) of I, II or III. This clinical grading system, proposed by the WFNS, is based on the Glasgow Coma Score (Teasdale 1974) and the finding of a motor deficit in patients with SAH. Patients classified as grade I have the best prognosis; those with grade II have a fair prognosis; and patients with grade III tend to have poor recovery. Patients with grade IV have poor prognosis and those with grade V are classified as moribund patients. Els (Els 2006) included 25 severely ill participants (2.1% of the total) operated on following a supratentorial ischaemic event with infarction of cerebral tissue. The mean age was 48.9 years; 15 participants were men and 10 were women. Qiu (Qiu 2007) assessed 80 participants (6.6% of the total) who had non-penetrating severe traumatic brain injury (TBI). The mean age was 41.3 years in the hypothermic group and 40.2 years in the normothermic group; 52 participants were men and 28 were women.\n \nAll four included studies (Els 2006; Hindman 1999; Qiu 2007;Todd 2005) assessed hypothermia versus normothermia for brain surgery. Hindman (Hindman 1999) induced hypothermia after the start of anaesthesia and the positioning of the patient, with a target temperature of 33.5 oC. The initial operating room temperature was 20 oC to 22.0 oC. Participants in the hypothermic group were cooled by a forced-air cooling and heating blanket set to deliver unwarmed air (room temperature); a cooling and heating mattress connected to a heating-cooling unit set to 20.0 degC; and intravenous fluids and anaesthetic gases that were not warmed until the clip was applied. Participants in the normothermic group were maintained at a target oesophageal temperature of 36.5 oC by a cooling and heating mattress set to 38.0 oC; a forced-air cooling and heating blanket set to 36.0 oC to 38.0 oC; and intravenous fluids and inspired anaesthetic gases warmed to 37.0 oC. At the time of clip application, patients assigned to the hypothermia group were significantly colder than those assigned to the normothermia group, with a median temperature of 33.7 oC versus 36.6 degC, respectively (P < 0.0001). Todd (Todd 2005) used a forced-air blanket connected to a heating-cooling unit to control the temperature for all patients. Hypothermia was induced after the start of anaesthesia and positioning of the patient, with a target temperature of 32.5 degC to 33.5 oC. The time from induction of anaesthesia to first clip placement was 217 +- 101 minutes and the temperature was 33.3 +- 0.8 oC. Rewarming of patients began after the last aneurysm clip had been secured and the temperature two hours after surgery was 36.4 +- 1.0 oC. The temperature of the normothermic group was kept between 36.0 oC and 37 degC and the time from induction of anaesthesia to the first clip placement was 214 +- 82 minutes. Both groups, normothermic and hypothermic, otherwise received similar treatment. Els (Els 2006)induced hypothermia immediately after the operation with a target temperature of 35.0 oC. In the hypothermic group 10 participants were cooled by an intravenous cooling device; two participants were cooled by an external cooling device in combination with cool ventilator air fanning the body surface. All participants were cooled for 48 hours and active rewarming at a rate of 1 oC per 24 hours was applied. The normothermic group received the same treatment as the hypothermic group, although details were not provided regarding how the equality of ancillary treatment was ensured. The authors did not report how the temperature was maintained in the normothermic group. Qiu (Qiu 2007)induced hypothermia for four days immediately after the operation, at a temperature of 33.0 oC to 35.0 oC, with the use of a water-circulating cooling blanket and, if necessary, a cooling cap around the head with circulating water at a temperature about 4 oC. The target temperature was generally achieved within 2.5 hours. For those who failed to achieve the target temperature within two hours refrigerated ice bags were placed around the neck. Patients were passively rewarmed over 10 to 24 hours. The normothermic group received the same treatment as the hypothermic group in all other ways, although again details were lacking as to how this was ensured. The authors did not report how the temperature was maintained in the normothermic group."
+        ],
+        "negative_ctxs": [
+            9,
+            52
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Appendix 7. Data Extraction Form\nData Extraction form\nSource\nStudy id\nCitation\nEligibility\nConfirm reason for eligibility\nMethods\nStudy design\nStudy duration\nSequence generation\nAllocation Concealment\nRandomization Method\nBlinding\nParticipants\nNumber\nAge\nGender\nCo morbidities\nInclusion Criteria\nExclusion Criteria\nSetting\nInterventions\nNo of arms\nIntervention type\nTiming\nIntervention Integrity\nMethod of admin\nAncillary treatment\nAdjunctive Therapy\nOutcomes\nPrimary\nSecondary\nAdverse Events\nResults\nNo. of participants allocated to each treatment\nNo. who received each treatment\nNo. who did not receive intended treatment and why\nNo. followed up\nNo. lost and why\nNo. included in the final analysis"
+        ],
+        "negative_ctxs": [
+            9,
+            61
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The risk of bias of the included studies was assessed independently by two review authors (IMG, RL) using the Cochrane Collaboration tool for assessing risk of bias, as described in Section 8 of the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011). Any discrepancies were resolved by discussion with a third review author (JGB). For each included primary study, bias was assessed in seven domains:\n\nrandom sequence generation,\n\nallocation concealment,\n\nperformance bias,\n\ndetection bias,\n\nattrition bias,\n\nreporting bias, and\n\nother bias.\n\nFor each domain, we determined the risk of bias as 'low', 'unclear' or 'high' according to the methods used in the study to ensure the minimization of each form of bias. In general these ratings were applied as follows.\n\nThe low risk rating was given where information was available that clearly demonstrated that efforts were made to ensure minimal bias in that domain and the described methods were robust enough to have a high likelihood of being effective.\n\nThe unclear risk rating was given when the information that was available was insufficient to be confident that the method used to minimize bias was robust enough to be effective.\n\nThe high risk rating was given when the study did not report any method to minimize bias in that domain."
+        ],
+        "negative_ctxs": [
+            8,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "The risk of bias of the included studies was assessed independently by two review authors (IMG, RL) using the Cochrane Collaboration tool for assessing risk of bias, as described in Section 8 of the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011). Any discrepancies were resolved by discussion with a third review author (JGB)."
+        ],
+        "negative_ctxs": [
+            3,
+            35
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Four eligible studies were included in the review.\n\nThese trials included a total of 1219 participants with the following characteristics.\n\nThe mortality analysis involved 1216 of 1219 participants with three patients assigned to the hypothermic group being lost to final mortality follow-up and they were therefore excluded from the analysis for this outcome."
+        ],
+        "negative_ctxs": [
+            71,
+            41
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "Analyses   It is our intention to combine all methods of cooling in a single analysis if there is no evidence of significant statistical or clinical heterogeneity. We will assess statistical heterogeneity using the I squared (I 2 )statistic and assume significance when the I 2 is greater than 50%. We will give consideration to the appropriateness of meta-analysis and will perform subgroup analyses if appropriate (Higgins 2003; Higgins 2005). We will use a fixed-effect model in the absence of important heterogeneity and a random-effects model if heterogeneity is likely (DerSimonian 1986). For proportions (dichotomous outcomes), we will use relative risk (RR). We will convert continuous data to the mean difference (MD) using the inverse variance method, and calculate an overall MD. If trials use different scales or measures of the same outcome, we will calculate standardized mean difference (SMD). We will test for publication bias using funnel plots or other corrective analytical methods, depending on the number of clinical trials included in the systematic review. We will perform subgroup analysis for different cooling strategies (pre-op, peri-op and post-op), different target temperatures (mild, moderate, deep cooling) and different operations if appropriate by calculation of RR or MD in each subgroup and examination of the 95% confidence intervals (CI). We will take non-overlap in intervals to indicate a statistically significant difference between subgroups. We will peform where possible all analyses on an intention-to-treat basis, and clearly state if this is not possible. We intend to perform sensitivity analyses for missing data and study quality.\n\nWhere included studies were deemed to be adequately homogeneous in these respects, statistical heterogeneity was assessed using the Chi 2 test and the I 2 statistic. A P value less than 0.10 and I 2 value in excess of 50% were taken as indicative of important heterogeneity (Higgins 2003).\n\nAs only four studies were eligible for inclusion in this updated review an accurate assessment of reporting bias was not possible on this occasion but is planned for future updates if adequate numbers (10 or more) of eligible studies become available.\n\nA fixed-effect model was used in the absence of important heterogeneity and a random-effects model if heterogeneity was deemed likely (DerSimonian 1986).\n\nDue to the small number of eligible studies retrieved, only one subgroup analysis was performed comparing outcomes in terms of mortality, GOS, surgical infection and myocardial infarction for those cooled during surgery versus those cooled after surgery. The remaining subgroup analyses are still planned for future updates of this review, depending on availability of adequate numbers (at least two for each subgroup) of eligible studies.\n\nTwo sensitivity analyses were performed as follows. * Analysis excluding those studies deemed to have a low methodologic quality as evidenced by a high risk of bias. * Analysis assuming two opposite scenarios for missing data. In the 'best case' scenario all missing patients in the hypothermia group were assumed to have a good outcome while all those in the normothermic group were assumed to have bad recovery. In the 'worst case' scenario the reverse assumption was made."
+        ],
+        "negative_ctxs": [
+            51,
+            63
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Meta-analysis was conducted by the authors of the original review. RevMan (RevMan 5.2) was used to perform the analyses for each outcome in the present review. For each outcome, all eligible studies that reported the outcome were included and participants who were treated with hypothermia were compared with those who were in the normothermia group. A fixed-effect model was used in the absence of important heterogeneity and a random-effects model if heterogeneity was deemed likely (DerSimonian 1986)."
+        ],
+        "negative_ctxs": [
+            48,
+            68
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The RR of dying if allocated to hypothermia compared to normothermia was 0.87 (95% CI 0.59 to 1.27, P = 0.47, I 2 = 0%)."
+        ],
+        "negative_ctxs": [
+            52,
+            1
+        ],
+        "positive_ctxs": [
+            29
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "As only four studies were eligible for inclusion in this updated review an accurate assessment of reporting bias was not possible on this occasion but is planned for future updates if adequate numbers (10 or more) of eligible studies become available."
+        ],
+        "negative_ctxs": [
+            69,
+            51
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "The overall quality of the evidence contributing to the effect estimates for mortality and the Glasgow Outcome Score was deemed to be moderate, with data coming from two studies with an overall low risk of bias, a third with a low or unclear risk of bias (Qiu 2007) and the fourth having a high or unclear risk of bias (Els 2006).\n\nThe sensitivity analysis where studies at high risk of bias were removed (Els 2006) did not significantly change the estimate of the effect of hypothermia (RR 0.88, 95% CI 0.60 to 1.30, P = 0.53, I 2 = 0%) (Analysis 1.2)."
+        ],
+        "negative_ctxs": [
+            38,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Potential biases in the review process\n\nAn unrestricted comprehensive literature search was conducted for both the original review and the updated review with the aim of identifying all studies eligible for inclusion, and so to minimize reporting and selection bias. The small number of eligible studies that were identified, however, means that the effect estimates should not be taken as an accurate indication of the true effectiveness and safely of induced hypothermia across neurosurgical populations."
+        ],
+        "negative_ctxs": [
+            3,
+            38
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Objectives\nTo evaluate the effectiveness and safety profile of induced hypothermia versus normothermia for neuroprotection in patients undergoing brain surgery. Effectiveness was to be measured in terms of short and long term mortality and functional neurological outcomes. Safety was to be assessed in terms of the rate of the adverse events infection, myocardial infarction, ischaemic stroke, congestive cardiac failure and any other adverse events reported by the authors of the included studies.\n\nThese trials included a total of 1219 participants with the following characteristics.\n\nHindman (Hindman 1999) included 114 participants (9.4% of the total), 52 participants with acute subarachnoid haemorrhage (SAH) and 62 without SAH. The mean age was 51 years in the hypothermic group and 54 years in the normothermic group; 38 participants were men and 76 were women.\n\nTodd (Todd 2005) included 1000 patients (82% of the total) who had SAH no more than 14 days before planned surgical aneurysm clipping. The median age was 52 years in the hypothermic group and 53 years in the normothermic group; 344 participants were men and 655 were women.\n\nAll of the participants in the studies by Hindman and Todd (Hindman 1999; Todd 2005) had a preoperative World Federation of Neurological Surgeons (WFNS) score (Teasdale 1988) (Appendix 8) of I, II or III. This clinical grading system, proposed by the WFNS, is based on the Glasgow Coma Score (Teasdale 1974) and the finding of a motor deficit in patients with SAH. Patients classified as grade I have the best prognosis; those with grade II have a fair prognosis; and patients with grade III tend to have poor recovery. Patients with grade IV have poor prognosis and those with grade V are classified as moribund patients.\n\nEls (Els 2006) included 25 severely ill participants (2.1% of the total) operated on following a supratentorial ischaemic event with infarction of cerebral tissue. The mean age was 48.9 years; 15 participants were men and 10 were women.\n\nQiu (Qiu 2007) assessed 80 participants (6.6% of the total) who had non-penetrating severe traumatic brain injury (TBI). The mean age was 41.3 years in the hypothermic group and 40.2 years in the normothermic group; 52 participants were men and 28 were women.\n\nAll four included studies (Els 2006; Hindman 1999; Qiu 2007;Todd 2005) assessed hypothermia versus normothermia for brain surgery.\n"
+        ],
+        "negative_ctxs": [
+            32,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            17,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "D I F F E R E N C E S   B E T W E E N   P R O T O C O L   A N D   R E V I E W Differences between the published protocol and Milani 2011. 1. For statistical analysis the RevMan 5.2 program was used. 2. Humberto Saconato was an author of the published protocol\n\nO B J E C T I V E S To evaluate the effectiveness and safety of induced hypothermia versus normothermia for neuroprotection in patients undergoing brain surgery.\n\nO B J E C T I V E S To evaluate the effectiveness and safety profile of induced hypothermia versus normothermia for neuroprotection in patients undergoing brain surgery."
+        ],
+        "negative_ctxs": [
+            6,
+            53
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "O B J E C T I V E S To evaluate the effectiveness and safety profile of induced hypothermia versus normothermia for neuroprotection in patients undergoing brain surgery. Effectiveness was to be measured in terms of short and long term mortality and functional neurological outcomes. Safety was to be assessed in terms of the rate of the adverse events infection, myocardial infarction, ischaemic stroke, congestive cardiac failure and any other adverse events reported by the authors of the included studies.\n \nTypes of participants Any patient undergoing brain surgery (vascular, tumour, brain injury, intracranial arteriovenous malformations, etc), without age or gender restrictions, who were participants in a trial of cooling at any time in the perioperative period, that is either preoperatively, intraoperatively or postoperatively. Types of interventions Neurosurgical procedures where a deliberate strategy to cool the brain in the perioperative period was compared to no specific attempt to manipulate the brain temperature. While there is no generally accepted classification for levels of hypothermia, we defined the target levels of hypothermia as follows (where temperatures refer to brain or core values). * Mild: down to 32 oC. * Moderate: from 32 oC to 28 oC. * Deep: under 28 oC. Types of outcome measures Studies were eligible for inclusion if they reported any of the following outcome measures. Primary outcomes 1. Mortality rate during treatment or the follow-up period. 2. Glasgow Outcome Score (GOS) of 3 or below. This cut off point was chosen as it marks the transition point between recovery to independent or dependent living and worse outcomes requiring high level care. Those with a GOS of 4 or more recover normal or near normal independence with employment possible with either no or some special provisions, while a GOS of 3 or less signifies severe disability, partial or total loss of independence or even death (Jennett 1975) (Appendix 1). Secondary outcomes The following adverse events were reported on. 1. Any surgical infective complications including cerebral infection, septicaemia, pulmonary infection etc. 2. Myocardial infarction, defined as a raised cardiac troponin level accompanied by at least one of the following: ischaemic symptoms, development of pathological Q waves on the electrocardiogram (ECG), ECG changes indicating ischaemia (ST segment elevation or depression) (JESC/ACC Committee 2000). 3. Ischaemic stroke, defined as a persistent focal neurological deficit of presumed ischaemic origin lasting more than 24 hours and confirmed by computed tomography (CT) or magnetic resonance imaging (MRI) (Goldstein 1994). 4. Congestive heart failure, defined as clinical signs of myocardial failure and requiring medical treatment. 5. Intracranial haemorrhage, defined as bleeding into the brain caused by the rupture of cerebral blood vessels (including extradural or subdural haemorrhage) confirmed by CT or MRI. 6. Any other adverse events which were reported by the authors of the primary studies."
+        ],
+        "negative_ctxs": [
+            7,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            45,
+            58
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "For the original review, the authors searched the databases Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (OvidSP), EMBASE (OvidSP) and LILACS to November 2010. For the updated review all these databases were re-searched from November 2010 to May 2014."
+        ],
+        "negative_ctxs": [
+            60,
+            70
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "For this updated version, three authors (IMG, RL, JGB) independently reviewed the articles retrieved by the updated search from November 2010 to May 2014 to identify studies that may have been eligible for inclusion. One review author (IMG) was responsible for contacting primary study authors should additional details have been required for determination of study eligibility and the quality. For the original version, two of the original authors scanned records retrieved by the initial search to identify potentially eligible studies and three of the original authors independently retrieved and reviewed all full-text articles (Milani 2011)."
+        ],
+        "negative_ctxs": [
+            0,
+            59
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "For this updated version a new data extraction form was designed by one author (IMG) (Appendix 7). The form was designed to extract data from any new studies which may be identified as well as to re-extract data from the studies included in the original review. This approach was taken to provide the reader with more comprehensive information about study methods, allow a more detailed assessment of risk of bias and ensure consistency of data extraction for all eligible studies. Three authors (IMG, RL, JGB) independently extracted the data using this form."
+        ],
+        "negative_ctxs": [
+            52,
+            10
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Articles excluded at the title or abstract stage included animal studies, studies of interventions other then hypothermia, studies in non-surgical populations and in non-neurosurgical populations, review articles or commentaries. Articles excluded at the full-text examination stage included case series, studies evaluating non-clinical outcomes, and studies in which some participants did not undergo neurosurgery (Characteristics of excluded studies)."
+        ],
+        "negative_ctxs": [
+            7,
+            0
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Hindman (Hindman 1999) included 114 participants (9.4% of the total), 52 participants with acute subarachnoid haemorrhage (SAH) and 62 without SAH. The mean age was 51 years in the hypothermic group and 54 years in the normothermic group; 38 participants were men and 76 were women. Todd (Todd 2005) included 1000 patients (82% of the total) who had SAH no more than 14 days before planned surgical aneurysm clipping. The median age was 52 years in the hypothermic group and53 years in the normothermic group; 344participantsweremen and 655 were women. All of the participants in the studies by Hindman and Todd (Hindman 1999; Todd 2005) had a preoperative World Federation of Neurological Surgeons (WFNS) score (Teasdale 1988) (Appendix 8) of I, II or III. This clinical grading system, proposed by the WFNS, is based on the Glasgow Coma Score (Teasdale 1974) and the finding of a motor deficit in patients with SAH. Patients classified as grade I have the best prognosis; those with grade II have a fair prognosis; and patients with grade III tend to have poor recovery. Patients with grade IV have poor prognosis and those with grade V are classified as moribund patients. Els (Els 2006) included 25 severely ill participants (2.1% of the total) operated on following a supratentorial ischaemic event with infarction of cerebral tissue. The mean age was 48.9 years; 15 participants were men and 10 were women. Qiu (Qiu 2007) assessed 80 participants (6.6% of the total) who had non-penetrating severe traumatic brain injury (TBI). The mean age was 41.3 years in the hypothermic group and 40.2 years in the normothermic group; 52 participants were men and 28 were women.\n \nAll four included studies (Els 2006; Hindman 1999; Qiu 2007;Todd 2005) assessed hypothermia versus normothermia for brain surgery. Hindman (Hindman 1999) induced hypothermia after the start of anaesthesia and the positioning of the patient, with a target temperature of 33.5 oC. The initial operating room temperature was 20 oC to 22.0 oC. Participants in the hypothermic group were cooled by a forced-air cooling and heating blanket set to deliver unwarmed air (room temperature); a cooling and heating mattress connected to a heating-cooling unit set to 20.0 degC; and intravenous fluids and anaesthetic gases that were not warmed until the clip was applied. Participants in the normothermic group were maintained at a target oesophageal temperature of 36.5 oC by a cooling and heating mattress set to 38.0 oC; a forced-air cooling and heating blanket set to 36.0 oC to 38.0 oC; and intravenous fluids and inspired anaesthetic gases warmed to 37.0 oC. At the time of clip application, patients assigned to the hypothermia group were significantly colder than those assigned to the normothermia group, with a median temperature of 33.7 oC versus 36.6 degC, respectively (P < 0.0001). Todd (Todd 2005) used a forced-air blanket connected to a heating-cooling unit to control the temperature for all patients. Hypothermia was induced after the start of anaesthesia and positioning of the patient, with a target temperature of 32.5 degC to 33.5 oC. The time from induction of anaesthesia to first clip placement was 217 +- 101 minutes and the temperature was 33.3 +- 0.8 oC. Rewarming of patients began after the last aneurysm clip had been secured and the temperature two hours after surgery was 36.4 +- 1.0 oC. The temperature of the normothermic group was kept between 36.0 oC and 37 degC and the time from induction of anaesthesia to the first clip placement was 214 +- 82 minutes. Both groups, normothermic and hypothermic, otherwise received similar treatment. Els (Els 2006)induced hypothermia immediately after the operation with a target temperature of 35.0 oC. In the hypothermic group 10 participants were cooled by an intravenous cooling device; two participants were cooled by an external cooling device in combination with cool ventilator air fanning the body surface. All participants were cooled for 48 hours and active rewarming at a rate of 1 oC per 24 hours was applied. The normothermic group received the same treatment as the hypothermic group, although details were not provided regarding how the equality of ancillary treatment was ensured. The authors did not report how the temperature was maintained in the normothermic group. Qiu (Qiu 2007)induced hypothermia for four days immediately after the operation, at a temperature of 33.0 oC to 35.0 oC, with the use of a water-circulating cooling blanket and, if necessary, a cooling cap around the head with circulating water at a temperature about 4 oC. The target temperature was generally achieved within 2.5 hours. For those who failed to achieve the target temperature within two hours refrigerated ice bags were placed around the neck. Patients were passively rewarmed over 10 to 24 hours. The normothermic group received the same treatment as the hypothermic group in all other ways, although again details were lacking as to how this was ensured. The authors did not report how the temperature was maintained in the normothermic group."
+        ],
+        "negative_ctxs": [
+            18,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The risk of bias of the included studies was assessed independently by two review authors (IMG, RL) using the Cochrane Collaboration tool for assessing risk of bias, as described in Section 8 of the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011). Any discrepancies were resolved by discussion with a third review author (JGB). For each included primary study, bias was assessed in seven domains:\n\nrandom sequence generation,\n\nallocation concealment,\n\nperformance bias,\n\ndetection bias,\n\nattrition bias,\n\nreporting bias, and\n\nother bias.\n\nFor each domain, we determined the risk of bias as 'low', 'unclear' or 'high' according to the methods used in the study to ensure the minimization of each form of bias. In general these ratings were applied as follows.\n\nThe low risk rating was given where information was available that clearly demonstrated that efforts were made to ensure minimal bias in that domain and the described methods were robust enough to have a high likelihood of being effective.\n\nThe unclear risk rating was given when the information that was available was insufficient to be confident that the method used to minimize bias was robust enough to be effective.\n\nThe high risk rating was given when the study did not report any method to minimize bias in that domain."
+        ],
+        "negative_ctxs": [
+            14,
+            56
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Meta-analysis was conducted by the authors of the original review. RevMan (RevMan 5.2) was used to perform the analyses for each outcome in the present review. For each outcome, all eligible studies that reported the outcome were included and participants who were treated with hypothermia were compared with those who were in the normothermia group. A fixed-effect model was used in the absence of important heterogeneity and a random-effects model if heterogeneity was deemed likely (DerSimonian 1986)."
+        ],
+        "negative_ctxs": [
+            40,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The RR of dying if allocated to hypothermia compared to normothermia was 0.87 (95% CI 0.59 to 1.27, P = 0.47, I 2 = 0%)."
+        ],
+        "negative_ctxs": [
+            16,
+            50
+        ],
+        "positive_ctxs": [
+            29
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "As only four studies were eligible for inclusion in this updated review an accurate assessment of reporting bias was not possible on this occasion but is planned for future updates if adequate numbers (10 or more) of eligible studies become available."
+        ],
+        "negative_ctxs": [
+            69,
+            44
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "The overall quality of the evidence contributing to the effect estimates for mortality and the Glasgow Outcome Score was deemed to be moderate, with data coming from two studies with an overall low risk of bias, a third with a low or unclear risk of bias (Qiu 2007) and the fourth having a high or unclear risk of bias (Els 2006).\n\nThe sensitivity analysis where studies at high risk of bias were removed (Els 2006) did not significantly change the estimate of the effect of hypothermia (RR 0.88, 95% CI 0.60 to 1.30, P = 0.53, I 2 = 0%) (Analysis 1.2)."
+        ],
+        "negative_ctxs": [
+            51,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            59,
+            70
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Imelda M Galvin: I have no competing interests related to the present review that need to be declared.\n\nRon Levy: I have no competing interests related to the present review that need to be declared.\n\nJohn G Boyd: I have no competing interests related to the present review that need to be declared.\n\nAndrew G Day: I have no competing interests related to the present review that need to be declared.\n\nMicheal C Wallace: I am on the board of an organization (Canadian Medical Protective Association) promoting safer medical care and providing medical practice protection."
+        ],
+        "negative_ctxs": [
+            38,
+            50
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Potential biases in the review process\n\nAn unrestricted comprehensive literature search was conducted for both the original review and the updated review with the aim of identifying all studies eligible for inclusion, and so to minimize reporting and selection bias. The small number of eligible studies that were identified, however, means that the effect estimates should not be taken as an accurate indication of the true effectiveness and safely of induced hypothermia across neurosurgical populations."
+        ],
+        "negative_ctxs": [
+            6,
+            59
+        ],
+        "positive_ctxs": []
+    }
+]

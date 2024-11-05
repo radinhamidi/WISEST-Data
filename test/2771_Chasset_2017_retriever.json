@@ -1,0 +1,470 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "The review protocol was planned a priori and is available by contacting the corresponding author."
+        ],
+        "negative_ctxs": [
+            1,
+            14
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "(i) they included patients with cutaneous lupus erythematosus with or without associated systemic lupus erythematosus; (ii) the number of patients was at least five; (iii) patients received hydroxychloroquine or chloroquine as first-line systemic treatment, or a combination therapy (hydroxychloroquine and quinacrine, or chloroquine and quinacrine) after failure of a monotherapy with hydroxychloroquine or chloroquine; (iv) the number of patients treated with antimalarials and the number of responders were available to calculatethe antimalarials response rate; and (v) data regarding  specific assessment of cutaneous involvement were available in the manuscripts."
+        ],
+        "negative_ctxs": [
+            12,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "(i) they included patients with cutaneous lupus erythematosus with or without associated systemic lupus erythematosus; (ii) the number of patients was at least five; (iii) patients received hydroxychloroquine or chloroquine as first-line systemic treatment, or a combination therapy (hydroxychloroquine and quinacrine, or chloroquine and quinacrine) after failure of a monotherapy with hydroxychloroquine or chloroquine; (iv) the number of patients treated with antimalarials and the number of responders were available to calculatethe antimalarials response rate; and (v) data regarding  specific assessment of cutaneous involvement were available in the manuscripts."
+        ],
+        "negative_ctxs": [
+            14,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "(ii) the number of patients was at least five"
+        ],
+        "negative_ctxs": [
+            8,
+            15
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "(iv) the number of patients treated with antimalarials and the number of responders were available to calculate the antimalarials response rate; and (v) data regarding specific assessment of cutaneous involvement were available in the manuscripts."
+        ],
+        "negative_ctxs": [
+            15,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched Embase (1974 to December 2015), MEDLINE (1965 to December 2015) and the Cochrane Database of Systematic Reviews until December 2015 for original articles\n\nIn addition, the grey literature was explored"
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We also searched for additional articles from the reference lists of relevant papers obtained from the electronic search. When the data of interest could not be found in the manuscripts, we contacted the main authors, and excluded the studies for which these data were not available."
+        ],
+        "negative_ctxs": [
+            6,
+            17
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The search strategy combined free-text search, exploded MeSH and Emtree terms and all synonyms of the following medical subject headings terms: 'cutaneous lupus erythematosus' (and subtypes), 'antimalarials', 'hydroxychloroquine' and 'chloroquine' (a detailed search strategy is provided in Appendix S1"
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We searched Embase (1974 to December 2015), MEDLINE (1965 to December 2015) and the Cochrane Database of Systematic Reviews until December 2015 for original articles, without language restrictions.\n\nthe grey literature was explored by searching the conference abstracts of the American College of Rheumatology, the American Academy of Dermatology and the European Academy of Dermatology and Venereology until December 2015"
+        ],
+        "negative_ctxs": [
+            5,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "These data were extracted independently bytwo investigators"
+        ],
+        "negative_ctxs": [
+            0,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Characteristics of the included studies "
+        ],
+        "negative_ctxs": [
+            14,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Supplementary figures 1, 2, 3 and 4"
+        ],
+        "negative_ctxs": [
+            6,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The quality of studies was assessed using the Newcastle-Ottawa Scale10 for observational studies, the Cochrane Collaboration's tool for assessing risk of bias"
+        ],
+        "negative_ctxs": [
+            19,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "A total of 26 cohort studies and five randomized controlled trials met the inclusion criteria.\n\n31 papers included in the meta-analysis"
+        ],
+        "negative_ctxs": [
+            5,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "When significant heterogeneity was absent, pooled response rates and 95% confidence intervals (CIs) were calculated using a fixed-effects model, whereas random-effects models according to the method of DerSimonian and Laird16 were used when significant heterogeneity was present. Subgroup analyses according to study design (prospective vs. retrospective data collection) and the methods to assess cutaneous response (Cutaneous Lupus Erythematosus Disease Area and Severity\nIndex vs. study-specific response criteria) were performed to analyse potential heterogeneity."
+        ],
+        "negative_ctxs": [
+            19,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "the pooled response rate to antimalarials was 63% (95% CI 55-70), with significant statistical heterogeneity\r\nacross the included studies (P < 0\u0001001, I2 = 89%)."
+        ],
+        "negative_ctxs": [
+            2,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Visual examination of the funnel plot (Fig. 2) revealed mild asymmetry, suggesting small publication bias and important heterogeneity between studies."
+        ],
+        "negative_ctxs": [
+            7,
+            21
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Appendixs2: Assessment of the methodological quality of included randomized controlled trials using the Cochrane collaboration's tool for assessing risk of bias"
+        ],
+        "negative_ctxs": [
+            20,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Among the limitations of this meta-analysis is the important statistical heterogeneity measured across the included studies."
+        ],
+        "negative_ctxs": [
+            11,
+            19
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Table 1 Characteristics of the included studies"
+        ],
+        "negative_ctxs": [
+            17,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            19,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "The review protocol was planned a priori and is available by contacting the corresponding author."
+        ],
+        "negative_ctxs": [
+            13,
+            18
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "(i) they included patients with cutaneous lupus erythematosus with or without associated systemic lupus erythematosus; (ii) the number of patients was at least five; (iii) patients received hydroxychloroquine or chloroquine as first-line systemic treatment, or a combination therapy (hydroxychloroquine and quinacrine, or chloroquine and quinacrine) after failure of a monotherapy with hydroxychloroquine or chloroquine; (iv) the number of patients treated with antimalarials and the number of responders were available to calculatethe antimalarials response rate; and (v) data regarding  specific assessment of cutaneous involvement were available in the manuscripts."
+        ],
+        "negative_ctxs": [
+            19,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched Embase (1974 to December 2015), MEDLINE (1965 to December 2015) and the Cochrane Database of Systematic Reviews until December 2015 for original articles\n\nIn addition, the grey literature was explored"
+        ],
+        "negative_ctxs": [
+            7,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "These data were extracted independently bytwo investigators"
+        ],
+        "negative_ctxs": [
+            13,
+            17
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Characteristics of the included studies "
+        ],
+        "negative_ctxs": [
+            4,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The quality of studies was assessed using the Newcastle-Ottawa Scale10 for observational studies, the Cochrane Collaboration's tool for assessing risk of bias"
+        ],
+        "negative_ctxs": [
+            9,
+            21
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "When significant heterogeneity was absent, pooled response rates and 95% confidence intervals (CIs) were calculated using a fixed-effects model, whereas random-effects models according to the method of DerSimonian and Laird16 were used when significant heterogeneity was present. Subgroup analyses according to study design (prospective vs. retrospective data collection) and the methods to assess cutaneous response (Cutaneous Lupus Erythematosus Disease Area and Severity\nIndex vs. study-specific response criteria) were performed to analyse potential heterogeneity."
+        ],
+        "negative_ctxs": [
+            5,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "the pooled response rate to antimalarials was 63% (95% CI 55-70), with significant statistical heterogeneity\r\nacross the included studies (P < 0\u0001001, I2 = 89%)."
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Visual examination of the funnel plot (Fig. 2) revealed mild asymmetry, suggesting small publication bias and important heterogeneity between studies."
+        ],
+        "negative_ctxs": [
+            15,
+            20
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Appendixs2: Assessment of the methodological quality of included randomized controlled trials using the Cochrane collaboration's tool for assessing risk of bias"
+        ],
+        "negative_ctxs": [
+            11,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflicts of interest: None declared."
+        ],
+        "negative_ctxs": [
+            4,
+            20
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Among the limitations of this meta-analysis is the important statistical heterogeneity measured across the included studies."
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    }
+]

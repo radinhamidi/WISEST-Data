@@ -1,0 +1,454 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "Saline irrigation for the management of skin extravasation injury in neonates (Protocol)\n \n \n Differences between protocol and review\n We have no deviation from the original protocol to report."
+        ],
+        "negative_ctxs": [
+            18,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Primary objective\n To compare the efficacy and safety of saline irrigation or saline irrigation with prior hyaluronidase infiltration versus no intervention or normal wound care for tissue healing in neonates with extravasation injury.\n \n \n All randomised and quasi-randomised controlled trials comparing saline irrigation, with or without hyaluronidase infiltration, versus no intervention or normal wound care only. We considered as eligible relevant studies published only as abstracts in conference proceedings, and we contacted principal trial authors for further details. We applied no language restrictions. Types of participants Neonates of any gestational age at birth (defined as up to 28 days of postnatal age at enrolment) with extravasation of intravenous infusate from peripheral or central venous catheters, when extravasation has led to any one of the following. 1. Moderate swelling and erythema of the overlying area. 2. Blanching or discolouration of the overlying skin. 3. Pressure symptoms (capillary refill longerthan four seconds and reduced or absent pulse below the site of extravasation). 4. Ulceration of the overlying skin. Types of interventions Irrigation therapy is defined as any intervention by which saline is instilled into the site of extravasation, with the aim of diluting the extravasate, followed by provision for it to drain through the skin incisions. Any prior infiltration with hyaluronidase and its dosage are also recorded. Normal wound care is defined as care involving no irrigation or other invasive interventions but including wound care with dry or wet dressings and wound debridement if clinically indicated."
+        ],
+        "negative_ctxs": [
+            46,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Types of studies\n All randomised and quasi-randomised controlled trials comparing saline irrigation, with or without hyaluronidase infiltration, versus no intervention or normal wound care only. We considered as eligible relevant studies published only as abstracts in conference proceedings, and we contacted principal trial authors for further details. We applied no language restrictions.\n Types of participants \n Neonates of any gestational age at birth (defined as up to 28 days of postnatal age at enrolment) with extravasation of intravenous infusate from peripheral or central venous catheters, when extravasation has led to any one of the following. 1. Moderate swelling and erythema of the overlying area. 2. Blanching or discolouration of the overlying skin. 3. Pressure symptoms (capillary refill longerthan four seconds and reduced or absent pulse below the site of extravasation). 4. Ulceration of the overlying skin. \n Types of interventions \n Irrigation therapy is defined as any intervention by which saline is instilled into the site of extravasation, with the aim of diluting the extravasate, followed by provision for it to drain through the skin incisions. Any prior infiltration with hyaluronidase and its dosage are also recorded. Normal wound care is defined as care involving no irrigation or other invasive interventions but including wound care with dry or wet dressings and wound debridement if clinically indicated.\n Types of outcome measures \n Primary outcomes \n Complete tissue healing (defined as no residual breach of skin or inflammatory signs) without scar formation at discharge or latest assessment, preferably at least three months from the time of injury, as complete wound healing is expected by this time. \n Secondary outcomes \n Short-term outcomes \n 1. Time to complete tissue healing. 2. Infection, defined as at least one of the following. a. Purulent discharge from the site. b. Organisms isolated from an aseptically obtained culture of fluid or tissue derived from the site. c. Clinical diagnosis made by the physician requiring topical or systemic antibiotics. 3. Pain during the intervention (measured on validated neonatal pain scales). 4. Hypothermia during or at the end of the intervention (defined as temperature < 36degC or a drop of 2degC from baseline measurement). 5. Anaphylactic reactions. 6. Fluid and electrolyte status. 7. Any other adverse effects reported by trial investigators. \n Long-term outcomes \n These include the following outcomes as measured in the latest assessment, preferably at least three months after injury. 1. Severity of the scar, as measured by a quantifiable validated scar scale. Scar measurement scales could include, but are not limited to, the Vancouver Scar Scale, a visual analogue scale, the Patient and Observer Scar Assessment Scale, and the Manchester Scale. 2. Contracture - permanenttightening of non-bony tissues such as muscles, tendons, ligaments, or skin, with or without restriction of joint motion (dichotomous outcome). 3. Functional impairment - restriction of function of the injured body part, as reported by caregivers or by the physician (dichotomous outcome). 4. Disfigurement - substantial scarring that is cosmetically oHensive, as measured by caregivers or by the reporting physician (dichotomous outcome). 5. Need for additional surgical procedures."
+        ],
+        "negative_ctxs": [
+            33,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Types of outcome measures \n Primary outcomes \n Complete tissue healing (defined as no residual breach of skin or inflammatory signs) without scar formation at discharge or latest assessment, preferably at least three months from the time of injury, as complete wound healing is expected by this time. \n Secondary outcomes \n Short-term outcomes \n 1. Time to complete tissue healing. 2. Infection, defined as at least one of the following. a. Purulent discharge from the site. b. Organisms isolated from an aseptically obtained culture of fluid or tissue derived from the site. c. Clinical diagnosis made by the physician requiring topical or systemic antibiotics. 3. Pain during the intervention (measured on validated neonatal pain scales). 4. Hypothermia during or at the end of the intervention (defined as temperature < 36degC or a drop of 2degC from baseline measurement). 5. Anaphylactic reactions. 6. Fluid and electrolyte status. 7. Any other adverse effects reported by trial investigators. \n Long-term outcomes \n These include the following outcomes as measured in the latest assessment, preferably at least three months after injury. 1. Severity of the scar, as measured by a quantifiable validated scar scale. Scar measurement scales could include, but are not limited to, the Vancouver Scar Scale, a visual analogue scale, the Patient and Observer Scar Assessment Scale, and the Manchester Scale. 2. Contracture - permanenttightening of non-bony tissues such as muscles, tendons, ligaments, or skin, with or without restriction of joint motion (dichotomous outcome). 3. Functional impairment - restriction of function of the injured body part, as reported by caregivers or by the physician (dichotomous outcome). 4. Disfigurement - substantial scarring that is cosmetically oHensive, as measured by caregivers or by the reporting physician (dichotomous outcome). 5. Need for additional surgical procedures.\n \n \n From the protocol \n We will only analyse available results, assuming data are missing at random."
+        ],
+        "negative_ctxs": [
+            43,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We applied no language restrictions \n \n \n We conducted a comprehensive search of the following databases: Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 1) in the Cochrane Library; MEDLINE via PubMed (1966 to 2 February 2017); Embase (1980 to 2 February 2017); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 2 February 2017).\n \n \n We searched clinical trial registries for ongoing and recently completed trials (clinicaltrials.gov; the World Health Organization International Clinical Trials Registry and Platform - www.whoint/ictrp/search/en/; and the ISRCTN Registry - www.isrctn.com)."
+        ],
+        "negative_ctxs": [
+            42,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We conducted a comprehensive search of the following databases: Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 1) in the Cochrane Library; MEDLINE via PubMed (1966 to 2 February 2017); Embase (1980 to 2 February 2017); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 2 February 2017).\n \n \n We searched clinical trial registries for ongoing and recently completed trials (clinicaltrials.gov; the World Health Organization International Clinical Trials Registry and Platform - www.whoint/ictrp/search/en/; and the ISRCTN Registry - www.isrctn.com)."
+        ],
+        "negative_ctxs": [
+            21,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "From the protocol: \n Searching other resources\n We will review the reference lists from the above articles and from review articles on the subject."
+        ],
+        "negative_ctxs": [
+            10,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix 1.Search methods for 2017 update \n PubMed: ((infant, newborn[MeSH] OR newborn OR neonate OR neonatal OR premature OR low birth weight OR VLBW OR LBW or infan* or neonat*) AND (randomized controlled trial [pt] OR controlled clinical trial [pt] OR randomized [tiab] OR placebo [tiab] OR drug therapy [sh] OR randomly [tiab] OR trial [tiab] OR groups [tiab]) NOT (animals [mh] NOT humans [mh])) \n Embase: (infant, newborn or newborn or neonate or neonatal or premature or very low birth weight or low birth weight or VLBW or LBW or Newborn or infan* or neonat*) AND (human not animal) AND (randomized controlled trial or controlled clinical trial or randomized or placebo or clinical trials as topic or randomly or trial or clinical trial) \n CINAHL: (infant, newbornOR newbornOR neonateOR neonatalOR prematureOR low birth weightOR VLBW OR LBW or Newborn orinfan* or neonat*) AND (randomized controlled trial OR controlled clinical trial OR randomized OR placebo OR clinical trials as topic OR randomly OR trial OR PT clinical trial) \n Cochrane Library: (infant or newborn or neonate or neonatal or premature or preterm or very low birth weight or low birth weight or VLBW or LBW) \n Google Scholar: Reverse citaion on relavant articles"
+        ],
+        "negative_ctxs": [
+            12,
+            48
+        ],
+        "positive_ctxs": [
+            38
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We applied no language restrictions \n \n \n We conducted a comprehensive search of the following databases: Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 1) in the Cochrane Library; MEDLINE via PubMed (1966 to 2 February 2017); Embase (1980 to 2 February 2017); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 2 February 2017). We used the following search terms: (extravasation OR ((inflammation OR swelling OR edema OR erythema) AND catheter* OR intravenous fluid*)) AND (saline OR hyaluronidase OR hyaluronoglucosaminidase OR irrigation), plus database-specific limiters for RCTs and neonates \n \n \n We searched clinical trial registries for ongoing and recently completed trials (clinicaltrials.gov; the World Health Organization International Clinical Trials Registry and Platform - www.whoint/ictrp/search/en/; and the ISRCTN Registry - www.isrctn.com)."
+        ],
+        "negative_ctxs": [
+            43,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Three review authors independently reviewed all identified articles for possible inclusion in this review. In the event of disagreement on the suitability of a trial for inclusion, we reached consensus by discussion."
+        ],
+        "negative_ctxs": [
+            5,
+            21
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Each review author extracted data separately using pre-designed data extraction forms; we then compared results. However, we identified no suitable randomised controlled trial (RCT) or quasi\u0002-CT for further analysis."
+        ],
+        "negative_ctxs": [
+            33,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Summary of excluded studies - study design, population, intervention, and outcome\n Study, Type of study, Number of neonates, Extravasation, Intervention, Outcome"
+        ],
+        "negative_ctxs": [
+            48,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1. Summary of excluded studies - study design, population, intervention, and outcome\n Study, Type of study, Number of neonates, Extravasation, Intervention, Outcome \n \n \n Table 2: Summary of excluded studies - stage of extravasation and intervention and its outcome \n Study, Stage of extravasation, Intervention, Outcome, Reason for exclusion"
+        ],
+        "negative_ctxs": [
+            8,
+            41
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two review authors (NG, SB) independently assessed the risk of bias (low, high, or unclear) of all included trials using the Cochrane 'Risk of bias' tool \n \n \n Included studies\n We found no eligible RCTs or quasi-RCTs and included no studies inthis review.\n \n \n Although our search identified no relevant trials for this review, we present a brief summary of case reports and case series on this topic that highlight important issues related to current practice and practice variations when saline irrigation with or without hyaluronidase infiltration is the main intervention. \n \n \n Risk of bias in included studies\n This was not applicable, as we found no eligible studies."
+        ],
+        "negative_ctxs": [
+            44,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two review authors (NG, SB) independently assessed the risk of bias (low, high, or unclear) of all included trials using the Cochrane 'Risk of bias' tool \n \n \n Included studies\n We found no eligible RCTs or quasi-RCTs and included no studies inthis review.\n \n \n Although our search identified no relevant trials for this review, we present a brief summary of case reports and case series on this topic that highlight important issues related to current practice and practice variations when saline irrigation with or without hyaluronidase infiltration is the main intervention. \n \n \n Risk of bias in included studies\n This was not applicable, as we found no eligible studies."
+        ],
+        "negative_ctxs": [
+            13,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "We found no eligible RCTs or quasi-RCTs and included no studies inthis review.\n \n \n Although our search identified no relevant trials for this review, we present a brief summary of case reports and case series on this topic that highlight important issues related to current practice and practice variations when saline irrigation with or without hyaluronidase infiltration is the main intervention."
+        ],
+        "negative_ctxs": [
+            0,
+            45
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "We have no deviation from the original protocol to report.\n \n \n Although our search identified no relevant trials for this review, we present a brief summary of case reports and case series on this topic that highlight important issues related to current practice and practice variations when saline irrigation with or without hyaluronidase infiltration is the main intervention."
+        ],
+        "negative_ctxs": [
+            38,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We found no eligible RCTs or quasi-RCTs and included no studies inthis review.\n \n \n Although our search identified no relevant trials for this review, we present a brief summary of case reports and case series on this topic that highlight important issues related to current practice and practice variations when saline irrigation with or without hyaluronidase infiltration is the main intervention. \n \n \n Table 1. Summary of excluded studies - study design, population, intervention, and outcome\n Study, Type of study, Number of neonates, Extravasation, Intervention, Outcome \n \n \n Table 2: Summary of excluded studies - stage of extravasation and intervention and its outcome \n Study, Stage of extravasation, Intervention, Outcome, Reason for exclusion"
+        ],
+        "negative_ctxs": [
+            41,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "We found no eligible RCTs or quasi-RCTs and included no studies inthis review.\n \n \n Although our search identified no relevant trials for this review, we present a brief summary of case reports and case series on this topic that highlight important issues related to current practice and practice variations when saline irrigation with or without hyaluronidase infiltration is the main intervention."
+        ],
+        "negative_ctxs": [
+            24,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Effects of interventions\n No results are forthcoming, as we identified no eligible studies.\n \n \nRisk of bias in included studies\nThis was not applicable, as we found no eligible studies\n\n \nQuality of the evidence \n We found no evidence from RCTs to support or refute the eHicacy of saline irrigation or saline irrigation with prior hyaluronidase for improving tissue healing among neonates with extravasation injury when compared with no intervention or normal wound care. The quality of evidence derived forthis review only from case series and case reports is 'very low', and true effects could be substantially diHerent from those reported."
+        ],
+        "negative_ctxs": [
+            42,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Risk of bias in included studies\nThis was not applicable, as we found no eligible studies\n\n\nQuality of the evidence \n We found no evidence from RCTs to support or refute the eHicacy of saline irrigation or saline irrigation with prior hyaluronidase for improving tissue healing among neonates with extravasation injury when compared with no intervention or normal wound care. The quality of evidence derived forthis review only from case series and case reports is 'very low', and true eHects could be substantially diHerent from those reported."
+        ],
+        "negative_ctxs": [
+            14,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Saline irrigation for management of skin extravasation injuries, especially stage 3 and 4 injuries, has been shown to result in consistently better outcomes. However, on the basis of currently available evidence, we are unable to recommend \"saline irrigation with or without prior infiltration with hyaluronidase infiltration in the management of extravasation injury in neonates\" as standard practice."
+        ],
+        "negative_ctxs": [
+            11,
+            33
+        ],
+        "positive_ctxs": [
+            27
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Primary objective\n To compare the efficacy and safety of saline irrigation or saline irrigation with prior hyaluronidase infiltration versus no intervention or normal wound care for tissue healing in neonates with extravasation injury.\n \n \n All randomised and quasi-randomised controlled trials comparing saline irrigation, with or without hyaluronidase infiltration, versus no intervention or normal wound care only. We considered as eligible relevant studies published only as abstracts in conference proceedings, and we contacted principal trial authors for further details. We applied no language restrictions. Types of participants Neonates of any gestational age at birth (defined as up to 28 days of postnatal age at enrolment) with extravasation of intravenous infusate from peripheral or central venous catheters, when extravasation has led to any one of the following. 1. Moderate swelling and erythema of the overlying area. 2. Blanching or discolouration of the overlying skin. 3. Pressure symptoms (capillary refill longerthan four seconds and reduced or absent pulse below the site of extravasation). 4. Ulceration of the overlying skin. Types of interventions Irrigation therapy is defined as any intervention by which saline is instilled into the site of extravasation, with the aim of diluting the extravasate, followed by provision for it to drain through the skin incisions. Any prior infiltration with hyaluronidase and its dosage are also recorded. Normal wound care is defined as care involving no irrigation or other invasive interventions but including wound care with dry or wet dressings and wound debridement if clinically indicated."
+        ],
+        "negative_ctxs": [
+            18,
+            45
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            33,
+            38
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "Saline irrigation for the management of skin extravasation injury in neonates (Protocol)\n \n \n Differences between protocol and review\n We have no deviation from the original protocol to report."
+        ],
+        "negative_ctxs": [
+            48,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Types of studies\n All randomised and quasi-randomised controlled trials comparing saline irrigation, with or without hyaluronidase infiltration, versus no intervention or normal wound care only. We considered as eligible relevant studies published only as abstracts in conference proceedings, and we contacted principal trial authors for further details. We applied no language restrictions.\n Types of participants \n Neonates of any gestational age at birth (defined as up to 28 days of postnatal age at enrolment) with extravasation of intravenous infusate from peripheral or central venous catheters, when extravasation has led to any one of the following. 1. Moderate swelling and erythema of the overlying area. 2. Blanching or discolouration of the overlying skin. 3. Pressure symptoms (capillary refill longerthan four seconds and reduced or absent pulse below the site of extravasation). 4. Ulceration of the overlying skin. \n Types of interventions \n Irrigation therapy is defined as any intervention by which saline is instilled into the site of extravasation, with the aim of diluting the extravasate, followed by provision for it to drain through the skin incisions. Any prior infiltration with hyaluronidase and its dosage are also recorded. Normal wound care is defined as care involving no irrigation or other invasive interventions but including wound care with dry or wet dressings and wound debridement if clinically indicated.\n Types of outcome measures \n Primary outcomes \n Complete tissue healing (defined as no residual breach of skin or inflammatory signs) without scar formation at discharge or latest assessment, preferably at least three months from the time of injury, as complete wound healing is expected by this time. \n Secondary outcomes \n Short-term outcomes \n 1. Time to complete tissue healing. 2. Infection, defined as at least one of the following. a. Purulent discharge from the site. b. Organisms isolated from an aseptically obtained culture of fluid or tissue derived from the site. c. Clinical diagnosis made by the physician requiring topical or systemic antibiotics. 3. Pain during the intervention (measured on validated neonatal pain scales). 4. Hypothermia during or at the end of the intervention (defined as temperature < 36degC or a drop of 2degC from baseline measurement). 5. Anaphylactic reactions. 6. Fluid and electrolyte status. 7. Any other adverse effects reported by trial investigators. \n Long-term outcomes \n These include the following outcomes as measured in the latest assessment, preferably at least three months after injury. 1. Severity of the scar, as measured by a quantifiable validated scar scale. Scar measurement scales could include, but are not limited to, the Vancouver Scar Scale, a visual analogue scale, the Patient and Observer Scar Assessment Scale, and the Manchester Scale. 2. Contracture - permanenttightening of non-bony tissues such as muscles, tendons, ligaments, or skin, with or without restriction of joint motion (dichotomous outcome). 3. Functional impairment - restriction of function of the injured body part, as reported by caregivers or by the physician (dichotomous outcome). 4. Disfigurement - substantial scarring that is cosmetically oHensive, as measured by caregivers or by the reporting physician (dichotomous outcome). 5. Need for additional surgical procedures."
+        ],
+        "negative_ctxs": [
+            17,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Types of studies\n All randomised and quasi-randomised controlled trials comparing saline irrigation, with or without hyaluronidase infiltration, versus no intervention or normal wound care only. We considered as eligible relevant studies published only as abstracts in conference proceedings, and we contacted principal trial authors for further details. We applied no language restrictions."
+        ],
+        "negative_ctxs": [
+            48,
+            25
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We conducted a comprehensive search of the following databases: Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 1) in the Cochrane Library; MEDLINE via PubMed (1966 to 2 February 2017); Embase (1980 to 2 February 2017); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 2 February 2017).\n \n \n We searched clinical trial registries for ongoing and recently completed trials (clinicaltrials.gov; the World Health Organization International Clinical Trials Registry and Platform - www.whoint/ictrp/search/en/; and the ISRCTN Registry - www.isrctn.com)."
+        ],
+        "negative_ctxs": [
+            34,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Three review authors independently reviewed all identified articles for possible inclusion in this review. In the event of disagreement on the suitability of a trial for inclusion, we reached consensus by discussion."
+        ],
+        "negative_ctxs": [
+            6,
+            47
+        ],
+        "positive_ctxs": [
+            17
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Each review author extracted data separately using pre-designed data extraction forms; we then compared results. However, we identified no suitable randomised controlled trial (RCT) or quasi\u0002-CT for further analysis."
+        ],
+        "negative_ctxs": [
+            0,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Summary of excluded studies - study design, population, intervention, and outcome\n Study, Type of study, Number of neonates, Extravasation, Intervention, Outcome"
+        ],
+        "negative_ctxs": [
+            48,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two review authors (NG, SB) independently assessed the risk of bias (low, high, or unclear) of all included trials using the Cochrane 'Risk of bias' tool \n \n \n Included studies\n We found no eligible RCTs or quasi-RCTs and included no studies inthis review.\n \n \n Although our search identified no relevant trials for this review, we present a brief summary of case reports and case series on this topic that highlight important issues related to current practice and practice variations when saline irrigation with or without hyaluronidase infiltration is the main intervention. \n \n \n Risk of bias in included studies\n This was not applicable, as we found no eligible studies."
+        ],
+        "negative_ctxs": [
+            3,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We found no eligible RCTs or quasi-RCTs and included no studies inthis review.\n \n \n Although our search identified no relevant trials for this review, we present a brief summary of case reports and case series on this topic that highlight important issues related to current practice and practice variations when saline irrigation with or without hyaluronidase infiltration is the main intervention. \n \n \n Table 1. Summary of excluded studies - study design, population, intervention, and outcome\n Study, Type of study, Number of neonates, Extravasation, Intervention, Outcome \n \n \n Table 2: Summary of excluded studies - stage of extravasation and intervention and its outcome \n Study, Stage of extravasation, Intervention, Outcome, Reason for exclusion"
+        ],
+        "negative_ctxs": [
+            46,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "We found no eligible RCTs or quasi-RCTs and included no studies inthis review.\n \n \n Although our search identified no relevant trials for this review, we present a brief summary of case reports and case series on this topic that highlight important issues related to current practice and practice variations when saline irrigation with or without hyaluronidase infiltration is the main intervention."
+        ],
+        "negative_ctxs": [
+            13,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Effects of interventions\n No results are forthcoming, as we identified no eligible studies.\n \n \nRisk of bias in included studies\nThis was not applicable, as we found no eligible studies\n\n \nQuality of the evidence \n We found no evidence from RCTs to support or refute the eHicacy of saline irrigation or saline irrigation with prior hyaluronidase for improving tissue healing among neonates with extravasation injury when compared with no intervention or normal wound care. The quality of evidence derived forthis review only from case series and case reports is 'very low', and true effects could be substantially diHerent from those reported."
+        ],
+        "negative_ctxs": [
+            27,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Risk of bias in included studies\nThis was not applicable, as we found no eligible studies\n\n\nQuality of the evidence \n We found no evidence from RCTs to support or refute the eHicacy of saline irrigation or saline irrigation with prior hyaluronidase for improving tissue healing among neonates with extravasation injury when compared with no intervention or normal wound care. The quality of evidence derived forthis review only from case series and case reports is 'very low', and true eHects could be substantially diHerent from those reported."
+        ],
+        "negative_ctxs": [
+            17,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Declarations of interest\n We have no interests to declare.\n \n \n Editorial support of the Cochrane Neonatal Review Group has been funded by Federal funds from the Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Department of Health and Human Services, USA, under Contract No. HHSN275201600005C"
+        ],
+        "negative_ctxs": [
+            37,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Saline irrigation for management of skin extravasation injuries, especially stage 3 and 4 injuries, has been shown to result in consistently better outcomes. However, on the basis of currently available evidence, we are unable to recommend \"saline irrigation with or without prior infiltration with hyaluronidase infiltration in the management of extravasation injury in neonates\" as standard practice."
+        ],
+        "negative_ctxs": [
+            48,
+            10
+        ],
+        "positive_ctxs": [
+            27
+        ]
+    }
+]

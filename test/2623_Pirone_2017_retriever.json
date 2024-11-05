@@ -1,0 +1,474 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The objectives of this systematic review therefore were (1) to identify predictors of differential response (moderators) to RTX therapy for SLE in RCTs and (2) to identify prognostic factors associated with outcomes following RTX therapy in cohort studies of patients with SLE.\n\nPublications were included in the review if they met the following inclusion criteria: (1) RCTs and quasi-randomized studies in all different phases that compared RTX therapy vs control in SLE patients and (2) prospective or retrospective cohort studies, which have included at the beginning of follow-up not less than 30 patients.\n\nWe also excluded review articles, opinion papers, letters to the editor, case reports, ase series, or conference abstracts. RCTs or cohort studies report\u0002ing outcomes for RTX therapy as a combination therapy with immunosuppressant agents (except when RTX was added to previous stable dose treatment) were also excluded."
+        ],
+        "negative_ctxs": [
+            20,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Publications were included in the review if they met the following inclusion criteria: (1) RCTs and quasi-randomized studies in all different phases that compared RTX therapy vs control in SLE patients and (2) prospective or retrospective cohort studies, which have included at the beginning of follow-up not less than 30 patients.\n\nWe also excluded review articles, opinion papers, letters to the editor, case reports, ase series, or conference abstracts. RCTs or cohort studies reporting outcomes for RTX therapy as a combination therapy with immunosuppressant agents (except when RTX was added to previous stable dose treatment) were also excluded."
+        ],
+        "negative_ctxs": [
+            5,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We decide to include observational cohorts with a minimum of 30 patients in our systematic review because, for prognostic factors, there are accepted methods for calculating the sample size for binary or continuous outcomes , and if confounding factors also are considered, smaller sample size would have been irrelevant for our purposes. We also excluded review articles, opinion papers, letters to the editor, case reports, case series, or conference abstracts."
+        ],
+        "negative_ctxs": [
+            24,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "To ensure proper interpretation of the results by our team, publication language was restricted to English, Italian, or Spanish."
+        ],
+        "negative_ctxs": [
+            26,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Studies were identified through a systematic literature search in the following databases: MEDLINE via Ovid (1946 to December 2015), EMBASE via Ovid (1974 to December 2015), The Cochrane Central Register of Randomized Controlled Trials (CENTRAL-The Cochrane Library) via Ovid (to December 2015), and Web of Science (to December 2015)."
+        ],
+        "negative_ctxs": [
+            17,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Additional studies were identified through a review of the included studies' reference lists."
+        ],
+        "negative_ctxs": [
+            17,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Supplemental Table A.1 Search Strategy "
+        ],
+        "negative_ctxs": [
+            23,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "To ensure proper interpretation of the results by our team, publication language was restricted to English, Italian, or Spanish."
+        ],
+        "negative_ctxs": [
+            13,
+            18
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "The resulting titles and abstracts were, independently, reviewed by C.P. and C.M.P. If titles and abstract did not give enough information to judge eligibility, full manuscripts were procured and independently reviewed by two reviewers (C.P. and C.M.P.). The full text of each article was then tested against all inclusion and exclusion criteria. The review team made every effort to identify multiple publications from a single study to obtain all relevant information from trials and cohorts. Disagreements regarding eligibility were resolved through discussion or by a third reviewer (I.N.B. or B.P.) if necessary."
+        ],
+        "negative_ctxs": [
+            15,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Data extraction was done independently by two reviewers (C.P. and C.M.P.)."
+        ],
+        "negative_ctxs": [
+            0,
+            13
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1: Characteristics of RCTs evaluating the effectiveness of rituximab in patients with SLE \nStudy ID, PICO, Setting, Population, No. of patients, Intervention, Follow-up, Possible predictor, Outcomes \n\nTable 2: Characteristics of studies on prognostic factors \nStudy ID, Setting, PICO design, No. of patients, Dose of rituximab, Follow-up, Possible predictor"
+        ],
+        "negative_ctxs": [
+            10,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Due to the expected heterogeneity of selected studies, we performed a narrative best evidence synthesis to summarise evidence for potential predictors from RCTs and prognostic factors from cohort studies, which takes into account the strength of the association and the methodological quality of the studies.\r\n\r\n\r\nTable 1: Characteristics of RCTs evaluating the effectiveness of rituximab in patients with SLE \r\nStudy ID, PICO, Setting, Population, No. of patients, Intervention, Follow-up, Possible predictor, Outcomes \r\n\r\n\r\nTable 2: Characteristics of studies on prognostic factors \r\nStudy ID, Setting, PICO design, No. of patients, Dose of rituximab, Follow-up, Possible predictor\r\n\r\n\r\nTable 3: Summary of evidence for factors associated with global clinical response\r\nFactor identified, Study, N, Outcome, Unadjusted ES, p value, Adjusted ES, p value, Overall quality \r\n\r\n\r\nTable 4: Summary of evidence for factors associated with overall clinical relapse or flare\r\nFactor identified, Study, N, Outcome, Unadjusted ES, p value, Adjusted ES, p value, overall quality\r\n\r\n\r\nTable 5: Summary of evidence for factors associated with cutaneous response\r\nFactor identified, Study, N, Cutaneous outcome, Unadjusted ES, p value, Adjusted ES, p value, overall quality\r\n\r\n\r\nTable 6: Summary of evidence for factors associated with cutaneous relapses \r\nFactor identified, Study, N, Cutaneous 0utcome, Unadjusted ES, p value, Adjusted ES, p value, overall quality\r\n\r\n\r\nTable 7: summary of evidence for factors associate with renal response \r\nFactor identified, Study, N, Renal outcome, Unadjusted ES, p value, Adjusted ES, p value, overall quality\r\n\r\nTable 8: Summary of evidence for factors associated with side effects\r\nFactor identified, Study, N, Overall outcome, Unadjusted ES, p value, Adjusted ES, p value, overall quality\r\n\r\nTable 9: Summary of evidence for factors associated with changes in biomarkers\r\nFactor identified, Study, N, Overall outcome, Unadjusted ES, p value, Adjusted ES, p value, overall quality"
+        ],
+        "negative_ctxs": [
+            28,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "In accordance with PRISMA guidelines we assessed methodo\u0002logical quality of included studies . The methods used in this for quality appraisal are described in detail elsewhere in this issue , but in short, the Cochrane risk of bias tool [18-20] was used for RCTs, while the Quality In Prognosis Studies Tool was used to assess risk of bias in cohort studies"
+        ],
+        "negative_ctxs": [
+            17,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two reviewers (C.M.P. and M.O.S.) independently rated the methodological quality of the selected studies. The two reviewers discussed disagreement about whether a criterion was met, which was resolved by consensus."
+        ],
+        "negative_ctxs": [
+            9,
+            4
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "A total of 16 articles met the eligibility criteria and were included in the review (3 papers from 2 RCTs and 13 papers from 6 cohort studies)\r\n\r\n\r\nTable 1: Characteristics of RCTs evaluating the effectiveness of rituximab in patients with SLE \r\nStudy ID, PICO, Setting, Population, No. of patients, Intervention, Follow-up, Possible predictor, Outcomes \r\n\r\n\r\nTable 2: Characteristics of studies on prognostic factors \r\nStudy ID, Setting, PICO design, No. of patients, Dose of rituximab, Follow-up, Possible predictor"
+        ],
+        "negative_ctxs": [
+            14,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Due to the expected heterogeneity of selected studies, we performed a narrative best evidence synthesis to summarise evidence for potential predictors from RCTs and prognostic factors from cohort studies, which takes into account the strength of the association and the methodological quality of the studies"
+        ],
+        "negative_ctxs": [
+            18,
+            12
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Due to the expected heterogeneity of selected studies, we performed a narrative best evidence synthesis to summarise evidence for potential predictors from RCTs and prognostic factors from cohort studies, which takes into account the strength of the association and the methodological quality of the studies"
+        ],
+        "negative_ctxs": [
+            24,
+            1
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Table 1: Characteristics of RCTs evaluating the effectiveness of rituximab in patients with SLE Study ID, PICO, Setting, Population, No. of patients, Intervention, Follow-up, Possible predictor, Outcomes Table 2: Characteristics of studies on prognostic factors Study ID, Setting, PICO design, No. of patients, Dose of rituximab, Follow-up, Possible predictor"
+        ],
+        "negative_ctxs": [
+            0,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Using validated tools, the overall quality of most of the inves\u0002tigated predictive or prognostic factors was low or very low, which means that our confidence in the majority of these is very limited."
+        ],
+        "negative_ctxs": [
+            23,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The overall quality of evidence (QoE) was assessed for each PICO question for RCTs using GRADE (Grading of Recommendations, Assessment, Development, and Evaluation) for RCTs  and the GRADE adaptation for prognostic evidence"
+        ],
+        "negative_ctxs": [
+            12,
+            23
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The objectives of this systematic review therefore were (1) to identify predictors of differential response (moderators) to RTX therapy for SLE in RCTs and (2) to identify prognostic factors associated with outcomes following RTX therapy in cohort studies of patients with SLE. Publications were included in the review if they met the following inclusion criteria: (1) RCTs and quasi-randomized stud\u0002ies in all different phases that compared RTX therapy vs control in SLE patients and (2) prospective or retrospective cohort studies, which have included at the beginning of follow-up not less than 30 patients. We also excluded review articles, opinion papers, letters to the editor, case reports, ase series, or conference abstracts. RCTs or cohort studies report\u0002ing outcomes for RTX therapy as a combination therapy with immunosuppressant agents (except when RTX was added to previous stable dose treatment) were also excluded."
+        ],
+        "negative_ctxs": [
+            21,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            18,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Publications were included in the review if they met the following inclusion criteria: (1) RCTs and quasi-randomized studies in all different phases that compared RTX therapy vs control in SLE patients and (2) prospective or retrospective cohort studies, which have included at the beginning of follow-up not less than 30 patients.\n\nWe also excluded review articles, opinion papers, letters to the editor, case reports, ase series, or conference abstracts. RCTs or cohort studies reporting outcomes for RTX therapy as a combination therapy with immunosuppressant agents (except when RTX was added to previous stable dose treatment) were also excluded."
+        ],
+        "negative_ctxs": [
+            26,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We decide to include observational cohorts with a minimum of 30 patients in our systematic review because, for prognostic factors, there are accepted methods for calculating the sample size for binary or continuous outcomes , and if confounding factors also are considered, smaller sample size would have been irrelevant for our purposes. We also excluded review articles, opinion papers, letters to the editor, case reports, case series, or conference abstracts."
+        ],
+        "negative_ctxs": [
+            25,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Studies were identified through a systematic literature search in the following databases: MEDLINE via Ovid (1946 to December 2015), EMBASE via Ovid (1974 to December 2015), The Cochrane Central Register of Randomized Controlled Trials (CENTRAL-The Cochrane Library) via Ovid (to December 2015), and Web of Science (to December 2015)."
+        ],
+        "negative_ctxs": [
+            23,
+            16
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "The resulting titles and abstracts were, independently, reviewed by C.P. and C.M.P. If titles and abstract did not give enough information to judge eligibility, full manuscripts were procured and independently reviewed by two reviewers (C.P. and C.M.P.). The full text of each article was then tested against all inclusion and exclusion criteria. The review team made every effort to identify multiple publications from a single study to obtain all relevant information from trials and cohorts. Disagreements regarding eligibility were resolved through discussion or by a third reviewer (I.N.B. or B.P.) if necessary."
+        ],
+        "negative_ctxs": [
+            26,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Data extraction was done independently by two reviewers (C.P. and C.M.P.)."
+        ],
+        "negative_ctxs": [
+            20,
+            28
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Supplemental Table A.7 Excluded Full-Text Studies and Reasons for Exclusion"
+        ],
+        "negative_ctxs": [
+            28,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1: Characteristics of RCTs evaluating the effectiveness of rituximab in patients with SLE \nStudy ID, PICO, Setting, Population, No. of patients, Intervention, Follow-up, Possible predictor, Outcomes \n\nTable 2: Characteristics of studies on prognostic factors \nStudy ID, Setting, PICO design, No. of patients, Dose of rituximab, Follow-up, Possible predictor"
+        ],
+        "negative_ctxs": [
+            3,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "In accordance with PRISMA guidelines we assessed methodo\u0002logical quality of included studies . The methods used in this for quality appraisal are described in detail elsewhere in this issue , but in short, the Cochrane risk of bias tool [18-20] was used for RCTs, while the Quality In Prognosis Studies Tool was used to assess risk of bias in cohort studies"
+        ],
+        "negative_ctxs": [
+            24,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Due to the expected heterogeneity of selected studies, we performed a narrative best evidence synthesis to summarise evidence for potential predictors from RCTs and prognostic factors from cohort studies, which takes into account the strength of the association and the methodological quality of the studies"
+        ],
+        "negative_ctxs": [
+            20,
+            17
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Due to the expected heterogeneity of selected studies, we performed a narrative best evidence synthesis to summarise evidence for potential predictors from RCTs and prognostic factors from cohort studies, which takes into account the strength of the association and the methodological quality of the studies"
+        ],
+        "negative_ctxs": [
+            15,
+            28
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Table 1: Characteristics of RCTs evaluating the effectiveness of rituximab in patients with SLE Study ID, PICO, Setting, Population, No. of patients, Intervention, Follow-up, Possible predictor, Outcomes Table 2: Characteristics of studies on prognostic factors Study ID, Setting, PICO design, No. of patients, Dose of rituximab, Follow-up, Possible predictor"
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Using validated tools, the overall quality of most of the inves\u0002tigated predictive or prognostic factors was low or very low, which means that our confidence in the majority of these is very limited."
+        ],
+        "negative_ctxs": [
+            12,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Dr. Pirone is supported by a Societa Italiana di Reumatologia/ British Society for Rheumatology travel scholarship. Dr. Mendoza Pinto is an Associated Research at the Mexican Institute for Social Security and received support from Conacyt for this research. Prof. van der Windt is a member of PROGRESS; Medical Research Council Prognosis Research Strategy (PROGRESS) Partner\u0002ship (G0902393/99558). Dr. Parker is supported by the National Institute for Health Research Manchester Biomedical Research Unit and the NIHR/ Wellcome Trust Manchester Clinical Research Facility. Prof. Bruce is an NIHR Senior Investigator and is funded by Arthritis Research UK Centre for Epidemiology (Grant No: 20380), the Medical Research Council, the National Institute for Health Research Manchester Biomedical Research Unit, and the NIHR/ Wellcome Trust Manchester Clinical Research Facility.\n\n\nProf. Bruce also acknowledges research grants from UCB, GSK, Roche, and Genzyme-Sanofi."
+        ],
+        "negative_ctxs": [
+            14,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The overall quality of evidence (QoE) was assessed for each PICO question for RCTs using GRADE (Grading of Recommendations, Assessment, Development, and Evaluation) for RCTs  and the GRADE adaptation for prognostic evidence"
+        ],
+        "negative_ctxs": [
+            16,
+            10
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    }
+]

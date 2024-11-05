@@ -1,0 +1,470 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "All published mycetoma cases diagnosed in Israel were included with relevant variables collected."
+        ],
+        "negative_ctxs": [
+            7,
+            21
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "All cases of mycetoma diagnosed in Israel and reported in the medical literature in all languages were included and all relevant variables were collected.\n\nPartial or full responses to treatment were documented based on the clinical data given."
+        ],
+        "negative_ctxs": [
+            10,
+            0
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "a systematic review of the available literature on mycetoma cases in Israel was performed using the electronic database PubMed with the use of the following search terms: \"mycetoma\" or \"madura foot\" and \"Israel.\""
+        ],
+        "negative_ctxs": [
+            18,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The search was supplemented by reviewing the reference list of all relevant articles.\n\nOne more article describing a surgical procedure on a previously described patient was found randomly"
+        ],
+        "negative_ctxs": [
+            18,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "a systematic review of the available literature on mycetoma cases in Israel was performed using the electronic database PubMed with the use of the following search terms: \"mycetoma\" or \"madura foot\" and \"Israel.\""
+        ],
+        "negative_ctxs": [
+            6,
+            10
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 - Mycetoma cases diagnosed in Israel: demographics and epidemiology\n\nTable 2 - Mycetoma cases diagnosed in Israel: pathogens, treatment, and outcome"
+        ],
+        "negative_ctxs": [
+            18,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "All cases are summarized in Table 1 - Mycetoma cases diagnosed in Israel: demographics and epidemiology and Table 2 - Mycetoma cases diagnosed in Israel: pathogens, treatment, and outcome.\n\nAll cases of mycetoma diagnosed in Israel and reported in the medical literature in all languages were included and all relevant variables were collected. Partial or full responses to treatment were documented based on the clinical data given."
+        ],
+        "negative_ctxs": [
+            1,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "All cases are summarized in Tables 1 and 2"
+        ],
+        "negative_ctxs": [
+            8,
+            21
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "All cases of mycetoma diagnosed in Israel and reported in the medical literature in all languages were included and all relevant variables were collected. Partial or full responses to treatment were documented based on the clinical data given."
+        ],
+        "negative_ctxs": [
+            0,
+            14
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "All cases are summarized in Tables 1 and 2"
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "The main limitation of this study is its retrospective nature. Some of the data regarding symptom onset, duration, and years since last exposure were partial and careful approximations were made. As the purpose of this study is mostly descriptive and since the small population size made it impossible to show statistically significant findings, we believe that this limitation has little effect on the relevance of the main points that we discussed."
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Table 1 - Mycetoma cases diagnosed in Israel: demographics and epidemiology.\n\nTable 2 - Mycetoma cases diagnosed in Israel: pathogens, treatment, and outcome"
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            12,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "All cases of mycetoma diagnosed in Israel and reported in the medical literature in all languages were included and all relevant variables were collected.\n\nPartial or full responses to treatment were documented based on the clinical data given."
+        ],
+        "negative_ctxs": [
+            20,
+            12
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "All cases of mycetoma diagnosed in Israel and reported in the medical literature in all languages were included and all relevant variables were collected."
+        ],
+        "negative_ctxs": [
+            15,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "a systematic review of the available literature on mycetoma cases in Israel was performed using the electronic database PubMed with the use of the following search terms: \"mycetoma\" or \"madura foot\" and \"Israel.\""
+        ],
+        "negative_ctxs": [
+            13,
+            2
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 - Mycetoma cases diagnosed in Israel: demographics and epidemiology\n\nTable 2 - Mycetoma cases diagnosed in Israel: pathogens, treatment, and outcome"
+        ],
+        "negative_ctxs": [
+            13,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "All cases of mycetoma diagnosed in Israel and reported in the medical literature in all languages were included and all relevant variables were collected. Partial or full responses to treatment were documented based on the clinical data given."
+        ],
+        "negative_ctxs": [
+            21,
+            11
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "All cases are summarized in Tables 1 and 2"
+        ],
+        "negative_ctxs": [
+            3,
+            5
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "The main limitation of this study is its retrospective nature. Some of the data regarding symptom onset, duration, and years since last exposure were partial and careful approximations were made. As the purpose of this study is mostly descriptive and since the small population size made it impossible to show statistically significant findings, we believe that this limitation has little effect on the relevance of the main points that we discussed."
+        ],
+        "negative_ctxs": [
+            17,
+            3
+        ],
+        "positive_ctxs": [
+            18
+        ]
+    }
+]

@@ -1,0 +1,473 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Our population includes patients with surgical incisions with no known history of pathologic wound healing. The outcome of interest is aesthetically acceptable scar healing (e.g., native skin match, minimal erythema, no hypertrophy). For the purpose of focusing this review, outcomes of therapeutic modalities for preexisting pathologic scarring (i.e., keloids) were excluded."
+        ],
+        "negative_ctxs": [
+            15,
+            17
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Our population includes patients with surgical incisions with no known history of pathologic wound healing. The outcome of interest is aesthetically acceptable scar healing (e.g., native skin match, minimal erythema, no hypertrophy). For the purpose of focusing this review, outcomes of therapeutic modalities for preexisting pathologic scarring (i.e., keloids) were excluded."
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "For the purpose of focusing this review, outcomes of therapeutic modalities for preexisting pathologic scarring (i.e., keloids) were excluded.\n\nExclusion criteria\nExperimental modalities with preliminary data\nFollow up time <3 mo\nArticles not in the English language\nCase reports, review articles, letters\nArticles that address unique scar populations\n(e.g., pediatrics, burns, keloids, acne)\nExperimental modalities with preliminary data"
+        ],
+        "negative_ctxs": [
+            21,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Inclusion criteria\nPublished within the past 10 yr\nFollow-up time >=3 mo\nHuman subjects only\nPostsurgical scars\nClinical trials\nFull-text available\nExclusion criteria\nExperimental modalities with preliminary data\nFollow up time <3 mo\nArticles not in the English language\nCase reports, review articles, letters\nArticles that address unique scar populations\n(e.g., pediatrics, burns, keloids, acne)\nExperimental modalities with preliminary data"
+        ],
+        "negative_ctxs": [
+            14,
+            2
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A systematic review was conducted by means\r\nof computer-based MEDLINE search"
+        ],
+        "negative_ctxs": [
+            1,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Abstracts and reference lists of the\r\nresultant articles were reviewed"
+        ],
+        "negative_ctxs": [
+            4,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Medical Subject Headings terms \"cicatrix\" AND \"therapy,\nradiotherapy, surgery, drug therapy, prevention, and control.\""
+        ],
+        "negative_ctxs": [
+            4,
+            22
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Inclusion criteria\nPublished within the past 10 yr\nFollow-up time >=3 mo\nHuman subjects only\nPostsurgical scars\nClinical trials\nFull-text available\nExclusion criteria\nExperimental modalities with preliminary data\nFollow up time <3 mo\nArticles not in the English language\nCase reports, review articles, letters\nArticles that address unique scar populations\n(e.g., pediatrics, burns, keloids, acne)\nExperimental modalities with preliminary data"
+        ],
+        "negative_ctxs": [
+            1,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 2. Summary of Study Characteristics\n\nTable 3. Summary of Study Characteristics"
+        ],
+        "negative_ctxs": [
+            3,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "a narrative review of the available evidence\r\nwas conducted\n"
+        ],
+        "negative_ctxs": [
+            10,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "a narrative review of the available evidence\r\nwas conducted\n"
+        ],
+        "negative_ctxs": [
+            25,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The heterogeneous nature of outcome measures\r\nin the selected studies precluded a meaningful\r\nnumerical meta-analysis. Scar assessment tools,\r\nalthough an attempt to objectify scar appearance\r\nand morphology, are inherently descriptive.9-14\r\nThus, a narrative review of the available evidence\r\nwas conducted"
+        ],
+        "negative_ctxs": [
+            26,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The heterogeneous nature of outcome measures\nin the selected studies precluded a meaningful\nnumerical meta-analysis. Scar assessment tools,\nalthough an attempt to objectify scar appearance\nand morphology, are inherently descriptive.9-14\nThus, a narrative review of the available evidence\nwas conducted"
+        ],
+        "negative_ctxs": [
+            18,
+            14
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "a   narrative   review   of   the   available   evi-dence  was  conducted"
+        ],
+        "negative_ctxs": [
+            23,
+            27
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "This review valued quality over quantity, with the goal of isolating the highest level of contemporary evidence with the strictest of inclusion and exclusion criteria of any scar care systematic review performed within the past 10 years."
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": [
+            22
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Study Limitations\r\nThe main limitation of this study is a scarcity of\r\nrandomized, controlled, clinical trials with regard\r\nto preventative scar therapy. Although there is a\r\nlarge volume of observational, case series, and\r\ncase report data addressing postoperative scar\r\noptimization, the quality of clinical trials available\r\nfor review is limited by short follow-up (<1 year),\r\nsmall cohorts, and heterogeneous patient populations\r\n(e.g., acne cohorts plus burn cohorts with no\r\ndistinction between the two). Importantly, all studies\r\nincluded in this study were published within\r\nthe past 10 years, thus emphasizing the need to\r\nstay current in scar care. This review valued quality\r\nover quantity, with the goal of isolating the\r\nhighest level of contemporary evidence with the\r\nstrictest of inclusion and exclusion criteria of any\r\nscar care systematic review performed within the\r\npast 10 years. Still, more high-quality randomized\r\ncontrolled trials in scar prophyla"
+        ],
+        "negative_ctxs": [
+            20,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Selected clinical trials were divided into subgroups based on modality: topical therapy (keratin,\nsilicone gel/sheets), laser therapeutics (pulsed\ndye laser, neodymium:yttrium-aluminum-garnet\nlaser, 1550-nm nonablative laser, potassium-titanyl-\nphosphate laser), or compressive measures\n(mechanomodulation)"
+        ],
+        "negative_ctxs": [
+            27,
+            4
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            18,
+            8
+        ],
+        "positive_ctxs": [
+            12,
+            13
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Our population includes patients with surgical incisions with no known history of pathologic wound healing. The outcome of interest is aesthetically acceptable scar healing (e.g., native skin match, minimal erythema, no hypertrophy). For the purpose of focusing this review, outcomes of therapeutic modalities for preexisting pathologic scarring (i.e., keloids) were excluded."
+        ],
+        "negative_ctxs": [
+            18,
+            2
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            18,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A systematic review was conducted by means\r\nof computer-based MEDLINE search"
+        ],
+        "negative_ctxs": [
+            19,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 2. Summary of Study Characteristics\n\nTable 3. Summary of Study Characteristics"
+        ],
+        "negative_ctxs": [
+            14,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            16,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The heterogeneous nature of outcome measures\r\nin the selected studies precluded a meaningful\r\nnumerical meta-analysis. Scar assessment tools,\r\nalthough an attempt to objectify scar appearance\r\nand morphology, are inherently descriptive.9-14\r\nThus, a narrative review of the available evidence\r\nwas conducted"
+        ],
+        "negative_ctxs": [
+            8,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The heterogeneous nature of outcome measures\nin the selected studies precluded a meaningful\nnumerical meta-analysis. Scar assessment tools,\nalthough an attempt to objectify scar appearance\nand morphology, are inherently descriptive.9-14\nThus, a narrative review of the available evidence\nwas conducted"
+        ],
+        "negative_ctxs": [
+            22,
+            18
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "a   narrative   review   of   the   available   evi-dence  was  conducted"
+        ],
+        "negative_ctxs": [
+            2,
+            14
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "This review valued quality over quantity, with the goal of isolating the highest level of contemporary evidence with the strictest of inclusion and exclusion criteria of any scar care systematic review performed within the past 10 years."
+        ],
+        "negative_ctxs": [
+            4,
+            11
+        ],
+        "positive_ctxs": [
+            22
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Disclosure: Dr. Rohrich receives instrument royalties from Eriem Surgical, Inc., and book royalties from Thieme Medical Publishing. Neither author has any financial interest in any of the products or devices mentioned herein. Dr. Perez has no financial information to disclose. No funding was received for this article,"
+        ],
+        "negative_ctxs": [
+            9,
+            10
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Study Limitations\r\nThe main limitation of this study is a scarcity of\r\nrandomized, controlled, clinical trials with regard\r\nto preventative scar therapy. Although there is a\r\nlarge volume of observational, case series, and\r\ncase report data addressing postoperative scar\r\noptimization, the quality of clinical trials available\r\nfor review is limited by short follow-up (<1 year),\r\nsmall cohorts, and heterogeneous patient populations\r\n(e.g., acne cohorts plus burn cohorts with no\r\ndistinction between the two). Importantly, all studies\r\nincluded in this study were published within\r\nthe past 10 years, thus emphasizing the need to\r\nstay current in scar care. This review valued quality\r\nover quantity, with the goal of isolating the\r\nhighest level of contemporary evidence with the\r\nstrictest of inclusion and exclusion criteria of any\r\nscar care systematic review performed within the\r\npast 10 years. Still, more high-quality randomized\r\ncontrolled trials in scar prophyla"
+        ],
+        "negative_ctxs": [
+            27,
+            15
+        ],
+        "positive_ctxs": []
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "Differences between protocol and review: Risk of bias categories were updated from 'yes', 'no' and 'unclear' to 'high risk', 'low risk' and 'unclear risk'.\nReview Manager software version changed from 5.0 to 5.1\n"
+        ],
+        "negative_ctxs": [
+            5,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Types of participants: Children (under 18 years of age) with subacute cough (cough duration of two to four weeks). Types of interventions\nAll randomised controlled comparisons of any type of ICS (MDI, DPI or nebulised). Trials comparing two or more medications without a placebo comparison group were not included. Trials that included the use of other medications or interventions were only to be included if all participants had equal access to such medications or interventions. Treatment with ICS had to be inclusive of the subacute cough phase (two to four weeks) but could have commenced during the first two weeks of illness and continued beyond the four-week mark."
+        ],
+        "negative_ctxs": [
+            34,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Types of participants\nChildren (under 18 years of age) with subacute cough (cough duration of two to four weeks).\nExclusion criteria: participants with known chronic respiratory disease (such as cystic fibrosis, asthma, bronchiectasis, aspiration lung disease). Children with cough post acute respiratory infections such as croup were not excluded.\nTypes of interventions\nAll randomised controlled comparisons of any type of ICS (MDI, DPI or nebulised). Trials comparing two or more medications without a placebo comparison group were not included. Trials that included the use of other medications or interventions were only to be included if all participants had equal access to such medications or interventions. Treatment with ICS had to be inclusive of the subacute cough phase (two to four weeks) but could have commenced during the first two weeks of illness and continued beyond the four-week mark."
+        ],
+        "negative_ctxs": [
+            13,
+            22
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Databases were searched from their inception up to November 2011, and there was no restriction on the language of publication"
+        ],
+        "negative_ctxs": [
+            27,
+            22
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "RCTs were identified using the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED and PsycINFO, and handsearching of respiratory journals and meeting abstracts (please see the Airways Group Module on The Cochrane Library for further details). Additional searches of CENTRAL, MEDLINE and EMBASE were also conducted. The full search strategies are detailed in Appendix 1. "
+        ],
+        "negative_ctxs": [
+            39,
+            11
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We handsearched references from identified papers and reviews for further references. We contacted authors to request their identification of any unpublished or missed trials."
+        ],
+        "negative_ctxs": [
+            4,
+            6
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix 1. Database search strategies: CENTRAL (on The Cochrane Library)\n#1 MeSH descriptor Cough explode all trees\n#2 cough*\n#3 (#1 OR #2)\n#4 MeSH descriptor Adrenal Cortex Hormones explode all trees\n#5 (steroid* or corticosteroid* or glucocorticosteroid* or glucocorticoid* or corticoid*) AND (inhal*)\n#6 beclomethasone or budesonide or fluticasone or ciclesonide or mometasone or flunisolide or mometasone\n#7 (#4 OR #5 OR #6)\n#8 (#3 AND #7)\n#9 paediatric* or paediatric* or child* or adolescen* or infant* or young* or preschool* or pre-school* or newborn* or new-born* or neonat* or neo-nat*\n#10 MeSH descriptor Child explode all trees\n#11 MeSH descriptor Pediatrics explode all trees #12 MeSH descriptor Infant explode all trees\n#13 MeSH descriptor Adolescent explode all trees #14 (#9 OR #10 OR #11 OR #12 OR #13)\n#15 (#8 AND #14)\n"
+        ],
+        "negative_ctxs": [
+            1,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "there was no restriction on the language of publication."
+        ],
+        "negative_ctxs": [
+            31,
+            19
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two sets of review authors (SA, AC for initial search; SA, JM for subsequent search) independently assessed for inclusion all the potentially relevant studies identified as a result of the search strategy. It was planned that any disagreement would be resolved through discussion or, if required, adjudication by a third review author."
+        ],
+        "negative_ctxs": [
+            18,
+            28
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Trials that satisfied the inclusion criteria were independently reviewed and the following information recorded:"
+        ],
+        "negative_ctxs": [
+            29,
+            42
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Trials that satisfied the inclusion criteria were independently reviewed and the following information recorded: study setting, year of study, source of funding, participant recruitment details (including number of eligible people), inclusion and exclusion criteria, other symptoms, randomisation and allocation concealment method, number of participants randomised, blinding (masking) of participants, care providers and outcome assessors, duration of intervention, co-interventions, number of participants not followed up, reasons for withdrawals from study protocol (clinical, side effects, refusal and other), details on side effects of therapy, and whether intention-to-treat analyses were possible. Data were extracted for the outcomes described above and any follow-up data provided in the following four weeks post intervention were sought. Further information was requested from the study authors where required. "
+        ],
+        "negative_ctxs": [
+            12,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Trials that satisfied the inclusion criteria were independently reviewed and the following information recorded: study setting, year of study, source of funding, participant recruitment details (including number of eligible people), inclusion and exclusion criteria, other symptoms, randomisation and allocation concealment method, number of participants randomised, blinding (masking) of participants, care providers and outcome assessors, duration of intervention, co-interventions, number of participants not followed up, reasons for withdrawals from study protocol (clinical, side effects, refusal and other), details on side effects of therapy, and whether intention-to-treat analyses were possible."
+        ],
+        "negative_ctxs": [
+            5,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Two sets of review authors (SA, AC for initial search; SA, JM for subsequent search) independently assessed risk of bias for each study using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011). It was planned that any disagreement would be resolved by discussion or by involving a third review author."
+        ],
+        "negative_ctxs": [
+            1,
+            10
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two sets of review authors (SA, AC for initial search; SA, JM for subsequent search) independently assessed risk of bias for each study using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011). It was planned that any disagreement would be resolved by discussion or by involving a third review author."
+        ],
+        "negative_ctxs": [
+            17,
+            44
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Our primary outcome was the proportion of participants who were not cured or substantially improved (> 70% reduction in cough severity measure) at follow-up (clinical failure).\nData from 98 infants in both studies were combined for this outcome measure. The number of children not cured at follow-up was 36, using an 'intention-to-treat' analysis. The control event rate was 69.57% (Wong 2000) and 17.86% (Fox 1999) in the two studies. There was no significant difference between groups in the proportion of children 'not cured' at follow-up, with a pooled OR of 0.61 (95% CI 0.24 to 1.55), see Figure 3 and summary of findings Table for the main comparison\n"
+        ],
+        "negative_ctxs": [
+            1,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "differences between protocol and review:\nRisk of bias categories were updated from 'yes', 'no' and 'unclear' to 'high risk', 'low risk' and 'unclear risk'. Review Manager software version changed from 5.0 to 5.1."
+        ],
+        "negative_ctxs": [
+            27,
+            38
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We determined the summary OR and mean differences with their 95% CIs using a fixed-effect model. We planned to use a random-effects model whenever there were concerns about statistical heterogeneity."
+        ],
+        "negative_ctxs": [
+            18,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Figure3. Forest plot of comparison:1Inhaled corticosteroids versus placebo,outcome:1.1Clinicalfailure."
+        ],
+        "negative_ctxs": [
+            31,
+            36
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "If combination of data and meta-analysis (with at least five studies) was possible, we planned to assess publication bias using a funnel plot.\n\nThe small number of studies meant that the use of funnel plots was inappropriate. We attempted to contact trial authors to ask for unpublished results.\n\nInclusion criteria were similar in both studies, therefore re-analysis by variation in the inclusion criteria could not be performed.\n\nBoth studies used MDIs, therefore sensitivity analysis comparing nebulised ICS versus MDIs was unable to be performed."
+        ],
+        "negative_ctxs": [
+            36,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Both included studies were double-blind RCTs; however, neither the sequence generation or allocation concealment methods were adequately described in either study, therefore the quality of the included studies is unclear."
+        ],
+        "negative_ctxs": [
+            21,
+            27
+        ],
+        "positive_ctxs": [
+            23
+        ]
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "This review is limited by the small number of studies available for inclusion, the characteristics of the included studies, and the data available for analysis. The two studies included in this review describe a small number of participants from a distinct patient population within a small age range. The quality of the included studies was limited by the unclear risk of allocation concealment biases.\n\n\nPotential biases in the review process\nThere were no perceived biases in the review process.\n\n\n"
+        ],
+        "negative_ctxs": [
+            30,
+            41
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Types of participants\nChildren (under 18 years of age) with subacute cough (cough duration of two to four weeks).\nExclusion criteria: participants with known chronic respiratory disease (such as cystic fibrosis, asthma, bronchiectasis, aspiration lung disease). Children with cough post acute respiratory infections such as croup were not excluded.\nTypes of interventions\nAll randomised controlled comparisons of any type of ICS (MDI, DPI or nebulised). Trials comparing two or more medications without a placebo comparison group were not included. Trials that included the use of other medications or interventions were only to be included if all participants had equal access to such medications or interventions. Treatment with ICS had to be inclusive of the subacute cough phase (two to four weeks) but could have commenced during the first two weeks of illness and continued beyond the four-week mark."
+        ],
+        "negative_ctxs": [
+            17,
+            26
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            20,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "Differences between protocol and review: Risk of bias categories were updated from 'yes', 'no' and 'unclear' to 'high risk', 'low risk' and 'unclear risk'.\nReview Manager software version changed from 5.0 to 5.1\n"
+        ],
+        "negative_ctxs": [
+            43,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Types of participants\nChildren (under 18 years of age) with subacute cough (cough duration of two to four weeks).\nExclusion criteria: participants with known chronic respiratory disease (such as cystic fibrosis, asthma, bronchiectasis, aspiration lung disease). Children with cough post acute respiratory infections such as croup were not excluded.\nTypes of interventions\nAll randomised controlled comparisons of any type of ICS (MDI, DPI or nebulised). Trials comparing two or more medications without a placebo comparison group were not included. Trials that included the use of other medications or interventions were only to be included if all participants had equal access to such medications or interventions. Treatment with ICS had to be inclusive of the subacute cough phase (two to four weeks) but could have commenced during the first two weeks of illness and continued beyond the four-week mark."
+        ],
+        "negative_ctxs": [
+            17,
+            10
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            29,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "RCTs were identified using the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED and PsycINFO, and handsearching of respiratory journals and meeting abstracts (please see the Airways Group Module on The Cochrane Library for further details). Additional searches of CENTRAL, MEDLINE and EMBASE were also conducted. The full search strategies are detailed in Appendix 1. "
+        ],
+        "negative_ctxs": [
+            42,
+            27
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two sets of review authors (SA, AC for initial search; SA, JM for subsequent search) independently assessed for inclusion all the potentially relevant studies identified as a result of the search strategy. It was planned that any disagreement would be resolved through discussion or, if required, adjudication by a third review author."
+        ],
+        "negative_ctxs": [
+            13,
+            15
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Trials that satisfied the inclusion criteria were independently reviewed and the following information recorded:"
+        ],
+        "negative_ctxs": [
+            40,
+            6
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Twelve papers were excluded as they did not fulfil the criteria for the review. The main reasons studies were excluded were cough duration (chronic cough rather than subacute cough) and age of participants (adults rather than children), see Characteristics of excluded studies. Other reasons included physician-diagnosed asthma, non-randomised studies, cross-over study design and non-ICS treatment.\n\nTable: Characteristics of excluded studies [ordered by study ID]"
+        ],
+        "negative_ctxs": [
+            26,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Trials that satisfied the inclusion criteria were independently reviewed and the following information recorded: study setting, year of study, source of funding, participant recruitment details (including number of eligible people), inclusion and exclusion criteria, other symptoms, randomisation and allocation concealment method, number of participants randomised, blinding (masking) of participants, care providers and outcome assessors, duration of intervention, co-interventions, number of participants not followed up, reasons for withdrawals from study protocol (clinical, side effects, refusal and other), details on side effects of therapy, and whether intention-to-treat analyses were possible. Data were extracted for the outcomes described above and any follow-up data provided in the following four weeks post intervention were sought. Further information was requested from the study authors where required. "
+        ],
+        "negative_ctxs": [
+            3,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Two sets of review authors (SA, AC for initial search; SA, JM for subsequent search) independently assessed risk of bias for each study using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011). It was planned that any disagreement would be resolved by discussion or by involving a third review author."
+        ],
+        "negative_ctxs": [
+            39,
+            3
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We determined the summary OR and mean differences with their 95% CIs using a fixed-effect model. We planned to use a random-effects model whenever there were concerns about statistical heterogeneity."
+        ],
+        "negative_ctxs": [
+            19,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Figure3. Forest plot of comparison:1Inhaled corticosteroids versus placebo,outcome:1.1Clinicalfailure."
+        ],
+        "negative_ctxs": [
+            28,
+            27
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "If combination of data and meta-analysis (with at least five studies) was possible, we planned to assess publication bias using a funnel plot.\n\nThe small number of studies meant that the use of funnel plots was inappropriate. We attempted to contact trial authors to ask for unpublished results.\n\nInclusion criteria were similar in both studies, therefore re-analysis by variation in the inclusion criteria could not be performed.\n\nBoth studies used MDIs, therefore sensitivity analysis comparing nebulised ICS versus MDIs was unable to be performed."
+        ],
+        "negative_ctxs": [
+            25,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Both included studies were double-blind RCTs; however, neither the sequence generation or allocation concealment methods were adequately described in either study, therefore the quality of the included studies is unclear."
+        ],
+        "negative_ctxs": [
+            32,
+            34
+        ],
+        "positive_ctxs": [
+            23
+        ]
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "One study (Wong 2000) received support from a commercial interest (GlaxoWellcome)."
+        ],
+        "negative_ctxs": [
+            25,
+            12
+        ],
+        "positive_ctxs": [
+            16
+        ]
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "None of the authors has any conflict of interest. S O U R C E S O F S U PP O R T Internal sources\n* Royal Children's Hospital Foundation ,Australia. Queensland Children's Medical Research Institute, Australia. External sources\n* NationalHealthandMedicalResearchCouncil,Australia. Practitioner Fellowship for AC (grant number 545216)\n* AustralianCochraneAirwaysGroup,Australia. Support to SA"
+        ],
+        "negative_ctxs": [
+            11,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "This review is limited by the small number of studies available for inclusion, the characteristics of the included studies, and the data available for analysis. The two studies included in this review describe a small number of participants from a distinct patient population within a small age range. The quality of the included studies was limited by the unclear risk of allocation concealment biases.\n\n\nPotential biases in the review process\nThere were no perceived biases in the review process.\n\n\n"
+        ],
+        "negative_ctxs": [
+            14,
+            21
+        ],
+        "positive_ctxs": []
+    }
+]

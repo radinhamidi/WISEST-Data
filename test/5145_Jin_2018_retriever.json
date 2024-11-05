@@ -1,0 +1,472 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "This study protocol was approved by the institutional\nreview board at the West China School of Medicine before\ninitiation and it did not need ethical standard statement."
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "We performed a meta-analysis to quantitatively determine the level of risk of PC and BPH in individuals with baldness. \n\nTherefore, the aim of this study is to conduct a comprehensive meta-analysis of existing studies to confirm the association of MPB with PC and BPH.\n\nTwo reviewers reviewed the full texts of the included\nstudies which met the following inclusion criteria were\nincluded in the meta-analysis: (1) The risk point estimate\nwas reported as an odds ratio (OR) with the 95% CI, or the\ndata were presented such that a OR and 95% CI could be\ncalculated; (2) the study had a cohort design or retrospective\ncase-control design or randomized control design; (3) the\nstudy evaluated MPB with PC or BPH; and (4) the study\nlanguage was published in English. Studies that did not\nmeet the earlier criteria were excluded."
+        ],
+        "negative_ctxs": [
+            2,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We performed a meta-analysis to quantitatively determine the level of risk of PC and BPH in individuals with baldness. \n\nTherefore, the aim of this study is to conduct a comprehensive meta-analysis of existing studies to confirm the association of MPB with PC and BPH.\n\nTwo reviewers reviewed the full texts of the included\nstudies which met the following inclusion criteria were\nincluded in the meta-analysis: (1) The risk point estimate\nwas reported as an odds ratio (OR) with the 95% CI, or the\ndata were presented such that a OR and 95% CI could be\ncalculated; (2) the study had a cohort design or retrospective\ncase-control design or randomized control design; (3) the\nstudy evaluated MPB with PC or BPH; and (4) the study\nlanguage was published in English. Studies that did not\nmeet the earlier criteria were excluded."
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Heterogeneity, that is, the proportion of variability across\nstudies was assessed using Cochran's Q statistic and\nquantified using the I2 statistic. If high heterogeneity\n(I2 > 50) was found, influence analysis (one kind method\nof sensitivity analysis) would be performed. We would take\nout included studies one by one (\"leave one out\") to see which study influenced the heterogeneity of the metaanalysis.\nPooled estimates were calculated omitting one\nstudy at a time. For all statistical analyses, a 2-sided\nP < 0.05 was considered statistically significant.\n\nAfter a full-text review, 17 studies [5-9,13-24]\nwith 68,448 participants met inclusion criteria and were\nincluded in the final analysis (Fig. 1). General study\ncharacteristics were presented in Table 1. Of the 17 studies, 12 was about PC [5-9,13-18,24] (2 were cohort studies), 6\nwas about BPH [15,19-23] (1 reported both PC and BPH\n). Seven studies included in this meta-analysis evaluated\nbaldness patterns at different ages [5-9,13,16].\nTable 2 shows the association between different types of\nMPB and PC or BPH in every included study. \n\nFig. 1. Flowchart for records selection process of the meta-analysis (according to PRISMA template: Moher D, Liberati A, Tetzlaff J, Altman DG, The\nPRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(7): e1000097.\ndoi:10.1371/journal.pmed1000097). (Color version of the figure available online.)\n\nWe examined the relationship between any pattern\nbaldness and the risk of PC using data from 11 studies.\nThere was no significant association between any pattern\nbaldness and PC risk (OR = 1.05; 95% CI: 0.98-1.12;\nP = 0.19) (Fig. 2A). Meta-analysis of 5 case-control\nstudies revealed statistically significant association between\nany pattern baldness and aggressive PC (OR = 1.60; 95%\nCI: 1.37-1.86; P < 0.001; I2 = 0%) (Fig. 2B). The later\ninclusion of the study by Zhou et al.  as the \"leave one\nout\" sensitivity analysis (influence analysis), the pooled\nresults did not change substantially (OR = 1.48; 95% CI:\n1.18-1.85; P = 0.0006), however, it introduced significant\nheterogeneity into the analysis (I2 = 65%) (Supplemental\nFig. 1). Therefore, we excluded it from the analysis."
+        ],
+        "negative_ctxs": [
+            9,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Two reviewers reviewed the full texts of the included\nstudies which met the following inclusion criteria were\nincluded in the meta-analysis: (1) The risk point estimate\nwas reported as an odds ratio (OR) with the 95% CI, or the\ndata were presented such that a OR and 95% CI could be\ncalculated; (2) the study had a cohort design or retrospective\ncase-control design or randomized control design; (3) the\nstudy evaluated MPB with PC or BPH; and (4) the study\nlanguage was published in English."
+        ],
+        "negative_ctxs": [
+            5,
+            13
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A systematic literature search in the MEDLINE,\nEMBASE, and Cochrane databases was conducted to\nidentify relevant studies which reported the association of\nMPB with the risk of PC and BPH published up to January\n2017."
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Additional manual searches were made using the\nreference lists from relevant studies to retrieve other papers\nrelevant to our topic."
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "and (4) the study\nlanguage was published in English."
+        ],
+        "negative_ctxs": [
+            7,
+            5
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Two reviewers reviewed the full texts of the included\nstudies which met the following inclusion criteria were\nincluded in the meta-analysis:"
+        ],
+        "negative_ctxs": [
+            9,
+            2
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "General study\ncharacteristics were presented in Table 1. Of the 17 studies,\n12 was about PC [5-9,13-18,24] (2 were cohort studies), 6\nwas about BPH [15,19-23] (1 reported both PC and BPH\n). Seven studies included in this meta-analysis evaluated\nbaldness patterns at different ages [5-9,13,16].\nTable 2 shows the association between different types of\nMPB and PC or BPH in every included study.\n\nTable 1\nSummary of studies included in the meta-analysis\n\nTable 2\nAssociation between different types of male pattern boldness (MPB) and prostate cancer (PC) or benign prostate hyperplasia (BPH)."
+        ],
+        "negative_ctxs": [
+            2,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Two reviewers reviewed the full texts of the included\nstudies which met the following inclusion criteria were\nincluded in the meta-analysis: (1) The risk point estimate\nwas reported as an odds ratio (OR) with the 95% CI, or the\ndata were presented such that a OR and 95% CI could be\ncalculated;\n\nTable 2\nAssociation between different types of male pattern boldness (MPB) and prostate cancer (PC) or benign prostate hyperplasia (BPH).\n\nFig. 2. Association between male pattern baldness and the risk of prostate cancer. (A) Any pattern baldness and prostate cancer. (B) Any pattern baldness and\naggressive prostate cancer. (C) Any pattern baldness and nonaggressive prostate cancer. (Color version of the figure available online.)\n\nFig. 3. Association between frontal baldness and the risk of prostate cancer. (A) Frontal baldness and prostate cancer. (B) Frontal baldness and aggressive\nprostate cancer. (C) Frontal baldness and nonaggressive prostate cancer. (Color version of the figure available online.)\n\nFig. 4. Association between vertex baldness and the risk of prostate cancer. (A) Vertex baldness and prostate cancer. (B) Vertex baldness and aggressive\nprostate cancer. (C) Vertex baldness and nonaggressive prostate cancer. (Color version of the figure available online.)\n\nFig. 5. Association between frontal plus vertex baldness and the risk of prostate cancer. (A) Frontal plus vertex baldness and prostate cancer. (B) Frontal plus\nvertex baldness and aggressive prostate cancer. (C) Frontal plus vertex baldness and nonaggressive prostate cancer. (Color version of the figure available online.)\n\nFig. 6. Association between male pattern baldness and the risk of benign prostatic hyperplasia. (Color version of the figure available online.)\n\nGeneral study characteristics were presented in Table 1. Of the 17 studies,\n12 was about PC [5-9,13-18,24] (2 were cohort studies), 6\nwas about BPH [15,19-23] (1 reported both PC and BPH\n). Seven studies included in this meta-analysis evaluated\nbaldness patterns at different ages [5-9,13,16].\nTable 2 shows the association between different types of\nMPB and PC or BPH in every included study.\n\nTable 1\nSummary of studies included in the meta-analysis\n\nTable 2\nAssociation between different types of male pattern boldness (MPB) and prostate cancer (PC) or benign prostate hyperplasia (BPH)."
+        ],
+        "negative_ctxs": [
+            2,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "The methodological\nquality of included studies was assessed by 2 authors using\nthe Downs and Black tool for both randomized controlled\ntrials and nonrandomized controlled trial . In general,\nthe score ranges were grouped into the following 4 quality\nlevels: excellent (26-28), good (20-25), fair (15-19), and\npoor (o14)."
+        ],
+        "negative_ctxs": [
+            10,
+            12
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Heterogeneity, that is, the proportion of variability across\nstudies was assessed using Cochran's Q statistic and\nquantified using the I2 statistic. If high heterogeneity\n(I2 > 50) was found, influence analysis (one kind method\nof sensitivity analysis) would be performed. We would take\nout included studies one by one (\"leave one out\") to see which study influenced the heterogeneity of the metaanalysis.\nPooled estimates were calculated omitting one\nstudy at a time. For all statistical analyses, a 2-sided\nP < 0.05 was considered statistically significant.\n\nA Preferred Reporting Items of Systematic Reviews and\nmeta-analyses (PRISMA)  flowchart of screening and\nselection results shown in Fig. 1. Using our prespecified\nsearch strategy, 203 extracts were retrieved and 7 additional\ncitations were obtained through reference lists. From 210\nstudies initially identified, 25 were considered potentially\nsuitable. After a full-text review, 17 studies [5-9,13-24]\nwith 68,448 participants met inclusion criteria and were\nincluded in the final analysis (Fig. 1). General study\ncharacteristics were presented in Table 1. Of the 17 studies,\n12 was about PC [5-9,13-18,24] (2 were cohort studies), 6\nwas about BPH [15,19-23] (1 reported both PC and BPH\n). Seven studies included in this meta-analysis evaluated\nbaldness patterns at different ages [5-9,13,16].\nTable 2 shows the association between different types of\nMPB and PC or BPH in every included study.\n\nWe examined the relationship between any pattern\nbaldness and the risk of PC using data from 11 studies.\nThere was no significant association between any pattern\nbaldness and PC risk (OR = 1.05; 95% CI: 0.98-1.12;\nP = 0.19) (Fig. 2A). Meta-analysis of 5 case-control\nstudies revealed statistically significant association between\nany pattern baldness and aggressive PC (OR = 1.60; 95%\nCI: 1.37-1.86; P < 0.001; I2 = 0%) (Fig. 2B). The later\ninclusion of the study by Zhou et al.  as the \"leave one\nout\" sensitivity analysis (influence analysis), the pooled\nresults did not change substantially (OR = 1.48; 95% CI:\n1.18-1.85; P = 0.0006), however, it introduced significant\nheterogeneity into the analysis (I2 = 65%) (Supplemental\nFig. 1). Therefore, we excluded it from the analysis. There\nwere 5 case-control studies evaluated the association\nbetween baldness and nonaggressive PC. We found no\nstatistically significant association between them (OR =\n1.04; 95% CI: 0.92-1.19; P = 0.52; I2 = 18%) (Fig. 2C).\n\nMeta-analysis of 5 studies revealed a statistically significant\nassociation between MPB and BPH (OR = 1.26;\n95% CI: 1.06-1.51; P = 0.01; I2 = 1%) (Fig. 6). The later\ninclusion of the study by Oh et al.  as a sensitivity\nanalysis, not affected the result (OR = 1.56; 95% CI: 1.10-\n2.19; P = 0.01), however, it also introduced significant\nheterogeneity into the analysis (I2 = 69%, P = 0.007)."
+        ],
+        "negative_ctxs": [
+            4,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "General study\ncharacteristics were presented in Table 1. Of the 17 studies,\n12 was about PC [5-9,13-18,24] (2 were cohort studies), 6\nwas about BPH [15,19-23] (1 reported both PC and BPH\n).\n\nFig. 2. Association between male pattern baldness and the risk of prostate cancer. (A) Any pattern baldness and prostate cancer. (B) Any pattern baldness and\naggressive prostate cancer. (C) Any pattern baldness and nonaggressive prostate cancer. (Color version of the figure available online.)\n\nFig. 6. Association between male pattern baldness and the risk of benign prostatic hyperplasia. (Color version of the figure available online.)"
+        ],
+        "negative_ctxs": [
+            6,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Heterogeneity, that is, the proportion of variability across\nstudies was assessed using Cochran's Q statistic and\nquantified using the I2 statistic. If high heterogeneity\n(I2 > 50) was found, influence analysis (one kind method\nof sensitivity analysis) would be performed. We would take\nout included studies one by one (\"leave one out\") to see which study influenced the heterogeneity of the metaanalysis.\nPooled estimates were calculated omitting one\nstudy at a time. For all statistical analyses, a 2-sided\nP < 0.05 was considered statistically significant.\n\nWe examined the relationship between any pattern\nbaldness and the risk of PC using data from 11 studies.\nThere was no significant association between any pattern\nbaldness and PC risk (OR = 1.05; 95% CI: 0.98-1.12;\nP = 0.19) (Fig. 2A). Meta-analysis of 5 case-control\nstudies revealed statistically significant association between\nany pattern baldness and aggressive PC (OR = 1.60; 95%\nCI: 1.37-1.86; P < 0.001; I2 = 0%) (Fig. 2B). The later\ninclusion of the study by Zhou et al.  as the \"leave one\nout\" sensitivity analysis (influence analysis), the pooled\nresults did not change substantially (OR = 1.48; 95% CI:\n1.18-1.85; P = 0.0006), however, it introduced significant\nheterogeneity into the analysis (I2 = 65%) (Supplemental\nFig. 1). Therefore, we excluded it from the analysis. There\nwere 5 case-control studies evaluated the association\nbetween baldness and nonaggressive PC. We found no\nstatistically significant association between them (OR =\n1.04; 95% CI: 0.92-1.19; P = 0.52; I2 = 18%) (Fig. 2C).\n\nMeta-analysis of 5 studies revealed a statistically significant\nassociation between MPB and BPH (OR = 1.26;\n95% CI: 1.06-1.51; P = 0.01; I2 = 1%) (Fig. 6). The later\ninclusion of the study by Oh et al.  as a sensitivity\nanalysis, not affected the result (OR = 1.56; 95% CI: 1.10-\n2.19; P = 0.01), however, it also introduced significant\nheterogeneity into the analysis (I2 = 69%, P = 0.007)."
+        ],
+        "negative_ctxs": [
+            10,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            10,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Several limitations of our meta-analysis merit discussion.\nFirst, our analysis includes 3 cohort studies and 14 casecontrol\nstudies. Therefore, the confounding bias from\nincluded study per se cannot be excluded. Second, although\nwe included only studies that used the Hamilton scale to\nevaluate baldness patterns, most studies included in this\nmeta-analysis assessed baldness relied on self-reported\nwhich may introduce confounding factors."
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "We performed a meta-analysis to quantitatively determine the level of risk of PC and BPH in individuals with baldness. \n\nTherefore, the aim of this study is to conduct a comprehensive meta-analysis of existing studies to confirm the association of MPB with PC and BPH.\n\nTwo reviewers reviewed the full texts of the included\nstudies which met the following inclusion criteria were\nincluded in the meta-analysis: (1) The risk point estimate\nwas reported as an odds ratio (OR) with the 95% CI, or the\ndata were presented such that a OR and 95% CI could be\ncalculated; (2) the study had a cohort design or retrospective\ncase-control design or randomized control design; (3) the\nstudy evaluated MPB with PC or BPH; and (4) the study\nlanguage was published in English. Studies that did not\nmeet the earlier criteria were excluded.\n\nGeneral study\ncharacteristics were presented in Table 1. Of the 17 studies,\n12 was about PC [5-9,13-18,24] (2 were cohort studies), 6\nwas about BPH [15,19-23] (1 reported both PC and BPH\n). Seven studies included in this meta-analysis evaluated\nbaldness patterns at different ages [5-9,13,16].\nTable 2 shows the association between different types of\nMPB and PC or BPH in every included study.\n\nTable 1\nSummary of studies included in the meta-analysis\n\nTable 2\nAssociation between different types of male pattern boldness (MPB) and prostate cancer (PC) or benign prostate hyperplasia (BPH)."
+        ],
+        "negative_ctxs": [
+            11,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "This study protocol was approved by the institutional\nreview board at the West China School of Medicine before\ninitiation and it did not need ethical standard statement."
+        ],
+        "negative_ctxs": [
+            3,
+            4
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We performed a meta-analysis to quantitatively determine the level of risk of PC and BPH in individuals with baldness. \n\nTherefore, the aim of this study is to conduct a comprehensive meta-analysis of existing studies to confirm the association of MPB with PC and BPH.\n\nTwo reviewers reviewed the full texts of the included\nstudies which met the following inclusion criteria were\nincluded in the meta-analysis: (1) The risk point estimate\nwas reported as an odds ratio (OR) with the 95% CI, or the\ndata were presented such that a OR and 95% CI could be\ncalculated; (2) the study had a cohort design or retrospective\ncase-control design or randomized control design; (3) the\nstudy evaluated MPB with PC or BPH; and (4) the study\nlanguage was published in English. Studies that did not\nmeet the earlier criteria were excluded."
+        ],
+        "negative_ctxs": [
+            0,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "(2) the study had a cohort design or retrospective case-control design or randomized control design"
+        ],
+        "negative_ctxs": [
+            7,
+            12
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A systematic literature search in the MEDLINE,\nEMBASE, and Cochrane databases was conducted to\nidentify relevant studies which reported the association of\nMPB with the risk of PC and BPH published up to January\n2017."
+        ],
+        "negative_ctxs": [
+            13,
+            6
+        ],
+        "positive_ctxs": [
+            2
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Two reviewers reviewed the full texts of the included\nstudies which met the following inclusion criteria were\nincluded in the meta-analysis:"
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "A Preferred Reporting Items of Systematic Reviews and\nmeta-analyses (PRISMA)  flowchart of screening and\nselection results shown in Fig. 1. Using our prespecified\nsearch strategy, 203 extracts were retrieved and 7 additional citations were obtained through reference lists. From 210\nstudies initially identified, 25 were considered potentially\nsuitable. After a full-text review, 17 studies [5-9,13-24]\nwith 68,448 participants met inclusion criteria and were\nincluded in the final analysis (Fig. 1).\n\n\nFig. 1. Flowchart for records selection process of the meta-analysis (according to PRISMA template: Moher D, Liberati A, Tetzlaff J, Altman DG, The\nPRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(7): e1000097.\ndoi:10.1371/journal.pmed1000097). (Color version of the figure available online.)"
+        ],
+        "negative_ctxs": [
+            0,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "General study\ncharacteristics were presented in Table 1. Of the 17 studies,\n12 was about PC [5-9,13-18,24] (2 were cohort studies), 6\nwas about BPH [15,19-23] (1 reported both PC and BPH\n). Seven studies included in this meta-analysis evaluated\nbaldness patterns at different ages [5-9,13,16].\nTable 2 shows the association between different types of\nMPB and PC or BPH in every included study.\n\nTable 1\nSummary of studies included in the meta-analysis\n\nTable 2\nAssociation between different types of male pattern boldness (MPB) and prostate cancer (PC) or benign prostate hyperplasia (BPH)."
+        ],
+        "negative_ctxs": [
+            2,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "The methodological\nquality of included studies was assessed by 2 authors using\nthe Downs and Black tool for both randomized controlled\ntrials and nonrandomized controlled trial . In general,\nthe score ranges were grouped into the following 4 quality\nlevels: excellent (26-28), good (20-25), fair (15-19), and\npoor (o14)."
+        ],
+        "negative_ctxs": [
+            1,
+            5
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "General study\ncharacteristics were presented in Table 1. Of the 17 studies,\n12 was about PC [5-9,13-18,24] (2 were cohort studies), 6\nwas about BPH [15,19-23] (1 reported both PC and BPH\n).\n\nFig. 2. Association between male pattern baldness and the risk of prostate cancer. (A) Any pattern baldness and prostate cancer. (B) Any pattern baldness and\naggressive prostate cancer. (C) Any pattern baldness and nonaggressive prostate cancer. (Color version of the figure available online.)\n\nFig. 6. Association between male pattern baldness and the risk of benign prostatic hyperplasia. (Color version of the figure available online.)"
+        ],
+        "negative_ctxs": [
+            12,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Heterogeneity, that is, the proportion of variability across\nstudies was assessed using Cochran's Q statistic and\nquantified using the I2 statistic. If high heterogeneity\n(I2 > 50) was found, influence analysis (one kind method\nof sensitivity analysis) would be performed. We would take\nout included studies one by one (\"leave one out\") to see which study influenced the heterogeneity of the metaanalysis.\nPooled estimates were calculated omitting one\nstudy at a time. For all statistical analyses, a 2-sided\nP < 0.05 was considered statistically significant.\n\nWe examined the relationship between any pattern\nbaldness and the risk of PC using data from 11 studies.\nThere was no significant association between any pattern\nbaldness and PC risk (OR = 1.05; 95% CI: 0.98-1.12;\nP = 0.19) (Fig. 2A). Meta-analysis of 5 case-control\nstudies revealed statistically significant association between\nany pattern baldness and aggressive PC (OR = 1.60; 95%\nCI: 1.37-1.86; P < 0.001; I2 = 0%) (Fig. 2B). The later\ninclusion of the study by Zhou et al.  as the \"leave one\nout\" sensitivity analysis (influence analysis), the pooled\nresults did not change substantially (OR = 1.48; 95% CI:\n1.18-1.85; P = 0.0006), however, it introduced significant\nheterogeneity into the analysis (I2 = 65%) (Supplemental\nFig. 1). Therefore, we excluded it from the analysis. There\nwere 5 case-control studies evaluated the association\nbetween baldness and nonaggressive PC. We found no\nstatistically significant association between them (OR =\n1.04; 95% CI: 0.92-1.19; P = 0.52; I2 = 18%) (Fig. 2C).\n\nMeta-analysis of 5 studies revealed a statistically significant\nassociation between MPB and BPH (OR = 1.26;\n95% CI: 1.06-1.51; P = 0.01; I2 = 1%) (Fig. 6). The later\ninclusion of the study by Oh et al.  as a sensitivity\nanalysis, not affected the result (OR = 1.56; 95% CI: 1.10-\n2.19; P = 0.01), however, it also introduced significant\nheterogeneity into the analysis (I2 = 69%, P = 0.007)."
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Tao Jin has received grant from the Scientific Research\nProjects of Sichuan Health Bureau (20140030), the Technology\nSupport Plan of Sichuan Province (2014SZ0210), Sichuan Province Traditional Chinese Medicine Science\nand Technology (2016Q042). Tao Wu has received grant\nfrom Natural Science Foundation of Sichuan Provincial\nDepartment of Education (16ZB0227) and Scientific\nResearch Foundation of Health and Family Planning\nCommission of Sichuan Province (17PJ155). The funders\nhad no role in study design, data collection and analysis,\ndecision to publish, or preparation of the article."
+        ],
+        "negative_ctxs": [
+            6,
+            2
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Several limitations of our meta-analysis merit discussion.\nFirst, our analysis includes 3 cohort studies and 14 casecontrol\nstudies. Therefore, the confounding bias from\nincluded study per se cannot be excluded. Second, although\nwe included only studies that used the Hamilton scale to\nevaluate baldness patterns, most studies included in this\nmeta-analysis assessed baldness relied on self-reported\nwhich may introduce confounding factors."
+        ],
+        "negative_ctxs": [
+            4,
+            9
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    }
+]

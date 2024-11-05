@@ -1,0 +1,478 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Therefore, the aim of this study was to systematically review the literature to assess the efficacy and safety of WWT for patients with AD.\r\n\r\n\r\nincluding patients of all ages with a diagnosis of AD made according to predefined criteria or by a dermatologist were included. WWT, defined as the application of a diluted or undiluted steroid under a layer of wet bandage or garment, should be compared against no treatment, placebo or other topical or systemic treatment for AD."
+        ],
+        "negative_ctxs": [
+            5,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Randomized controlled clinical trials including patients of all ages with a diagnosis of AD made according to predefined cri\u0002teria or by a dermatologist were included. WWT, defined as the application of a diluted or undiluted steroid under a layer of wet bandage or garment, should be compared against no treatment, placebo or other topical or systemic treatment for AD. The primary review outcome was clinical severity, and the secondary outcomes were quality of life (QoL), mild local adverse events (folliculitis and infected eczema) and severe adverse events (eczema herpeticum, irreversible skin changes such as atrophy or striae distensae and systemic steroid effects). For the timing of outcome assessment, we chose the available end point closest to 2 weeks. The reason for having chosen this timing is that WWT is mainly recommended for the short-term management of severe flares of AD"
+        ],
+        "negative_ctxs": [
+            15,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "No filters or language restrictions were used. "
+        ],
+        "negative_ctxs": [
+            14,
+            0
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched the following electronic databases from 1970 to 30 March 2016: the Cochrane Central Register of Controlled Trials, MEDLINE through PubMed, Embase and the World Health Organization International Clinical Trials Registry Platform (\r\n\r\n\r\nFinally, we searched the website www.opengrey.eu/ "
+        ],
+        "negative_ctxs": [
+            20,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We also checked the reference lists of included studies for further references to relevant trials. Finally, we searched the website www.opengrey.eu/ and established contact with researchers in the field to identify unpublished additional studies."
+        ],
+        "negative_ctxs": [
+            11,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Supplementary table 1: Bibliographic electronic search strategy."
+        ],
+        "negative_ctxs": [
+            19,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "No filters or language restrictions were used. \r\n\r\n\r\nWe searched the following electronic databases from 1970 to 30 March 2016"
+        ],
+        "negative_ctxs": [
+            1,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Selection of studies, data collection and grading of overall evidence were performed independently by two researchers (G.G.-L. and R.M.C.-R.), and discrepancies were resolved by consensus."
+        ],
+        "negative_ctxs": [
+            4,
+            16
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Selection of studies, data collection and grading of overall evidence were performed independently by two researchers (G.G.-L. and R.M.C.-R.), and discrepancies were resolved by consensus."
+        ],
+        "negative_ctxs": [
+            0,
+            19
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Characteristics of included studies:\r\nStudy, Design, Participants, Intervention, Duration of intervention, Outcome"
+        ],
+        "negative_ctxs": [
+            19,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "For missing data, we contacted the study authors for additional information. In case of nonresponse, we imputed the missing data when possible: for continuous outcomes we used the last observation carried forward (LOCF) method, and for dichotomous outcomes, we assumed that participants with incomplete data did not suffer the event.\r\n\r\n\r\nFig 3. Forest plot of trials comparing wet wrap therapy (WWT) vs. topical steroids. (a) Outcome: clinical severity. (b) Outcome: local adverse events. CI, confidence interval. M-H refers to the Mantel-Haenszel test, which was the statistical method used for the meta-analysis of mild adverse events.\r\n\r\n\r\nSupplementary Table 2. Characteristics of the included studies."
+        ],
+        "negative_ctxs": [
+            15,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Criteria for study selection: Randomized controlled clinical trials\r\n\r\n\r\nAssessment of risk of bias in each study was performed with the tool developed by the Cochrane Collaboration"
+        ],
+        "negative_ctxs": [
+            14,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Selection of studies, data collection and grading of overall\r\nevidence were performed independently by two researchers\r\n(G.G.-L. and R.M.C.-R.), and discrepancies were resolved by\r\nconsensus."
+        ],
+        "negative_ctxs": [
+            1,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Finally only six studies met all inclusion criteria and were selected for this review.\n\n\nAll of the included studies addressed our primary outcome, clinical severity, which was measured by different objective scales (Table 2): Six Area, Six Sign Atopic Dermatitis severity score (SASSAD),11,12,15 local SCORing Atopic Dermatitis (local SCORAD),13 SCORAD14 and an objective ad hoc scale\n\n\nDifferences in clinical severity could be calculated for three studies and expressed as SMD (Fig. 3). Due to the high heterogeneity of results across studies a pooled estimate was not calculated.\n\n\nAs for those studies not included in Figure 3, one found a significant improvement with the WWT group but did not report its magnitude, another observed a nonsignificant difference in the median reduction of severity of -2.5 (95% CI -6 to 7) that favoured WWT, and another study found a significant clinical improvement under WWT but its magnitude was not reported.\n\n\nFig 3. Forest plot of trials comparing wet wrap therapy (WWT) vs. topical steroids. (a) Outcome: clinical severity. (b) Outcome: local adverse events. CI, confidence interval. M-H refers to the Mantel-Haenszel test, which was the statistical method used for the meta-analysis of mild adverse events"
+        ],
+        "negative_ctxs": [
+            12,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "A random-effects model was chosen for I 2 > 50%, and a fixed-effects model for I 2 <= 50%."
+        ],
+        "negative_ctxs": [
+            1,
+            20
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Fig 3. Forest plot of trials comparing wet wrap therapy (WWT) vs. topical steroids. (a) Outcome: clinical severity. (b) Outcome: local adverse events. CI, confidence interval. M-H refers to the Mantel-Haenszel test, which was the statistical method used for the meta-analysis of mild adverse events\r\n\r\n\r\nLastly, we performed sensitivity analyses, which consisted of excluding each study from the analysis, excluding studies at high risk of bias, exploring the effect of the type of meta-analysis used, assuming that missing data did suffer the outcome event and exploring the effect of the LOCF imputation. The small number of studies included in the review precluded the use of funnel plots to assess the risk of reporting bias."
+        ],
+        "negative_ctxs": [
+            10,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "when the sensitivity analysis assuming an available-case scenario was done the results proved similar"
+        ],
+        "negative_ctxs": [
+            13,
+            1
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Table 3 Quality of the evidence and summary of findings of wet wrap therapy (WWT) vs. topical steroids (TS) on several outcomes among patients with atopic dermatitis"
+        ],
+        "negative_ctxs": [
+            9,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "With respect to potential biases in the review process, given that bibliographic searches were performed in several databases and that grey literature was also searched, it is unlikely that we missed relevant studies.5,6,21,22 However, the small number of included studies made the funnel plots meaningless, and no conclusions on publication bias could be drawn.Finally, the imputation methods used can be another sourceof bias. Changing the imputation assumptions in the meta-analysis of local adverse events had a relevant influence on thepooled effect, but this issue has been dealt with by including both scenarios in this article."
+        ],
+        "negative_ctxs": [
+            19,
+            12
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Therefore, the aim of this study was to systematically review the literature to assess the efficacy and safety of WWT for patients with AD.\r\n\r\n\r\nincluding patients of all ages with a diagnosis of AD made according to predefined criteria or by a dermatologist were included. WWT, defined as the application of a diluted or undiluted steroid under a layer of wet bandage or garment, should be compared against no treatment, placebo or other topical or systemic treatment for AD."
+        ],
+        "negative_ctxs": [
+            18,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            9,
+            7
+        ],
+        "positive_ctxs": [
+            0,
+            4,
+            12,
+            14,
+            15,
+            16,
+            18
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Randomized controlled clinical trials including patients of all ages with a diagnosis of AD made according to predefined cri\u0002teria or by a dermatologist were included. WWT, defined as the application of a diluted or undiluted steroid under a layer of wet bandage or garment, should be compared against no treatment, placebo or other topical or systemic treatment for AD. The primary review outcome was clinical severity, and the secondary outcomes were quality of life (QoL), mild local adverse events (folliculitis and infected eczema) and severe adverse events (eczema herpeticum, irreversible skin changes such as atrophy or striae distensae and systemic steroid effects). For the timing of outcome assessment, we chose the available end point closest to 2 weeks. The reason for having chosen this timing is that WWT is mainly recommended for the short-term management of severe flares of AD"
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Criteria for study selection: Randomized controlled clinical trials"
+        ],
+        "negative_ctxs": [
+            3,
+            1
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched the following electronic databases from 1970 to 30 March 2016: the Cochrane Central Register of Controlled Trials, MEDLINE through PubMed, Embase and the World Health Organization International Clinical Trials Registry Platform (\r\n\r\n\r\nFinally, we searched the website www.opengrey.eu/ "
+        ],
+        "negative_ctxs": [
+            16,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Selection of studies, data collection and grading of overall evidence were performed independently by two researchers (G.G.-L. and R.M.C.-R.), and discrepancies were resolved by consensus."
+        ],
+        "negative_ctxs": [
+            19,
+            3
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Selection of studies, data collection and grading of overall evidence were performed independently by two researchers (G.G.-L. and R.M.C.-R.), and discrepancies were resolved by consensus."
+        ],
+        "negative_ctxs": [
+            9,
+            15
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "After excluding duplicates a total of 183 records were found. Of these, after assessing titles and abstracts, 26 records were selected for full-text assessment. Finally only six studies met all inclusion criteria and were selected for this review.11-17 The reasons for exclusion of the remaining 16 studies are shown in Figure 1."
+        ],
+        "negative_ctxs": [
+            18,
+            5
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Characteristics of included studies:\r\nStudy, Design, Participants, Intervention, Duration of intervention, Outcome"
+        ],
+        "negative_ctxs": [
+            3,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Criteria for study selection: Randomized controlled clinical trials\r\n\r\n\r\nAssessment of risk of bias in each study was performed with the tool developed by the Cochrane Collaboration"
+        ],
+        "negative_ctxs": [
+            9,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "A random-effects model was chosen for I 2 > 50%, and a fixed-effects model for I 2 <= 50%."
+        ],
+        "negative_ctxs": [
+            16,
+            4
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Fig 3. Forest plot of trials comparing wet wrap therapy (WWT) vs. topical steroids. (a) Outcome: clinical severity. (b) Outcome: local adverse events. CI, confidence interval. M-H refers to the Mantel-Haenszel test, which was the statistical method used for the meta-analysis of mild adverse events\r\n\r\n\r\nLastly, we performed sensitivity analyses, which consisted of excluding each study from the analysis, excluding studies at high risk of bias, exploring the effect of the type of meta-analysis used, assuming that missing data did suffer the outcome event and exploring the effect of the LOCF imputation. The small number of studies included in the review precluded the use of funnel plots to assess the risk of reporting bias."
+        ],
+        "negative_ctxs": [
+            16,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "when the sensitivity analysis assuming an available-case scenario was done the results proved similar"
+        ],
+        "negative_ctxs": [
+            9,
+            14
+        ],
+        "positive_ctxs": [
+            10
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Table 3 Quality of the evidence and summary of findings of wet wrap therapy (WWT) vs. topical steroids (TS) on several outcomes among patients with atopic dermatitis"
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding sources: None. Conflicts of interest: None declared."
+        ],
+        "negative_ctxs": [
+            19,
+            2
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "With respect to potential biases in the review process, given that bibliographic searches were performed in several databases and that grey literature was also searched, it is unlikely that we missed relevant studies.5,6,21,22 However, the small number of included studies made the funnel plots meaningless, and no conclusions on publication bias could be drawn.Finally, the imputation methods used can be another sourceof bias. Changing the imputation assumptions in the meta-analysis of local adverse events had a relevant influence on thepooled effect, but this issue has been dealt with by including both scenarios in this article."
+        ],
+        "negative_ctxs": [
+            0,
+            3
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    }
+]

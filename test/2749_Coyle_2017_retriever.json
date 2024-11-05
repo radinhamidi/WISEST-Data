@@ -1,0 +1,478 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "The protocol for this review was published in PROSPERO (Registration no. CRD42015029303)."
+        ],
+        "negative_ctxs": [
+            22,
+            29
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Studies were eligible if they: (a) were randomized controlled trials, (b) included adults (>=18 years) with acute stage herpes zoster, (c) evaluated the combination of acupuncture plus moxibustion, and (d) used guideline recommended treatments (antiviral therapy and/or analgesics) (Dworkin et al., 2007; Gross et al., 2003; Volpi et al., 2005), no treatment or sham/placebo as the comparator. As diagnosis is usually clinical, no additional requirements for diagnosis were applied. Studies which evaluated the combination of acupuncture plus moxibustion alone, or as adjunct to guideline recommended treatments were eligible. Studies were excluded if the condition being treated was PHN, complications of herpes zoster (Ramsay Hunt syndrome, zoster opthalmicus, zoster sine herpete, visceral or disseminated zoster, bacterial infections), or included immunocompromised patients (eg HIV, cancer, diabetes, pregnant, or breastfeeding). Studies where the comparator was herpes zoster vaccine or a Chinese medicine therapy were also excluded."
+        ],
+        "negative_ctxs": [
+            1,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Studies were eligible if they: (a) were randomized controlled trials, (b) included adults (>=18 years) with acute stage herpes zoster, (c) evaluated the combination of acupuncture plus moxibustion, and (d) used guideline recommended treatments (antiviral therapy and/or analgesics) (Dworkin et al., 2007; Gross et al., 2003; Volpi et al., 2005), no treatment or sham/placebo as the comparator. As diagnosis is usually clinical, no additional requirements for diagnosis were applied. Studies which evaluated the combination of acupuncture plus moxibustion alone, or as adjunct to guideline recommended treatments were eligible. Studies were excluded if the condition being treated was PHN, complications of herpes zoster (Ramsay Hunt syndrome, zoster opthalmicus, zoster sine herpete, visceral or disseminated zoster, bacterial infections), or included immunocompromised patients (eg HIV, cancer, diabetes, pregnant, or breastfeeding). Studies where the comparator was herpes zoster vaccine or a Chinese medicine therapy were also excluded."
+        ],
+        "negative_ctxs": [
+            1,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Five English (PubMed, Embase, CINAHL, CENTRAL, and AMED) and four Chinese (CBM, CNKI, CQVIP, Wanfang Data) databases were searched from inceptions to February 2014, with an update search run in March 2016."
+        ],
+        "negative_ctxs": [
+            8,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Search terms were grouped according to condition (herpes zoster, zoster, varicella zoster virus, and variants), intervention (acupuncture, moxibustion, and variants), and study design (randomized, controlled, placebo, and variants)."
+        ],
+        "negative_ctxs": [
+            12,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            29,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Characteristics of studies, details of interventions and comparators, outcomes and results were extracted into a pre-defined spreadsheet."
+        ],
+        "negative_ctxs": [
+            2,
+            17
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "TABLE 1 Characteristics and intervention details of the included trials"
+        ],
+        "negative_ctxs": [
+            21,
+            10
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "FIGURE 2 Pain score. Notes: Acup: acupuncture; CI: confidence interval; moxa: moxibustion; SD: standard deviation\n\n4 | PAIN OUTCOMES\n4.1 | Pain intensity\nOne study reported on VAS pain scores at the end of treatment and at 60 days (Li, 2011). Pain score at end of treatment was 8.25 mm lower in those who received acupuncture plus moxibustion compared to valacyclovir plus vitamin B1 and saline compress, with significant statistical difference shown (MD 28.25 mm; 95% CI 212.36 to 24.14) (Figure 2). Whilst statistically significant, this result is less than a 1cm difference between groups. This is unlikely to be clinically meaningful, particularly when considering the wide variation in results and the trial being unblinded. This effect was not sustained at follow up (MD 21.62 mm; 95% CI 23.39 to 0.15).\n4.2 | Time to resolution of pain\nTwo studies reported time to resolution of pain (Lin & Zhao, 2012; Wang, 2011). One study did not specify the time from which measurement was made (Wang, 2011), and data were excluded from this outcome. The other study reported the time from start of treatment to resolution of pain (Lin & Zhao, 2012). Pain resolution was achieved 6.59 days earlier in the participants who received acupuncture plus moxibustion compared to oral and topical acyclovir (MD 26.59 days; 95% CI 28.07 to 25.11). It should be noted that topical acyclovir is not effective for herpes zoster and is not recommended in clinical practice guidelines (Dworkin et al., 2007).\n5 | CUTANEOUS OUTCOMES\n5.1 | Time to resolution of rash\nThree studies reported on time to resolution of rash (Li, 2011; Li et al., 2014; Wang, 2011). Two studies did not specify the time point from which measurement was made, and were not analysed (Li et al., 2014; Wang, 2011). One study reported the time from rash onset to resolution (Li, 2011). Resolution of the rash occurred 3.4 days earlier in the acupuncture plus moxibustion group than in the comparator group (valacyclovir plus vitamin B1 and saline compress; MD 23.4 days; 95% CI 23.71 to 23.09).\n5.2 | Time to crust formation\nFive studies reported on time to crust formation (Li, 2011; Li et al., 2014; Lin & Zhao, 2012; Liu, 2010; Wang, 2011). Three studies did not specify the time point from which measurements were made, and were excluded from the analysis (Li et al., 2014; Liu, 2010; Wang, 2011). Crust formation measured from rash onset occurred 1.42 days earlier in those who received acupuncture plus moxibustion compared with those who received valacyclovir plus vitamin B1 and saline compress (MD 21.42 days; 95% CI 21.52 to 21.32) (Li, 2011). When measured from the start of treatment, benefit was also seen with acupuncture plus moxibustion compared with oral and topical acyclovir (Lin & Zhao, 2010), with crust formation occurring 1.64 days earlier (MD 21.64\ndays; 95% CI 22.87 to 20.41).\n5.3 | Time to cessation of new lesion formation\nFour studies reported the time to cessation of new lesion formation (Li, 2011; Li et al., 2014; Lin & Zhao, 2012; Liu, 2010), with two excluded from analysis due to lack of detail about the time from which measurements were made (Li et al., 2014; Liu, 2010). Acupuncture plus moxibustion resulted in a lesser time to cessation of new lesion formation compared with valacyclovir, vitamin B1 and saline compress when measured from rash onset (MD 20.29 days; 95% CI 20.35 to 20.23) (Li, 2011). When measured from start of treatment, acupuncture plus moxibustion reduced the time to cessation of new lesions compared with oral and topical acyclovir (MD 21.26 days; 95% CI 22.16 to 20.36) (Lin & Zhao, 2012).\n5.3.1 | Incidence of PHN\nFour studies reported on the incidence of PHN (Li, 2011; Lin & Zhao, 2012; Liu, 2010; Lu, 2004). Sub-group analysis was performed according to PHN definition (one/three months after resolution of the rash). Meta-analysis showed a significant reduction in the incidence of PHN (one month after rash resolution) in those who received acupuncture plus moxibustion compared to pharmacotherapy (two studies; RR 0.29; 95% CI 0.16 to 0.53; I250%) (Li, 2011; Lin & Zhao, 2012). In studies which measured PHN three months after rash resolution, no statistical difference was seen (two studies; RR 0.16; 95% CI 0.02 to 1.35; I250%) (Liu, 2010; Lu, 2004).\n5.3.2 | Therapeutic effective rate\nOf the six studies which reported therapeutic effect rate (Bao, 2011; Chen, 2012; Lin & Zhao, 2012; Liu, 2010; Wang, 2011; Yang, 2014), one study reported data in a different way to that described in the guideline (Yang, 2014). This study was excluded from analysis. The chance of achieving a 30% or greater improvement in lesions and significant pain reduction with acupuncture plus moxibustion was 2.67 that of pharmacotherapy (RR 2.67; 95% CI 2.03 to 3.52; I2543%).\n5.3.3 | Adverse events\nTwo studies reported on adverse events (Li, 2011; Liu, 2010). One of them reported no adverse events occurred (Liu, 2010). Two cases of haematoma and five cases of bleeding were reported in the intervention group of one study (Li, 2011). The adverse events were mild and the symptoms were relieved by local pressing or massage. No adverse events were reported in any of the control groups. Seven studies did not report any information on adverse events."
+        ],
+        "negative_ctxs": [
+            14,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Quality assessment was made using the Cochrane Collaboration's risk of bias tool independently by two researchers (KW, WZ). If disagreement was seen in assessments, this was resolved through discussion with a third researcher (MC)."
+        ],
+        "negative_ctxs": [
+            17,
+            9
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Quality assessment was made using the Cochrane Collaboration's risk of bias tool independently by two researchers (KW, WZ). "
+        ],
+        "negative_ctxs": [
+            16,
+            25
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "4 | PAIN OUTCOMES\n4.1 | Pain intensity\nOne study reported on VAS pain scores at the end of treatment and at 60 days (Li, 2011). Pain score at end of treatment was 8.25 mm lower in those who received acupuncture plus moxibustion compared to valacyclovir plus vitamin B1 and saline compress, with significant statistical difference shown (MD 28.25 mm; 95% CI 212.36 to 24.14) (Figure 2). Whilst statistically significant, this result is less than a 1cm difference between groups. This is unlikely to be clinically meaningful, particularly when considering the wide variation in results and the trial being unblinded. This effect was not sustained at follow up (MD 21.62 mm; 95% CI 23.39 to 0.15).\n4.2 | Time to resolution of pain\nTwo studies reported time to resolution of pain (Lin & Zhao, 2012; Wang, 2011). One study did not specify the time from which measurement was made (Wang, 2011), and data were excluded from this outcome. The other study reported the time from start of treatment to resolution of pain (Lin & Zhao, 2012). Pain resolution was achieved 6.59 days earlier in the participants who received acupuncture plus moxibustion compared to oral and topical acyclovir (MD 26.59 days; 95% CI 28.07 to 25.11). It should be noted that topical acyclovir is not effective for herpes zoster and is not recommended in clinical practice guidelines (Dworkin et al., 2007).\n5 | CUTANEOUS OUTCOMES\n5.1 | Time to resolution of rash\nThree studies reported on time to resolution of rash (Li, 2011; Li et al., 2014; Wang, 2011). Two studies did not specify the time point from which measurement was made, and were not analysed (Li et al., 2014; Wang, 2011). One study reported the time from rash onset to resolution (Li, 2011). Resolution of the rash occurred 3.4 days earlier in the acupuncture plus moxibustion group than in the comparator group (valacyclovir plus vitamin B1 and saline compress; MD 23.4 days; 95% CI 23.71 to 23.09).\n5.2 | Time to crust formation\nFive studies reported on time to crust formation (Li, 2011; Li et al., 2014; Lin & Zhao, 2012; Liu, 2010; Wang, 2011). Three studies did not specify the time point from which measurements were made, and were excluded from the analysis (Li et al., 2014; Liu, 2010; Wang, 2011). Crust formation measured from rash onset occurred 1.42 days earlier in those who received acupuncture plus moxibustion compared with those who received valacyclovir plus vitamin B1 and saline compress (MD 21.42 days; 95% CI 21.52 to 21.32) (Li, 2011). When measured from the start of treatment, benefit was also seen with acupuncture plus moxibustion compared with oral and topical acyclovir (Lin & Zhao, 2010), with crust formation occurring 1.64 days earlier (MD 21.64\ndays; 95% CI 22.87 to 20.41).\n5.3 | Time to cessation of new lesion formation\nFour studies reported the time to cessation of new lesion formation (Li, 2011; Li et al., 2014; Lin & Zhao, 2012; Liu, 2010), with two excluded from analysis due to lack of detail about the time from which measurements were made (Li et al., 2014; Liu, 2010). Acupuncture plus moxibustion resulted in a lesser time to cessation of new lesion formation compared with valacyclovir, vitamin B1 and saline compress when measured from rash onset (MD 20.29 days; 95% CI 20.35 to 20.23) (Li, 2011). When measured from start of treatment, acupuncture plus moxibustion reduced the time to cessation of new lesions compared with oral and topical acyclovir (MD 21.26 days; 95% CI 22.16 to 20.36) (Lin & Zhao, 2012).\n5.3.1 | Incidence of PHN\nFour studies reported on the incidence of PHN (Li, 2011; Lin & Zhao, 2012; Liu, 2010; Lu, 2004). Sub-group analysis was performed according to PHN definition (one/three months after resolution of the rash). Meta-analysis showed a significant reduction in the incidence of PHN (one month after rash resolution) in those who received acupuncture plus moxibustion compared to pharmacotherapy (two studies; RR 0.29; 95% CI 0.16 to 0.53; I250%) (Li, 2011; Lin & Zhao, 2012). In studies which measured PHN three months after rash resolution, no statistical difference was seen (two studies; RR 0.16; 95% CI 0.02 to 1.35; I250%) (Liu, 2010; Lu, 2004).\n5.3.2 | Therapeutic effective rate\nOf the six studies which reported therapeutic effect rate (Bao, 2011; Chen, 2012; Lin & Zhao, 2012; Liu, 2010; Wang, 2011; Yang, 2014), one study reported data in a different way to that described in the guideline (Yang, 2014). This study was excluded from analysis. The chance of achieving a 30% or greater improvement in lesions and significant pain reduction with acupuncture plus moxibustion was 2.67 that of pharmacotherapy (RR 2.67; 95% CI 2.03 to 3.52; I2543%).\n5.3.3 | Adverse events\nTwo studies reported on adverse events (Li, 2011; Liu, 2010). One of them reported no adverse events occurred (Liu, 2010). Two cases of haematoma and five cases of bleeding were reported in the intervention group of one study (Li, 2011). The adverse events were mild and the symptoms were relieved by local pressing or massage. No adverse events were reported in any of the control groups. Seven studies did not report any information on adverse events.\n6 | DISCUSSION\nThe findings from this systematic review suggest potential benefit from acupuncture and moxibustion in reducing pain intensity, improving rash healing, and reducing the incidence of PHN, although few studies reported these outcomes."
+        ],
+        "negative_ctxs": [
+            28,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "A random effects model was used for all analyses. Statistical heterogeneity was considered present if p < .10 in the Chi square test for heterogeneity, and the I2 statistic was greater than 50%. Statistical heterogeneity was explored through sensitivity analysis for studies assessed as low risk of bias for sequence generation, and further sub-group analysis was planned according to comparator type and use of local or distal acupuncture points. If 10 or more studies were included in a meta-analysis, we planned to explore publication bias through visual inspection of funnel plots. This was not possible, as none of the meta-analyses included 10 studies.\n\nStrategy for data synthesis\nData will be analyzed using Review Manager (RevMan) software. Dichotomous data will be expressed as Risk Ratio (RR), and continuous data as Mean Difference (MD), and 95% confidence intervals (CI). The I-squared statistic will be used to detect statistical heterogeneity. If considerable heterogeneity is detected (P<0.1, I-squared >50%), sources of heterogeneity will be explored. Publication bias will be explored using visual inspection of funnel plots for meta-analyses with 10 or more studies.\nAnalysis of subgroups or subsets\nSubgroup analysis will be conducted based on comparators and duration of treatment."
+        ],
+        "negative_ctxs": [
+            30,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Continuous data were presented as mean difference (MD) and dichotomous data were presented as risk ratio (RR), with 95% confidence intervals (CI). A random effects model was used for all analyses."
+        ],
+        "negative_ctxs": [
+            22,
+            12
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "I2=0%\n\nI2=43%"
+        ],
+        "negative_ctxs": [
+            7,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "If 10 or more studies were included in a meta-analysis, we planned to explore publication bias through visual inspection of funnel plots. This was not possible, as none of the metaanalyses included 10 studies."
+        ],
+        "negative_ctxs": [
+            20,
+            12
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Three studies used a random number generator (Lin & Zhao, 2012; Liu, 2010; Wang, 2011) and one used computer based central randomization (Li, 2011); all were assessed as low risk of bias for sequence generation. The remaining studies did not provide sufficient information about randomization processes, and were judged to be at unclear risk of bias. One study which used central allocation was judged as low risk of bias for allocation concealment (Li, 2011), while all others were judged as unclear risk due to insufficient detail. Due to the nature of the intervention and comparator, it was not possible to blind participants and personnel to group allocation, and all studies were judged to be at high risk of bias. One study reported blinding outcome assessors to group allocation (Li, 2011), and was considered to be at low risk of bias for this domain. One study reported participant loss but did not describe the reasons (Li, 2011). As the number of dropouts was similar in both groups, this study was judged as low risk of bias. Another study reported loss to follow up (Wang, 2011) (n56), but the number in each group was not specified. This study was judged as unclear risk of bias. Other studies reported data for all participants randomized and were judged as low risk. One trial was registered (Li, 2011), but the details provided were insufficient, and the study was considered as unclear risk of bias for selective outcome reporting. No trial protocol or registration was available for all other studies, which were at unclear risk of bias.\n\nMany of the studies included in this review had methodological flaws which limits interpretation of the results. There was a lack of detail about the randomization process, blinding and outcome assessment. These factors are likely to influence the reliability of the results.\n\nWhile single studies have produced some positive results, overall there is insufficient evidence from high quality studies reporting on objective outcomes."
+        ],
+        "negative_ctxs": [
+            2,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Many of the studies included in this review had methodological flaws which limits interpretation of the results. There was a lack of detail about the randomization process, blinding and outcome assessment. These factors are likely to influence the reliability of the results. With the exception of the VAS, few outcomes in herpes zoster research have been standardised or validated. With a complex intervention like acupuncture, the selection of objective outcomes becomes even more important to minimise bias in the results."
+        ],
+        "negative_ctxs": [
+            11,
+            18
+        ],
+        "positive_ctxs": [
+            24
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "TABLE 1 Characteristics and intervention details of the included trials"
+        ],
+        "negative_ctxs": [
+            6,
+            21
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            2,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "The protocol for this review was published in PROSPERO (Registration no. CRD42015029303)."
+        ],
+        "negative_ctxs": [
+            7,
+            24
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Studies were eligible if they: (a) were randomized controlled trials, (b) included adults (>=18 years) with acute stage herpes zoster, (c) evaluated the combination of acupuncture plus moxibustion, and (d) used guideline recommended treatments (antiviral therapy and/or analgesics) (Dworkin et al., 2007; Gross et al., 2003; Volpi et al., 2005), no treatment or sham/placebo as the comparator. As diagnosis is usually clinical, no additional requirements for diagnosis were applied. Studies which evaluated the combination of acupuncture plus moxibustion alone, or as adjunct to guideline recommended treatments were eligible. Studies were excluded if the condition being treated was PHN, complications of herpes zoster (Ramsay Hunt syndrome, zoster opthalmicus, zoster sine herpete, visceral or disseminated zoster, bacterial infections), or included immunocompromised patients (eg HIV, cancer, diabetes, pregnant, or breastfeeding). Studies where the comparator was herpes zoster vaccine or a Chinese medicine therapy were also excluded."
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Five English (PubMed, Embase, CINAHL, CENTRAL, and AMED) and four Chinese (CBM, CNKI, CQVIP, Wanfang Data) databases were searched from inceptions to February 2014, with an update search run in March 2016."
+        ],
+        "negative_ctxs": [
+            2,
+            14
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            8,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Characteristics of studies, details of interventions and comparators, outcomes and results were extracted into a pre-defined spreadsheet."
+        ],
+        "negative_ctxs": [
+            20,
+            13
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "TABLE 1 Characteristics and intervention details of the included trials"
+        ],
+        "negative_ctxs": [
+            4,
+            23
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Quality assessment was made using the Cochrane Collaboration's risk of bias tool independently by two researchers (KW, WZ). If disagreement was seen in assessments, this was resolved through discussion with a third researcher (MC)."
+        ],
+        "negative_ctxs": [
+            25,
+            23
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Continuous data were presented as mean difference (MD) and dichotomous data were presented as risk ratio (RR), with 95% confidence intervals (CI). A random effects model was used for all analyses."
+        ],
+        "negative_ctxs": [
+            29,
+            14
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "I2=0%\n\nI2=43%"
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "If 10 or more studies were included in a meta-analysis, we planned to explore publication bias through visual inspection of funnel plots. This was not possible, as none of the metaanalyses included 10 studies."
+        ],
+        "negative_ctxs": [
+            21,
+            18
+        ],
+        "positive_ctxs": [
+            8
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Three studies used a random number generator (Lin & Zhao, 2012; Liu, 2010; Wang, 2011) and one used computer based central randomization (Li, 2011); all were assessed as low risk of bias for sequence generation. The remaining studies did not provide sufficient information about randomization processes, and were judged to be at unclear risk of bias. One study which used central allocation was judged as low risk of bias for allocation concealment (Li, 2011), while all others were judged as unclear risk due to insufficient detail. Due to the nature of the intervention and comparator, it was not possible to blind participants and personnel to group allocation, and all studies were judged to be at high risk of bias. One study reported blinding outcome assessors to group allocation (Li, 2011), and was considered to be at low risk of bias for this domain. One study reported participant loss but did not describe the reasons (Li, 2011). As the number of dropouts was similar in both groups, this study was judged as low risk of bias. Another study reported loss to follow up (Wang, 2011) (n56), but the number in each group was not specified. This study was judged as unclear risk of bias. Other studies reported data for all participants randomized and were judged as low risk. One trial was registered (Li, 2011), but the details provided were insufficient, and the study was considered as unclear risk of bias for selective outcome reporting. No trial protocol or registration was available for all other studies, which were at unclear risk of bias.\n\nMany of the studies included in this review had methodological flaws which limits interpretation of the results. There was a lack of detail about the randomization process, blinding and outcome assessment. These factors are likely to influence the reliability of the results.\n\nWhile single studies have produced some positive results, overall there is insufficient evidence from high quality studies reporting on objective outcomes."
+        ],
+        "negative_ctxs": [
+            25,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding Information\nChina-Australia International Research Centre for Chinese Medicine (CAIRCCM) - a joint initiative of RMIT University, Australia and the Guangdong Provincial Academy of Chinese Medical Sciences, China with additional funding support from the Ministry of Science & Technology of China (International Cooperation Project), Grant/Award Number: 2012DFA31760; the State Administration of TCM (International Science and Technology Cooperation Project), Grant/Award Number: 1601500000027 (11)\n\nCONFLICT OF INTEREST\nNo conflict of interest."
+        ],
+        "negative_ctxs": [
+            10,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Many of the studies included in this review had methodological flaws which limits interpretation of the results. There was a lack of detail about the randomization process, blinding and outcome assessment. These factors are likely to influence the reliability of the results. With the exception of the VAS, few outcomes in herpes zoster research have been standardised or validated. With a complex intervention like acupuncture, the selection of objective outcomes becomes even more important to minimise bias in the results."
+        ],
+        "negative_ctxs": [
+            8,
+            25
+        ],
+        "positive_ctxs": [
+            24
+        ]
+    }
+]

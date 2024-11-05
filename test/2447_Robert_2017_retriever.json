@@ -1,0 +1,454 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            33,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "The management of hidradenitis suppurativa is multidisciplinary, involving general measures, medical treatment and surgery.\n\n\nThe objective of this systematic review is to propose a synthetic analysis of the currently available non-surgical procedures.\n\n\nWe included all original articles pertaining to non-surgical treatment for Verneuil's disease"
+        ],
+        "negative_ctxs": [
+            13,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We included all original articles pertaining to non-surgical treatment for Verneuil's disease\r\n\r\n\r\nAn overwhelming majority of the articles dealt with biotherapies (44%), dynamic phototherapies (16%), antibiotics (11%), Laser treatments (8%), retinoids (6%) and hormonal treatments (5%). The remaining studies (10%) dealt with immunosuppressors, anti-inflammatory drugs, zinc, metformin, gammaglobulins and fumarates\r\n\r\n\r\nThe extracted data provided precise information on authors, publication date, type of study, number of cases and type of treatment, as well as duration of administration and follow-up, modality of evaluation (scale used), results and complications. Since heterogeneity and subjectivity rendered it difficult to analyze the results, as a means of harmonization we devised a simple scale ranging from 0 to +++: 0: no improvement; +: mild improvement; ++: significant improvement; +++: complete improvement/remission."
+        ],
+        "negative_ctxs": [
+            23,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "We included all original articles pertaining to non-surgical treatment for Verneuil's disease published between January 2005 and 30 September 2015 and comprising controlled trials and prospective or retrospective observational studies involving at least four patients. Case reports, reviews of the literature, discussions, commentaries, letters to the authors and editorials were excluded.\n\n\nWe have carried out a systematic review of the articles published over a very recent 10-year period on non-surgical treatments of hidradenitis suppurativa, our objective being to propose a synthetic analysis ofthe currently available non-surgical disease management procedures."
+        ],
+        "negative_ctxs": [
+            34,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "The articles were selected irrespective of language, and all resources were used in order to find a French or English version of the article, or to get hold of a translation."
+        ],
+        "negative_ctxs": [
+            27,
+            31
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We searched for articles published between January 2005 and September 2015 in the electronic data bases Medline, PubMed Central, Embase and Cochrane"
+        ],
+        "negative_ctxs": [
+            28,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            28,
+            32
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "In this research, we sued the English-language keywords ''hidradenitis suppur\u0002ativa'', ''acne inversa'' and ''Verneuil's disease''."
+        ],
+        "negative_ctxs": [
+            20,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "We included all original articles pertaining to non-surgical treatment for Verneuil's disease published between January 2005 and 30 September 2015 and comprising controlled trials and prospective or retrospective observational studies involving at least four patients. Case reports, reviews of the literature, discussions, commentaries, letters to the authors and editorials were excluded.\r\n\r\n\r\nWe have carried out a systematic review of the articles published over a very recent 10-year period on non-surgical treatments of hidradenitis suppurativa, our objective being to propose a synthetic analysis ofthe currently available non-surgical disease management procedures."
+        ],
+        "negative_ctxs": [
+            17,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            25,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            17,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1: Biologic therapies\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Scale used, Results, Complications\n\n\nTable 2: Systemic antibiotics\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Results, Complications\n\n\nTable 3: Photodynamic therapies\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 4: Retinoids\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 5: Antiandrogens\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 6: Anti-inflammatory drugs\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 7: Zinc gluconate\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 8: Metformin\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 9: Fumarates\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 10: Gamma-globulins\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 11: LASER therapies\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n"
+        ],
+        "negative_ctxs": [
+            21,
+            37
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Since heterogeneity and subjectivity rendered it difficult to analyze the results, as a means of harmonization we devised a simple scale ranging from 0 to +++: 0: no improvement; +: mild improvement; ++: significant improvement; +++: complete improvement/remission"
+        ],
+        "negative_ctxs": [
+            9,
+            10
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Once the titles had been reviewed, 119 references for non-surgical treatments were studied and 64 articles were finally included.\r\n\r\n\r\nTable 1: Biologic therapies\r\nAuthor, Year \r\n\r\n\r\nTable 2: Systemic antibiotics\r\nAuthor, Year \r\n\r\n\r\nTable 3: Photodynamic therapies\r\nAuthor, Year \r\n\r\n\r\nTable 4: Retinoids\r\nAuthor, Year \r\n\r\n\r\nTable 5: Antiandrogens\r\nAuthor, Year \r\n\r\n\r\nTable 6: Anti-inflammatory drugs\r\nAuthor, Year\r\n\r\n\r\nTable 7: Zinc gluconate\r\nAuthor\r\n\r\n\r\nTable 8: Metformin\r\nAuthor, Year \r\n\r\n\r\nTable 9: Fumarates\r\nAuthor, Year\r\n\r\n\r\nTable 10: Gamma-globulins\r\nAuthor, Year \r\n\r\n\r\nTable 11: LASER therapies\r\nAuthor, Year"
+        ],
+        "negative_ctxs": [
+            2,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Due to the major heterogeneity of treatment protocols and methods of evaluation, no meta-analysis can be carried out."
+        ],
+        "negative_ctxs": [
+            6,
+            27
+        ],
+        "positive_ctxs": [
+            37
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Due to the major heterogeneity of treatment protocols and methods of evaluation, no meta-analysis can be carried out."
+        ],
+        "negative_ctxs": [
+            22,
+            26
+        ],
+        "positive_ctxs": [
+            37
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Table 1: Biologic therapies\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Scale used, Results, Complications\r\n\r\n\r\nTable 2: Systemic antibiotics\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Results, Complications\r\n\r\n\r\nTable 3: Photodynamic therapies\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 4: Retinoids\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 5: Antiandrogens\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 6: Anti-inflammatory drugs\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 7: Zinc gluconate\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 8: Metformin\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 9: Fumarates\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 10: Gamma-globulins\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 11: LASER therapies\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r"
+        ],
+        "negative_ctxs": [
+            31,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            29,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "We included all original articles pertaining to non-surgical treatment for Verneuil's disease\n\nAn overwhelming majority of the articles dealt with biotherapies (44%), dynamic phototherapies (16%), antibiotics (11%), Laser treatments (8%), retinoids (6%) and hormonal treatments (5%). The remaining studies (10%) dealt with immunosuppressors, anti-inflammatory drugs, zinc, metformin, gammaglobulins and fumarates\n\n\nTable 1: Biologic therapies\n\n\n\nTable 2: Systemic antibiotics\n\n\n\nTable 3: Photodynamic therapies\n\n\nTable 4: Retinoids\n\n\n\nTable 5: Antiandrogens\n\n\nTable 6: Anti-inflammatory drugs\n\n\nTable 7: Zinc gluconate\n\n\nTable 8: Metformin\n\n\nTable 9: Fumarates\n\n\nTable 10: Gamma-globulins\n\n\nTable 11: LASER therapies"
+        ],
+        "negative_ctxs": [
+            26,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            35,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We included all original articles pertaining to non-surgical treatment for Verneuil's disease\r\n\r\n\r\nAn overwhelming majority of the articles dealt with biotherapies (44%), dynamic phototherapies (16%), antibiotics (11%), Laser treatments (8%), retinoids (6%) and hormonal treatments (5%). The remaining studies (10%) dealt with immunosuppressors, anti-inflammatory drugs, zinc, metformin, gammaglobulins and fumarates\r\n\r\n\r\nThe extracted data provided precise information on authors, publication date, type of study, number of cases and type of treatment, as well as duration of administration and follow-up, modality of evaluation (scale used), results and complications. Since heterogeneity and subjectivity rendered it difficult to analyze the results, as a means of harmonization we devised a simple scale ranging from 0 to +++: 0: no improvement; +: mild improvement; ++: significant improvement; +++: complete improvement/remission."
+        ],
+        "negative_ctxs": [
+            9,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We included all original articles pertaining to non-surgical treatment for Verneuil's disease published between January 2005 and 30 September 2015 and comprising controlled trials and prospective or retrospective observa\u0002tional studies involving at least four patients. Case reports, reviews of the literature, discussions, commentaries, letters to the authors and editorials were excluded."
+        ],
+        "negative_ctxs": [
+            35,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We searched for articles published between January 2005 and September 2015 in the electronic data bases Medline, PubMed Central, Embase and Cochrane"
+        ],
+        "negative_ctxs": [
+            27,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            32,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1: Biologic therapies\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Scale used, Results, Complications\n\n\nTable 2: Systemic antibiotics\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Results, Complications\n\n\nTable 3: Photodynamic therapies\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 4: Retinoids\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 5: Antiandrogens\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 6: Anti-inflammatory drugs\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 7: Zinc gluconate\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 8: Metformin\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 9: Fumarates\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 10: Gamma-globulins\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n\n\nTable 11: LASER therapies\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\n"
+        ],
+        "negative_ctxs": [
+            33,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Due to the major heterogeneity of treatment protocols and methods of evaluation, no meta-analysis can be carried out."
+        ],
+        "negative_ctxs": [
+            16,
+            9
+        ],
+        "positive_ctxs": [
+            37
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Due to the major heterogeneity of treatment protocols and methods of evaluation, no meta-analysis can be carried out."
+        ],
+        "negative_ctxs": [
+            14,
+            8
+        ],
+        "positive_ctxs": [
+            37
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Table 1: Biologic therapies\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Scale used, Results, Complications\r\n\r\n\r\nTable 2: Systemic antibiotics\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Results, Complications\r\n\r\n\r\nTable 3: Photodynamic therapies\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 4: Retinoids\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 5: Antiandrogens\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 6: Anti-inflammatory drugs\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 7: Zinc gluconate\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 8: Metformin\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 9: Fumarates\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 10: Gamma-globulins\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r\n\r\n\r\nTable 11: LASER therapies\r\nAuthor, Year, Journal, Level of Evidence, Number of cases, Type of treatment, Duration of treatment (months), Follow-up (months), Classification used, Conclusion, Complications\r"
+        ],
+        "negative_ctxs": [
+            25,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Funding\r\nThe authors received no funding support for this article.\r\n\r\n\r\nDisclosure of interest\r\nThe authors declare that they have no competing interest"
+        ],
+        "negative_ctxs": [
+            9,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            28
+        ],
+        "positive_ctxs": []
+    }
+]

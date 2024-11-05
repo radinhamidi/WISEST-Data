@@ -1,0 +1,476 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            34,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Using the PICO model, the participants of concern were adults aged 18 years or older with type 1 or type 2 diabetes mellitus, cared for in any health-care setting, with an active foot ulcer of any stage. The intervention of interest was the delivery of DFU treatment with an MDT approach, whereupon, the team had to be multidisciplinary health professionals. The comparison of interest was the delivery of care to manage people with DFUs by an individual health professional or using an unstructured, noncollaborative care model. The primary outcome measures were amputation rates, ulcer development and wound healing. With regard to amputation rates this included the level of amputation. Secondary outcome measures were: patients' experiences, mortality and resource use, which included length of hospital stay and cost of care. All English-language studies employing the following designs were included: randomised control trials, controlled clinical trials and comparative pre and post studies."
+        ],
+        "negative_ctxs": [
+            32,
+            28
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Using the PICO model, the participants of concern were adults aged 18 years or older with type 1 or type 2 diabetes mellitus, cared for in any health-care setting, with an active foot ulcer of any stage. The intervention of interest was the delivery of DFU treatment with an MDT approach, whereupon, the team had to be multidisciplinary health professionals. The comparison of interest was the delivery of care to manage people with DFUs by an individual health professional or using an unstructured, noncollaborative care model. The primary outcome measures were amputation rates, ulcer development and wound healing. With regard to amputation rates this included the level of amputation. Secondary outcome measures were: patients' experiences, mortality and resource use, which included length of hospital stay and cost of care. All English-language studies employing the following designs were included: randomised control trials, controlled clinical trials and comparative pre and post studies."
+        ],
+        "negative_ctxs": [
+            14,
+            29
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Using the PICO model, the participants of concern were adults aged 18 years or older with type 1 or type 2 diabetes mellitus, cared for in any health-care setting, with an active foot ulcer of any stage. The intervention of interest was the delivery of DFU treatment with an MDT approach, whereupon, the team had to be multidisciplinary health professionals. The comparison of interest was the delivery of care to manage people with DFUs by an individual health professional or using an unstructured, noncollaborative care model. The primary outcome measures were amputation rates, ulcer development and wound healing. With regard to amputation rates this included the level of amputation. Secondary outcome measures were: patients' experiences, mortality and resource use, which included length of hospital stay and cost of care. All English-language studies employing the following designs were included: randomised control trials, controlled clinical trials and comparative pre and post studies. Search strategy The following databases were searched over a period from 19 January 2016 to 21 January 2016: Cumulative Index to Nursing and Allied Health Literature (CINAHL), Medline, Embase and Cochrane Library. The following search terms were used: diabetic foot, multidisciplinary team, patient care team, multidisciplinary care team. The variation in terms was determined by the MeSH headings for each individual database. No limit was placed on year of publication. A limitation of English language only was placed on each search. The reference lists of chosen articles were screened but no additional articles were obtained from this screening."
+        ],
+        "negative_ctxs": [
+            3,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "No limit was placed on year of publication. A limitation of English language only was placed on each search. The reference lists of chosen articles were screened but no additional articles were obtained from this screening."
+        ],
+        "negative_ctxs": [
+            13,
+            12
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "The following databases were searched over a period from 19 January 2016 to 21 January 2016: Cumulative Index to Nursing and Allied Health Literature (CINAHL),\nMedline, Embase and Cochrane Library. "
+        ],
+        "negative_ctxs": [
+            31,
+            8
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The reference lists of chosen articles were screened but no additional articles were obtained from this screening"
+        ],
+        "negative_ctxs": [
+            33,
+            7
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Restrictions are inappropriate as it restricted english studies"
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Potentially eligible studies were selected by screening titles and abstracts, independently, by two reviewers. Full copies of potentially eligible studies were then obtained and read. Articles were then selected independently, by two reviewers, by applying the predefined inclusion and exclusion criteria."
+        ],
+        "negative_ctxs": [
+            2,
+            23
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Further articles were excluded at the data-extraction stage if they did not report on the outcomes required. The data from the included articles were extracted by two reviewers. The information extracted consisted of the first author, study title, year of publication, country where study was carried out, study design, care setting, sample size and findings."
+        ],
+        "negative_ctxs": [
+            16,
+            10
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Participants and sample size: All participants had a diagnosis of diabetes with complications affecting the feet. This included past and/or present foot ulceration. Interventions and follow-up All studies evaluated the effect of an MDT on diabetic foot care compared with no MDT."
+        ],
+        "negative_ctxs": [
+            12,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 2. Makeup of multidisciplinary teams (MDTs)\n\nTable 3. EBL checklist results"
+        ],
+        "negative_ctxs": [
+            13,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Quality appraisal was undertaken using the EBL Critical Appraisal checklist.18 For systematic reviews the EBL checklist was not suitable so the PRISMA 2009 Checklist was employed.19 Each stage of the research process was validated, independently, by a second reviewer. In the case of disagreement, the plan was for consensus to be reached through discussion."
+        ],
+        "negative_ctxs": [
+            29,
+            19
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Table 2. Makeup of multidisciplinary teams (MDTs)"
+        ],
+        "negative_ctxs": [
+            1,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "Where appropriate, a meta-analysis was undertaken of the results. Where meta-analysis was not possible, a narrative synthesis of the studies was undertaken consisting of a summary of each study including an outline of the author, sample size, results and a synopsis of these results."
+        ],
+        "negative_ctxs": [
+            3,
+            2
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "Within this systematic review, many of the study's results were reviewed individually rather than through a meta-analysis. This was due to a substantial heterogeneity in many cases. Meta-analysis can only be performed when studies are similar to each other.57\n\nMeta-analysis could not be undertaken for total amputation rates due to a substantial heterogeneity (I-squared=69%, p=0.007). If I-squared is >30%, or there is a low p-value (<0.10) in\nthe chi-squared test for heterogeneity then it is not appropriate to undertake meta-analysis.50 Therefore total amputation rates had to be analysed separately with a combination of statistical and narrative analyses."
+        ],
+        "negative_ctxs": [
+            28,
+            33
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Much of the data were collected by analysing patients' notes or databases, retrospectively.31,32,35-39,42,46,48 This must be recognised as a limitation of these studies as they were relying on the relevant documentation for analysis having been completed accurately. Furthermore, there is a risk that all amputations recorded may not be done so in a way that allows for\na collective analysis. This was obvious in some of the studies, given the substantial heterogeneity noted when assessing suitability for meta-analysis.\n\n\nQuality of the evidence\nAlthough improvements were seen in many of the\noutcomes post MDT care these results should be\ninterpreted with caution. Following quality appraisal,\n61% of studies included were found not to reach the\nrequired validity scores. This arose mainly due to\ninsufficient reporting within the studies, making it many\naspects of the published studies unclear. For example,\nmany of the studies failed to give clear sample sizes. This\nleft it impossible to interpret the results properly or to\nperform further statistical analysis. A further concerning\npoint is that only one study declared that the researchers\nplayed no part in care delivery. If the researchers in any\nof the studies were also members of the MDT this would\nintroduce a strong element of bias to the studies.18\nWithin this systematic review, many of the study's\nresults were reviewed individually rather than through\na meta-analysis. This was due to a substantial\nheterogeneity in many cases. Meta-analysis can only be\nperformed when studies are similar to each other.57\nFurthermore, as the majority of studies were based in a\nhospital setting and no one study had the exact same\nteam makeup it is difficult to generalise the results into\nthe wider clinical setting. The evidence presented\ncannot be used to firmly guide future practice. From the\ncurrently available evidence, an impact of the MDT on\ndiabetic foot outcomes can be seen but due to the lack\nof high-quality evidence and substantial heterogeneity\nthese results should be interpreted with caution."
+        ],
+        "negative_ctxs": [
+            14,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Table 2. Makeup of multidisciplinary teams (MDTs)"
+        ],
+        "negative_ctxs": [
+            33,
+            34
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            20,
+            0
+        ],
+        "positive_ctxs": [
+            10,
+            13,
+            31
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            25,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Using the PICO model, the participants of concern were adults aged 18 years or older with type 1 or type 2 diabetes mellitus, cared for in any health-care setting, with an active foot ulcer of any stage. The intervention of interest was the delivery of DFU treatment with an MDT approach, whereupon, the team had to be multidisciplinary health professionals. The comparison of interest was the delivery of care to manage people with DFUs by an individual health professional or using an unstructured, noncollaborative care model. The primary outcome measures were amputation rates, ulcer development and wound healing. With regard to amputation rates this included the level of amputation. Secondary outcome measures were: patients' experiences, mortality and resource use, which included length of hospital stay and cost of care. All English-language studies employing the following designs were included: randomised control trials, controlled clinical trials and comparative pre and post studies."
+        ],
+        "negative_ctxs": [
+            25,
+            1
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            32,
+            27
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "The following databases were searched over a period from 19 January 2016 to 21 January 2016: Cumulative Index to Nursing and Allied Health Literature (CINAHL),\nMedline, Embase and Cochrane Library. "
+        ],
+        "negative_ctxs": [
+            14,
+            18
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Potentially eligible studies were selected by screening titles and abstracts, independently, by two reviewers. Full copies of potentially eligible studies were then obtained and read. Articles were then selected independently, by two reviewers, by applying the predefined inclusion and exclusion criteria."
+        ],
+        "negative_ctxs": [
+            6,
+            3
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Further articles were excluded at the data-extraction stage if they did not report on the outcomes required. The data from the included articles were extracted by two reviewers. The information extracted consisted of the first author, study title, year of publication, country where study was carried out, study design, care setting, sample size and findings."
+        ],
+        "negative_ctxs": [
+            11,
+            28
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Following this, 31 articles remained for further screening, ten articles of which were excluded (Table 1), leaving 21 articles.20-30 A further two were excluded at the data extraction stage as they did not fit the inclusion criteria (Table 1).\n\n\nTable 1. Excluded studies"
+        ],
+        "negative_ctxs": [
+            21,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Participants and sample size: All participants had a diagnosis of diabetes with complications affecting the feet. This included past and/or present foot ulceration. Interventions and follow-up All studies evaluated the effect of an MDT on diabetic foot care compared with no MDT."
+        ],
+        "negative_ctxs": [
+            25,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "Where appropriate, a meta-analysis was undertaken of the results. Where meta-analysis was not possible, a narrative synthesis of the studies was undertaken consisting of a summary of each study including an outline of the author, sample size, results and a synopsis of these results."
+        ],
+        "negative_ctxs": [
+            3,
+            24
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "Within this systematic review, many of the study's results were reviewed individually rather than through a meta-analysis. This was due to a substantial heterogeneity in many cases. Meta-analysis can only be performed when studies are similar to each other.57\n\nMeta-analysis could not be undertaken for total amputation rates due to a substantial heterogeneity (I-squared=69%, p=0.007). If I-squared is >30%, or there is a low p-value (<0.10) in\nthe chi-squared test for heterogeneity then it is not appropriate to undertake meta-analysis.50 Therefore total amputation rates had to be analysed separately with a combination of statistical and narrative analyses."
+        ],
+        "negative_ctxs": [
+            17,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            29,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            33,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Declaration of interest: The authors have no conflicts of interest."
+        ],
+        "negative_ctxs": [
+            16,
+            9
+        ],
+        "positive_ctxs": [
+            0
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Much of the data were collected by analysing patients' notes or databases, retrospectively.31,32,35-39,42,46,48 This must be recognised as a limitation of these studies as they were relying on the relevant documentation for analysis having been completed accurately. Furthermore, there is a risk that all amputations recorded may not be done so in a way that allows for\na collective analysis. This was obvious in some of the studies, given the substantial heterogeneity noted when assessing suitability for meta-analysis.\n\n\nQuality of the evidence\nAlthough improvements were seen in many of the\noutcomes post MDT care these results should be\ninterpreted with caution. Following quality appraisal,\n61% of studies included were found not to reach the\nrequired validity scores. This arose mainly due to\ninsufficient reporting within the studies, making it many\naspects of the published studies unclear. For example,\nmany of the studies failed to give clear sample sizes. This\nleft it impossible to interpret the results properly or to\nperform further statistical analysis. A further concerning\npoint is that only one study declared that the researchers\nplayed no part in care delivery. If the researchers in any\nof the studies were also members of the MDT this would\nintroduce a strong element of bias to the studies.18\nWithin this systematic review, many of the study's\nresults were reviewed individually rather than through\na meta-analysis. This was due to a substantial\nheterogeneity in many cases. Meta-analysis can only be\nperformed when studies are similar to each other.57\nFurthermore, as the majority of studies were based in a\nhospital setting and no one study had the exact same\nteam makeup it is difficult to generalise the results into\nthe wider clinical setting. The evidence presented\ncannot be used to firmly guide future practice. From the\ncurrently available evidence, an impact of the MDT on\ndiabetic foot outcomes can be seen but due to the lack\nof high-quality evidence and substantial heterogeneity\nthese results should be interpreted with caution."
+        ],
+        "negative_ctxs": [
+            34,
+            8
+        ],
+        "positive_ctxs": []
+    }
+]

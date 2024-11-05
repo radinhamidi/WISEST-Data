@@ -1,0 +1,458 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "To be included, original studies fulfilled the following inclusion criteria: case-control, cross-sectional, cohort or nested case-control design; evaluation of Helicobacter pylori infection in conjunction with rosacea; and analyses that compared rosacea patients with control groups."
+        ],
+        "negative_ctxs": [
+            4,
+            2
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "To be included, original studies fulfilled the following inclusion criteria:\r\ncase-control, cross-sectional, cohort or nested case-control\r\ndesign; evaluation of Helicobacter pylori infection in conjunction\r\nwith rosacea; and analyses that compared rosacea patients\r\nwith control groups."
+        ],
+        "negative_ctxs": [
+            10,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "From the initial 454 search results, 42 articles were chosen for full-text review. Among these, 28 studies were excluded, because they were review articles, duplicates or single case reports. Newcastle-Ottawa Scale (NOS) was used to assess study quality. Of the 14 studies included, only one study did not meet a score of six or more. Scores from six to nine were awarded to the remaining 13 studies."
+        ],
+        "negative_ctxs": [
+            14,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Our search was limited to English-language and human-only studies, published between 1 January 1990 and 1 January 2016."
+        ],
+        "negative_ctxs": [
+            9,
+            7
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Two authors (A-H.R.J. and R.G.) systematically searched the\nPubMed, EMBASE and Web of Science databases using the following\nsearch terms"
+        ],
+        "negative_ctxs": [
+            6,
+            9
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Figure 1 Study flow chart. Articles found in\nreferences n = 2"
+        ],
+        "negative_ctxs": [
+            5,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "PubMed (Rosacea[Mesh] OR Rosacea)\nAND (Helicobacter[mesh] OR helicobacter infections[mesh]\nOR helicobacter*), Embase (rosacea.af AND helicobact*.af),\nWeb of Science (ts=rosacea AND ts=helicobact*)."
+        ],
+        "negative_ctxs": [
+            11,
+            6
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "PubMed (Rosacea[Mesh] OR Rosacea)\nAND (Helicobacter[mesh] OR helicobacter infections[mesh]\nOR helicobacter*), Embase (rosacea.af AND helicobact*.af),\nWeb of Science (ts=rosacea AND ts=helicobact*)."
+        ],
+        "negative_ctxs": [
+            15,
+            8
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two authors (A-H.R.J. and R.G.) systematically searched the PubMed, EMBASE and Web of Science databases. The systematic review and data extraction were performed independently by two screeners (A-H.R.J. and R.G.), and any differences\nwere adjudicated by A.E. and J.P.T."
+        ],
+        "negative_ctxs": [
+            2,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "The Meta-Analysis of Observational Studies in Epidemiology (MOOSE) guidelines were used to guide the analysis. The systematic review and data extraction were performed independently by two screeners (A-H.R.J. and R.G.), and any differences were adjudicated by A.E. and J.P.T."
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Characteristics of studies included in meta-analysis"
+        ],
+        "negative_ctxs": [
+            16,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 1 Characteristics of studies included in meta-analysis. Figure 3 Meta-analysis of the risk of Helicobacter pylori infection\nin patients with rosacea compared to controls."
+        ],
+        "negative_ctxs": [
+            1,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "Original studies fulfilled the following inclusion criteria: case-control, cross-sectional, cohort or nested case-control\r\ndesign. Newcastle-Ottawa Scale (NOS) was used to assess study quality."
+        ],
+        "negative_ctxs": [
+            14,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Two reviewers separately included papers using\r\nthe inclusion and exclusion criteria. Relevant data\r\nfrom each eligible article was extracted independently\r\nby two authors using a standardized data\r\nextraction form: the first author's name, publication\r\ndate, location, total number of SLE patients,\r\nsex ratio, the mean age at inclusion, the mean age\r\nonset, clinical manifestations (expressed as either\r\nthe number or percentage of familial and sporadic\r\npatients). Discrepancies were resolved by group\r\ndiscussion.\r\nQuality evaluation\r\nThe quality assessment of included studies was\r\nbased on the Newcastle-Ottawa assessment (NOS)\r\nscale.7 The criteria for selection assessment were\r\nmodified according to the Critical Appraisal Skills\r\nProgram (CASP)8 and Quality Assessment Tool for\r\nSystematic Reviews of Observational Studies\r\n(QATSO)9 to make the subcategories more applicable\r\nto grouped cohort studies. Total score varies\r\nfrom 0 to nine points, with nine representing the\r\nhighest quality"
+        ],
+        "negative_ctxs": [
+            4,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Fourteen studies were included in the final analysis,\r\nincluding a total of 928 rosacea patients and 1527 controls"
+        ],
+        "negative_ctxs": [
+            11,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "We used random-effects (DerSimonian and Laird) models to\r\ncompute the pooled odds ratio (OR) of association between rosacea\r\nand Helicobacter pylori infection."
+        ],
+        "negative_ctxs": [
+            4,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "The analysis of pooled studies showed a significant heterogeneity (I2 = 85.5%), but visual assessment of the funnel plot\r\ndid not suggest significant publication bias (Fig. 2). Subgroup analysis revealed a clear trend towards a stronger association between Helicobacter pylori and rosacea in studies using C-urea breath test (C-UBT) to establish Helicobacter pylori infection (fixed effects OR 3.12, 95% CI 1.92-5.07, P < 0.0001)."
+        ],
+        "negative_ctxs": [
+            6,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "The analysis of pooled studies showed a significant heterogeneity (I2 = 85.5%), but visual assessment of the funnel plot did not suggest significant publication bias (Fig. 2). Figure 2 Bias assessment plot."
+        ],
+        "negative_ctxs": [
+            14,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Newcastle-Ottawa Scale (NOS) was used to assess study quality. Of the 14 studies included, only one study did not meet a score of six or more. Scores from six to nine were awarded to the remaining 13 studies. The analysis of pooled studies showed a significant heterogeneity (I2 = 85.5%), but visual assessment of the funnel plot did not suggest significant publication bias (Fig. 2). Still, this meta-analysis had important limitations. Overall, a low number of patients and studies were included."
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "Overall, a low number of patients and studies were included.\r\nMoreover, several studies did not mention whether the patients\r\nor controls had previously received treatment for Helicobacter\r\npylori infection, potentially resulting in falsely low Helicobacter\r\npylori infection rate, and lastly, no information on previous\r\nantibiotic therapy for rosacea was given"
+        ],
+        "negative_ctxs": [
+            1,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "The overall association between Helicobacter pylori infection and rosacea was non-significant (OR 1.68, 95% CI 1.00-2.84, P = 0.052), but analysis restricted to C-urea breath test showed a significant association (OR 3.12, 95% CI 1.92-5.07, P < 0.0001)."
+        ],
+        "negative_ctxs": [
+            14,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            4,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "To be included, original studies fulfilled the following inclusion criteria:\r\ncase-control, cross-sectional, cohort or nested case-control\r\ndesign; evaluation of Helicobacter pylori infection in conjunction\r\nwith rosacea; and analyses that compared rosacea patients\r\nwith control groups."
+        ],
+        "negative_ctxs": [
+            16,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Two authors (A-H.R.J. and R.G.) systematically searched the\nPubMed, EMBASE and Web of Science databases using the following\nsearch terms"
+        ],
+        "negative_ctxs": [
+            10,
+            16
+        ],
+        "positive_ctxs": [
+            3
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two authors (A-H.R.J. and R.G.) systematically searched the PubMed, EMBASE and Web of Science databases. The systematic review and data extraction were performed independently by two screeners (A-H.R.J. and R.G.), and any differences\nwere adjudicated by A.E. and J.P.T."
+        ],
+        "negative_ctxs": [
+            7,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "The Meta-Analysis of Observational Studies in Epidemiology (MOOSE) guidelines were used to guide the analysis. The systematic review and data extraction were performed independently by two screeners (A-H.R.J. and R.G.), and any differences were adjudicated by A.E. and J.P.T."
+        ],
+        "negative_ctxs": [
+            3,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Characteristics of studies included in meta-analysis"
+        ],
+        "negative_ctxs": [
+            7,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "Original studies fulfilled the following inclusion criteria: case-control, cross-sectional, cohort or nested case-control\r\ndesign. Newcastle-Ottawa Scale (NOS) was used to assess study quality."
+        ],
+        "negative_ctxs": [
+            11,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "We used random-effects (DerSimonian and Laird) models to\r\ncompute the pooled odds ratio (OR) of association between rosacea\r\nand Helicobacter pylori infection."
+        ],
+        "negative_ctxs": [
+            6,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "The analysis of pooled studies showed a significant heterogeneity (I2 = 85.5%), but visual assessment of the funnel plot\r\ndid not suggest significant publication bias (Fig. 2). Subgroup analysis revealed a clear trend towards a stronger association between Helicobacter pylori and rosacea in studies using C-urea breath test (C-UBT) to establish Helicobacter pylori infection (fixed effects OR 3.12, 95% CI 1.92-5.07, P < 0.0001)."
+        ],
+        "negative_ctxs": [
+            3,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "The analysis of pooled studies showed a significant heterogeneity (I2 = 85.5%), but visual assessment of the funnel plot did not suggest significant publication bias (Fig. 2). Figure 2 Bias assessment plot."
+        ],
+        "negative_ctxs": [
+            5,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Newcastle-Ottawa Scale (NOS) was used to assess study quality. Of the 14 studies included, only one study did not meet a score of six or more. Scores from six to nine were awarded to the remaining 13 studies. The analysis of pooled studies showed a significant heterogeneity (I2 = 85.5%), but visual assessment of the funnel plot did not suggest significant publication bias (Fig. 2). Still, this meta-analysis had important limitations. Overall, a low number of patients and studies were included."
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Funding sources. None declared."
+        ],
+        "negative_ctxs": [
+            10,
+            13
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Dr. Egeberg has received research funding and/or consultancy honoraria from Pfizer and Eli Lilly, and honoraria as consultant and/or speaker from Pfizer, Eli Lilly, Novartis, Galderma and Janssen Pharmaceuticals. Dr. J. P. Thyssen is supported by an unrestricted grant from the Lundbeck Foundation and has received speaker honoraria from Galderma and MEDA. Dr. Weinstock has received speaker honoraria from Salix, Activis and Romark Pharmaceuticals. Dr. E. P. Thyssen has received speaker honoraria from Salix and Synergy Pharmaceuticals. The other authors have nothing to declare."
+        ],
+        "negative_ctxs": [
+            5,
+            4
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "Overall, a low number of patients and studies were included.\r\nMoreover, several studies did not mention whether the patients\r\nor controls had previously received treatment for Helicobacter\r\npylori infection, potentially resulting in falsely low Helicobacter\r\npylori infection rate, and lastly, no information on previous\r\nantibiotic therapy for rosacea was given"
+        ],
+        "negative_ctxs": [
+            8,
+            0
+        ],
+        "positive_ctxs": []
+    }
+]

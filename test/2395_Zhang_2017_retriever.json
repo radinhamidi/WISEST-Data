@@ -1,0 +1,470 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "Articles were considered eligible if (1) they included\npeer-reviewed data from an observational study; (2) the\ncriteria for confirmation of the HZ diagnosis in our included\nstudies were as follows: (1) physician's diagnosis\nof HZ with clinical symptoms (vesicular rash or dermatomal\npain or others); (2) serological analysis (dried blood\nspot analysis) or laboratory tests (Tzanck smear or viral\nculture or polymerase chain reaction); and (3) HZ-related\ndiagnostic codes with the International Classification of\nDiseases, Tenth Revision (ICD-10: B02), or Ninth Revision\n(ICD-9: 053). Only the cases satisfied with the above 3\ncriteria in the meantime were included in our studies. Thus,\nthose cases with vesicle symptoms not caused by VZV\ninfection were excluded in a stringent manner. Articles\nwere also considered eligible if (3) stroke was diagnosed\nwith clinical information and radiological investigation.\nStroke was identified using diagnostic codes with ICD-\n10 I60-64 and G45 or ICD-9 430-438; (4) concerned the\nrisk of stroke/TIA or MI after HZ infection"
+        ],
+        "negative_ctxs": [
+            20,
+            13
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Articles were considered eligible if (1) they included\npeer-reviewed data from an observational study; (2) the\ncriteria for confirmation of the HZ diagnosis in our included\nstudies were as follows: (1) physician's diagnosis\nof HZ with clinical symptoms (vesicular rash or dermatomal\npain or others); (2) serological analysis (dried blood\nspot analysis) or laboratory tests (Tzanck smear or viral\nculture or polymerase chain reaction); and (3) HZ-related\ndiagnostic codes with the International Classification of\nDiseases, Tenth Revision (ICD-10: B02), or Ninth Revision\n(ICD-9: 053). Only the cases satisfied with the above 3\ncriteria in the meantime were included in our studies. Thus,\nthose cases with vesicle symptoms not caused by VZV\ninfection were excluded in a stringent manner. Articles\nwere also considered eligible if (3) stroke was diagnosed\nwith clinical information and radiological investigation.\nStroke was identified using diagnostic codes with ICD-\n10 I60-64 and G45 or ICD-9 430-438; (4) concerned the\nrisk of stroke/TIA or MI after HZ infection and (5) reported\nmultivariate-adjusted relative risks (RRs) and 95%\nconfidence intervals (CIs)"
+        ],
+        "negative_ctxs": [
+            9,
+            12
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "Articles were considered eligible if (1) they included peer-reviewed data from an observational study; (2) the criteria for confirmation of the HZ diagnosis in our included studies were as follows: (1) physician's diagnosis of HZ with clinical symptoms (vesicular rash or dermatomal pain or others); (2) serological analysis (dried blood spot analysis) or laboratory tests (Tzanck smear or viral culture or polymerase chain reaction); and (3) HZ-related diagnostic codes with the International Classification of Diseases, Tenth Revision (ICD-10: B02), or Ninth Revision (ICD-9: 053). Only the cases satisfied with the above 3\ncriteria in the meantime were included in our studies. Thus, those cases with vesicle symptoms not caused by VZV infection were excluded in a stringent manner. Articles were also considered eligible if (3) stroke was diagnosed with clinical information and radiological investigation. Stroke was identified using diagnostic codes with ICD- 10 I60-64 and G45 or ICD-9 430-438; (4) concerned the risk of stroke/TIA or MI after HZ infection; and (5) reported multivariate-adjusted relative risks (RRs) and 95% confidence intervals (CIs).We excluded (1) studies of patients with a diagnosis of stroke before HZ diagnosis; (2) reviews and letters; (3) duplicate publications; (4) non- English language articles; and (5) data insufficient for calculating a risk estimate with 95% CIs, or unqualified data. When 2 articles appeared to report results with overlapping data, only the data representing the most recent publication or with the larger sample size were included in the meta-analysis. No publications were excluded on the basis of quality, sample size, or other objective criteria relevant to study design and analysis. "
+        ],
+        "negative_ctxs": [
+            4,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "We excluded (1) studies of patients with a diagnosis of stroke before HZ diagnosis;\n(2) reviews and letters; (3) duplicate publications; (4) non-English language articles; and (5) data insufficient for\ncalculating a risk estimate with 95% CIs, or unqualified data"
+        ],
+        "negative_ctxs": [
+            17,
+            0
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "Two authors (Y.Z. and G.L.) independently searched\nPubMed for articles published in English up to October\n20, 2016"
+        ],
+        "negative_ctxs": [
+            19,
+            6
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Reference lists from related main studies and review\narticles were checked for additional relevant reports."
+        ],
+        "negative_ctxs": [
+            13,
+            11
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Two authors (Y.Z. and G.L.) independently searched PubMed for articles published in English up to October 20, 2016, by using the key words (\"Stroke\"[Mesh] OR Stroke[tiab] OR ischemic stroke[tiab] OR ischaemic stroke[tiab] OR non-ischemic stroke[tiab] OR hemorrhagic stroke[tiab] OR poststroke[tiab] OR apoplexy[tiab] OR cerebral arterial disease[tiab] OR cerebrovascular accident[tiab] OR \"Myocardial Infarction\"[Mesh] OR myocardial infarction[tiab] OR myocardium infarction[tiab] OR myocardic infarction[tiab] OR \"Ischemic Attack, Transient\"[Mesh] OR transient ischaemic attack[tiab] OR transient ischemic attack[tiab] OR ischemic attack*[tiab]\nOR ischaemic attack*[tiab] OR brain ischemi*[tiab] OR brain ischaemi*[tiab] OR transient brain ischemia[tiab] OR cerebral ischemia[tiab]), AND (\"Herpes  Zoster\"[Mesh] OR Herpes Zoster[tiab] OR Shingles[tiab] OR Zona[tiab] OR Zoster[tiab] OR VZV[tiab])."
+        ],
+        "negative_ctxs": [
+            16,
+            20
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "articles published in English up to October 20, 2016. We excluded (1) studies of patients with a diagnosis of stroke before HZ diagnosis; (2) reviews and letters; (3) duplicate publications; (4) non-English language articles; and (5) data insufficient for calculating a risk estimate with 95% CIs, or unqualified data."
+        ],
+        "negative_ctxs": [
+            10,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Two authors (Y.Z. and G.L.) independently searched PubMed for articles published in English up to October 20, 2016. Titles, abstracts, full texts, and reference lists of all identified reports were reviewed\nin duplicate by the 2 authors, and extracted articles were double-checked by K.L. Disagreements were resolved by discussion among the 3 authors (Y.Z., G.L., and K.L.)."
+        ],
+        "negative_ctxs": [
+            9,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "We extracted data on (1) publication details (first author's\nname, year of publication, and study design); (2) baseline\ncharacteristics of the study population (country, study period,\nnumber of observation groups, age, follow-up time);\nand (3) other details (infection types, endpoints). If these\ndata were absent, we sent an email to the authors. We\nused the results of the original studies from multivariable\nmodels with the most complete adjustment for potential\nconfounders."
+        ],
+        "negative_ctxs": [
+            0,
+            5
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1. Summary of basic characteristics. (Ref.) Author (year) Country Design\nStudy period Follow-up (years) No of participants Age Infection Endpoints Positive/Negative\nNOS score "
+        ],
+        "negative_ctxs": [
+            19,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 2. Summary of meta-analysis results. Infection Endpoint Subgroup No. of studies Model RR (95% CI) I2 (%) p heterogeneity "
+        ],
+        "negative_ctxs": [
+            12,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "We evaluated the quality of reports by the Newcastle-\nOttawa quality assessment scale26 (\nprograms/clinical_epidemiology/nosgen.pdf). Two\nindependent reviewers read and scored all included studies."
+        ],
+        "negative_ctxs": [
+            21,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "We evaluated the quality of reports by the Newcastle-Ottawa quality assessment scale26 ( Two independent reviewers read and scored all included studies. The Newcastle-Ottawa scale contains 8 items, 7 applicable to our study question. Items were classified into 3 domains: selection, comparability, and outcome. The total scores of 0-3, 4-6, and 7-9 stars were assigned for low, moderate, and high qualities, respectively. Any discrepancies between the 2 reviewers were resolved by joint reassessment until consensus was reached."
+        ],
+        "negative_ctxs": [
+            5,
+            20
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "We identified 392 relevant studies in the literature search; 20 were removed as duplicates and 331 were excluded on the basis of titles and abstracts. After manually screening the full text of 41 articles, 30 articles were excluded. Finally, our analysis included 11 studies.  Figure 1. Flow diagram of the search result for the meta-analysis."
+        ],
+        "negative_ctxs": [
+            2,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            13
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "With heterogeneity, the random effects model\r\n(DerSimonian-Laird method) was used; otherwise, the\r\nfixed effects model (Mantel-Haenszel method) was used."
+        ],
+        "negative_ctxs": [
+            20,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "we performed several subgroup analyses to lower the heterogeneity and have more robust and accessible results,\nby investigating time since infection, sex, age, region, and\ntreatment"
+        ],
+        "negative_ctxs": [
+            8,
+            20
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "Because of the high heterogeneity, we conducted a sensitivity analysis. Eliminating one study in each group did\r\nnot predominantly change the overall RR (Figs S1-S3), which indicates the reliability of our results, despite some high\r\nheterogeneity. Publication bias was detected by Begg's and Egger's linear test and summarized in Table 3. Our sensitivity analysis revealed that all 3 overall analyses were robust. Publication bias analyses also revealed that our results were stable."
+        ],
+        "negative_ctxs": [
+            4,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Publication bias was detected by Begg's and Egger's linear test and summarized in Table 3. Neither test for the HZO infection and stroke association indicated publication bias, but both tests indicated publication bias for the HZ infection and MI association. However, the pooled point estimation and 95% CI did not change after the trimand-fill method (Table S2), so the meta-analysis results for HZ infection and MI remained stable despite publication bias. Our study has several limitations. First, most of our included studies used administrative data to identify HZ, which could suggest 5%-15% false-positive cases because the ICD code may not be accurate. However, we considered TIA as minor stroke and the code for TIA diagnosis was likely to be incorrect. Meanwhile, some silent strokes or MI may not have been recorded. Second, we inevitably observed the high heterogeneity in our studies because of the study design, methodological differences, geographic regions, confounding factors, and the inherent differences between individuals, although we used the random effects model. Third, we found publication bias in the HZO analysis, which may be related to the search strategy restricted to English language literature."
+        ],
+        "negative_ctxs": [
+            13,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "all of our included articles were high quality and included large samples, which guaranteed the\ndegree of accuracy and validity in our meta-analysis. We performed several subgroup analyses to lower the heterogeneity and have more robust and accessible results, by investigating time since infection, sex, age, region, and treatment. We inevitably observed the high heterogeneity in our studies because of the study design, methodological differences, geographic regions, confounding factors, and the inherent differences between individuals, although we used the random effects model. Third, we found publication bias in the HZO analysis, which may be related to the search strategy restricted to English language literature."
+        ],
+        "negative_ctxs": [
+            9,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Table 1. Summary of basic characteristics. This meta-analysis of 11 observational studies demonstrated that risk of stroke/TIA was increased with HZ infection, even when controlling for multiple risk and confounding factors. The association of HZ infection and MI was less strong but still significant. We observed a strong effect for risk of stroke after HZO diagnosis, with a 1.9- fold increased risk."
+        ],
+        "negative_ctxs": [
+            15,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            0,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Articles were considered eligible if (1) they included\npeer-reviewed data from an observational study; (2) the\ncriteria for confirmation of the HZ diagnosis in our included\nstudies were as follows: (1) physician's diagnosis\nof HZ with clinical symptoms (vesicular rash or dermatomal\npain or others); (2) serological analysis (dried blood\nspot analysis) or laboratory tests (Tzanck smear or viral\nculture or polymerase chain reaction); and (3) HZ-related\ndiagnostic codes with the International Classification of\nDiseases, Tenth Revision (ICD-10: B02), or Ninth Revision\n(ICD-9: 053). Only the cases satisfied with the above 3\ncriteria in the meantime were included in our studies. Thus,\nthose cases with vesicle symptoms not caused by VZV\ninfection were excluded in a stringent manner. Articles\nwere also considered eligible if (3) stroke was diagnosed\nwith clinical information and radiological investigation.\nStroke was identified using diagnostic codes with ICD-\n10 I60-64 and G45 or ICD-9 430-438; (4) concerned the\nrisk of stroke/TIA or MI after HZ infection and (5) reported\nmultivariate-adjusted relative risks (RRs) and 95%\nconfidence intervals (CIs)"
+        ],
+        "negative_ctxs": [
+            6,
+            14
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            5,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "Two authors (Y.Z. and G.L.) independently searched\nPubMed for articles published in English up to October\n20, 2016"
+        ],
+        "negative_ctxs": [
+            18,
+            17
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Two authors (Y.Z. and G.L.) independently searched PubMed for articles published in English up to October 20, 2016. Titles, abstracts, full texts, and reference lists of all identified reports were reviewed\nin duplicate by the 2 authors, and extracted articles were double-checked by K.L. Disagreements were resolved by discussion among the 3 authors (Y.Z., G.L., and K.L.)."
+        ],
+        "negative_ctxs": [
+            9,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "We extracted data on (1) publication details (first author's\nname, year of publication, and study design); (2) baseline\ncharacteristics of the study population (country, study period,\nnumber of observation groups, age, follow-up time);\nand (3) other details (infection types, endpoints). If these\ndata were absent, we sent an email to the authors. We\nused the results of the original studies from multivariable\nmodels with the most complete adjustment for potential\nconfounders."
+        ],
+        "negative_ctxs": [
+            13,
+            20
+        ],
+        "positive_ctxs": [
+            7
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1. Summary of basic characteristics. (Ref.) Author (year) Country Design\nStudy period Follow-up (years) No of participants Age Infection Endpoints Positive/Negative\nNOS score "
+        ],
+        "negative_ctxs": [
+            2,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "We evaluated the quality of reports by the Newcastle-\nOttawa quality assessment scale26 (\nprograms/clinical_epidemiology/nosgen.pdf). Two\nindependent reviewers read and scored all included studies."
+        ],
+        "negative_ctxs": [
+            3,
+            15
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "With heterogeneity, the random effects model\r\n(DerSimonian-Laird method) was used; otherwise, the\r\nfixed effects model (Mantel-Haenszel method) was used."
+        ],
+        "negative_ctxs": [
+            8,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "we performed several subgroup analyses to lower the heterogeneity and have more robust and accessible results,\nby investigating time since infection, sex, age, region, and\ntreatment"
+        ],
+        "negative_ctxs": [
+            18,
+            8
+        ],
+        "positive_ctxs": [
+            14
+        ]
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "Because of the high heterogeneity, we conducted a sensitivity analysis. Eliminating one study in each group did\r\nnot predominantly change the overall RR (Figs S1-S3), which indicates the reliability of our results, despite some high\r\nheterogeneity. Publication bias was detected by Begg's and Egger's linear test and summarized in Table 3. Our sensitivity analysis revealed that all 3 overall analyses were robust. Publication bias analyses also revealed that our results were stable."
+        ],
+        "negative_ctxs": [
+            20,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Publication bias was detected by Begg's and Egger's linear test and summarized in Table 3. Neither test for the HZO infection and stroke association indicated publication bias, but both tests indicated publication bias for the HZ infection and MI association. However, the pooled point estimation and 95% CI did not change after the trimand-fill method (Table S2), so the meta-analysis results for HZ infection and MI remained stable despite publication bias. Our study has several limitations. First, most of our included studies used administrative data to identify HZ, which could suggest 5%-15% false-positive cases because the ICD code may not be accurate. However, we considered TIA as minor stroke and the code for TIA diagnosis was likely to be incorrect. Meanwhile, some silent strokes or MI may not have been recorded. Second, we inevitably observed the high heterogeneity in our studies because of the study design, methodological differences, geographic regions, confounding factors, and the inherent differences between individuals, although we used the random effects model. Third, we found publication bias in the HZO analysis, which may be related to the search strategy restricted to English language literature."
+        ],
+        "negative_ctxs": [
+            2,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "There was no funding for this study"
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": [
+            1
+        ]
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            7,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "all of our included articles were high quality and included large samples, which guaranteed the\ndegree of accuracy and validity in our meta-analysis. We performed several subgroup analyses to lower the heterogeneity and have more robust and accessible results, by investigating time since infection, sex, age, region, and treatment. We inevitably observed the high heterogeneity in our studies because of the study design, methodological differences, geographic regions, confounding factors, and the inherent differences between individuals, although we used the random effects model. Third, we found publication bias in the HZO analysis, which may be related to the search strategy restricted to English language literature."
+        ],
+        "negative_ctxs": [
+            15,
+            3
+        ],
+        "positive_ctxs": []
+    }
+]

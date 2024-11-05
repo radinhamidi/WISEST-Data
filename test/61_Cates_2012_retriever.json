@@ -1,0 +1,460 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "D I F F E R E N C E S  B E T W E E N  P R O T O C O L  A N D  R E V I E W\r\nThe 'Summary of findings' table was not mentioned in the protocol and has been constructed on the basis of the primary outcomes\r\nand asthma-related SAEs. Adults and children have been described separately in the 'Summary of findings' table.\r"
+        ],
+        "negative_ctxs": [
+            44,
+            52
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "There is a need to systematically review all the available data from controlled trials that have compared patients randomised to regular formoterol or regular salmeterol without randomised inhaled corticosteroids\n\nWe included patients with a clinical diagnosis of asthma of any age group, unrestricted by disease severity, previous or current treatment.\n\nWe included trials that randomised patients to receive inhaled formoterol versus salmeterol given regularly for a period of at least 12 weeks, but not randomised with inhaled corticosteroids\n\nPrimary outcomes\n1. All-cause mortality\n2. All-cause non-fatal SAEs\n"
+        ],
+        "negative_ctxs": [
+            39,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "We included patients with a clinical diagnosis of asthma of any age group, unrestricted by disease severity, previous or current treatment.\r\n\r\nWe included trials that randomised patients to receive inhaled formoterol versus salmeterol given regularly for a period of at least 12 weeks, but not randomised with inhaled corticosteroids"
+        ],
+        "negative_ctxs": [
+            19,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            45,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            " We identified three studies for inclusion (Condemi 2001; Everden\n2004; Vervloet 1998) from the shorter list of references. When this\nwas rechecked against the unfiltered list we identified one further\nstudy (Gabbay 1998), which had been published in abstract form\nonly in 1998, and found four further references related to the\nthree included studies. \n\nNo serious adverse event data were published in the abstract of\nGabbay 1998, and no full publication has been identified after\ncorrespondence with the author, who was unable to offer further\ninformation."
+        ],
+        "negative_ctxs": [
+            34,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "We identified trials using the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of\nbibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE,\nCINAHL, AMED and PsycINFO, and handsearching of respiratory journals and meeting abstracts (please see Appendix 4 for\nfurther details). We searched all records in the Specialised Register\ncoded as 'asthma' using the following terms\n\nWe also checked websites of clinical trial registers for unpublished trial data and checked FDA submissions in relation to formoterol."
+        ],
+        "negative_ctxs": [
+            42,
+            36
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "We checked reference lists of all primary studies and review articles\r\nfor additional references"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "Appendix 4. Sources and search methods for the Cochrane Airways Group Specialised Register (CAGR)\r\n\nAsthma search\n1. exp Asthma/\n2. asthma$.mp.\n3. (antiasthma$ or anti-asthma$).mp.\n4. Respiratory Sounds/\n5. wheez$.mp.\n6. Bronchial Spasm/\n7. bronchospas$.mp.\n8. (bronch$ adj3 spasm$).mp.\n9. bronchoconstrict$.mp.\n10. exp Bronchoconstriction/\n11. (bronch$ adj3 constrict$).mp.\n12. Bronchial Hyperreactivity/\n13. Respiratory Hypersensitivity/\n14. ((bronchial$ or respiratory or airway$ or lung$) adj3 (hypersensitiv$ or hyperreactiv$ or allerg$ or insufficiency)).mp.\n15. ((dust or mite$) adj3 (allerg$ or hypersensitiv$)).mp.\n16. or/1-15\nFilter to identify RCTs\n1. exp \"clinical trial [publication type]\"/\n2. (randomised or randomised).ab,ti.\n3. placebo.ab,ti.\n4. dt.fs.\n5. randomly.ab,ti.\n6. trial.ab,ti.\n7. groups.ab,ti.\n8. or/1-7\n9. Animals/\n10. Humans/\n11. 9 not (9 and 10)\n12. 8 not 11\nThe MEDLINE strategy and RCT filter are adapted to identify trials in other electronic databases."
+        ],
+        "negative_ctxs": [
+            0,
+            40
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            31
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Both review authors independently assessed studies identified in\nthe literature searches by examining titles, abstract and keywords fields. We obtained studies that potentially fulfilled the inclusion criteria in full text. We independently assessed these full-text trial reports for inclusion. No disagreements occurred over the inclusion or exclusion of studies.\n"
+        ],
+        "negative_ctxs": [
+            33,
+            38
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "CJC extracted data using a prepared checklist and entered them\ninto RevMan 5 (RevMan 2011). TL independently extracted the\nresults. Data included characteristics of included studies (methods,\nparticipants, interventions, outcomes) and results of the included\nstudies"
+        ],
+        "negative_ctxs": [
+            29,
+            33
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Data included characteristics of included studies (methods,\nparticipants, interventions, outcomes) and results of the included\nstudies.\n\nCharacteristics of included studies [ordered by study ID]\nCondemi 2001\nMethods Study design: a randomised, open-label, multicentre, parallel-group study over 6 months\nfrom September 1998 to June 1999 at 100 centres. Run-in: 1 week, long-acting beta2-\nagonists appear to have been withdrawn.\nParticipants Population: 528 adults (18 to 75) years with moderate to moderately severe asthma\nBaseline characteristics: mean age not stated. Concomitant inhaled corticosteroids used\nby 100% of participants\nInclusion criteria: Outpatients between 18 and 75 years with moderate to moderately\nsevere asthma diagnosed at least 1 year before screening. Must have been receiving low\u0002dose inhaled corticosteroids at 400 ug/d (except fluticasone, 200 ug/d) for at least 1\nmonth before screening, in addition to requiring a short-acting inhaled beta2-agonist at\nleast 4 times per week. Any long-acting beta2-agonists had to be discontinued at least\n1 week before study entry. FEV1 % predicted between 40% to 80%, bronchodilator\nreversibility by an increase of at least 12% in FEV1 after treatment with a beta2-agonist\nbronchodilator at the screening visit or within 6 months before this visit\nExclusion criteria: pregnant or nursing women, and women of childbearing potential\nwho were not practising reliable contraception. Respiratory diseases unrelated to asthma\nor other serious medical conditions, if they required a dose increase in inhaled corticos\u0002teroids to treat an acute exacerbation of asthma within 1 month before study entry. A\nhistory of allergy to sympathomimetic amines, aerosols or inhaled lactose, Taking beta\u0002receptor-blocking medications, drugs that prolong the cardiac QT interval, tricyclic an\u0002tidepressants, monoamine oxidase derivatives or non-potassium-sparing diuretics\nInterventions 1. Formoterol 12 ug BD (Foradil Aerolizer)\n2. Salmeterol 50 ug BD (Serevent Diskus inhaler)\nDelivery was DPI\nOutcomes The primary end point was mean morning PEF measure 5 minutes after dosing. SAEs\nreported (all-cause and asthma-related)\n\"No deaths were reported in either treatment arm. SAEs were reported in 7 patients\nreceiving formoterol (1 each, bronchospasm, chest pain, cholelithiasis, colon cancer,\ndyspnea, fracture, syncope) and 12 patients receiving salmeterol (1 each, abdominal\npain, amnesia, appendicitis, bronchitis, cranial injury, fracture, glioma, intervertebral\ndisc disorder, metastases, myocardial infarction; 2, breast cancer). In addition, asthma\nwas reported as a serious adverse event in 2 patients receiving formoterol and 3 patients\nreceiving salmeterol.\""
+        ],
+        "negative_ctxs": [
+            29,
+            14
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Incomplete outcome data\nThe adult studies had low dropout rates, but the study in children\nhad higher dropout rates and these were not balanced between the\ntrial arms. Thirty-three out of 127 children discontinued the study\n(formoterol 21, salmeterol 12). All children who took at least one\ndose of medication were included in the analysis.\n\nNo serious adverse event data were published in the abstract of\nGabbay 1998, and no full publication has been identified after\ncorrespondence with the author, who was unable to offer further\ninformation.\n\nWe contacted authors and sponsors of included studies\nfor unpublished adverse event data, and searched manufacturers'\nwebsites for further details of adverse events.\n\nAll-cause non-fatal serious adverse events (SAEs)\nAdults\nCondemi 2001 reported nine out of 262 adults having SAEs on\nformoterol and 15 out of 266 on salmeterol, and in Vervloet 1998\nthere were non-fatal SAEs in 19 of 241 adults on formoterol and\n21 out of 241 adults on salmeterol (Novartis data on file). Gabbay\n1998 recorded only one patient with a serious adverse event (an\nasthma exacerbation); the patient was not included in the safety\nanalysis for this trial as it could not be confirmed that any of the\nstudy drug (salmeterol) had been taken. The Peto odds ratio (OR)\ncomparing formoterol to salmeterol was not significantly different\nbetween groups (Peto OR 0.77; 95% CI 0.46 to 1.28 (Figure 3)),\nnor was the risk difference (RD -0.01; 95% CI -0.04 to 0.01). Over\nthe six-month period for adults that contributed to this analysis\nthe percentages of adults with SAEs were formoterol 5.1% and\nsalmeterol 6.4%.\n\nFigure 3. Forest plot of comparison: 1 Regular formoterol versus regular salmeterol, outcome: 1.2 Allcause SAE\n\nCharacteristics of included studies"
+        ],
+        "negative_ctxs": [
+            32,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "CJC assessed the included studies for bias protection (including\nsequence generation for randomisation, allocation concealment,\nblinding of participants and assessors, loss to follow-up, completeness of outcome assessment and other possible sources of bias\n\nFigure 1. Methodological quality summary: review authors' judgements about each methodological quality item for each included study."
+        ],
+        "negative_ctxs": [
+            40,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "Assessment of risk of bias in included studies\r\nCJC assessed the included studies for bias protection (including\r\nsequence generation for randomisation, allocation concealment,\r\nblinding of participants and assessors, loss to follow-up, completeness of outcome assessment and other possible sources of bias),\r\nand this was independently verified by TL."
+        ],
+        "negative_ctxs": [
+            1,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "All studies have contributed serious adverse event data to this review: Condemi 2001 (528 adults studied for six months) and\nEverden 2004 (156 children studies for three months) from published papers and Gabbay 1998 (127 adults for three months) and\nVervloet 1998 (482 adults for six months) from data on file at Novartis.\n\nNo deaths were reported in 528 adults inCondemi 2001. Novartis\nhave confirmed that there were no deaths in Gabbay 1998, and in\nVervloet 1998 there was one participant who died of heart disease\nfollowing coronary surgery in the salmeterol group. AstraZeneca\nhave confirmed that there were no deaths in the 156 children\nin Everden 2004.\n\nForest plot of comparison: 1 Regular formoterol versus regular salmeterol, outcome: 1.1 All cause mortality.\n\nCondemi 2001 reported nine out of 262 adults having SAEs on formoterol and 15 out of 266 on salmeterol, and in Vervloet 1998\nthere were non-fatal SAEs in 19 of 241 adults on formoterol and 21 out of 241 adults on salmeterol (Novartis data on file). Gabbay\n1998 recorded only one patient with a serious adverse event (an asthma exacerbation); \n\nEverden 2004 reported one out of 80 children experiencing SAEs on formoterol and one out of 76 children on salmeterol.\n\nForest plot of comparison: 1 Regular formoterol versus regular salmeterol, outcome: 1.2 All cause SAEs.\n"
+        ],
+        "negative_ctxs": [
+            0,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "D I F F E R E N C E S  B E T W E E N  P R O T O C O L  A N D  R E V I E W\nThe 'Summary of findings' table was not mentioned in the protocol and has been constructed on the basis of the primary outcomes\nand asthma-related SAEs. Adults and children have been described separately in the 'Summary of findings' table."
+        ],
+        "negative_ctxs": [
+            45,
+            50
+        ],
+        "positive_ctxs": [
+            53
+        ]
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "The outcomes of this review were dichotomous and we recorded\nthe number of participants with each outcome event by allocated\ntreated group. We calculated pooled odds ratio (OR) and risk\ndifference (RD). The Peto OR has advantages when events are\nrare, as no adjustment for zero cells is required. This property was\nfound in previous reviews to be more important than potential\nproblems with unbalanced treatment arms and large effect sizes,\nand we therefore calculated the results for SAEs in RevMan 5 using\nthe Peto method with the Mantel-Haenszel method for sensitivity\nanalysis.\n\nusing the pooled risk difference (RD) to combine the results of studies, the overall risk\ndifference in adults (RD -0.00; 95% confidence interval (CI) - 0.01 to 0.01) and in children (RD 0.00; 95% CI -0.02 to 0.02) is"
+        ],
+        "negative_ctxs": [
+            37,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "We assessed heterogeneity in the pooled odds ratio using the I2 statistic in RevMan 5 to indicate how much of the total heterogeneity found was between, rather than within, studies.\n\nWe planned to compare subgroups using tests for interaction (Altman 2003). However, events were too sparse to allow a meaningful comparison of the results in adults and children, and background non-randomised use of inhaled corticosteroids was used in all studies, so subgroup analysis by background inhaled corticosteroid use was not possible\n\nHeterogeneity: Chi2 = 0.40, df = 2 (P = 0.82); I2 =0.0%"
+        ],
+        "negative_ctxs": [
+            0,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "We could not use funnel plots to assess publication bias, as very few trials were identified"
+        ],
+        "negative_ctxs": [
+            24,
+            52
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "Quality of the evidence\nNo double-blind trials have been carried out comparing regular\nformoterol with regular salmeterol. The open studies included\nin this review could have been influenced by the fact that the\nparticipants and investigators were aware of the assigned treatment\nfor each patient, especially in studies sponsored by the companies\nmarketing one of the comparator medications.\n\nIn order to compare the safety of regular formoterol and regular salmeterol, much larger surveillance studies would need to be carried out. Ideally these should be double-blind, double-dummy, parallel-group studies\n\nThe degree of bias protection in the study designs was part of planned sensitivity analysis, but all\nthe studies were of open design and reporting of sequence gener\u0002ation and allocation concealment was poor."
+        ],
+        "negative_ctxs": [
+            22,
+            51
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "No double-blind trials have been carried out comparing regular\nformoterol with regular salmeterol. The open studies included\nin this review could have been influenced by the fact that the\nparticipants and investigators were aware of the assigned treatment\nfor each patient, especially in studies sponsored by the companies\nmarketing one of the comparator medications.\n\nn order to compare the safety of regular formoterol and regular salmeterol, much larger surveillance studies would need to be carried out. Ideally these should be double-blind, double-dummy, parallel-group studies"
+        ],
+        "negative_ctxs": [
+            13,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "Of the four included studies, three enrolled a combined total of 1137 adults (Condemi 2001; Gabbay 1998; Vervloet 1998), and one enrolled 156 children (Everden 2004). Vervloet 1998 included adults with reversible airways obstruction, and whilst they did not seek to exclude participants with chronic obstructive pulmonary disease (COPD), they indicated that most participants suffered from asthma, so both review authors independently decided that this study should be included. All the studies compared a twice daily dose of formoterol 12 ug with twice daily salmeterol 50 ug. Condemi 2001, Gabbay 1998 and Vervloet 1998 compared the Foradil Aerolizer with Serevent Diskus inhaler devices, whilst Everden 2004 compared the Oxis\nTurbohaler with Serevent Accuhaler. Although none of the studies randomised patients to inhaled corticosteroids (in the form of combined inhalers), all four studies randomised patients who were already taking inhaled corticosteroids as background treatment.\n\nCharacteristics of included studies [ordered by study ID]\nParticipants Population: 528 adults (18 to 75) years with moderate to moderately severe asthma\nBaseline characteristics: mean age not stated. Concomitant inhaled corticosteroids used\nby 100% of participants\nInclusion criteria: Outpatients between 18 and 75 years with moderate to moderately\nsevere asthma diagnosed at least 1 year before screening. Must have been receiving low\u0002dose inhaled corticosteroids at 400 ug/d (except fluticasone, 200 ug/d) for at least 1\nmonth before screening, in addition to requiring a short-acting inhaled beta2-agonist at\nleast 4 times per week. Any long-acting beta2-agonists had to be discontinued at least\n1 week before study entry. FEV1 % predicted between 40% to 80%, bronchodilator\nreversibility by an increase of at least 12% in FEV1 after treatment with a beta2-agonist\nbronchodilator at the screening visit or within 6 months before this visit\nExclusion criteria: pregnant or nursing women, and women of childbearing potential\nwho were not practising reliable contraception. Respiratory diseases unrelated to asthma\nor other serious medical conditions, if they required a dose increase in inhaled corticos\u0002teroids to treat an acute exacerbation of asthma within 1 month before study entry. A\nhistory of allergy to sympathomimetic amines, aerosols or inhaled lactose, Taking beta\u0002receptor-blocking medications, drugs that prolong the cardiac QT interval, tricyclic an\u0002tidepressants, monoamine oxidase derivatives or non-potassium-sparing diuretics\nInterventions 1. Formoterol 12 ug BD (Foradil Aerolizer)\n2. Salmeterol 50 ug BD (Serevent Diskus inhaler)\nDelivery was DPI\nOutcomes The primary end point was mean morning PEF measure 5 minutes after dosing. SAEs\nreported (all-cause and asthma-related)\n\"No deaths were reported in either treatment arm. SAEs were reported in 7 patients\nreceiving formoterol (1 each, bronchospasm, chest pain, cholelithiasis, colon cancer,\ndyspnea, fracture, syncope) and 12 patients receiving salmeterol (1 each, abdominal\npain, amnesia, appendicitis, bronchitis, cranial injury, fracture, glioma, intervertebral\ndisc disorder, metastases, myocardial infarction; 2, breast cancer). In addition, asthma\nwas reported as a serious adverse event in 2 patients receiving formoterol and 3 patients\nreceiving salmeterol.\""
+        ],
+        "negative_ctxs": [
+            22,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            34,
+            44
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "D I F F E R E N C E S  B E T W E E N  P R O T O C O L  A N D  R E V I E W\r\nThe 'Summary of findings' table was not mentioned in the protocol and has been constructed on the basis of the primary outcomes\r\nand asthma-related SAEs. Adults and children have been described separately in the 'Summary of findings' table.\r"
+        ],
+        "negative_ctxs": [
+            5,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "We included patients with a clinical diagnosis of asthma of any age group, unrestricted by disease severity, previous or current treatment.\r\n\r\nWe included trials that randomised patients to receive inhaled formoterol versus salmeterol given regularly for a period of at least 12 weeks, but not randomised with inhaled corticosteroids"
+        ],
+        "negative_ctxs": [
+            30,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "We included randomised trials (RCTs) of parallel design, with or\nwithout blinding, in which patients with chronic asthma were\nrandomly assigned to regular treatment with formoterol versus\nsalmeterol."
+        ],
+        "negative_ctxs": [
+            46,
+            16
+        ],
+        "positive_ctxs": [
+            9
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "We identified trials using the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of\nbibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE,\nCINAHL, AMED and PsycINFO, and handsearching of respiratory journals and meeting abstracts (please see Appendix 4 for\nfurther details). We searched all records in the Specialised Register\ncoded as 'asthma' using the following terms\n\nWe also checked websites of clinical trial registers for unpublished trial data and checked FDA submissions in relation to formoterol."
+        ],
+        "negative_ctxs": [
+            29,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Both review authors independently assessed studies identified in\nthe literature searches by examining titles, abstract and keywords fields. We obtained studies that potentially fulfilled the inclusion criteria in full text. We independently assessed these full-text trial reports for inclusion. No disagreements occurred over the inclusion or exclusion of studies.\n"
+        ],
+        "negative_ctxs": [
+            37,
+            46
+        ],
+        "positive_ctxs": [
+            11
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "CJC extracted data using a prepared checklist and entered them\ninto RevMan 5 (RevMan 2011). TL independently extracted the\nresults. Data included characteristics of included studies (methods,\nparticipants, interventions, outcomes) and results of the included\nstudies"
+        ],
+        "negative_ctxs": [
+            4,
+            15
+        ],
+        "positive_ctxs": [
+            12
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "We identified 13 further studies for possible inclusion, but we excluded them after more detailed inspection\n(see Characteristics of excluded studies).\n\nReferences to studies excluded from this review\n\nCharacteristics of excluded studies [ordered by study ID]\nStudy Reason for exclusion\r\nBrambilla 2003 4-week study\r\nCampbell 1999 8-week study, followed by 4-week cross-over to assess patient preference\r\nEryonucu 2005 Single-dose study\r\nHeijerman 1999 6-week study\r\nLarsson 1990 Review of 3 other studies"
+        ],
+        "negative_ctxs": [
+            5,
+            29
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Data included characteristics of included studies (methods,\nparticipants, interventions, outcomes) and results of the included\nstudies.\n\nCharacteristics of included studies [ordered by study ID]\nCondemi 2001\nMethods Study design: a randomised, open-label, multicentre, parallel-group study over 6 months\nfrom September 1998 to June 1999 at 100 centres. Run-in: 1 week, long-acting beta2-\nagonists appear to have been withdrawn.\nParticipants Population: 528 adults (18 to 75) years with moderate to moderately severe asthma\nBaseline characteristics: mean age not stated. Concomitant inhaled corticosteroids used\nby 100% of participants\nInclusion criteria: Outpatients between 18 and 75 years with moderate to moderately\nsevere asthma diagnosed at least 1 year before screening. Must have been receiving low\u0002dose inhaled corticosteroids at 400 ug/d (except fluticasone, 200 ug/d) for at least 1\nmonth before screening, in addition to requiring a short-acting inhaled beta2-agonist at\nleast 4 times per week. Any long-acting beta2-agonists had to be discontinued at least\n1 week before study entry. FEV1 % predicted between 40% to 80%, bronchodilator\nreversibility by an increase of at least 12% in FEV1 after treatment with a beta2-agonist\nbronchodilator at the screening visit or within 6 months before this visit\nExclusion criteria: pregnant or nursing women, and women of childbearing potential\nwho were not practising reliable contraception. Respiratory diseases unrelated to asthma\nor other serious medical conditions, if they required a dose increase in inhaled corticos\u0002teroids to treat an acute exacerbation of asthma within 1 month before study entry. A\nhistory of allergy to sympathomimetic amines, aerosols or inhaled lactose, Taking beta\u0002receptor-blocking medications, drugs that prolong the cardiac QT interval, tricyclic an\u0002tidepressants, monoamine oxidase derivatives or non-potassium-sparing diuretics\nInterventions 1. Formoterol 12 ug BD (Foradil Aerolizer)\n2. Salmeterol 50 ug BD (Serevent Diskus inhaler)\nDelivery was DPI\nOutcomes The primary end point was mean morning PEF measure 5 minutes after dosing. SAEs\nreported (all-cause and asthma-related)\n\"No deaths were reported in either treatment arm. SAEs were reported in 7 patients\nreceiving formoterol (1 each, bronchospasm, chest pain, cholelithiasis, colon cancer,\ndyspnea, fracture, syncope) and 12 patients receiving salmeterol (1 each, abdominal\npain, amnesia, appendicitis, bronchitis, cranial injury, fracture, glioma, intervertebral\ndisc disorder, metastases, myocardial infarction; 2, breast cancer). In addition, asthma\nwas reported as a serious adverse event in 2 patients receiving formoterol and 3 patients\nreceiving salmeterol.\""
+        ],
+        "negative_ctxs": [
+            28,
+            52
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "CJC assessed the included studies for bias protection (including\nsequence generation for randomisation, allocation concealment,\nblinding of participants and assessors, loss to follow-up, completeness of outcome assessment and other possible sources of bias\n\nFigure 1. Methodological quality summary: review authors' judgements about each methodological quality item for each included study."
+        ],
+        "negative_ctxs": [
+            7,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "The outcomes of this review were dichotomous and we recorded\nthe number of participants with each outcome event by allocated\ntreated group. We calculated pooled odds ratio (OR) and risk\ndifference (RD). The Peto OR has advantages when events are\nrare, as no adjustment for zero cells is required. This property was\nfound in previous reviews to be more important than potential\nproblems with unbalanced treatment arms and large effect sizes,\nand we therefore calculated the results for SAEs in RevMan 5 using\nthe Peto method with the Mantel-Haenszel method for sensitivity\nanalysis.\n\nusing the pooled risk difference (RD) to combine the results of studies, the overall risk\ndifference in adults (RD -0.00; 95% confidence interval (CI) - 0.01 to 0.01) and in children (RD 0.00; 95% CI -0.02 to 0.02) is"
+        ],
+        "negative_ctxs": [
+            7,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "We assessed heterogeneity in the pooled odds ratio using the I2 statistic in RevMan 5 to indicate how much of the total heterogeneity found was between, rather than within, studies.\n\nWe planned to compare subgroups using tests for interaction (Altman 2003). However, events were too sparse to allow a meaningful comparison of the results in adults and children, and background non-randomised use of inhaled corticosteroids was used in all studies, so subgroup analysis by background inhaled corticosteroid use was not possible\n\nHeterogeneity: Chi2 = 0.40, df = 2 (P = 0.82); I2 =0.0%"
+        ],
+        "negative_ctxs": [
+            15,
+            52
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "We could not use funnel plots to assess publication bias, as very few trials were identified"
+        ],
+        "negative_ctxs": [
+            18,
+            2
+        ],
+        "positive_ctxs": [
+            13
+        ]
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "Quality of the evidence\nNo double-blind trials have been carried out comparing regular\nformoterol with regular salmeterol. The open studies included\nin this review could have been influenced by the fact that the\nparticipants and investigators were aware of the assigned treatment\nfor each patient, especially in studies sponsored by the companies\nmarketing one of the comparator medications.\n\nIn order to compare the safety of regular formoterol and regular salmeterol, much larger surveillance studies would need to be carried out. Ideally these should be double-blind, double-dummy, parallel-group studies\n\nThe degree of bias protection in the study designs was part of planned sensitivity analysis, but all\nthe studies were of open design and reporting of sequence gener\u0002ation and allocation concealment was poor."
+        ],
+        "negative_ctxs": [
+            31,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "Condemi 2001, Gabbay 1998 and Vervloet 1998 were sponsored by Novartis (manufacturer of Foradil) andEverden 2004 was sponsored by AstraZeneca (manufacturer of Oxis)."
+        ],
+        "negative_ctxs": [
+            38,
+            7
+        ],
+        "positive_ctxs": [
+            15
+        ]
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "D E C L A R A T I O N S  O F  I N T E R E S T\nNone known.\n\nS O U R C E S  O F  S U P P O R T\nInternal sources\n* No sources of support supplied\nExternal sources\n* NHS R&D, UK.\nNational Institute of Health Research: Programme Grant"
+        ],
+        "negative_ctxs": [
+            10,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "No double-blind trials have been carried out comparing regular\nformoterol with regular salmeterol. The open studies included\nin this review could have been influenced by the fact that the\nparticipants and investigators were aware of the assigned treatment\nfor each patient, especially in studies sponsored by the companies\nmarketing one of the comparator medications.\n\nn order to compare the safety of regular formoterol and regular salmeterol, much larger surveillance studies would need to be carried out. Ideally these should be double-blind, double-dummy, parallel-group studies"
+        ],
+        "negative_ctxs": [
+            35,
+            32
+        ],
+        "positive_ctxs": []
+    }
+]

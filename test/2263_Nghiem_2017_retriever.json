@@ -1,0 +1,458 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            39,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "the aim of this study was to conduct a\nsystematic literature review of available studies\nor case series assessing the efficacy, health-related\nquality of life (HRQoL), safety and tolerability\noutcomes associated with chemotherapy regimens\nfor the treatment of patients with metastatic\nMCC, to inform the current clinical landscape\nin metastatic MCC and to highlight any\nevidence gaps.\n\nTo be included in this review, studies had to\nmeet the eligibility criteria presented in Box 1\n\nInclusion criteria\nPopulation:\n** Age: adults aged >=18 years\n** Gender: any\n** Race: any\n** Disease: metastatic MCC\n** Distant metastatic MCC (including metastases to distant lymph nodes)\n** Regional or lymph node metastatic MCC\n** Inclusion of case reports was restricted to patients with distant metastases\nIntervention:\n** Any pharmacological intervention\nStudy design:\n** All RCTs (irrespective of blinding status)\n** Nonrandomized controlled trials\n** Single arm trials\n** Observational studies (retrospective analysis, prospective studies, cohort studies,\ncase-control studies, case series and case reports)\n** Language restrictions:\n** Both English and non-English language studies for all study designs except case\nreports\n** Inclusion of case reports was restricted to studies published in English languag"
+        ],
+        "negative_ctxs": [
+            15,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "Inclusion criteria\nPopulation:\n** Age: adults aged >=18 years\n** Gender: any\n** Race: any\n** Disease: metastatic MCC\n** Distant metastatic MCC (including metastases to distant lymph nodes)\n** Regional or lymph node metastatic MCC\n** Inclusion of case reports was restricted to patients with distant metastases \nIntervention:\n** Any pharmacological intervention \nStudy design:\n** All RCTs (irrespective of blinding status)\n** Nonrandomized controlled trials\n** Single arm trials\n** Observational studies (retrospective analysis, prospective studies, cohort studies,\ncase-control studies, case series and case reports)\n** Language restrictions:\n** Both English and non-English language studies for all study designs except case\nreports\n** Inclusion of case reports was restricted to studies published in English language\n** Exclusion criteria\nIntervention:\n** Studies investigating the role of radiotherapy, chemo-radiotherapy, hormonal\ntherapy or surgery were excluded\n** Studies investigating the role of maintenance/consolidation therapy after surgery were excluded\n** Adjuvant or neoadjuvant therapy was excluded\n** Studies investigating the role of targeted therapies were excluded"
+        ],
+        "negative_ctxs": [
+            4,
+            43
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "** Inclusion of case reports was restricted to studies published in English language\n\n\nExclusion criteria Intervention:\n** Studies investigating the role of radiotherapy, chemo-radiotherapy, hormonal\ntherapy or surgery were excluded\n** Studies investigating the role of maintenance/consolidation therapy after surgery\nwere excluded\n** Adjuvant or neoadjuvant therapy was excluded\n** Studies investigating the role of targeted therapies were excluded\nSubgroup analysis:\n** No subgroup analysis"
+        ],
+        "negative_ctxs": [
+            34,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Language restrictions:\n** Both English and non-English language studies for all study designs except case\nreports\n** Inclusion of case reports was restricted to studies published in English language\n\nFigure 1. Preferred reporting items for systematic reviews and meta-analyses study flow diagram."
+        ],
+        "negative_ctxs": [
+            32,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "A systematic literature review of Embase(r),\nMEDLINE(r), MEDLINE(r)-In-Process and\nCENTRAL was conducted from database inception\nto January 2016 to capture efficacy, HRQoL\nand safety/tolerability outcomes of systemic\ninterventions in patients with metastatic MCC.\nBibliographic searching for potentially relevant\npublications and ongoing trials was also conducted\nin October 2015 (The Cochrane Database\nof Systematic Reviews , Database of Abstracts\nof Reviews of Effects , Orphanet website \nand GLOBOCAN website )."
+        ],
+        "negative_ctxs": [
+            39,
+            19
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "Apart from databases, conference abstracts were hand-searched from 2011 to 2015 to retrieve studies that have not yet been published in journals as full-text articles or to supplement results of previously published studies"
+        ],
+        "negative_ctxs": [
+            6,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Language restrictions:\n** Both English and non-English language studies for all study designs except case reports\n** Inclusion of case reports was restricted to studies published in English language\n\nA systematic literature review of Embase(r),\nMEDLINE(r), MEDLINE(r)-In-Process and\nCENTRAL was conducted from database inception\nto January 2016 to capture efficacy, HRQoL\nand safety/tolerability outcomes of systemic\ninterventions in patients with metastatic MCC.\nBibliographic searching for potentially relevant\npublications and ongoing trials was also conducted\nin October 2015 (The Cochrane Database\nof Systematic Reviews , Database of Abstracts\nof Reviews of Effects , Orphanet website \nand GLOBOCAN website ). Apart from databases,\nconference abstracts were hand-searched\nfrom 2011 to 2015 to retrieve studies that have\nnot yet been published in journals as full-text\narticles or to supplement results of previously published\nstudies (excluding listings in Emabse ):\nAmerican Academy of Dermatology ,\nAmerican Head and Neck Society , American\nSociety of Clinical Oncology , British\nAssociation of Dermatologists , European\nAssociation of Dermato Oncology , European\nCancer Congress/European Society for Medical\nOncology [33,34], International Federation of Head\nand Neck Oncologic Societies , International\nSociety For Pharmacoeconomics and Outcomes\nResearch , Society for Melanoma Research \nand World Congress of Dermatology .\nTo be included in this review, studies had to\nmeet the eligibility criteria presented in Box 1. As\nthe objective of this review was to evaluate outcomes\nwith chemotherapy regimens in patients\nwith MCC, studies that did not evaluate chemotherapy\nregimens were not covered systematically.\nDue to the limited evidence based on prospective\nclinical trials retrieved in patients with\ndistant metastatic MCC, both case series and\ncase reports were also included in this review.\nSince Tai et al. , one of the seminal publications\nfor this review, had already included case\nreports published prior to 1997, we included case\nreports published from January 1997 to January\n2016 to avoid double counting. Included studies\nwere classified based on the type of metastasis:\n**Distant metastases: These refer to cancer that\nhas spread from the original (primary) tumor\nto distant organs or distant lymph nodes;\n**Regional metastases: These refer to cancer\nthat has grown into surrounding tissues or\norgans or lymph nodes;\n**Unclear/mixed metastases: These refer to\nstudies where it was difficult to categorize\ncancer into distant or regional metastases."
+        ],
+        "negative_ctxs": [
+            23,
+            22
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Screening of studies and data extraction\nwas conducted by two independent reviewers,\nwith any discrepancies reconciled by a third\nindependent reviewer."
+        ],
+        "negative_ctxs": [
+            11,
+            13
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "Screening of studies and data extraction\r\nwas conducted by two independent reviewers,\r\nwith any discrepancies reconciled by a third\r\nindependent\r\nreviewer."
+        ],
+        "negative_ctxs": [
+            19,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Patients & disease characteristics\r\nBased on the retrospective studies/literature\r\nreviews and case series, the median age (where\r\nreported) ranged from 54 to 78.5 years. The proportion of men was higher than the proportion of women in 13 out of the 16 studies where\r\ngender was reported.\r\nThe head and neck, limbs and extremities\r\nwere the most common primary tumor sites\r\nin the included studies, where as reported with\r\nthe liver, skin, lymph nodes and lungs being the\r\nmost common sites of metastases.\r\nThere was a large variability in the chemotherapy\r\nregimens assessed in each of the studies,\r\nwith most not reporting outcomes by line\r\nof therapy. Overall, the most commonly used\r\nchemotherapy regimens were platinum-based\r\nwith or without etoposide (74% of studies), and\r\ncyclophosphamide, doxorubicin and vincristine\r\n(31% of studies).\n\nTable 1. List of included studies."
+        ],
+        "negative_ctxs": [
+            32,
+            19
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "Table 2. Summary of efficacy results from the included studies."
+        ],
+        "negative_ctxs": [
+            13,
+            42
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            12,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            42,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "Table 1 presents the list of the 35 studies included in the review"
+        ],
+        "negative_ctxs": [
+            12,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            27,
+            16
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            30,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            34,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            38
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "A limited number of studies included in our review reported data specific to first-line or second-line therapy. Therefore, it was difficult to draw any comparisons relating to the efficacy of interventions according to line of therapy.\nIn addition, across the retrospective studies/\nliterature reviews that evaluated patients with\ndistant metastases, three were also literature\nreviews [20,41,42]. Hence, there is an evident risk\nof bias associated with selection of studies and\nselective reporting of results, as well as double\ncounting studies that were included in the previous\nreviews [20,41,42]. Moreover, the evidence\nretrieved from most of the included studies was\nbased on small sample sizes (as small as two\npatients) with variability in the chemotherapy\nregimens assessed, making it difficult to establish\nany differences in outcomes between lines of\ntherapy and chemotherapy regimens. This highlights\nthe need for robust trials in this patient\npopulation. There was also variability in defining\nresponse rate across the included studies;\nonly four studies assessed response based on\nRECIST criteria"
+        ],
+        "negative_ctxs": [
+            43,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "the aim of this study was to conduct a\nsystematic literature review of available studies\nor case series assessing the efficacy, health-related\nquality of life (HRQoL), safety and tolerability\noutcomes associated with chemotherapy regimens\nfor the treatment of patients with metastatic\nMCC, to inform the current clinical landscape\nin metastatic MCC and to highlight any\nevidence gaps.\n\nInclusion criteria\r\nPopulation:\r\n** Age: adults aged >=18 years\r\n** Gender: any\r\n** Race: any\r\n** Disease: metastatic MCC\r\n** Distant metastatic MCC (including metastases to distant lymph nodes)\r\n** Regional or lymph node metastatic MCC\r\n** Inclusion of case reports was restricted to patients with distant metastases\r\nIntervention:\r\n** Any pharmacological intervention\r\nStudy design:\r\n** All RCTs (irrespective of blinding status)\r\n** Nonrandomized controlled trials\r\n** Single arm trials\r\n** Observational studies (retrospective analysis, prospective studies, cohort studies,\r\ncase-control studies, case series and case reports)\r\n** Language restrictions:\r\n** Both English and non-English language studies for all study designs except case\r\nreports\r\n** Inclusion of case reports was restricted to studies published in English language\r\n** Exclusion criteria\r\nIntervention:\r\n** Studies investigating the role of radiotherapy, chemo-radiotherapy, hormonal\r\ntherapy or surgery were excluded\r\n** Studies investigating the role of maintenance/consolidation therapy after surgery\r\nwere excluded\r\n** Adjuvant or neoadjuvant therapy was excluded\r\n** Studies investigating the role of targeted therapies were excluded\n\nOf the 35 studies included in\nthe review, 33 studies reported data from patients\nwith distant metastases; 3 reported data for metastatic\nMCC not differentiating between distant\nand locoregional diseases; and 3 reported data\nfrom patients with regional metastases (Figure 1)\n(the number of studies categorized by types of\nmetastases exceeds the total number of included\nstudies because some studies reported outcomes\nfor >=1 type of metastases). Table 1 presents the list\nof the 35 studies included in the review.\n\nBased on the retrospective studies/literature\nreviews and case series, the median age (where\nreported) ranged from 54 to 78.5 years. The proportion\nof men was higher than the proportion\nof women in 13 out of the 16 studies where\ngender\nwas reported.\nThe head and neck, limbs and extremities\nwere the most common primary tumor sites\nin the included studies, where as reported with\nthe liver, skin, lymph nodes and lungs being the\nmost common sites of metastases.\nThere was a large variability in the chemotherapy\nregimens assessed in each of the studies,\nwith most not reporting outcomes by line\nof therapy. Overall, the most commonly used\nchemotherapy regimens were platinum-based\nwith or without etoposide (74% of studies), and\ncyclophosphamide, doxorubicin and vincristine\n(31% of studies)."
+        ],
+        "negative_ctxs": [
+            24,
+            35
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "Yes"
+        ],
+        "negative_ctxs": [
+            21,
+            29
+        ],
+        "positive_ctxs": [
+            13,
+            14,
+            15,
+            17,
+            18
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            26,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "Inclusion criteria\nPopulation:\n** Age: adults aged >=18 years\n** Gender: any\n** Race: any\n** Disease: metastatic MCC\n** Distant metastatic MCC (including metastases to distant lymph nodes)\n** Regional or lymph node metastatic MCC\n** Inclusion of case reports was restricted to patients with distant metastases \nIntervention:\n** Any pharmacological intervention \nStudy design:\n** All RCTs (irrespective of blinding status)\n** Nonrandomized controlled trials\n** Single arm trials\n** Observational studies (retrospective analysis, prospective studies, cohort studies,\ncase-control studies, case series and case reports)\n** Language restrictions:\n** Both English and non-English language studies for all study designs except case\nreports\n** Inclusion of case reports was restricted to studies published in English language\n** Exclusion criteria\nIntervention:\n** Studies investigating the role of radiotherapy, chemo-radiotherapy, hormonal\ntherapy or surgery were excluded\n** Studies investigating the role of maintenance/consolidation therapy after surgery were excluded\n** Adjuvant or neoadjuvant therapy was excluded\n** Studies investigating the role of targeted therapies were excluded"
+        ],
+        "negative_ctxs": [
+            6,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "Due to the limited evidence based on prospective clinical trials  retrieved in patients with distant metastatic MCC, both case series and case reports were also included in this review."
+        ],
+        "negative_ctxs": [
+            12,
+            25
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "A systematic literature review of Embase(r),\nMEDLINE(r), MEDLINE(r)-In-Process and\nCENTRAL was conducted from database inception\nto January 2016 to capture efficacy, HRQoL\nand safety/tolerability outcomes of systemic\ninterventions in patients with metastatic MCC.\nBibliographic searching for potentially relevant\npublications and ongoing trials was also conducted\nin October 2015 (The Cochrane Database\nof Systematic Reviews , Database of Abstracts\nof Reviews of Effects , Orphanet website \nand GLOBOCAN website )."
+        ],
+        "negative_ctxs": [
+            30,
+            33
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Screening of studies and data extraction\nwas conducted by two independent reviewers,\nwith any discrepancies reconciled by a third\nindependent reviewer."
+        ],
+        "negative_ctxs": [
+            18,
+            34
+        ],
+        "positive_ctxs": [
+            6
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "Screening of studies and data extraction\r\nwas conducted by two independent reviewers,\r\nwith any discrepancies reconciled by a third\r\nindependent\r\nreviewer."
+        ],
+        "negative_ctxs": [
+            38,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "Ten of the 45 studies did not evaluate chemotherapy\r\nregimens (these included targeted therapies or\nimmunotherapies) and were therefore excluded\r\nfrom the review."
+        ],
+        "negative_ctxs": [
+            21,
+            28
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Patients & disease characteristics\r\nBased on the retrospective studies/literature\r\nreviews and case series, the median age (where\r\nreported) ranged from 54 to 78.5 years. The proportion of men was higher than the proportion of women in 13 out of the 16 studies where\r\ngender was reported.\r\nThe head and neck, limbs and extremities\r\nwere the most common primary tumor sites\r\nin the included studies, where as reported with\r\nthe liver, skin, lymph nodes and lungs being the\r\nmost common sites of metastases.\r\nThere was a large variability in the chemotherapy\r\nregimens assessed in each of the studies,\r\nwith most not reporting outcomes by line\r\nof therapy. Overall, the most commonly used\r\nchemotherapy regimens were platinum-based\r\nwith or without etoposide (74% of studies), and\r\ncyclophosphamide, doxorubicin and vincristine\r\n(31% of studies).\n\nTable 1. List of included studies."
+        ],
+        "negative_ctxs": [
+            16,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            20,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            31,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            33,
+            30
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            13,
+            0
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Financial & competing interests disclosure\r\nM Bharmal, L Mahnke and H Phatak are employees of\r\nMerck KGaA/EMD Serono. P Nghiem is a paid consultant\r\nfor EMD Serono. JC Becker is a paid consultant for\r\nEMD Serono, Pfizer and BMS, and he has received\r\nresearch grants from EMD Serono and BMS. This study\r\nwas sponsored by Merck KGaA, Darmstadt, Germany\r\nand EMD Serono, USA (a US subsidiary of Merck\r\nKGaA, Darmstadt, Germany) and is part of an alliance\r\nbetween Merck KGaA and Pfizer, Inc. The authors have\r\nno other relevant affiliations or financial involvement\r\nwith any organization or entity with a financial interest\r\nin or financial conflict with the subject matter or materials\r\ndiscussed in the manuscript apart from those\r\ndisclosed.\r\nMedical writing support was provided by S Mardiguian,\r\nPAREXEL International, London, UK, and was funded\r\nby Merck KGaA, Darmstadt, Germany and Pfizer, Inc."
+        ],
+        "negative_ctxs": [
+            40,
+            43
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "A limited number of studies included in our review reported data specific to first-line or second-line therapy. Therefore, it was difficult to draw any comparisons relating to the efficacy of interventions according to line of therapy.\nIn addition, across the retrospective studies/\nliterature reviews that evaluated patients with\ndistant metastases, three were also literature\nreviews [20,41,42]. Hence, there is an evident risk\nof bias associated with selection of studies and\nselective reporting of results, as well as double\ncounting studies that were included in the previous\nreviews [20,41,42]. Moreover, the evidence\nretrieved from most of the included studies was\nbased on small sample sizes (as small as two\npatients) with variability in the chemotherapy\nregimens assessed, making it difficult to establish\nany differences in outcomes between lines of\ntherapy and chemotherapy regimens. This highlights\nthe need for robust trials in this patient\npopulation. There was also variability in defining\nresponse rate across the included studies;\nonly four studies assessed response based on\nRECIST criteria"
+        ],
+        "negative_ctxs": [
+            42,
+            18
+        ],
+        "positive_ctxs": []
+    }
+]

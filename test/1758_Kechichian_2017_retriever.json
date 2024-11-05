@@ -1,0 +1,465 @@
+[
+    {
+        "question": "Did the review adhere to pre-defined objectives and eligibility criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            21,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the eligibility crieria appropriate for the review question?",
+        "answers": [
+            "To be included in our review, patients had to be younger than 18. Studies that did not clearly report the age or the clinical evolution and outcome were excluded.\n\nThe following outcomes were obtained from the included studies for analysis: underlying disease, age, gender, clinical characteristics, treatment used, treatment outcome (clearing of the lesions and lesion recurrence), treatment side effects, and follow-up time."
+        ],
+        "negative_ctxs": [
+            12,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were eligibility criteria unambiguous?",
+        "answers": [
+            "To be included in our review, patients had to be younger than 18. Studies that did not clearly report the age or the clinical evolution and outcome were excluded.\n\nBased on the inclusion and exclusion criteria, the two main authors (EK and RH) agreed on the final selection of studies, and any disagreement was solved by discussion."
+        ],
+        "negative_ctxs": [
+            20,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all restrictions in eligibility crieria based on study characteristics appropriate (e.g. date, sample size, study quality, outcomes measured)? If yes, indicate which study characteristic was an inclusion/exclusion criteria",
+        "answers": [
+            "To be included in our review, patients had to be younger than 18. Studies that did not clearly report the age or the clinical evolution and outcome were excluded."
+        ],
+        "negative_ctxs": [
+            3,
+            20
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were any restrictions in eligibility criteria based on sources of info appropriate (e.g. publication status or format, language, availability of data)?",
+        "answers": [
+            "Due to the presence of a systematic review done in March 1994, we included all articles published from March 1994 to the search date.\n\nFinally, publication bias is another limitation, as only published articles were evaluated."
+        ],
+        "negative_ctxs": [
+            3,
+            6
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the search include an appropriate range of databases/ electronic sources for published and unpublished reports?",
+        "answers": [
+            "On the June 28, 2016, we conducted a systematic search of the English and French literature using the MEDLINE, Embase, and Cochrane collaboration databases."
+        ],
+        "negative_ctxs": [
+            6,
+            22
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were methods additional to database searching used to identify relevant reports?",
+        "answers": [
+            "The bibliography of included articles was manually screened for additional pertinent articles."
+        ],
+        "negative_ctxs": [
+            13,
+            22
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were the terms and structure of the search strategy likely to retrieve as many eligible studies as possible?",
+        "answers": [
+            "The search was done with the following combination of keywords: (\"pyoderma gangrenosum\" or \"pyostomatitis vegetans\") AND (\"child\" or \"children\" or \"childhood\" or \"paediatric\" or \"adolescent\" or \"adolescence\" or \"toddler\" or \"infant\" or \"infancy\")"
+        ],
+        "negative_ctxs": [
+            13,
+            25
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were search strategy restrictions based on date, publication format, or language appropriate?",
+        "answers": [
+            "Due to the presence of a systematic review done in March 1994, we included all articles published from March 1994 to the search date.\n\nFinally, publication bias is another limitation, as only published articles were evaluated.\n\nOn the June 28, 2016, we conducted a systematic search of the English and French literature using the MEDLINE, Embase, and Cochrane collaboration databases."
+        ],
+        "negative_ctxs": [
+            18,
+            3
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in selection of studies?",
+        "answers": [
+            "Candidate studies were selected by two independent authors (EK and RH) based on titles and abstracts."
+        ],
+        "negative_ctxs": [
+            25,
+            26
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Were efforts made to minimise error in data collection?",
+        "answers": [
+            "The following outcomes were obtained from the included studies for analysis: underlying disease, age, gender, clinical characteristics, treatment used, treatment outcome (clearing of the lesions and lesion recurrence), treatment side effects, and follow-up time. PG lesions were considered cured when the primary authors of the articles clearly stated significant clinical improvement and both main authors (EK and RH) agreed on it when reviewing the pictures and/or the clinical description in the texts."
+        ],
+        "negative_ctxs": [
+            14,
+            7
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Were sufficient study characteristics considered for both review authors and readers to be able to interpret the results?",
+        "answers": [
+            "Table 1 Patient characteristics compiled according to the underlying disease\n\nTable 2 Body area affected according to the underlying disease\n\nTable 3 Pyoderma gangrenosum type according to the underlying disease\n\nTable 4 Treatments used in pediatric pyoderma gangrenosum"
+        ],
+        "negative_ctxs": [
+            3,
+            2
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all relevant study results collected for use in the synthesis?",
+        "answers": [
+            "The initial search of databases yielded 1223 studies of which 333 were duplicates; 203 were selected as candidate studies. Based on the inclusion and exclusion criteria, 132 were included in the systematic review.\n\nTable 1 Patient characteristics compiled according to the underlying disease\n\nTable 2 Body area affected according to the underlying disease\n\nTable 3 Pyoderma gangrenosum type according to the underlying disease\n\nTable 4 Treatments used in pediatric pyoderma gangrenosum"
+        ],
+        "negative_ctxs": [
+            22,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was risk of bias (or methodological quality) formally assessed using appropriate criteria?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            19,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were efforts made to minimise error in risk of bias assessment?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            24,
+            1
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the synthesis include all studies that it should?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            11,
+            17
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were all pre-defined analyses reported or departures explained?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            6,
+            18
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was the synthesis appropriate given the nature and similarity in the research questions, study designs and outcomes across included studies?",
+        "answers": [
+            "To compare the cure rate of the most commonly used corticosteroid-sparing drugs and TNF-alpha inhibitors, 2x2 online contingency tables were used. To reach statistical significance, the P value must be lower than 0.05.\n\nBoth Dapsone and cyclosporine were the most commonly used corticosteroid spearing drugs with the highest clinical efficacy (82.6 and 80%, respectively with a P value of 0.32).\n\nThe relatively short follow-up time in many reports could overestimate the relatively high reported cure rates. In addition, the idiopathic subgroup may be overrepresented as PG can precede the underlying disorder by many months and sometimes years. The large amount of variability of evolution between underlying diseases restricted the inter-study comparison and integrated analysis."
+        ],
+        "negative_ctxs": [
+            9,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Was between-study variation (heterogeneity) minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            23,
+            4
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were the findings robust, e.g. as demonstrated through funnel plot or sensitivity analyses?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Were biases in primary studies minimal or addressed in the synthesis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            2,
+            21
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the interpretation of findings address all of the concerns identified in Domains 1 to 4?",
+        "answers": [
+            "There are several limitations to this systematic review. Due to the rarity of pediatric PG, all the included studies are case reports and case series. In addition, the lack of trials limited our review to a pooled analysis. The relatively short follow-up time in many reports could overestimate the relatively high reported cure rates. In addition, the idiopathic subgroup may be overrepresented as PG can precede the underlying disorder by many months and sometimes years. The large amount of variability of evolution between underlying diseases restricted the inter-study comparison and integrated analysis. Finally, publication bias is another limitation, as only published articles were evaluated. "
+        ],
+        "negative_ctxs": [
+            24,
+            18
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    },
+    {
+        "question": "Was the relevance of identified studies to the review's research question appropriately considered?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the reviewers avoid emphasizing results on the basis of their statistical significance?",
+        "answers": [
+            "No"
+        ],
+        "negative_ctxs": [
+            19,
+            7
+        ],
+        "positive_ctxs": [
+            0,
+            24
+        ]
+    },
+    {
+        "question": "Did the report of the review contain an explicit statement that the review methods were established prior to the conduct of the review and did the report justify any significant deviations from the protocol?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            1,
+            24
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the research questions and inclusion criteria for the review include the components of PICO?",
+        "answers": [
+            "To be included in our review, patients had to be younger than 18. Studies that did not clearly report the age or the clinical evolution and outcome were excluded.\n\nBased on the inclusion and exclusion criteria, the two main authors (EK and RH) agreed on the final selection of studies, and any disagreement was solved by discussion."
+        ],
+        "negative_ctxs": [
+            26,
+            8
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors explain their selection of the study designs for inclusion in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            14,
+            11
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a comprehensive literature search strategy?",
+        "answers": [
+            "On the June 28, 2016, we conducted a systematic search of the English and French literature using the MEDLINE, Embase, and Cochrane collaboration databases."
+        ],
+        "negative_ctxs": [
+            16,
+            23
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform study selection in duplicate?",
+        "answers": [
+            "Candidate studies were selected by two independent authors (EK and RH) based on titles and abstracts."
+        ],
+        "negative_ctxs": [
+            18,
+            25
+        ],
+        "positive_ctxs": [
+            4
+        ]
+    },
+    {
+        "question": "Did the review authors perform data extraction in duplicate?",
+        "answers": [
+            "The following outcomes were obtained from the included studies for analysis: underlying disease, age, gender, clinical characteristics, treatment used, treatment outcome (clearing of the lesions and lesion recurrence), treatment side effects, and follow-up time. PG lesions were considered cured when the primary authors of the articles clearly stated significant clinical improvement and both main authors (EK and RH) agreed on it when reviewing the pictures and/or the clinical description in the texts."
+        ],
+        "negative_ctxs": [
+            13,
+            19
+        ],
+        "positive_ctxs": [
+            5
+        ]
+    },
+    {
+        "question": "Did the review authors provide a list of excluded studies and justify the exclusions?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            26
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors describe the included studies in adequate detail?",
+        "answers": [
+            "Table 1 Patient characteristics compiled according to the underlying disease\n\nTable 2 Body area affected according to the underlying disease\n\nTable 3 Pyoderma gangrenosum type according to the underlying disease\n\nTable 4 Treatments used in pediatric pyoderma gangrenosum"
+        ],
+        "negative_ctxs": [
+            14,
+            23
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors use a satisfactory technique for assessing the risk of bias (RoB) in individual studies that were included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            0,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed did the review authors use appropriate methods for statistical combination of results?",
+        "answers": [
+            "To compare the cure rate of the most commonly used corticosteroid-sparing drugs and TNF-alpha inhibitors, 2x2 online contingency tables were used. To reach statistical significance, the P value must be lower than 0.05.\n\nBoth Dapsone and cyclosporine were the most commonly used corticosteroid spearing drugs with the highest clinical efficacy (82.6 and 80%, respectively with a P value of 0.32).\n\nThe relatively short follow-up time in many reports could overestimate the relatively high reported cure rates. In addition, the idiopathic subgroup may be overrepresented as PG can precede the underlying disorder by many months and sometimes years. The large amount of variability of evolution between underlying diseases restricted the inter-study comparison and integrated analysis."
+        ],
+        "negative_ctxs": [
+            4,
+            9
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors provide a satisfactory explanation for, and discussion of, any heterogeneity observed in the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            15,
+            5
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If they performed quantitative synthesis did the review authors carry out an adequate investigation of publication bias (small study bias) and discuss its likely impact on the results of the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            22,
+            10
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "If meta-analysis was performed, did the review authors assess the potential impact of RoB in individual studies on the results of the meta-analysis?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            3,
+            25
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report on the sources of funding for the studies included in the review?",
+        "answers": [
+            "nan"
+        ],
+        "negative_ctxs": [
+            9,
+            7
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors report any potential sources of conflict of interest, including any funding they received for conducting the review?",
+        "answers": [
+            "Conflicts of interest: The authors have no conflict of interest to declare.\n\nThis article has no funding source."
+        ],
+        "negative_ctxs": [
+            14,
+            12
+        ],
+        "positive_ctxs": []
+    },
+    {
+        "question": "Did the review authors account for RoB in individual studies when interpreting/ discussing the results of the review?",
+        "answers": [
+            "There are several limitations to this systematic review. Due to the rarity of pediatric PG, all the included studies are case reports and case series. In addition, the lack of trials limited our review to a pooled analysis. The relatively short follow-up time in many reports could overestimate the relatively high reported cure rates. In addition, the idiopathic subgroup may be overrepresented as PG can precede the underlying disorder by many months and sometimes years. The large amount of variability of evolution between underlying diseases restricted the inter-study comparison and integrated analysis. Finally, publication bias is another limitation, as only published articles were evaluated. "
+        ],
+        "negative_ctxs": [
+            2,
+            20
+        ],
+        "positive_ctxs": [
+            19
+        ]
+    }
+]
