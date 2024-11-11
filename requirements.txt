@@ -1,0 +1,10 @@
+fitz
+unidecode
+json
+sentence_transformers
+numpy
+instructor
+pydantic
+litellm
+pandas
+scipy
